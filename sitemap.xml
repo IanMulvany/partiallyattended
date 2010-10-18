@@ -1,22 +1,22 @@
 ---
-rooturi: http://hackerific.net
+rooturi: http://partiallyattended.com
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>http://hackerific.net/</loc>
+      <loc>http://partiallyattended.com/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>http://hackerific.net/tags.html</loc>
+      <loc>http://partiallyattended.com/tags.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://hackerific.net/about.html</loc>
+      <loc>http://partiallyattended.com/about.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
