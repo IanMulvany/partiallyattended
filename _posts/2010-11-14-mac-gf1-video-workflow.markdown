@@ -40,15 +40,9 @@ I decided to try converting the .MTS file via handbrake, and import the converte
 - handbrake converted file sample.mp4 20.6 MB
 - iMovie imported mp4 file sample_converted_imported.mov 368.6 MB
 
-
-
 So I gained a little, but not very much at all.
 
-
-Taking this clip and exporting it as a HD movie using iMovie I get the following file: imove_export.mov 119.1 MB, and this is actually pretty close in size to the orginal .MTS file stored on the camera. I can use handbrake again on this file to get an mp4 file of the size 20.9 MB.
-
+Taking this clip and exporting it as a HD movie using iMovie I get the following file: imove_export.mov 119.1 MB, and this is actually pretty close in size to the original .MTS file stored on the camera. I can use handbrake again on this file to get an mp4 file of the size 20.9 MB.
 
 I don't know what is going on under the hood when iMovie makes it's internal conversion from the .MTS format to the .MOV format, so I don't know whether going straight into iMovie from the camera, or going via a conversion with Handbrake will end up with a better quality movie at the end or not.  I'm lazy, so I'll probably use the following workflow, suck up files using iMovie, at the same time store the .MTS files locally in case I want to clear out the iMovie archive, and work on the originals later. That seems to give me the best balance between a low friction workflow, and having manageable files. When I get some sample video out, I'll post some of them on this blog.
 
- 
-[]: 

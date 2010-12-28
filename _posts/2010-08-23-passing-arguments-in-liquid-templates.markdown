@@ -35,3 +35,5 @@ The important line is:
 </code>
 
 And the piece of syntax that make is work is encasing category in brackets <code>[category]</code>.
+
+
