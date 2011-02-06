@@ -17,7 +17,7 @@ Around the corner the slightly overhanging wall on rat rock wa in the sun, and t
 
 I messed around a little on the polish traverse, even though the holds were wet, and to my delight the key rail on the crux felt much nicer than it had ever before. The shape conforms very well to the mid-sized campus rungs that I'm training on at the moment, and so my right hand on the rail felt really comfortable probably fr the first time ever. Pity that the rest of the route was totally unclimbable. 
 
-I trotted around to the sunny side, and having a little bi of time to kill I pulled on my climbing shoes and strarted playing on those three desperate holds. They are pretty despreate for me, and there is an established start to a problem on that side that involves pulling on two of them and making a slap to a flat jug. I hadn't been able to do that start that last time I was here in August of 2010, but since I didn't have any options for trying anything else I just stood there in the sun working those two holds.
+I trotted around to the sunny side, and having a little bit of time to kill I pulled on my climbing shoes and strarted playing on those three desperate holds. They are pretty despreate for me, and there is an established start to a problem on that side that involves pulling on two of them and making a slap to a flat jug. I hadn't been able to do that start that last time I was here in August of 2010, but since I didn't have any options for trying anything else I just stood there in the sun working those two holds.
 
 I had been able to do that start when I lived in New York, back in 1999 - 2001, but only every now and again, and only when the conditiions were pretty perfect. 
 
