@@ -1,0 +1,14 @@
+---
+layout: post
+title: Directed Graph blog setup.
+categories:
+- latex
+- centrality
+- blog
+- equation
+---
+I've decided to use <a href="http://alexgorbatchev.com/wiki/SyntaxHighlighter">syntaxhiligher2</a> to do syntax hi-lighting and a call to <a href="http://www.yourequations.com/">Yourequations.com</a> for rendering latex on the blog. <a href="http://www.botcyb.org/2008/10/rendering-latex-in-blogger.html">Bot Cyborg</a> has a good description of how to get this to work on blogger.<br /><br />The main advantage of this approach is that the pseudo code is written in the blog posts in plain encased in a pre statement, and the equations are also just vanilla latex in a pre statement. So if we wanted to think about the betweenness centrality of a graph we have the equation: <br /><br />
+\[
+C_B(v)= \sum_{s \neq v \neq t \in V \atop s \neq t}\frac{\sigma_{st}(v)}{\sigma_{st}}
+\]
+<br /><br />and in python for a given graph object we could use the excellent <a href="http://networkx.lanl.gov/preview/index.html">networkx</a> package to calculate it like so<br /><br /><pre class="brush: py"><br />import networkx as nx #import networkx<br />G=nx.read_adjlist("graph.adjlist")  # read in a graph graph<br />nodes_betweenness_centrality = nx.betweenness_centrality(G) # returns a dictionary<br />for node_betweenness_centrality in nodes_betweenness_centrality:<br />    print node_betweenness_centrality<br /></pre>
