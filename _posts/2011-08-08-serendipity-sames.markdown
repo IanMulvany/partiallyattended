@@ -34,6 +34,8 @@ My thinking about all of this started with a desire to find ways to [use technol
 I think that the web is in good hands. [Ciro Cattuto][ciro], and researchers like him, are doing amzing work looking at how people are connected in meatspace, on the web. [Lanyrd][lan] arrived like that, out of nowhere, out of a honeymoon. These people are building some very powerfull ways of brining people together. They are doing it with a dash of delight. I hope that over the next few years there will be many many places on the web that will be a little like that shop I still remember so fondly from my days in Edinburgh.
 
 
+[fn]: http://occamstypewriter.org/blog/author/fnorman/
+[post]: http://occamstypewriter.org/trading-knowledge/2011/05/17/the-challenge-of-going-beyond/ 
 [pic]: http://farm5.static.flickr.com/4106/4842199640_3a86b7b7a0.jpg
 [paper]: http://www.mendeley.com/download/public/17258/3343276422/4bd787c461e1dc252263d950a2e8690fe63b1c11/dl.pdf
 [wows]: http://ilab.usc.edu/surprise/
@@ -43,6 +45,4 @@ I think that the web is in good hands. [Ciro Cattuto][ciro], and researchers lik
 [pres]: http://www.slideshare.net/IanMulvany/integrating-everyting-presentation
 [lan]: http://lanyrd.com/
 
-photo credit to [nimdok][nd] and [flickr][fl]
 
-[nd]: http://www.flickr.com/photos/nimdok
