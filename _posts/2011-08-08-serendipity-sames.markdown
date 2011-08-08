@@ -37,7 +37,7 @@ I think that the web is in good hands. [Ciro Cattuto][ciro], and researchers lik
 [fn]: http://occamstypewriter.org/blog/author/fnorman/
 [post]: http://occamstypewriter.org/trading-knowledge/2011/05/17/the-challenge-of-going-beyond/ 
 [pic]: http://farm5.static.flickr.com/4106/4842199640_3a86b7b7a0.jpg
-[paper]: http://www.mendeley.com/download/public/17258/3343276422/4bd787c461e1dc252263d950a2e8690fe63b1c11/dl.pdf
+[paper]: http://eprints.ecs.soton.ac.uk/17000/ 
 [wows]: http://ilab.usc.edu/surprise/
 [ciro]: http://isiosf.isi.it/~cattuto/
 [sameasser]: http://sameas.us/events/serendipity
