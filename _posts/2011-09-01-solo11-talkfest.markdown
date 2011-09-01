@@ -3,7 +3,7 @@ layout: post
 title: Talkfest, science and community
 categories:
 - TalkFest
-- sol11
+- solo11
 - science
 - online
 - science-online
