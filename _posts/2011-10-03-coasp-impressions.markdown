@@ -13,7 +13,7 @@ TL;DR OA publishing is maturing with a scalable business model that all the big 
 Just over a week ago I had the great pleasure to present some thoughts [alt-metrics][am] to the [3rd Conference on Open Access Publishing][coasp]. The talks were recorded and my talk will be posted in time. 
 
 I wanted to write up a few thoughts that spun up out of my experience of meeting with that community and seeing what's going on there. 
-It seems like there is a upswell of coverage on open access right now. In the week that was in it Princeton asked it's researchers [not to hand over copyright][poa] ([statement][paopr]), a call to [not publish with IEEE][hn] got picked up by Hacker News and the Times Higher Education posted a call for academics to [not peer review for non-OA journals][th]. 
+It seems like there is a upswell of coverage on open access right now. In the week that was in it Princeton asked it's researchers [not to hand over copyright][poa] ([statement][poapr]), a call to [not publish with IEEE][hn] got picked up by Hacker News and the Times Higher Education posted a call for academics to [not peer review for non-OA journals][th]. 
 
 One could be forgiven for thinking that something is afoot. 
 
@@ -35,9 +35,6 @@ It seems like enough traditional publishers are willing to get a toe in the wate
 
 In the end, over the past couple of weeks the best comment I've seen on the current state of the OA movement has come from the inestimable [John Willbanks][jw] who pointed out that it's [no longer a question of religion but of infrastructure][oainr]. 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/GMIY_4t-DR0" frameborder="0" allowfullscreen></iframe>
-
-
 
 [am]: http://altmetrics.org/manifesto/
 [coasp]: http://www.oaspa.org/coasp/
@@ -54,3 +51,6 @@ In the end, over the past couple of weeks the best comment I've seen on the curr
 [th]: http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=417576&c=1
 [hn]: http://cr.yp.to/writing/ieee.html
 [jw]: http://del-fi.org/jtw
+
+
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/GMIY_4t-DR0?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GMIY_4t-DR0?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
