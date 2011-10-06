@@ -12,7 +12,8 @@ In my earlier post on Megajournals I hinted that I felt that there could be a fu
 
 This topic came up late one evening at [coasp][coasp] and I ended up making a bet with [Matias Piipari][mz2]. I bet that within 10 years Nature would become a fully open access journal. I win three fine bottles of scotch. The date that the bet matures on Wed Sep 22, 2021. I've just sent the following message to the Editor in Chief at Nature:
 
-{% highlight latex %}
+
+{% highlight ruby %}
 Subject: Scientific Reports, Nature, Open Access and a future of fine whiskey.
 
 Dear Dr. Campbell,
@@ -28,7 +29,7 @@ I will continue to keep an interested eye on the development of Scientific Repor
 Sincerely yours,
 
 - Ian Mulvany
-{% endhilight %}
+{% endhighlight %} 
 
 [coasp]: http://www.oaspa.org/coasp/
 [mz2]: https://twitter.com/#!/mz2
