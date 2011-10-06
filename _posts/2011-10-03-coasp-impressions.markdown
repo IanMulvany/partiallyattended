@@ -27,7 +27,7 @@ Some of these trends were raised by [Phil Bourne][pb] in his keynote. It's clear
 
 Phil had been involved in a summer workshop on moving beyond the PDF and some of their output can be seen at the [FORCE11][f11] site. Slowly we move in the right direction, slowly, slowly, but surely.
 
-[Pete Binfield][pbin] was busy telling everyone that within three years up to 50% of all content that is freshly published may be open access. Heady predictions, but form the submission figures that he showed for PlosONE not a prediction that is impossible to believe in.
+[Pete Binfield][pbin] was busy telling everyone that within three years up to 50% of all content that is freshly published may be open access. Heady predictions, but form the submission figures that he showed for PloSONE not a prediction that is impossible to believe in.
 
 Overall there was a feeling that we will see a continued and strong growth in OA published content. Back of the envelope figures were being mentioned as if they were the accepted norm and people felt that the academic publishing industry might reduce in global value from it's current nine billion in turnover per year to a more modest two to three billion, with savings coming from the more sane cost structure that comes along with Open Access publishing. Of course the only way to tell if a change like that is going to happen is to wait it out and see.
 
