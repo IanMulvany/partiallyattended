@@ -8,7 +8,7 @@ categories:
 - coasp
 ---
 
-In my earlier [post on Megajournals][mj] I hinted that I felt that there could be a future in which this business model provided sufficient funds to allow a publishing house like Nature make it's flagship journal Nature an open access journal.
+In my earlier [post on Megajournals][mj] I hinted that I felt that there could be a future in which this business model provided sufficient funds to allow a publishing house like [NPG][npg] to make it's flagship journal Nature an open access journal.
 
 This topic came up late one evening at [coasp][coasp] and I ended up making a bet with [Matias Piipari][mz2]. I bet that within 10 years Nature would become a fully open access journal. I win three fine bottles of scotch. The date that the bet matures on Wed Sep 22, 2021. I've just sent the following message to the Editor in Chief at Nature:
 
@@ -41,5 +41,6 @@ Sincerely yours,
 </pre>
 
 [mj]: http://partiallyattended.com/2011/10/03/megajournals/
+[npg]: http://www.nature.com/npg_/index_npg.html
 [coasp]: http://www.oaspa.org/coasp/
 [mz2]: https://twitter.com/#!/mz2
