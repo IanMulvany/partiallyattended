@@ -15,7 +15,7 @@ categories:
 >>> start = date(2011, 9, 26)
 >>> mktime(start.timetuple())
 1316991600.0
-{% endhilight %}
+{% endhighlight %}
 
 # Going from a unix time to a date:
 
@@ -24,6 +24,6 @@ categories:
 >>> from datetime import datetime
 >>> datetime.fromtimestamp(int("1284101485")).strftime('%Y-%m-%d %H:%M:%S')
 '2010-09-10 07:51:25'
-{% endhilight %}
+{% endhighlight %}
 
 
