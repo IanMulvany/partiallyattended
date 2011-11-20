@@ -18,7 +18,7 @@ Using it with markdown can cause a few bumps, but there seems to be a bunch of w
 * [php, mathjax and wordpress][phpm]
 
 
-Writing a block of $\LaTeX$ like this
+Writing a block of %%\LaTeX%% like this
 <pre>
 $$
 \begin{aligned}
