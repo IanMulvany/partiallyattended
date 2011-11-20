@@ -20,24 +20,24 @@ Using it with markdown can cause a few bumps, but there seems to be a bunch of w
 
 Writing a block of $\LaTeX$ like this
 <pre>
-$$\[
+$$
 \begin{aligned}
 \dot{x} &amp; = \sigma(y-x) \\
 \dot{y} &amp; = \rho x - y - xz \\
 \dot{z} &amp; = -\beta z + xy
 \end{aligned} 
-\]$$
+$$
 </pre>
 
 will render like this
 
-$$\[
+$$
 \begin{aligned}
 \dot{x} &amp; = \sigma(y-x) \\
 \dot{y} &amp; = \rho x - y - xz \\
 \dot{z} &amp; = -\beta z + xy
 \end{aligned} 
-\]$$
+$$
 
 [mj]: http://www.mathjax.org/
 [news]: http://www.mathjax.org/2010/08/16/news/github-chooses-mathjax-for-math-support/
