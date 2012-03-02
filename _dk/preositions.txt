@@ -1,0 +1,40 @@
+Prepositions
+
+For some odd reason prepositions also decide which case the sentence is
+going to be in!
+
+Dative preposiions:
+		these prepositions infer a change of some type. the
+		subject is in the process of 'becomng' or altering its
+		relationship with the fixt Newtonian idea. These are
+		more "Einsteinian" sorts of preositions. 
+	ab	
+	aus			out (out of)
+	bei			next to
+	gegenuber von		?
+	mit			with
+	nach			from
+	seit			since
+	von			from
+	zu			to
+	
+Acccusative and Dative prepositions:
+		These are concerned with purely spatial relationships.
+		These can best be thought of as describing unchanging
+		spatial relationships!
+	an			
+	auf			
+	hinter			behind
+	in			in
+	neben			next
+	uber			over
+	unter			under
+	vor			before
+	zwischen		between
+	
+Accusative prepositions:
+	fur			for
+	durch			through
+	entlang			along
+	ohne			without
+	um			round

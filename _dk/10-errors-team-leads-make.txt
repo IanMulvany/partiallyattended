@@ -1,0 +1,151 @@
+
+
+# Top 10 mistakes that team leaders make
+
+- speaker has been a team leader for about 6.5 years.
+
+- November, two day workshop
+
+
+# 1. not recognise team maturity
+
+sometimes scrum and agile don't seem to fit the team that the person is actually in. self organising is not somethng that you just throw on a team. many devs are not ready to be self-organising, has observed 3 basic team levels:
+
+- Chaos
+- Learning
+- Self-Learning
+
+most teams are not on stag1 3, but mostly on stage 1 or 2. Most teams are in a chaotic state, this is when the team has no time to learn, the team is just putting out fires, or is constatnly just chasing a schedule that never ends, they have not time to learn.
+
+this kind of team needs a different kind of leader to the leader of a self-learning team. the team leader just gives orders, the purpose is to ge the team out of chaos, and get them to a place where they can start learning.
+
+- can remove some commitments of the team
+- visualise the work -> this is what Jesper is currentyd dong
+- need to take a stand 
+
+the learning stage happens when you have some learning time, the TL becomes more of a coach, but mainly on things that the team cannot afford to mess up. the main job is to get the team as improed as possible each week.
+
+self-org is to get the team to learn how not to need you, sometimes even giving the team some homework, ask yourself each week, is each person in your team better than they were the week before. You need to focus on growing people, and not just on getting the team to complete tasks.
+
+when the team is self-leading the TL is more a mentor or coach, main influence is where the TL 
+	e.g. in the learning stage, you get a lot of things handed to you to solve 
+		> if someone asks you that their computer is too slow
+		- TL asks "what are you going to do about it"
+
+		- not here to solve their problems, but are here to help them learn how to solve their own problems.
+
+In the learning stage, you should spend about 50% of your time with the team, but that is a really tough thing to do.
+
+
+# 2. fear of delegation
+
+- (easy to see the problem here) 
+- by getting them our of their own comfort zone they can have a really great grwith experience.
+- team members should be feeling a little bit of fear, from doing that thing that they have never done before
+	- this is how you learn things
+	-> what can I ask team members to do that they have never done before?
+	-> expose them to something that they have never done before
+
+	"What are you going to do about it?"
+
+
+# 3. fear of engagement
+
+- fear taling to people about things that matter,
+	- no one wants to ruffle the feather of things that matter
+
+What do people do to avoid engagment:
+
+- Placating, you aboloish yourself from the situation
+	- where you have a programmer who is the only one who knows how to do something in a project
+	-> need to ensure that there is more cross cover in the desktop team
+	-> pair programming is one way to make this happen (could be very interesting to try)
+
+- Being irrellevant as a manager
+	- when you need to do something for the team that you are not there
+	- when you have too many meetings, avoiding doing the hard things
+	- you can allow yourself to get swamped by work, 
+	- you need to spend about 50% of your time with the team.
+
+- being super reasonable
+	- people are not reasonable creatures
+	- this assumes that people know exactly what you want, and exatly what is in your head after saying it only once
+	-> work on groups with Juliet
+	-> mentioning project vision only once, set up more 
+	-> sending an email that says a few words that in your head are a book
+	-> do a cathup with desktop about current roadmap
+
+- blaming
+	- malice
+	- stupidity
+	- he's lazy
+	- he can't seem to learn this stuff
+	- i wonder if you really understand why this is important
+
+	- touch typing example, great example
+
+# 8. Ignoreing Behaviour Forces
+
+- don't understand the forces that act on a person to generate the behaviour observed
+	- for any behaviour you see in the wild, the world is perfectly designed to make that behaviour
+	-> learn the codebase myself, learn some PHP
+	- TDD almost never succeeeds is that people have a lot of things except just perosnal movtivation
+
+	Main pillars of forces:
+		- perosnal
+			-> can use skills vs wills (motivation vs ability)
+		- social
+		- Environmental 
+			rewards/punishments from the company
+
+		-> interesting example about TDD and finding a quote from someone who the person admires
+
+	For any behaviour there is going to be multiple sources of behaviour, and you are going to
+	have to change some or all of these.
+	sometimes you are going to end up with an unknown about one of these, and you need to ask.
+
+	you need to askyourself, "did you think about this, did you think about that"
+
+
+# 9. fear of assertivness
+
+this is the fear of hurting people, but in chaos mode you have to be assertive. 
+	"you have 30 seconds to find a solution or I'll find a solution for you"
+
+	in chaos mode you have no choices. you need to be the captain of the sinking ship and give orders
+	this requires assertivness
+
+	you make facts happen. 
+		-> this is where my technical lack might be a problem for me.
+
+	Q: how do you prevent assertion becoming agression?
+		you don't have to be aggerssive to be assertive
+
+# 10. help to spread non-commitment
+	
+	they spread the idea of not commiting to things?
+	
+	how many times have you heard scentences like
+	"I'm going to try to get this done"
+	"I wish we would have"
+	"we should do x"
+	"why doesn't"
+
+	only use the following words:
+	"I will... by..."
+
+	it's really easy. 
+	-> we could make this a part of the daily stand up.
+
+	at the very least team leaders don't mind the words that come out of the mouths of 
+	people
+
+	not having specific commitments at the end of the meeting
+	you need to have direct commitments at the end of meetings
+
+	what happens when commitments get broken?
+
+	make sure that people only commit to things that are under their full control
+	-> I need to learn how to do some code review
+
+	

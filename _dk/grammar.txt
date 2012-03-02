@@ -1,0 +1,62 @@
+Grammer
+
+Cases
+
+There are 4 caeses in German. Nominative, Accusative, Dative and
+Genitive. English only has two cases so things are set to become
+complicated from the get go. Luckily the Germans only use 3 of these
+cases for the most part. You can confuse a German whilst speaking
+perfectly correct German by sing their Genitve case as most of them will
+not activly recognise it (?). 
+
+Nominative:
+	The nominative is for the identification of things in themselvs.
+	I, you, he, it. I am, you are et..
+	
+Accusative:
+	For the identification of static action. I wash "myself", ich
+	wasche mich. This is a direct objust pronoun. It tells directly
+	who or what is the object of the action of a verb. 
+	Ring me, hit me, paint you, fix you.
+	
+	
+Dative:
+	Ich wasche mir die Harre, (I wash my hair!). So "wash" s
+	relexive but when used not in the English reflexive sense then
+	it takes the dative. 
+	This is because the main subject of this verb is the "hair", it
+	is the hair that is being washed ! 
+	   It is also used when the subject of the verb is moving from
+	   one place to another, give it to me, show the picture to you
+	   here "it" and picture are the subjects of the main verb, the 
+	   pronound is ancilliry to the scentence, hence they are in the
+	   dative??
+	   
+	   
+And one more time for kicks, Nominative is used for words that are the
+purpotrtor of the verb, or the subject of the verb. Accusative are words
+that are having the action described being done to them. They are the
+direct object. The dative are for the inderect object, for words that
+come after certain prepositions whoose existence casts such words into
+the indirect position. 
+
+Nominative		Accusative		Dative
+
+ich	I 		mich	me (myslef)		mir	to/for/from me
+du	you		dich	you		dir	to/for/from you
+er 	he		ihn	him		ihm	to/for/from him
+sie	she		sie	her		ihr	to/for/from her
+es	it		es	it		ihm	to/for/from it
+man	one		einen	one		einem	to/for/from one
+wir	we		uns	us		uns	to/for/from us
+ihr	yous		euch	yous		euch	to/for/from you
+Sie	you		Sie	you		ihnen	to/for/from
+sie	they		sie	them		ihnen	to/for/from
+
+
+Examples.
+
+ich bin.		er sagt zu mich		er kommt zu mir
+						er annbrennt mir
+						
+Reflexive Verbs						

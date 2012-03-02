@@ -1,0 +1,25 @@
+Hausaufgabe 3.
+
+1. 
+
+a. Nach seinem Abitur ist Stefan zuerst mal zu Engalnd gefahren
+
+b. Dort kann er bei Freunden wohnen.
+
+c. Sie haben ein Haus ausserhalb von Cambridge.
+
+d. Von seinem Zimmer aus har er eine tolle Aussicht auf einem Park.
+
+e. Aber Stefan liebt es, am fruhen Morgen den Fluss entlang zu joggen.
+
+f. Anschliessend lauft er um den ganzen Park herum.
+(adjacent|followinf|subsequently)
+
+g. Bis (nach|zu) Hause sind es zu Fus 30 minuten.
+
+
+2.
+
+von Ute | S
+aus London | Klinik | Kino | 
+
