@@ -1,0 +1,6 @@
+_site/*
+_drafts/*
+todo.txt
+server
+.DS_Store
+_fixme/*
