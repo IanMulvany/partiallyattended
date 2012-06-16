@@ -1,0 +1,101 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p class="info">Posted on: {{ page.date | date: "%d %B %Y"}}
+{% if page.categories %}
+in {% for category in page.categories %}
+  <a href="/tags.html#{{ category }}">{{ category }}</a>{% unless forloop.last %},{% endunless %}
+{% endfor %}
+{% endif %}
+</p>
+
+<div id="post">
+{{ content }}
+</div>
+
+
+{% if page.categories %}
+
+
+{% for category in page.categories %}
+  {% capture post_count %}
+    -{{ site.categories.[category] | size }}-
+  {% endcapture %}
+   {% unless post_count contains '-1-' %}
+    {% assign related = true %}
+   {% endunless %}
+{% endfor %}  
+  
+
+<div id="related">
+{% if related == true %}  
+  <h2>Recently Related By Tag</h2>
+ 
+
+ {% for category in page.categories %}
+
+  {% capture post_count %}
+    -{{ site.categories.[category] | size }}-
+  {% endcapture %}
+
+  {% capture remaining_count %}
+    -{{ site.categories.[category] | size | minus:2 }}-
+  {% endcapture %}
+
+  {% unless post_count contains "-1-" %}  
+    {% assign more_posts = true %}
+    {% if post_count contains '-2-' or post_count contains '-3-' %}
+      {% assign more_posts = false %}
+    {% endif %}
+     <div id="taglink">
+      <a href="/tags.html#{{ category }}">{{ category }}</a>       
+
+      </div>
+       <ul class="posts"> 
+      {% for post in site.categories.[category] limit:3 %}
+        {% unless post.title == page.title %}
+            <li><span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endunless %}
+      {% endfor %}  
+        <li>
+               {% if more_posts == true %}
+             {% for post in site.categories.[category] limit:3 %}
+                {% if post.title == page.title %}
+                    {% assign post_listed = true %}
+                {% endif %}
+             {% endfor %}
+          {% if post_listed == true %}  
+            (<a href="/tags.html#{{ category }}">{{site.categories.[category] | size | minus:2}} more with this tag</a>)
+          {% else %}
+            (<a href="/tags.html#{{ category }}">{{site.categories.[category] | size | minus:4}} more with this tag</a>)
+          {% endif %}
+       {% endif %}  
+        </li>
+       </ul>
+  {% endunless %}
+ {% endfor %}
+   
+{% endif %}
+{% endif %}
+
+
+<div id="comments" >
+<h2>Comments</h2>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'partiallyattended'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</div>
