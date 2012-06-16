@@ -4,7 +4,7 @@ layout: post
 categories: about
 ---
 
-I'm [Ian Mulvany][me], I'm VP of new product development for [Mendeley.com][mendeley]. 
+I'm [Ian Mulvany][me], I'm Head of Technology for [eLifeSciences][elife]. 
 
 This blog represents my personal opinion, and not that of my employer. 
 
@@ -14,7 +14,7 @@ Pages are generated using github's [pages][gp] mechanism.
 
 
 
-[mendeley]: http://www.mendeley.com
+[elife]: http://www.elifesciences.org/
 [me]: http://www.mulvany.net
 [jekyll]: http://github.com/mojombo/jekyll
 [matt]: http://github.com/mattfoster/mattfoster.github.com
