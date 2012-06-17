@@ -47,7 +47,7 @@ Install readline:
 
 
 
-Get fish, you can either get it from github and install from source, last time I check that was:
+Get fish, you can either get it from github and install from source, last time I checked that was:
 
 {% highlight python %}
 % git clone https://github.com/njr0/fish"  
