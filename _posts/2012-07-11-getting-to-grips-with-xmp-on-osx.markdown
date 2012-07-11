@@ -56,7 +56,7 @@ confirmation dialog select `Move to Trash`.
 
 Selecting the project in the left hand pane of Xcode will show the project info and build settings in the central pane:
 
-![Xcode settings](/images/Xcode-settings.jpg "Xcode settings")
+![Xcode settings](/images/xcode-settings.jpg "Xcode settings")
 
 For finding the various options in the build settings, the search field is convenient.
 
