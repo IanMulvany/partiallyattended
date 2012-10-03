@@ -1,0 +1,129 @@
+
+---
+layout: post
+title: Mind the product 2012, notes.
+categories: 
+- web
+- product developmet
+- #mtp2012
+---
+
+
+Last Friday I attended the amazing [Mind the product][mtp] conference in London. It was really inspirational. There were about 500 attendees, and having so many people with a concern for the same aspect of the product development process in one room led to a real buzz. The speakers were excellent, sadly I had to leave a little after lunch. The videos will be posted, keep an eye on the mind the product [main site][mtps]. Below are my notes from a number of the morning sessions. 
+
+[mtp]: http://conference.mindtheproduct.com/
+[mtps]: http://mindtheproduct.com/
+
+The talks that I wrote up are<a id="top">:</a>  
+
+- [Marty Kagan - Driving Disruption.](#pookie)
+- [Tom Chi - Rapid prototyping](#tcrp)
+- [Tom Hulme - Is purpose the new pivot](#thpp)
+- [John Earner - Mirror world](#jemw)  
+
+</br>
+##  [Marty Cagan][mk] - Driving disruption<a id="pookie">.</a> ([top](#top))
+
+Interesting guy, I'm showing my ignorance here, but I hadn't heard of him before. (that's a reflection of how i came to be involved on the product management side things). He clearly has a lot of experience. He is going to talk about things that make a disruptive product. (After seeing his talk, and hearing people at the conference talk about him it is clear that he was one of the people who defined what product management was in the early days of the consumer web). 
+
+1. **Vision and Passion**, particularly for big problems. Solutions to big problems take years to build. You need to have the willingness to try many different things, if you are the product leader you need to be sincere, you need to work on a product that you are really passionate about. (He makes the point that there is such a demand for product leaders that you have no excuse if you find yourself working on a product that you have no passion for). 
+2. **Know what you can't know**. Every single business plan is wrong, what is important is the team and the opportunity. There are many things we can't know. If you have to do a business case for your project, there are going to be a lot of unknowns in there. What we can't know is if the idea is going to be any good. You want to break the decision into two steps. Is this something worth working on? If we could solve this in a good way, is there anyone who wants this? Doing customer discovery is not that hard. The second question is can your team come up with a solution worth bringing to market - that's product discovery.
+3. **Know what your customers can't know**. People think we can learn what to build from our customers, but you can't. Customers don't know what's possible - customers will never know this. They define the world based on what they understand we can already do. This applies to all of us. A route around this is to build many prototypes. 
+4. **Product discovery**. Two rules of thumb that guide Marty: at least 2/3rds of our ideas are never going to work, most likely because the customer doesn't care. Sometimes it's because its too complicated for the customer, sometimes it's too expensive to build (The astonishing thing about the web stack is that cost of building
+complex systems is continually decreasing, giving late entrants into a market enough of an advantage to make disruption feasible, whether all of this disruption leads to overall increase in market efficiency is [another question][noprog]). What % of your ideas are you killing? If you are launching everything then you are wasting opportunity cost, because you are not testing. Second rule, it is going to take at least 3 - 4 iterations before what you build does what it needs to well. Sometimes getting to this product fit happens sooner, sometimes later. In product discovery the job is to work though these iterations as fast as we possibly can. You want to get the time to money down. Microsoft can wait years to get there, but most companies don't have that time, most companies have about three months. In a big company it's management patience, in a startup it's runway. Look at [nordstrom lab][nl]. They do one iteration a day, they use rough prototypes. [Balsamiq][blsm] is a great tool. There are also lots of high-fidelity prototypes. After that you look at a live data prototype, but it's not a production ready product. It represents about 20 -- 30% of the cost of real code, it doesn't have test automation, only a few of the use cases, no performance, scalability, internationalisation or SEO work. It is just to see user behaviour. If it doesn't behave the way you think it should. An A/B test only tells you that something does not work. User testing should answer only: can they use it, not would they use it. 
+5. **Dedicated teams**. We have to move away from project based thinking. You need to have a dedicated product team, it needs to be cross-functional, co-located. Needs to have ux, coding, PM. They need to be sitting right next to each other. They should be durable teams. You don't scope it around a project, you scope it around a type of user or product. They do all of the optimisations for that product. The other side of this is that you don't want to give them a top down roadmap. The alternative is to give the team a set of outcomes that you are asking them to figure out. What is the reason for the existence of this product? What is the result? **Not** what are the features. 
+6. **HP called this "Manage by objectives"**. There is no guarantee that they will rise to the occasion, but there is a much bigger chance, if they own the product. 
+7. **The role of design**. So many companies do not get design. They think of design as look and feel, as polish, as putting a coat of paint on the product. Design includes these things, but it is so much more. It is how it all works, it's the whole experience, it has to be there from day one. (I can't remember where I hear it, but the interface is the product, as far as the user is concerned). 
+8. **True Collaboration**. One of the things we need to be careful of is a product manager who says "it has to be thus!". If you are a product manager who is handing around wireframes, stop doing that. Product design and engineering need to be side by side. The single biggest source of innovation in a product are the engineers, particularly the lead engineer, the reason for this is they best understand the technology and what is possible. If you are just using your developers to code you are only getting half of their value. Product today is truly a collaboration. The product manager brings deep knowledge of the customer, the data, the market and your business. You need to combing these three, engineer, design and product.
+9. **Product culture**. It's not about process, it's about culture. You need rapid iteration, in terms of process it's like religion. What matters is the culture. What happens when people disagree? In a good culture you don't have endless meetings, you test. Data beats opinions.
+10. **Embrace pivots**. We have to get good at distinguishing vision from illusion. If it needs to change, it needs to change. 
+
+That was an amazing talk.
+
+[noprog]: http://www.ft.com/cms/s/0/52286386-093b-11e2-a5a9-00144feabdc0.html#axzz28H4NGlwE
+[mc]: http://svpg.com/team/
+[nl]: http://www.youtube.com/watch?v=szr0ezLyQHY 
+[blsm]: http://www.balsamiq.com/
+
+
+## [Tom Chi][tc] - Rapid prototyping<a id="tcrp">.</a> ([top](#top))
+
+You need to be changing things every day. Fucking hell, they got the first working prototype of google glasses working on one day. It was a netbook hooked up to a plexiglass sheet, projecting on a heads up display. By the 4th day of work they had buy in from Page and Brin. 
+
+They got the first prototype of "hand control" working in 45 minutes. Within an hour from that they created 5 different types of software that could work with this prototype. It was made from hair bands, connected to a slide projector control via fishing line. They were able to learn a tremendous amount from this rate of iteration. He called over 5 co-workers and tested this, and already learnt a couple things. People are lazy, they wanted to move as small an amount as possible. Within about a minute and a half he saw a set of behaviours, if your hands are above your heart you get exhausted within about 5 minutes. If you are hands are at the level of your heart or below, you don't get tired. That was something you couldn't learn without a working prototype. In the end this was the reason that they didn't do this kind of interface. It breaks the interaction metaphor.
+
+He used wire, clay and paper to prototype google glasses. These materials move at the speed of thought. This prevented sinking huge amounts of time into building something that was uncomfortable to wear. He made sure that the clay weighed the same as all of the electronics that they knew they would be using in the product. Within an hour he could try loads of form factors. They figured out that the perception of weight is based on how much weight is carried on the nose. They learnt very quickly that you could use the ear as a pivot. 
+
+**Rate based goals**. There is maybe a 5% chance that the things we are working on will succeed. You need to try 20 things, then the chance of success goes up to 64%. By the time you try 50 things your chance goes up to 92%. The phrase that is important is "by the time". Try to maximise the rate of learning by minimizing the time to try things. You want tools that can move at the speed of thought. 
+
+**Don't guess, learn**. Most meetings are a guessathon. Just make the things already, and learn.
+
+**Don't fail, learn**. They made 15 hardware prototypes per week. Every Friday they would share what they had learned from all of the prototypes that week, and they would list out what they wanted to do the next week. It was never "this attempt was mostly a failure". It was always "10% of this idea worked". Now and again Tom saw his teams starting out on ideas that he knew were dead in the water, but since they were trying so many ideas, he didn't try to stop them. In the end the ideas that he thought were going to be duds often produced really great insights. 
+
+How do you find a path? In any hard problem you are starting with the unknown, and you want to get to the range of possible outcomes. To get to that range of possible outcomes, you need to do a lot of research to figure out how to get to the point where you can go narrow and deep to develop. In the research phase you need to go broad and shallow, 15 prototypes a week, the ones that work, you branch out on. The broad and shallow approach gives you loads of great ideas, you end up with many 'stars'. If you tried to put them all into a product it would be a disaster. They developed a process called constellation - you look for combinations of those starred ideas, to see how you can make something that creates a coherent constellation. You want to have only a few things in there. If you find out 40 great ideas, and end up not doing 36 of them - that's great. At the point where you constellate on those six ideas, then you know what you are going to build, then you can draw a Gantt chart. 
+
+
+[tc]: http://unreasonableinstitute.org/profile/tchi/
+
+
+## [Tom Hulme][th] - Is purpose the new pivot<a id="thpp">?</a> ([top](#top))
+
+He is talking about the shape in which he has seen startups pitching, business plans, lines of code, pre-sign-ups for unknown products, number of pivots, all of these are dead enders. The question is are we moving in the right direction?
+
+Startups, new products, go from ignorant optimism, informed pessimism through to informed optimism. If it was easy everyone would be doing it. 
+
+The key takeaway from this talk is that purpose is really important, and equally important is having stories that hi-light the purpose. Great businesses evolve their purposes over time. The important thing is to continually reappraise why you are doing things. A good example of this is jawbone, it nearly died about 5 times. They started by trying to build voice activation. This led to noise cancellation, that led to blue tooth devices. 
+
+When you are looking at your product or startup, it's OK to for it to feel hard. If you want to scale you need to attract the best people. you are looking for an intersection between things that seem like a bad idea, are actually a good idea, and that actually matter.
+
+What is your products purpose? Why not stop for an hour a month to ask why we are doing what we are doing. If you had to explain to someone why what you are doing is important, what would you say?
+
+It is very easy to loose sight of your purpose, this happens if you dive straight into metrics. In design in products we often start to design for the wrong metric. A good example is business insider. They include sideshows on news stories. They are probably measuring page impressions. 
+
+Another example is measuring facebook likes. A good example is a fb campaign on a Mini. Most of their 3M likes were from 18 - 21 yr-olds in Thailand, i.e. almost totally irrelevant. 
+
+Paul Graham thinks through what metrics to ignore. One of the things he ignores is whether his startups get follow on funding (see [this post][pgp]). Facebook is an example where Zuckerberg deliberately ignored revenue as a metric. This contrasts with Zynga. Do the metrics match up with the purpose that you have?
+
+On [OpenIdeo][oi] they have 37k users, but that's not what matters. What matters is whether this initiative is having an effect on the ground. 
+
+[oi]: http://www.openideo.com/
+
+Most businesses are a bucket of three metrics, acquisition, engagement and purpose. Most people don't have purpose as a metric. How would you quantify that for what you are doing?
+
+Purpose can be a really lovely design lens. 'No' is a great decision. When is the last time you did a product update where you take away features. 
+
+Another example of this was basecamp. On one of the most recent updates, they faded the navbar into the background. 
+
+He mentions an interesting idea, [desire paths][dp]. For statups, [CrazyEgg][cegg] is a great tool for getting a first approximation for understanding the desire paths on your site. Design around these defaults. 
+
+Never get distracted from your purpose. A great example of this is word for mac. Word 5 for mac was hailed as a genius product, word 6 for mac was derided as a terrible product. A great example is mobile. You should be matching the experience with the platform, not forcing people to have a uniform experience that ignores the context of the experience. 
+
+Does your product convey your purpose? Does it re-enforce your purpose, or does it jar with it. 
+
+As individuals we don't scale. Recruitment is really important. 
+
+[th]: https://twitter.com/thulme
+[pgp]: http://www.paulgraham.com/growth.html
+[dp]: http://en.wikipedia.org/wiki/Desire_path
+[cegg]: http://www.crazyegg.com
+
+
+## [John Earner][je] - Mirror world<a id="jemw">?</a> ([top](#top))
+
+There is an interesting point, when you build a game, you know that it is going to fail, if you have 
+a company building games, then you probably need to be building at least one new product a year.
+
+What is a game? You are not obligated to play a game. You are not offering needs, you are offering wants. Many web services are also wants and not needs. Often games are not explicitly productive, but they can be good at allowing people to learn, and to evoke emotions. Games always have an uncertain outcome. Games have rules. Games are fictions. A game has goals. The only one that is different in theses rules form life is the fictitious aspect.
+
+Games are a medium, like paint. There are two ways of applying this. Some people are artists. Games provide an amazing canvas for art. Artists don't really care about the end user. Then there are entertainers. 
+
+There is a really interesting part of this talk, about how production values increased with the capability of consoles. Man months went from ~60 hours to ~1400 hours to produce a game from 1994 to 2006. In order to make this transition, game studios that succeeded needed to introduce more process, and management of that process. 
+
+This kind of scaling is going to happen on mobile too. 
+
+[je]: http://www.linkedin.com/pub/john-earner/0/101/76
+
+
+
+
+
