@@ -8,6 +8,10 @@ categories:
 - green
 ---
 
+**Update**, audio of the meeting is now [available on figshare][aof]
+
+[aof]: http://figshare.com/articles/Open_Access:_Going_for_Gold_/96158?utm_term=%23oa&utm_source=twitterfeed&utm_medium=twitter
+
 Last Thursday I attended the [SciCommForum][scf] debate "[Open access: going for gold?][debate]" held at Imperial College. Below are my notes from the event. The notes are fairly raw, and not comprehensive.
 
 [scf]: http://www3.imperial.ac.uk/humanities/sciencecommunicationgroup/scicomm%20forum
