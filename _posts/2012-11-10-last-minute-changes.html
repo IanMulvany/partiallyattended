@@ -1,0 +1,128 @@
+---
+layout: post
+title: Last minute changes to our solo12journals line up.
+categories: 
+- #solo12
+- #solo12journals
+- STM
+- conference
+- solo
+- London
+- publishing
+---
+<style>
+* {margin:0; padding:0}
+body {font:11px/1.5 Verdana, Arial, Helvetica, sans-serif; background:#FFF}
+#text {margin:50px auto; width:500px}
+.hotspot {color:#900; padding-bottom:1px; border-bottom:1px dotted #900; cursor:pointer}
+
+#tt {position:absolute; display:block; background:url(images/tt_left.gif) top left no-repeat}
+#tttop {display:block; height:5px; margin-left:5px; background:url(images/tt_top.gif) top right no-repeat; overflow:hidden}
+#ttcont {display:block; padding:2px 12px 3px 7px; margin-left:5px; background:#666; color:#FFF}
+#ttbot {display:block; height:5px; margin-left:5px; background:url(images/tt_bottom.gif) top right no-repeat; overflow:hidden}
+</style>
+
+I'm really excited about the session that we will be running at SpotOn London in just <b>two days time</b>!!. We 
+have titled the session <a href="http://www.nature.com/spoton/event/spot-on-london-2012-the-journal-is-dead-long-live-the-journal/">the journal is dead, long live the journal</a>. There is a lot of change going on, in the
+world of scientific publishing, pressures both intrinsic and extrinsic, and without doubt PLOS One 
+is changing both the submission behaviour of researchers and the strategic planning of STM publishers.
+</br>
+</br>
+Some advocates of revolution in the publishing ecosystem advocate for the total removal of publishers. Some 
+publishers seem not to believe that OA poses any real threat to their business models, where does the truth lie?
+</br>
+</br>
+Whatever you feel about the future of scientific publishing, it is unquestionable that change is afoot. Now we just need to 
+see how much change, and how deep. 
+</br>
+</br>
+We are interested in focusing the panel on the here and now - major publishers embracing OA, megajournals eating a growing portion of article submissions, article level metrics exposed on the top journals, open questions about what the value is that publishers really bring to the table, these are all questions of the now. 
+</br>
+</br>
+With that aim in mind we had assembled a stellar panel, with a representative across almost every scale, the individual scientist pushing their research out on their homepage - <a href="http://www.perlsteinlab.com/">Ethan Perlstein</a>, the one true megajournal - <a href="http://www.plos.org/staff/damian-pattinson/">Damian Pattinson</a> from <a href="http://www.plosone.org/home.action">PLOS One</a>, the big traditional publisher - Davina Quarterman from <a href="http://eu.wiley.com/WileyCDA/">Wiley</a>, the software company creating tools that run across all journals - <a href="http://twitter.com/mz2">Matias Piripari</a> from <a href="http://www.mekentosj.com/papers/">Papers</a>. 
+</br>
+</br>
+Unfortunately at the very last minute, for personal reasons, Davina has had to pull out. That leaves a little gap in our line up, but we have a cunning plan. We are going to try to convince as many people as we can from the publishing industry who will be attending the conference to come along to our session.
+</br>
+</br>
+If you represent a traditional publisher, and you would like to sit up at the front, rather than lob questions in from the audience, please drop us a line, <span class="hotspot" onmouseover="tooltip.show('wonders if this should be the motto of the publishing industry');" onmouseout="tooltip.hide();">there is still plenty of time</span>.
+</br>
+</br> 
+
+<script type="text/javascript" language="javascript">
+var tooltip=function(){
+	var id = 'tt';
+	var top = 3;
+	var left = 3;
+	var maxw = 300;
+	var speed = 10;
+	var timer = 20;
+	var endalpha = 95;
+	var alpha = 0;
+	var tt,t,c,b,h;
+	var ie = document.all ? true : false;
+	return{
+		show:function(v,w){
+			if(tt == null){
+				tt = document.createElement('div');
+				tt.setAttribute('id',id);
+				t = document.createElement('div');
+				t.setAttribute('id',id + 'top');
+				c = document.createElement('div');
+				c.setAttribute('id',id + 'cont');
+				b = document.createElement('div');
+				b.setAttribute('id',id + 'bot');
+				tt.appendChild(t);
+				tt.appendChild(c);
+				tt.appendChild(b);
+				document.body.appendChild(tt);
+				tt.style.opacity = 0;
+				tt.style.filter = 'alpha(opacity=0)';
+				document.onmousemove = this.pos;
+			}
+			tt.style.display = 'block';
+			c.innerHTML = v;
+			tt.style.width = w ? w + 'px' : 'auto';
+			if(!w && ie){
+				t.style.display = 'none';
+				b.style.display = 'none';
+				tt.style.width = tt.offsetWidth;
+				t.style.display = 'block';
+				b.style.display = 'block';
+			}
+			if(tt.offsetWidth > maxw){tt.style.width = maxw + 'px'}
+			h = parseInt(tt.offsetHeight) + top;
+			clearInterval(tt.timer);
+			tt.timer = setInterval(function(){tooltip.fade(1)},timer);
+		},
+		pos:function(e){
+			var u = ie ? event.clientY + document.documentElement.scrollTop : e.pageY;
+			var l = ie ? event.clientX + document.documentElement.scrollLeft : e.pageX;
+			tt.style.top = (u - h) + 'px';
+			tt.style.left = (l + left) + 'px';
+		},
+		fade:function(d){
+			var a = alpha;
+			if((a != endalpha && d == 1) || (a != 0 && d == -1)){
+				var i = speed;
+				if(endalpha - a < speed && d == 1){
+					i = endalpha - a;
+				}else if(alpha < speed && d == -1){
+					i = a;
+				}
+				alpha = a + (i * d);
+				tt.style.opacity = alpha * .01;
+				tt.style.filter = 'alpha(opacity=' + alpha + ')';
+			}else{
+				clearInterval(tt.timer);
+				if(d == -1){tt.style.display = 'none'}
+			}
+		},
+		hide:function(){
+			clearInterval(tt.timer);
+			tt.timer = setInterval(function(){tooltip.fade(-1)},timer);
+		}
+	};
+}();
+</script>
+
