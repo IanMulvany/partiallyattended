@@ -69,11 +69,23 @@ It also looks like frontiers is built on top of ASP, that is one stack that I ha
 
 Kamila starts talking about publishing trends. There are some comments about open access. She is touching on the issue of bias in peer review. For sure, peer review is this weird process, and there is a lot of bias. ("~~Fixing~~"/Augmenting peer review, let's do that - actually, the issue is the social aspect, it's soylent green, it's totally made up by researchers themselves, it was put to me that the least important community is are the senior academics, as they are the ones that will die soonest).
 
- 
+What Frontiers have done with the peer review system is really nice. They have an open collaborative peer review system. In addition they track ALMs on published papers, and they do a review, looking for the most read papers, after a few months. Papers that get into this top list, get invited to be extended to review papers, and this has worked really well (though to be honest, on their journals pages it took me a few minutes to find the journals, I think this site is optimised for google to be the main landing route to the content). 
+
+To see the reviewers you can navigate to the bottom of the paper, see [here][paper], for example. (the reviewers are exposed in a naked DOM element, this would be a really really great candidate for a microformat markup, the reviewers are not included in the article XML, so figuring out how to machine read this data is not totally transparent, but it is a great start.) 
+
+They do link through to a [profile of the reviewer][profile]. I couldn't see a list of papers that this person had reviewed, but I understand that they have metrics which allow them to query in their backend to find out which reviewers end up accepting papers that get more reads, indicating that those reviewers are able to better identify better research. That would be really interesting information to make public. 
+
+You can see an example of a [metrics][metric] page here. 
+
+(IMO the key thing about the network that they have generated is that there is a very close connection between the published object and the persons involved with those published objects. I always wanted that for nature network, and had wished that we could have auto-created profile pages for nature authors, but with a journal like Nature you just have a very large challenge with legacy data.)
+
+I've been looking for a landing page showing trending or top articles, but I can't find one at the moment. I'll post a link later if I find such a page. 
 
 
 [km]: http://bluebrain.epfl.ch/page-68308-en.html
 [front]: http://www.frontiersin.org/
 [fn]: http://www.frontiersin.org/events/all_events
 [sg]: http://en.wikipedia.org/wiki/Soylent_Green
-
+[metric]: http://www.frontiersin.org/Journal/AbstractImpact.aspx?s=1270&name=Non-Coding_RNA&ART_DOI=10.3389/fgene.2012.00233&type=1
+[paper]: http://www.frontiersin.org/Non-Coding_RNA/10.3389/fgene.2012.00233/full
+[profile]: http://community.frontiersin.org/people/PengJin/14793
