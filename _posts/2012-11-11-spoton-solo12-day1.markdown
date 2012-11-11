@@ -65,8 +65,15 @@ She mentions that google docs is being used to collaboratively creating papers. 
 
 (There are a very large number of services being mentioned in this talk, I have heard of most of them, but there seems to be too many for me to grok, and check on whether or not I know them). 
 
+It also looks like frontiers is built on top of ASP, that is one stack that I have very little experience of. 
+
+Kamila starts talking about publishing trends. There are some comments about open access. She is touching on the issue of bias in peer review. For sure, peer review is this weird process, and there is a lot of bias. ("~~Fixing~~"/Augmenting peer review, let's do that - actually, the issue is the social aspect, it's soylent green, it's totally made up by researchers themselves, it was put to me that the least important community is are the senior academics, as they are the ones that will die soonest).
+
+ 
+
 
 [km]: http://bluebrain.epfl.ch/page-68308-en.html
 [front]: http://www.frontiersin.org/
 [fn]: http://www.frontiersin.org/events/all_events
+[sg]: http://en.wikipedia.org/wiki/Soylent_Green
 
