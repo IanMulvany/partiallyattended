@@ -18,6 +18,7 @@ I'll keep a partial, live-idsh blog going during the day. I've been going to the
 - [Ben Goldacre](#ben)
 - [Kamila ](#front)
 - [Session on whether science journalism will be replaced](#replace)
+- [Altmetric track](#alms)
 
 now on to the sessions! 
 
@@ -116,8 +117,29 @@ What seemed like a nice topic that we could all agree on, unsurprisingly, end up
 In the Q&A session I mention the [http://hypothes.is/][hy], which I am interested in, but needs a bit more time. One of the big underlying questions, along with money, is trust. Ah, sure, it's a small issue, I'm sure we will get an answer to it any day soon :/. 
 
 
-
-
-
 [jnm]: http://www.nature.com/spoton/event/spoton-london-2012-will-multimedia-content-created-by-organisations-replace-traditional-science-journalism/
 [hy]: http://hypothes.is/
+
+## [altmetric track][at]<a id="alms">.</a> ([top](#top)) 
+
+This track on altmetrics is covering some of the basics. The room is very well attended, I'm interested in mostly hearing the questions from the audience. Brian Kelly has a [great post][gp] looking at some of the data issues around the numbers, but I'm mostly interested in hearing what the conversation is like on ALMs. 
+
+So, questions:
+
+#### Q: can we link between press releases and ALM signals?
+A: only if the press releases contain links to the papers. 
+
+#### Q: Twitter is good now, what do we do in 5 years with the next tool?
+A: No clear answer on this, um. 
+
+#### Q: Can you images ALMs being used for qualitative measurement? To determine the quality of the content in the paper. 
+A: It would be useful, there is no indication from the answers on how we would do this? 
+
+#### Q: 
+A: 
+
+
+
+[at]: http://www.nature.com/spoton/event/spoton-london-2012-altmetrics-beyond-the-numbers/
+[sl]: http://altmetric.com/slides/slides_spoton.html#1
+[gp]: http://ukwebfocus.wordpress.com/2012/11/08/understanding-the-limits-of-altmetrics-slideshare-statistics/ 
