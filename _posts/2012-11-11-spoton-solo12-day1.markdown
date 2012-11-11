@@ -104,9 +104,17 @@ Some comments of moderate interest from this session:
 - mainstream news continues to attract larger audiences than new media on it's own.
 - need a guarantee of independence 
 - "Wellcome trust funded everything to do with lovely things"
-
-
-
+ 
 I guess the reason that this is even a topic is that there is a feeling that science can be presented in terribly distorting ways in the media. 
+
+A good question is, who is doing long form journalism on science? The answer is not many, but rather that long form is happening, and if the science story is sufficiently interesting, then it will get run, however that said, there ain't that much long form happening.
+
+An interesting point is raised that new media are just cutting science coverage as they feel they can get this info from PR sources, so rather than the question of whether science journalism _should_ be replaced, economic pressures may result in it being replaced. I would say that there may be very little that the people in this room can do about this. 
+
+What seemed like a nice topic that we could all agree on, unsurprisingly, end up being about money, resourcing, and mission. The question is raised, would organisations that are investing in big PR resources, consider pooling money to support a fully independent journalist? The short answer from Wellcome is "yes". 
+
+
+
+
 
 [jnm]: http://www.nature.com/spoton/event/spoton-london-2012-will-multimedia-content-created-by-organisations-replace-traditional-science-journalism/
