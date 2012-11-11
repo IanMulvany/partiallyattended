@@ -113,8 +113,11 @@ An interesting point is raised that new media are just cutting science coverage 
 
 What seemed like a nice topic that we could all agree on, unsurprisingly, end up being about money, resourcing, and mission. The question is raised, would organisations that are investing in big PR resources, consider pooling money to support a fully independent journalist? The short answer from Wellcome is "yes". 
 
+In the Q&A session I mention the [http://hypothes.is/][hy], which I am interested in, but needs a bit more time. One of the big underlying questions, along with money, is trust. Ah, sure, it's a small issue, I'm sure we will get an answer to it any day soon :/. 
+
 
 
 
 
 [jnm]: http://www.nature.com/spoton/event/spoton-london-2012-will-multimedia-content-created-by-organisations-replace-traditional-science-journalism/
+[hy]: http://hypothes.is/
