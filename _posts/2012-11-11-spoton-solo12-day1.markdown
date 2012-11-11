@@ -13,7 +13,13 @@ categories:
 
 I'll keep a partial, live-idsh blog going during the day. I've been going to these things, I think, since about 2008. I really like these meetings. I'm going to probably keep these notes pretty lightweight. 
 
-## [Ben Goldacre][bg] - opening keynote, on data.
+## sessions<a id="top">:</a>
+
+- [Ben Goldacre](#ben)
+- [Kamila ](#front)
+
+
+## [Ben Goldacre][bg] - opening keynote, on data. <a id="ben">.</a> ([top](#top))
 
 Ben is talking about the issues that arise when you place a lot of data in one place. Modern tools that allow large data sets to be indexable create a new thing, a thing that not many people understand. He makes the analogy between bringing many atoms of uranium together, this creates a qualatativley different thing. Dangerous, but powerful. Data has a similar property. (We often manage to ignore the potential power that the elves at google have). He mentions the new data store on health data.
 
@@ -46,3 +52,21 @@ He discusses [altmetrics][alm] - briefly.
 [dh]: http://sm.psc.isr.umich.edu/debra/
 [st]: http://en.wikipedia.org/wiki/Statin 
 [alm]: http://altmetrics.org/manifesto/
+
+
+
+## [Kamila Markram][km] - publishing science in the internet age <a id="front">.</a> ([top](#top))
+
+Kamila is one of the founders of [frontiers][front]. She starts by talking about some trends with science online. A trend is facebook, most scientists are now there, however both facebook and linkedin do not cater the direct needs of scientists. (I have some opinions about the value of online scientific networks and the difficulty of building these things). 
+
+The [frontiers network][fn] immediately increased pageviews on articles and author profiles (+70% on some metrics). (this is pretty impressive). 
+
+She mentions that google docs is being used to collaboratively creating papers. IMO getting the authoring tools fixed is one of the big areas of schlep/opportunity in the science communication space. 
+
+(There are a very large number of services being mentioned in this talk, I have heard of most of them, but there seems to be too many for me to grok, and check on whether or not I know them). 
+
+
+[km]: http://bluebrain.epfl.ch/page-68308-en.html
+[front]: http://www.frontiersin.org/
+[fn]: http://www.frontiersin.org/events/all_events
+
