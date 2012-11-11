@@ -135,8 +135,29 @@ A: No clear answer on this, um.
 #### Q: Can you images ALMs being used for qualitative measurement? To determine the quality of the content in the paper. 
 A: It would be useful, there is no indication from the answers on how we would do this? 
 
-#### Q: 
-A: 
+
+#### Q: What about gaming? 
+A: That's a big question, and it has a bit of a complex answer. The reality is that we are not yet in a moment where these metrics are having an actual effect yet. 
+
+
+#### Q: If you can count something should you? Impact Factor has obvious flaws, but at least it's a known set of flaws. A fixation on counting without understanding the meaning is significantly problematic. 
+A: Not a question, but no argument without that statement. 
+
+
+#### Q: What does the audience want ALMs for?
+A:  
+- doing social network analysis on top of the data would be helpful. 
+- 
+
+#### Q: There seems to be tremendous potential marrying the social graph to ALMs at a large scale, but scientists are generally only interested in a small set of people, so is it worth doing it at a large scale, is it possible? 
+A: Some thoughts on this ..
+
+
+#### Q: What is missing, what would be worthwhile to add? 
+A:   
+- anonoymized  library reading data
+- crowd source links of interest 
+- 
 
 
 
