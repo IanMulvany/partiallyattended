@@ -17,7 +17,9 @@ I'll keep a partial, live-idsh blog going during the day. I've been going to the
 
 - [Ben Goldacre](#ben)
 - [Kamila ](#front)
+- [Session on whether science journalism will be replaced](#replace)
 
+now on to the sessions! 
 
 ## [Ben Goldacre][bg] - opening keynote, on data. <a id="ben">.</a> ([top](#top))
 
@@ -89,3 +91,22 @@ I've been looking for a landing page showing trending or top articles, but I can
 [metric]: http://www.frontiersin.org/Journal/AbstractImpact.aspx?s=1270&name=Non-Coding_RNA&ART_DOI=10.3389/fgene.2012.00233&type=1
 [paper]: http://www.frontiersin.org/Non-Coding_RNA/10.3389/fgene.2012.00233/full
 [profile]: http://community.frontiersin.org/people/PengJin/14793
+
+
+## Session on whether science journalism will be replaced<a id="replace">.</a> ([top](#top))
+
+There is a lot of violent agreement in [this session][jnm]. Agreement is that new media won't replace science news media, but can compliment it.  
+
+Some comments of moderate interest from this session:
+
+- many members of the public still believe that news in unbiased
+- having a science presence in the newsroom is a **good** thing
+- mainstream news continues to attract larger audiences than new media on it's own.
+- need a guarantee of independence 
+- "Wellcome trust funded everything to do with lovely things"
+
+
+
+I guess the reason that this is even a topic is that there is a feeling that science can be presented in terribly distorting ways in the media. 
+
+[jnm]: http://www.nature.com/spoton/event/spoton-london-2012-will-multimedia-content-created-by-organisations-replace-traditional-science-journalism/
