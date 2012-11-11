@@ -35,10 +35,14 @@ The idea is to randomly assign a statin to people at the doctor, and track this 
 
 If you could impose this structure at any point where there was uncertainty in efficacy of interventions, you could turn the whole of the NHS into a testing machine for finding those 1% improvements, that collectivity can have en enormous positive effect on our health.
 
+Ben talks about the need to have tools that can find good content to read, over the crud, in the same way that we want to find good studies, over shit studies. (They are about to launch a project with the open data foundation that looks at waste that is happening at the point of prescription). 
 
+He discusses [altmetrics][alm] - briefly. 
 
+(Of course these issues of looking for good filters, and finding context at point of consumption, is an interesting topic, that is top of mind for a lot of us).
 
 [bg]: http://www.badscience.net/
 [pol]: http://www.cabinetoffice.gov.uk/resource-library/test-learn-adapt-developing-public-policy-randomised-controlled-trials
 [dh]: http://sm.psc.isr.umich.edu/debra/
 [st]: http://en.wikipedia.org/wiki/Statin 
+[alm]: http://altmetrics.org/manifesto/
