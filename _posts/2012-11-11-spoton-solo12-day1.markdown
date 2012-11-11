@@ -31,6 +31,12 @@ How do you design trials that are cheap, that show you how to find those small i
 
 At the moment we are already collecting a lot of data in health system. If you take the opportunity to put a little bit of structure at the beginning you can get a lot of valuable information downstream. They are doing a trial by looking at [statins][st]. 
 
+The idea is to randomly assign a statin to people at the doctor, and track this at the point of assignment. (there is no current information on which statin is better, and they are effectively being assigned randomly, but with no tracking). By adding this small piece of structure at the beginning you end up with a nice randomised trial. 
+
+If you could impose this structure at any point where there was uncertainty in efficacy of interventions, you could turn the whole of the NHS into a testing machine for finding those 1% improvements, that collectivity can have en enormous positive effect on our health.
+
+
+
 
 [bg]: http://www.badscience.net/
 [pol]: http://www.cabinetoffice.gov.uk/resource-library/test-learn-adapt-developing-public-policy-randomised-controlled-trials
