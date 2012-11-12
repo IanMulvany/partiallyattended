@@ -68,10 +68,22 @@ The [Royal Society][rs] report on science as an open enterprise, really hilights
 
 [Neil Chu Hong][nch] presents the best "one slide" I've seen so far, it has about 10 slides worth of content on it, Neil is talking about the [journal of open research software][jors], and the cahllenges of getting scientists to use proper tools like version control, and the fact that the incremental benefit for an individual researecher is pretty small. Software is not just data, but there are a lot of things that are similar. (I've done a review of a couple of submissions for jors, and it's interesting, as understanding other people's code is hard).
 
-The issue of "intellegent openess" is mentioned. 
+The issue of "intellegent openess" is mentioned. It seems to mean well structued openess where objects are made open in a way that allows them to be discovered, and possibly machine read. We are trying to make data connections to eLife articles wasy through our [API][eapi].
+
+Oh oh, a new thing, I'd not heard of the [PRIME][prime] project before, a meatdata exchange between publishers and repositories, I'll definitly have a look at that. 
+
+The PERPARADE project is mentioned, they are working with the [Geoscience Data Jounrnal][gdj]. (the acronym of PREPARADE is a bit nutty, but the project looks good). 
+
+
+
+
+
 
 [pd]: http://www.nature.com/spoton/event/spoton-london-2012-publishing-research-data-whats-in-it-for-me/
 [jd]: http://crc.nottingham.ac.uk/projects/jord.php
 [dry]: http://www.google.co.uk/search?q=dryad&oq=dryad&sugexp=chrome,mod=16&sourceid=chrome&ie=UTF-8
 [nch]: https://twitter.com/npch
 [jors]: http://openresearchsoftware.metajnl.com/
+[eapi]: http://dev.elifesciences.org/
+[prine]: http://www.jisc.ac.uk/whatwedo/programmes/di_researchmanagement/managingresearchdata/research-data-publication/prime.aspx
+[gdj]: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2049-6060
