@@ -63,9 +63,9 @@ The bottom line is that this product development community is in an ideal positi
 Duncan is a data miner, and he is one of the founders of the [society of data miners][sodm]. He is very interested in prediction. Talking about the importance of prediction he points to the hilarious video of Karl Rove totally fucking up
 the prediction of the election when Fox news called the election for Obama.
 
-
+<div>
 <iframe width="640" height="360" src="http://www.youtube.com/embed/9TwuR0jCavk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
-
+</div>
 
 Sam Walton, the founder of WalMart, understood the power of data. They replaced inventory with information. 
 > You can make predictions that are wrong most of the time, but that are still incredibly valuable. 
