@@ -74,7 +74,9 @@ Oh oh, a new thing, I'd not heard of the [PRIME][prime] project before, a meatda
 
 The PERPARADE project is mentioned, they are working with the [Geoscience Data Jounrnal][gdj]. (the acronym of PREPARADE is a bit nutty, but the project looks good). 
 
+I like the comment from [F1000][f1p], that when they said to researchers that publishing their data would give them precendence on the data was a very powerful argument. 
 
+(At this moment in the discussion I got a little distracted). 
 
 
 
@@ -87,3 +89,4 @@ The PERPARADE project is mentioned, they are working with the [Geoscience Data J
 [eapi]: http://dev.elifesciences.org/
 [prine]: http://www.jisc.ac.uk/whatwedo/programmes/di_researchmanagement/managingresearchdata/research-data-publication/prime.aspx
 [gdj]: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2049-6060
+[f1p]: http://f1000.com/
