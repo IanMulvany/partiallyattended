@@ -1,11 +1,11 @@
-----
+---
 layout: post
 title: Product Tank 6, big data
 categories: 
 - product tank
 - data
 - open data
-----
+---
 
 I'm at [PridcutTank][pt] 6. Todays topic is big data.
 
