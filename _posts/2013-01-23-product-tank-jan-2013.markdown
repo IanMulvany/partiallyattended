@@ -64,7 +64,7 @@ Duncan is a data miner, and he is one of the founders of the [society of data mi
 the prediction of the election when Fox news called the election for Obama.
 
 <div>
-<iframe width="640" height="360" src="http://www.youtube.com/embed/9TwuR0jCavk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/9TwuR0jCavk?feature=player_detailpage" frameborder="0"></iframe>
 </div>
 
 Sam Walton, the founder of WalMart, understood the power of data. They replaced inventory with information. 
