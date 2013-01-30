@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: ENCODE: an example of open publication and data integration.
 categories: 
@@ -7,7 +7,7 @@ categories:
 - open-access
 - ENCODE
 - threads
-----
+---
 
 On Monday the 14th of January we met at the PLOS offices in Cambridge to hear a talk from [Euan Birney][eb] on lessons learned from publishing data rich publications though the [encode project][enc].
 
