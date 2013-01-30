@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ENCODE: an example of open publication and data integration.
+title: ENCODE - an example of open publication and data integration.
 categories: 
 - publishing
 - data
