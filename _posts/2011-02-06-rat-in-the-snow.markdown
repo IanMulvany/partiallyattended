@@ -24,3 +24,5 @@ I had been able to do that start when I lived in New York, back in 1999 - 2001, 
 It was georgeous, just standing there in the sun, pulling on every few minutes. After the fith try I could get some movement on them, they had gone from feel totally unusable, to actually not that bad. After about ten tries I got the move. If more of the face had been in condition I would have usually stopped trying after a handfull of moves. It was a really great lesson in focus, and in persistene. 
 
 All that rock, only those three holds usable, and a little bit of a relaxed approach brough a nice little start to my day :) 
+
+![fooling around on rat rock, central park](http://farm9.staticflickr.com/8522/8586850299_bdb83ede18_c.jpg "rat rock, February 2011")  
