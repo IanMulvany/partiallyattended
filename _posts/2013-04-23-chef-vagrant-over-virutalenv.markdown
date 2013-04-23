@@ -34,13 +34,14 @@ with [librarian][lib], [Vagrant][vagrant] and [chef solo][cs] I ended with a vir
 
 If you have already have [Vagrant][vagrant], [chef solo][cs] and [librarian][lib] installed you can have it too by following these steps  
 
->   $ git clone git://github.com/elifesciences/elife-template-env.git
->   $ cd elife-template-env
->   $ librarian-chef install
->   $ vagrant up
->   $ vagrant ssh
->   $ ipython notebook --ip=192.168.33.10  
-
+{% highlight ruby %}
+   $ git clone git://github.com/elifesciences/elife-template-env.git
+   $ cd elife-template-env
+   $ librarian-chef install
+   $ vagrant up
+   $ vagrant ssh
+   $ ipython notebook --ip=192.168.33.10  
+{% endhighlight %}
 
 Then in your host browser open [http://192.168.33.10:8888](http://192.168.33.10:8888). 
 
