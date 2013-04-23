@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: Communicating better, moving from virtualenv to vagrant/Chef
 categories: 
@@ -9,7 +9,7 @@ categories:
 - ipython
 - development
 - communication
-----
+---
 
 I've been using [virtualenv][vev] for a while, but in the past few months, since taking up the role of head of technology for eLife, I've been giving much more thought about how to build scalable development environments. 
 
