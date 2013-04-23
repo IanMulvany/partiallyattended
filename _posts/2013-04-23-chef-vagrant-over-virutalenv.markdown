@@ -41,7 +41,8 @@ If you have already have [Vagrant][vagrant], [chef solo][cs] and [librarian][lib
     $ vagrant up
     $ vagrant ssh
     $ ipython notebook --ip=192.168.33.10  
-
+>
+	
 
 Then in your host browser open [http://192.168.33.10:8888](http://192.168.33.10:8888). 
 
