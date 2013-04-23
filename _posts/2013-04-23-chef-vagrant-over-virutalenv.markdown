@@ -32,17 +32,15 @@ with [librarian][lib], [Vagrant][vagrant] and [chef solo][cs] I ended with a vir
 [vagrant]: http://www.vagrantup.com/
 [vev]: http://www.virtualenv.org/en/latest/
 
-If you have already have [Vagrant][vagrant], [chef solo][cs] and [librarian][lib] installed you can have it too by following these steps
+If you have already have [Vagrant][vagrant], [chef solo][cs] and [librarian][lib] installed you can have it too by following these steps  
 
->
-    $ git clone git://github.com/elifesciences/elife-template-env.git
-    $ cd elife-template-env
-    $ librarian-chef install
-    $ vagrant up
-    $ vagrant ssh
-    $ ipython notebook --ip=192.168.33.10  
->
-	
+>   $ git clone git://github.com/elifesciences/elife-template-env.git
+>   $ cd elife-template-env
+>   $ librarian-chef install
+>   $ vagrant up
+>   $ vagrant ssh
+>   $ ipython notebook --ip=192.168.33.10  
+
 
 Then in your host browser open [http://192.168.33.10:8888](http://192.168.33.10:8888). 
 
@@ -53,5 +51,3 @@ The [elife-template-env][ete] repo contains a longer description of the setup.
 It strikes me that this way forward is a much friendlier way of packaging code. With an upcoming release of Vagrant one would also be able to deploy immediate to AWS. I was chatting to someone last night about good development practices. When we write code in a team we are communicating with other developers. How we decide to package our work is also an act of communication. I think that the vagrant approach has a lot going for it. You take a definite performance hit in setting up the VM on first run , so I'm already planning on upgrading my setup. On the other hand, in principle you get systems that can be shared really painlessly, and on balance that feels like the more important aspect. 
 
 It will be interesting to see if the packaged approach also has any hope of uptake in the distribution of scientific research. We are already in discussion with a number of researchers who are interested in this idea, but I'm not sure there enough familiarity with the tools to make it take off super quickly. I'm hopeful though, as the tools are getting easier to use all the time.
-
-
