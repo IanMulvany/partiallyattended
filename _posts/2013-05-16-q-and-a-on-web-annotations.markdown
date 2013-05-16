@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Thoughts on web scake annotaton.
+title: Some Thoughts on web scale annotation.
 categories: 
 - annotation
 - open annotation
