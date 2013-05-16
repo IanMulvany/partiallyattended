@@ -38,8 +38,7 @@ rather limited success?
 
 > Yes. Two things mainly:
 
-> 1) many tools are looking to make their data cross functional through the OA W3C spec, that could be huge if many academic players adopt tools that support this. Think of like being RSS for scientific assertions, that would just be huge. It opens the door to all sorts of
-applications that simple RSS of comments don't support.
+> 1) many tools are looking to make their data cross functional through the OA W3C spec, that could be huge if many academic players adopt tools that support this. Think of like being RSS for scientific assertions, that would just be huge. It opens the door to all sorts of applications that simple RSS of comments don't support.
 
 > 2) the ability to tie an activity to a specific location in the text. Though frequency of annotation may not be higher than commenting, location specific activity is intrinsically more valuable, being able to see quickly, for example, the location of a paper that has interested the most people. In addition this framework is ideally suited to making machine learning runs over the literature connect well to the human reading experience.
 
