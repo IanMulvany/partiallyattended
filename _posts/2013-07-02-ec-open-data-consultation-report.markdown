@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: EC consultation on Open Data - a report.
