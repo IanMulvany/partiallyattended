@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Mind the product 2012, notes.
@@ -7,6 +6,7 @@ categories:
 - product developmet
 - #mtp2012
 ---
+
 
 
 Last Friday I attended the amazing [Mind the product][mtp] conference in London. It was really inspirational. There were about 500 attendees, and having so many people with a concern for the same aspect of the product development process in one room led to a real buzz. The speakers were excellent, sadly I had to leave a little after lunch. The videos will be posted, keep an eye on the mind the product [main site][mtps]. Below are my notes from a number of the morning sessions. 
