@@ -10,10 +10,10 @@ categories:
 
 This was a one day workshop discuss the creation of standards around Article Level Metrics. NISO has a [grant](http://www.niso.org/publications/isq/2013/v25no2/nr1) from the Sloan foundation to look into this, and this event was the first of three planned information gathering events. My own opinion on this topic has changed over the past year, evolving from being strongly opposed, to broadly supporting the idea of building some kind of standard or best practice for the field. There is currently a tight knit community of people working on ALMs, and we currently internally know that we are all `doing the right thing` (TM), however as interest in the space grows the close community is not guaranteed to remain fully aware of everything that is happening in the space. In addition there is a desire in some sectors - librarian, institutional and funders - to get some clarity on what it all means. These two things make me feel that if not a standard, then at least an agreed set of best practices, will help with adoption. I could imagine the following conversation:
 
-Funder one - I'm using the PLOS alm explorer tool.  
-Funder two - that looks interesting, but our administration would like some guarantee that it's not totally unreliable. 
-Funder one - well. the way they gather sources is transparently described, and they follow industry best practice, for what it's worth.  
-Funder two - oh, Ok, well, I'll have a look then, and see if it's helpful.   
+*Funder one* - I'm using the PLOS alm explorer tool.  
+*Funder two* - that looks interesting, but our administration would like some guarantee that it's not totally unreliable.  
+*Funder one* - well. the way they gather sources is transparently described, and they follow industry best practice, for what it's worth.  
+*Funder two* - oh, Ok, well, I'll have a look then, and see if it's helpful.   
 
 With that preamble in mind here are my simplified notes from the meeting. 
 
