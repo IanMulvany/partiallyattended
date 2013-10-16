@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NISO ALM standardisaton workshop
+title: NISO ALM standardization workshop
 categories: 
 - alm
 - altmetrics
