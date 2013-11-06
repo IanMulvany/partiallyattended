@@ -11,7 +11,6 @@ categories:
 
 This post was mostly written earlier this summer, in the days after I had finished reading a book. 
 
-@currentdraft #curentdraft durrentdraft
 
 I've just finished reading W. G. Seabald's [Vertigo][vert]. This is the second of his books that I've read over the last decade, and it is as haunting as the first. The first of his I read was [The rings of Saturn][saturn].
 
