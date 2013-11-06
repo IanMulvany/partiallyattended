@@ -2,9 +2,9 @@
 type: post
 title: Vertigo
 categories:
-- Seabald
-- Fontainbleau
-- memory
+  - Seabald
+  - Fontainbleau
+  - memory
 ---
 
 This post was mostly written earlier this summer, in the days after I had finished reading a book. 
