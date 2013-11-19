@@ -18,21 +18,21 @@ categories:
 
 I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I'm working on OSX Mavericks, and I want to get as clean an install as possible. For the most part I am also using the fish shell. This is what I've just run through over the last 20 minutes. 
 
-1. Install command line tools from the terminal  
+- Install command line tools from the terminal  
 	`$ xcode-select --install`
 
 Next we are going to install homebrew, with homebrew we will install `rvm` and with `rvm` we will install ruby. The goal is to have a ruby avilable at `/usr/local/bin` and to avoid using the system provided ruby, which is at `/usr/bin`.
 
-2. install homebrew  
+- install homebrew  
 	`$ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
 
-3. update homebrew  
+- update homebrew  
 	`$ brew doctor`
 	`$ brew update`
 
 `$ brew doctor` will do a healthcheck. As a result of running this I was reminded to re-order my `$PATH` to point to `\usr\local\bin` over '\usr\bin'.
 
-4. Install prequisites for rvm  
+- Install prequisites for rvm  
 	`$ brew install autoconf automake libtool libyaml readline libksba openssl`
 
 5. Install `rvm`  
