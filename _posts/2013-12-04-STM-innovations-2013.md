@@ -37,7 +37,7 @@ Mentions a seminal report on the dynamics of infrastrucure developement. (you ca
 
 Google and Amazon have figured out that at scale even dumb machines can do well. That is why scale is important. It's a means, but not an end. At Hopkins they have one large astronomy dataset, but there are many other astronomy data sets out there. They have to think of services across all of those data sets, not just on one data set. The scale will allow machines to appear to be clever, and this is where the role of the expert will remain important. 
 
-	The discussion moves on to curation of data, and who is doing a good job. He mentions [http://schema.org](http://schema.org), mentions that top 5 places that do data management are Apple, Facebook, Twitter, Google and Amazon. Big question, are these pople doing the creation of these knowledge graphs with a view to preservation. The answer is proabaly not. The informaiton graphs that are coming out of the librarian community - OAE-ORE - are richer, smaller, are not incompatable with Schema.org, but at the moment they have no skin the the game, they have to offer something. (I didn't really get the point here).  
+The discussion moves on to curation of data, and who is doing a good job. He mentions [http://schema.org](http://schema.org), mentions that top 5 places that do data management are Apple, Facebook, Twitter, Google and Amazon. Big question, are these pople doing the creation of these knowledge graphs with a view to preservation. The answer is proabaly not. The informaiton graphs that are coming out of the librarian community - OAE-ORE - are richer, smaller, are not incompatable with Schema.org, but at the moment they have no skin the the game, they have to offer something. (I didn't really get the point here).  
 	
 >
 Publising is about content and not format
@@ -121,3 +121,40 @@ Bottom line, most stakeholders support open science. Different aspects of open s
 The Zooniverse is the world’s most successful platform for citizen science - the involvement of non-professionals in the scientific enterprise. Zooniverse founder Chris Lintott will cover the highlights of six years of collaboration, including mysterious galaxy-sized gas clouds, unusual planets and a journey across the Serengeti, and explain the lessons for researchers and publishers alike in bringing science to such a large audience.
 
 This is an amazing talk. I'm not even going to try to take notes, I'm enjoying the talk waaaaay too much. 
+
+There is an interesting issue raised at the end of the talk. Zooniverse still cares about scientific publications, but they see little interaction between the community who do the contribution, and the research publications. There is a strong desire from Chris to do something about this, but what to do is not yet aswered. 
+
+
+15 00 Afternoon Plenary: e-Science, e-Research, e-Publishing
+ 
+## e-Research and the demise of the scholarly article. David De Roure, Director of e-Research Centre, Oxford
+
+Dave is going to focus on the intersection between large numbers of people and large computaional capacity. (A great example is that facebook is genering 100s of terabytes of data per year). 
+
+A nice story on how Dave came up with the 8 things that will have led to the demise of the paper. 
+
+"A pdf exploded today when a scientist tried to paste in the twitter firehose" 
+
+
+
+
+## 16 00 Afternoon Plenary: e-Science, e-Research, e-Publishing Moderated by: Howard Ratner, CHORUS   ## Text and Data Mining, discovering new patterns Nicko Goncharoff, Digital Science
+
+Very interesting. SureChem is going into the public domain. Will find out more during the course of this talk. Bottom line, EMBL is taking over. 
+
+(This is obviously the first entity that Digital Science is divesting. It's important that Digital Science do this if their model is to succeed in the long term, it's intersting to see this starting to happen. It will be interesting to see if this trend continues).
+
+  
+## Wearable Computers: Future Fix-All or Fashion Faux Pas? Heather Ruland Staines, SIPX    
+> 
+From Google Glass to the Samsung Gear, technology blogs and expos are all over wearable computing. Whether as extensions to our phones or as sensors to monitor our health or purchasing behavior, wearables are coming. Learn about how wearable computers are being tested in education and teaching contexts, what the latest initiatives are, and hear from a Glass Explorer about the potential and the perils of a computer on your face.
+
+She is wearing a google glass. I really like the idea of diminished reality, in which a google glass like device could block out aspects of reality that you don't want to interact with - like advertising (pverty and misery perhaps?).
+
+(Getting one of these things into a contact lens would really really annoy my wife, so I applaud the rest of humanities march towards the cyborg singularity, and I shall be watching quietly from the sidelines.)
+
+Final word on ethics of using the google glass
+
+>
+If you are going to be a jerk, you're going to be a jerk. 
+
