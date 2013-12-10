@@ -300,7 +300,7 @@ The journal becomes an index to the data.
 
 The search engine in the index to the journal - google - google scholar - pubmed - etc. 
 
-One of the issues that journals have is with the issue of "publishing data". Most journals do not want to take on the responsibility of peer reviewing the data data. Perhaps better to think about the journals as being a conduit to get to posted or deposited data. 
+One of the issues that journals have is with the issue of "publishing data". Most journals do not want to take on the responsibility of peer reviewing the data. Perhaps better to think about the journals as being a conduit to get to posted or deposited data. 
 
 They wonder whether people actually reuse data?
 
@@ -321,7 +321,6 @@ Issues facing microscopy:
 * more than 100 file formats, many proprietary (.META is a real player format).
 * multi-dimensional - 5d
 * sheer volume of data - numbers and size of images (a single z-stack can generate 12k images).
-
 
 High content screens can produce 1M images. Recently they posted a 300 Gigapixel image. That was 20GB in size. The final resolution of the image was 16M dpi. 
 
@@ -350,8 +349,10 @@ Some other suggestions:
 
 * journals should ask authors for the underlying data for figures. 
 > this leads to a good discussion, should this be the role of the funder or the institute, facilitated by the journal? It is good that there is a diversity of approaches out there. We don't like top down approaches, there is the issue of integrity. The EU would like authors who have EU money to comply with standards around data standards. The Commission is not only a funder, but also a legislative body, so they have to be careful about how they approach directives. They have to label their explorations as pilots, and then make a decision after seeing the effects, after a number of years. Having a central structured global archive within a research discipline is a boon, but there are many disciplines where these archives do not exist, and institutional archives are emerging. We don't want to penalise researchers who are using global archives. It is a challenge to make the language about data access be applicable pan-science.
+
 * a proposal to convince non-oa publishers to make anything that is machine readable immediately open access?
 > John Sack says that most publishers within the Highwire set feel that data fundamentally an open resource. NPG makes the supplementary data available. The part of the paper that lists where the data is, is often behind the firewall. Could we get publishers to place this statement in front of the firewall. (Could we recommend that this information be published as part of the article metadata?). 
+
 * Get an agreement between publishers on how accession numbers, grants and data are tagged within scholarly articles. 
 * Look at a few case studies on something. 
 * Recommend that data repositories expose usage data. 
