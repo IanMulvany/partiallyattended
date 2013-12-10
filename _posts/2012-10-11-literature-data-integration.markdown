@@ -158,7 +158,7 @@ CHAIR: Wolfram Horstmann
 
 ####### 15.30-15.40 Alvis Brazma Structured vs unstructured data<a id="unst">.</a> ([top](#top))
 
-At what level do we want to structure data? [MIAME][mie] is presented as a project that got it right. There us an experiment, and there are some well described characteristics if this. [ArrayExpress][ae] gives as MIAME score. Reviewers and journal editors just don't care about whether data is data is MIAME complete. MIAME is important, it has enabled the creation of a data refinery such as [ATLAS][at]. Alvis is now the most least structured advocate at the EBI. New technologies are emerging, you have to be able to combine the new with the old. The data is growing to such an extent that it becomes challenging for one institute to say that they have "all the data", but at the same time you want to link of all of the data together. EBI will not have a database for unstructured data. There is no name for this yet, but it is planned ot be released in 2013. At the centre of the idea will be a "study". This will become the key identifier for a linked object. Can be linked to data files, bio-samples, assays, external databases, publications, etc., etc., etc.. 
+At what level do we want to structure data? [MIAME][mie] is presented as a project that got it right. There us an experiment, and there are some well described characteristics if this. [ArrayExpress][ae] gives as MIAME score. Reviewers and journal editors just don't care about whether data is data is MIAME complete. MIAME is important, it has enabled the creation of a data refinery such as [ATLAS][at]. Alvis is now the most least structured advocate at the EBI. New technologies are emerging, you have to be able to combine the new with the old. The data is growing to such an extent that it becomes challenging for one institute to say that they have "all the data", but at the same time you want to link of all of the data together. EBI will not have a database for unstructured data. There is no name for this yet, but it is planned to be released in 2013. At the centre of the idea will be a "study". This will become the key identifier for a linked object. Can be linked to data files, bio-samples, assays, external databases, publications, etc., etc., etc..
 
 [mie]: http://www.mged.org/Workgroups/MIAME/miame.html
 [ae]: http://www.ebi.ac.uk/arrayexpress/
@@ -168,8 +168,7 @@ At what level do we want to structure data? [MIAME][mie] is presented as a proje
 
 Talking about the role of libraries, the institutional role, it's education and training role, and the interoperability role. 
 
-They have been spending quite some time talking about research data management. At the institutional level, you need to look across disciplines. ARe there generic infrastructures that you need to bring into existence. A library will not speak of the discussions within a community, they have to seek commonalities across discipline. He mentions an interesting initiative that happened in the early 90s to create identifiers for single journal articles. He mentions the importance of interoperability. Institutional archives are just emerging, China, South America, are just building out their repositories. Already in Europe there are over 50 research infrastructure initiatives. How do we make sure people do not spend their time in 10 working groups at different levels, talking about the same thing? 
-
+They have been spending quite some time talking about research data management. At the institutional level, you need to look across disciplines. Are there generic infrastructures that you need to bring into existence. A library will not speak of the discussions within a community, they have to seek communalities across discipline. He mentions an interesting initiative that happened in the early 90s to create identifiers for single journal articles. He mentions the importance of interoperability. Institutional archives are just emerging, China, South America, are just building out their repositories. Already in Europe there are over 50 research infrastructure initiatives. How do we make sure people do not spend their time in 10 working groups at different levels, talking about the same thing? 
 
 
 ##### 15.50-16.00 Todd Vision Will authors care about the quality and stewardship of their data?<a id="qas">.</a> ([top](#top))
@@ -179,8 +178,8 @@ Todd is involved with [Dryad][dyd]. This aimed at capturing the long-tail of dat
 [dyd]: http://datadryad.org/ 
 [is]: http://impactstory.org/
 
-##### 16.00-16.10 Alex Bateman Crowd-sourcing literature data for Biological Databases<a id="wiki">.</a> ([top](#top))
 
+##### 16.00-16.10 Alex Bateman Crowd-sourcing literature data for Biological Databases<a id="wiki">.</a> ([top](#top))
 
 Alex wants to get all of the good data out of the literature with relatively small teams of people. They would like the biologists to do this work for them, this is called community annotation, and it has been pretty disastrous over the last 20 years. 
 
@@ -192,7 +191,7 @@ They have been creating stub-articles in wikipedia. They provide suggestions of 
 
 If you want to ratchet up the motivation levels, you can make your job depend on it. This led to a 355% increase in the size of the articles, but this does not scale well. 
 
-It's hard to motivate scientists to do this. You get contributions, but it's patchy. The bio-curators in the group are really the backbone of this. You need a core of people who will be there checking 
+It's hard to motivate scientists to do this. You get contributions, but it's patchy. The bio-curators in the group are really the backbone of this. You need a core of people who will be there checking.
 
 Another experiment was run by [flybase][fly], they did direct emailing of authors. They were asking authors, in a simplified way, to identifier what the elements were in their papers, and asking them to say something simple about the things in their papers.
 
