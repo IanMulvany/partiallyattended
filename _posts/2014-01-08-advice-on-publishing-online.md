@@ -7,7 +7,7 @@ categories:
 - software carpentry
 ---
 
-#draft #currentdraft 
+I have posted this post as a comment on the thread over at software carpentry in answer to the question [What do we teach about writing/publishing papers in a webby world?](https://github.com/swcarpentry/bc/issues/199)
 
 What should we teach about publishing on the web? I ended up writing a bit more than I expected, so here are the main peices of advice:
 
