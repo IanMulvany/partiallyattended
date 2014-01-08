@@ -34,7 +34,7 @@ The great failure of my industry in the face of the web has been to make allow t
 I'll step through some advice covering these topics now. 
 
 
-# The most appropriate venue
+## The most appropriate venue
 
 Ask your colleagues, confer with your coauthors, it's usually not hard to determine. A tool like the [Journal author name estimator](http://www.biosemantics.org/jane/) has been around for years and it can suggest a journal based on the text of your abstract. In addition the following resources can also help [Journal Finder](http://www.miketaylor.org.uk/tmp/journal-finder.html), [http://www.edanzediting.com/journal_selector](http://www.edanzediting.com/journal_selector), [http://www.journalguide.com/](http://www.journalguide.com/) and [http://etest.vbi.vt.edu/etblast3](http://etest.vbi.vt.edu/etblast3). Most of these are for the life sciecnes. 
 
