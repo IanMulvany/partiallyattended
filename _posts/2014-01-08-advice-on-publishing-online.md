@@ -1,6 +1,6 @@
 ---
 layout: post
-title: advice on publising research online
+title: advice on publishing research online
 categories: 
 - publishing
 - science
