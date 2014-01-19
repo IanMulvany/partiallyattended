@@ -96,8 +96,8 @@ Let's have a look at the data on my performance over the last couple of years.
 ![training sessions by year and type][training]
 ![boulders by type][boulders]
 
-[training]: ../images/training-sessions-by-year.png 
-[boulders]: ../images/boulders-by-type.png
+[training]: http://partiallyattended.com/images/training-sessions-by-year.png
+[boulders]: http://partiallyattended.com/images/boulders-by-type.png
 
 A couple of things really jump out at me:
 
