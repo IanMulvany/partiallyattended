@@ -1,0 +1,13 @@
+---
+layout: segment
+title: The evolution of chromatin
+categories:
+ - segment
+ - episode1
+articles:
+   - ["Ammar et al." , "http://elife.elifesciences.org/content/1/e00078"]
+episode: 1
+segment: 6
+---
+
+Similarities between the chromatin in archaea and eukaryotes suggest that it might have been involved in gene regulation before its role in DNA packaging evolved.

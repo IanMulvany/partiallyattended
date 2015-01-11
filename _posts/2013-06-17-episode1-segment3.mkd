@@ -1,0 +1,15 @@
+---
+layout: segment
+title: All about eLife
+categories:
+ - segment
+ - episode1
+editorials:
+   - ["Editorial: Launching eLife, Part 1." , "http://elife.elifesciences.org/content/1/e00270"]
+   - ["Editorial: Launching eLife, Part 2." , "http://elife.elifesciences.org/content/1/e00365"]
+   - ["Editorial: The eLife approach to peer review" , "http://elife.elifesciences.org/content/2/e00799"]
+episode: 1
+segment: 3
+---
+
+eLife deputy editor Fiona Watt explains why eLife was launched and what it hopes to achieve.

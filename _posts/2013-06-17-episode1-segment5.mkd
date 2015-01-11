@@ -1,0 +1,15 @@
+---
+layout: segment
+title: The effect of fog on car drivers
+categories:
+ - segment
+ - episode1
+articles:
+   - ["Pretto et al." , "http://elife.elifesciences.org/content/1/e00031"]
+insights:
+   - ["Culham" , "http://elife.elifesciences.org/content/1/e00281"]
+episode: 1
+segment: 5
+---
+
+Virtual reality experiments show that motorists slow down when driving in fog, but they speed up when visibility is reduced equally at all distances.

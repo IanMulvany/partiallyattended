@@ -1,0 +1,15 @@
+---
+layout: segment
+title: Why blood vessels don’t grow in the retina
+categories:
+ - segment
+ - episode2
+articles:
+   - ["Luo et al." , "http://elife.elifesciences.org/content/2/e00031"]
+insights:
+   - ["Sim and Fruttiger" , "http://elife.elifesciences.org/content/2/e00948"]
+episode: 2
+segment: 4
+---
+
+Researchers have identified a receptor that prevents blood vessels forming in the outer retina—a process that can lead to blindness—by sequestering a crucial growth factor.

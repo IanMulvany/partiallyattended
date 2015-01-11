@@ -1,0 +1,15 @@
+---
+layout: segment
+title: The origins of multicellularity
+categories:
+ - segment
+ - episode1
+articles:
+   - ["Alegado et al." , "http://elife.elifesciences.org/content/1/e00013"]
+insights:
+   - ["Hadfield" , "http://elife.elifesciences.org/content/1/e00242"]
+episode: 1
+segment: 1
+---
+
+Extremely low concentrations of a molecule produced by bacteria can cause single-celled organisms to form colonies, which suggests that bacteria might have influenced the origin of multicellularity in animals

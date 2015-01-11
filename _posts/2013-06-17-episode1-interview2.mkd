@@ -1,0 +1,19 @@
+---
+layout: interview
+title: (6:23) episode1 interview 2
+categories:
+ - interview
+ - episode1
+articles:
+   - ["Jennings" , "link b"]
+   - ["Peterson" , "http:www.lasdkfa"]
+insights:
+   - ["Overbaker" , "link b"]
+   - ["Fredericks, Montaque et al." , "http:www.lasdkfa"]
+editorials:
+   - ["Editoral" , "link b"]
+   - ["Editoral 2" , "http:www.lasdkfa"]
+cover_image_url: http://cdn.elifesciences.org/podcast/thumbnail-1.png
+---
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
