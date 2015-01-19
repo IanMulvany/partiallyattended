@@ -1,9 +1,26 @@
-markdown: rdiscount
-pygments: true
-permalink: /:year/:month/:day/:title	
-lsi: false
-maruku:
-    use_tex: false
-    use_divs: false
-    png_dir: images/latex
-    png_url: /images/latex
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        /:year/:month/:day/:title
+relative_permalinks: true
+
+# Setup
+title:            Partially Attended
+tagline:          'an infrequently updated blog'
+description:      "Ian Mulvany's blog"
+url:              http://partiallyattended.com
+baseurl:          /
+
+author:
+  name:           'Ian Mulvany'
+  url:            http://mulvany.net
+
+paginate:         10
+
+# Custom vars
+
+
+github:
+  repo:           https://github.com/poole/hyde

@@ -1,81 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }} - Ian Mulvany's Blog</title>
-   <meta name="author" content="Ian Mulvany" />
-   <meta name="google-site-verification" content="kcwqSOIUD45pdwQpCs4vO0hiOumWyJ42j_zp4Oc1eHE" />
-   <link rel='me' href='http://www.google.com/profiles/ian.mulvany'>
-   <link rel="alternate" type="application/rss+xml" title="partially attended" href="http://partiallyattended.com/atom.xml"/>
-   <!-- <link href="http://feeds.feedburner.com/hackerific" rel="alternate" title="Matt Foster" type="application/atom+xml" /> -->
 
-<!-- mathjax and latex support -->
-  <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" 
-type="text/javascript"> 
-  </script> 
+  {% include head.html %}
 
+  <body>
 
-   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script> 
-   
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+    {% include sidebar.html %}
 
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-</head>
-<body>
-
-<div class="site">
-  <div class="title">
-    <a class = "banner" href="/">partially-attended</a>
-    <a class="extra" href="/">home</a>
-    <a class="extra" href="/tags.html">tags</a>
-    <a class="extra" href="/about.html">about</a>
-  </div>
-  
-  {{ content }}
-  
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Ian Mulvany
-      </p>
+    <div class="content container">
+      {{ content }}
     </div>
-    <div class="contact xoxo">
-        <p>
-            <a href="http://partiallyattended.com/atom.xml" rel="me">rss</a>
-            <a href="http://www.mulvany.net" rel="me">mulvany.net</a>
-            <a href="http://flickr.com/photos/mulvanynet" rel="me">flickr</a>
-            <a href="http://uk.linkedin.com/pub/ian-mulvany/5/983/389" rel="me">linkedIn</a>
-            <a href="http://www.mendeley.com/profiles/ian-mulvany/edit/ " rel="me">mendeley</a>
-            <a href="http://twitter.com/ianmulvany" rel="me">twitter</a>
-            <a href="http://gplus.to/ianmulvany" rel="me">Google+</a>
-        </p>
-    </div>
-   <!-- <div class="rss">
-      <a href="http://feeds.feedburner.com/hackerific"><img src="http://feeds.feedburner.com/~fc/hackerific?bg=FFFFFF&amp;fg=444444&amp;anim=1" height="26" width="88" style="border:0" alt="" /></a>
-    </div> -->
-  </div>
-</div>
 
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-47114092-1']);
-  _gaq.push(['_setDomainName', 'partiallyattended.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
-</body>
+  </body>
 </html>
