@@ -14,8 +14,8 @@ namespace :tags do
  
     html =<<-HTML
 ---
-layout: default
-title: Tags
+layout: page
+title: Posts by tag
 ---
 
 <script type="text/javascript">
