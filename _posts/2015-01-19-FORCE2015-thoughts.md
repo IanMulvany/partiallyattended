@@ -15,7 +15,7 @@ Last week I was at the FORCE2015 conference. I enjoyed it greatly.  This was the
 
 This meeting was one of those where I felt totally surrounded by my tribe, I've been despairing at the inability of publishers to do little better than produce PDFs for research communication. I'm constantly grading our efforts as *must do better*. This was a meeting mostly filled with people who are interested in making things better (by which I mean the creation of tools and systems that help researchers, rather than pin researchers into metrics traps).
 
- I read most of the 70 or so posters during the poster session. When I got home my wife said "nobody reads all the posters". Some of the posters were great, and some were awful, but I read through most of them. 
+ I read most of the 70 or so posters during the poster session. When I got home my wife said "nobody reads all the posters". Some of the posters were great, and some were awful, but I read through most of them. I've put up a [gallery of poster](https://www.flickr.com/photos/mulvanynet/sets/72157650058257669/) on my flickr account. 
  
  So, here are some relatively unconnected thoughts on the conference. 
  
