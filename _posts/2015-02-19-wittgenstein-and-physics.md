@@ -11,7 +11,12 @@ categories:
 - 
 ---
 
-Last year I attended a one day seminar on `[Wittgenstein and Physics](http://www.stx.ox.ac.uk/happ/events/wittgenstein-and-physics-one-day-conference)`. It was held at Cross College Oxford and was the first in a planned series of talks on the history and philosophy of science. It's been a long time since I've done physics seriously, and longer still since I took classes on the history and philosophy of science, so I attended very much in the mode of the interested outsider. As such my notes should be taken very much as a personal reflection on the talks, and I'm confident that I was missing quite a bit of underlying background to totally get everything that was being discussed. Nonetheless I thoroughly enjoyed it. In the notes below I've pulled out quotes as they happened, and I don't intend to weave them together at all into a coherent narrative. 
+![fjord from flickr user peternijenhuis](https://farm1.staticflickr.com/77/202946136_92fb6aef8d_z_d.jpg?zz=1)
+
+<small>(image via [peternijenhuis](https://www.flickr.com/photos/peternijenhuis/))</small>
+
+
+Last year I attended a one day seminar on [Wittgenstein and Physics](http://www.stx.ox.ac.uk/happ/events/wittgenstein-and-physics-one-day-conference). It was held at Cross College Oxford and was the first in a planned series of talks on the history and philosophy of science. It's been a long time since I've done physics seriously, and longer still since I took classes on the history and philosophy of science, so I attended very much in the mode of the interested outsider. As such my notes should be taken very much as a personal reflection on the talks, and I'm confident that I was missing quite a bit of underlying background to totally get everything that was being discussed. Nonetheless I thoroughly enjoyed it. In the notes below I've pulled out quotes as they happened, and I don't intend to weave them together at all into a coherent narrative. 
 
 ## Rupert Read - university of East Anglia - How to admire science and dispose scientism - scene setting 
 
