@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        /:year/:month/:day/:title
-relative_permalinks: true
 
 # Setup
 title:            Partially Attended
@@ -24,3 +23,5 @@ paginate:         10
 
 github:
   repo:           https://github.com/poole/hyde
+
+gems: [jekyll-paginate]
