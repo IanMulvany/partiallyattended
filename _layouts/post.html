@@ -23,63 +23,63 @@ in {% for category in page.categories %}
 
 {% for category in page.categories %}
   {% capture post_count %}
-    -{{ site.categories.[category] | size }}-
+    -{{ site.categories[category] | size }}-
   {% endcapture %}
    {% unless post_count contains '-1-' %}
     {% assign related = true %}
    {% endunless %}
-{% endfor %}  
-  
+{% endfor %}
+
 
 <div id="related">
-{% if related == true %}  
+{% if related == true %}
   <h2>Recently Related By Tag</h2>
- 
+
 
  {% for category in page.categories %}
 
   {% capture post_count %}
-    -{{ site.categories.[category] | size }}-
+    -{{ site.categories[category] | size }}-
   {% endcapture %}
 
   {% capture remaining_count %}
-    -{{ site.categories.[category] | size | minus:2 }}-
+    -{{ site.categories[category] | size | minus:2 }}-
   {% endcapture %}
 
-  {% unless post_count contains "-1-" %}  
+  {% unless post_count contains "-1-" %}
     {% assign more_posts = true %}
     {% if post_count contains '-2-' or post_count contains '-3-' %}
       {% assign more_posts = false %}
     {% endif %}
      <div id="taglink">
-      <a href="/tags.html#{{ category }}">{{ category }}</a>       
+      <a href="/tags.html#{{ category }}">{{ category }}</a>
 
 </div>
 
-       <ul class="posts"> 
-      {% for post in site.categories.[category] limit:3 %}
+       <ul class="posts">
+      {% for post in site.categories[category] limit:3 %}
         {% unless post.title == page.title %}
             <li><span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endunless %}
-      {% endfor %}  
+      {% endfor %}
         <li>
                {% if more_posts == true %}
-             {% for post in site.categories.[category] limit:3 %}
+             {% for post in site.categories[category] limit:3 %}
                 {% if post.title == page.title %}
                     {% assign post_listed = true %}
                 {% endif %}
              {% endfor %}
-          {% if post_listed == true %}  
-            (<a href="/tags.html#{{ category }}">{{site.categories.[category] | size | minus:2}} more with this tag</a>)
+          {% if post_listed == true %}
+            (<a href="/tags.html#{{ category }}">{{site.categories[category] | size | minus:2}} more with this tag</a>)
           {% else %}
-            (<a href="/tags.html#{{ category }}">{{site.categories.[category] | size | minus:4}} more with this tag</a>)
+            (<a href="/tags.html#{{ category }}">{{site.categories[category] | size | minus:4}} more with this tag</a>)
           {% endif %}
-       {% endif %}  
+       {% endif %}
         </li>
        </ul>
 
   {% endunless %}
  {% endfor %}
-   
+
 {% endif %}
 {% endif %}
