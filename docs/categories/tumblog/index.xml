@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tumblog on My New Hugo Site</title>
+    <link>/categories/tumblog/</link>
+    <description>Recent content in Tumblog on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Apr 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/tumblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>creating a tumblog</title>
+      <link>/2010/04/13/creating-a-tumblog/</link>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/04/13/creating-a-tumblog/</guid>
+      <description>After a few conversations with @zzgavin, I&amp;#39;ve come to the conclusion
+that there is a place for a tumblog in the toolkit of those who like
+to post content onto the web. There are often pieces of content that I
+want to call out, but don&amp;#39;t have either the time or the interest to
+write a longer blog post about. For a while I thought that would be a
+good use of Twitter, but in the end that type of behaviour just</description>
+    </item>
+    
+  </channel>
+</rss>

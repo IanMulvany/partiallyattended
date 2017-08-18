@@ -1,0 +1,154 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2017/07/12/ic2s2_wikipedia_track/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">IC2s2 Wikipedia track, Wednesday</h1>
+
+<section>
+      <h4 id="date"> Wed Jul 12, 2017 </h4>
+      <h5 id="wordcount"> 1102 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/ic12s2">ic12s2</a>, <a href="/categories/computational-social-science">computational social science</a>, <a href="/categories/conference">conference</a>
+</div>
+
+<div>
+       <article id="content">
+          
+
+<h1 id="ic2s2-wikipedia-track">Ic2s2 wikipedia track</h1>
+
+<h3 id="studying-content-survival-authorship-controversy-by-tracing-every-word-change-on-wikipedia-fabian-flöck-kenan-erdogan-and-maribel-acosta">Studying Content Survival, Authorship &amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta</h3>
+
+<p>Arriving late to this talk.</p>
+
+<p><a href="[TokTrack: A Complete Token Provenance and Change Tracking Dataset for the English Wikipedia | Zenodo](https://zenodo.org/record/345571#.WWXuT8aQ3dQ)">TokTrack</a> - data is available on Zenodo, 13.5B tokens. There is a <a href="[GitHub - wikiwho/WikiWho: An algorithm to compute token-level provenance and changes for Wiki revisioned content. Tested for EN.Wikipedia.](https://github.com/wikiwho/WikiWho)">wikiwho</a> API. This is an accurate dataset of all provennced changes in English wikipedia.</p>
+
+<p>They can look at survival rates for edits. If an edit survives for 48 hours, then it’s probably safe and will live on in wikipedia.</p>
+
+<p>They can also look at how much people agree or disagree with the content that they are editing.</p>
+
+<p>You can do an n-gram like analysis on text.</p>
+
+<p>You can look at the most conflicted parts of a wikipedia page.</p>
+
+<p>Basically, this is an amazing dataset.</p>
+
+<h3 id="even-good-bots-fight-milena-tsvetkova-ruth-garcia-gavilanes-luciano-floridi-and-taha-yasseri">Even Good Bots Fight - Milena Tsvetkova, Ruth Garcia Gavilanes, Luciano Floridi and Taha Yasseri</h3>
+
+<p>There are a lot of bots. In wikipedia there are a lot of bots that assist in the process of wikipedia, and</p>
+
+<p><a href="[Even good bots fight: The case of Wikipedia](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171774)">They created a typology of internet bots</a>. Wikipedia are built out of python code, on top of the wikipedia API.</p>
+
+<p>There are a small number of bots, but they generate a large number of edits (often they are doing tiny simple things, but still in volume they make up a large number of edits).</p>
+
+<p>An example of what one of the bots do is to revert previous edits (they are trying to eliminate vandalism). They found that even bot reverts get reverted, but if the bot is a “good” bot, why are its actions getting reverted? Bot logic is basically creating contentions, and bots are reverting each other, in an endless cycle. People are basically not paying attention, so this activity just continues at a low level, which leads to lots of interesting questions around goals and efficiently of the system.</p>
+
+<p>In thinking about the ecosystem of bots, we should expect bot—bot interactions to become complex.</p>
+
+<h3 id="why-we-read-wikipedia-florian-lemmerich-philipp-singer-robert-west-leila-zia-ellery-wulczyn-markus-strohmaier-and-jure-leskovec">Why We Read Wikipedia - Florian Lemmerich, Philipp Singer, Robert West, Leila Zia, Ellery Wulczyn, Markus Strohmaier and Jure Leskovec</h3>
+
+<p>They wanted to know why people read wikipedia, and they took a taxonomic and survey approach to understand why. They survey ran on wikipedia.</p>
+
+<p>They generated a three class taxonomy around motivation, information need and prior knowledge of the topic pages.</p>
+
+<p>They were able to generate 30k responses to their survey. This is subject to non-response bias.</p>
+
+<p>They did some bias correction using inverse propensity score weighting.</p>
+
+<p>They also looked at wikipedia log data, and extracted features about the articles that were being read.</p>
+
+<p>We see some unsurprising results e.g. during work hours people are using wikipedia for work or study related reasons.</p>
+
+<p>They correlated information from the survey with traces they observed across logs and article features.</p>
+
+<p>Topics of articles cluster around the kinds of motivations that people have reported. When bored they look at sport articles, when they are studying they are looking at technical pages, e.g. physics or mathematics.</p>
+
+<p>They are now extending the survey to other languages other than English.</p>
+
+<p>They hope that they might be able to allow editors to better understand the kind of motivations that people might have for the kind of articles that they are writing. This could inform writing style or interface design.</p>
+
+<h3 id="modeling-collective-attention-on-promoted-content-in-wikipedia-marijn-ten-thij-david-laniado-andreas-kaltenbrunner-and-yana-volkovich">Modeling collective attention on promoted content in Wikipedia - Marijn ten Thij, David Laniado, Andreas Kaltenbrunner and Yana Volkovich</h3>
+
+<p>Looking at “Today’s featured article” in wikipedia (today’s is about the <a href="https://en.wikipedia.org/wiki/Battle_of_Prokhorovka">Battle of Prokhorovka</a>!) .</p>
+
+<p>These articles get more page views during the day that they are featured!</p>
+
+<p>In redistributed time page views have an exponential decay, and you can model with a Poisson distribution. The first hour of page views will give you a good estimator for future page views.</p>
+
+<h3 id="linguistic-neighbourhoods-explaining-cultural-borders-on-wikipedia-through-multilingual-co-editing-activity-anna-samoilenko-fariba-karimi-daniel-edler-jérôme-kunegis-and-markus-strohmaier">Linguistic neighbourhoods: Explaining cultural borders on Wikipedia through multilingual co-editing activity - Anna Samoilenko, Fariba Karimi, Daniel Edler, Jérôme Kunegis and Markus Strohmaier</h3>
+
+<p>Is showing how language concepts are used in argument, and how the theory of cognitive balance and dissonance is used to analyse political speech (apparently for some positions bicycles are in the bad category of things).</p>
+
+<p>The empirical evidence for this balance theory has been mixed.</p>
+
+<p>They think they can test some of this theory using wikipedia data.</p>
+
+<p>Each article can be considered as a project with a network of people who contribute to, or produce the article. These contributions can be negative or positive.</p>
+
+<p>What they have found is that the articles on climate change and on racism are different.</p>
+
+<p>They looked at the bi-polarity of all articles that were produced with sufficient user interactions.</p>
+
+<p>They found that polarised teams product low-quality output, but need to do more work to uncover the core reasons for the existence of that polarity.</p>
+
+<h3 id="linguistic-neighbourhoods-explaining-cultural-borders-on-wikipedia-through-multilingual-co-editing-activity-anna-samoilenko-fariba-karimi-daniel-edler-jérôme-kunegis-and-markus-strohmaier-1">Linguistic neighbourhoods: Explaining cultural borders on Wikipedia through multilingual co-editing activity- Anna Samoilenko, Fariba Karimi, Daniel Edler, Jérôme Kunegis and Markus Strohmaier</h3>
+
+<p>I like this talk, looking at concepts, as the concept gets narrowed, the number of languages that cover this in wikipedia narrow down. 170 languages describe beer, bit only 4 languages describe Kölsch beer!</p>
+
+<p>At the moment this kind of observation is anecdotal, but they have generated a systematic way to investigate these kinds of relationships.</p>
+
+<p>They are looking a the 110 larges language editions of wikipedia, with about 3M concepts (the articles).</p>
+
+<p>They have list of languages per concept. They create a bipartite network of concept co-editing and then create a network of significant links.</p>
+
+<p>This creates the network of shared interest for concepts across languages.</p>
+
+<p>You can find which languages edit similar concepts. After clustering you find language families. Some of the closers are clearly formed by geographic clustering.</p>
+
+<p>There are also clusters forming around the linga franca of a multilingual region, e.g. Hindi and Sanskrit, Sundanese and Malay.</p>
+
+<p>They can quantify the contribution of different hypotheses to the overall effect of language clustering.</p>
+
+<p>It would be super interesting to look at whether there are temporal shifts in editing across languages.</p>
+
+<h3 id="the-evolution-and-consequences-of-peer-producing-wikipedia-s-rules-brian-keegan">The Evolution and Consequences of Peer Producing Wikipedia’s Rules- Brian Keegan</h3>
+
+<p>What are the governance rules on wikipedia, and how do they way they are constituted contribute to it’s resiliency, and how have they changed over time?</p>
+
+<p>The rules are just pages, and can be edited at any time.</p>
+
+<p>(There is a “<a href="https://en.wikipedia.org/wiki/Wikipedia:No_angry_mastodons">no angry mastodons</a>” rule !?) .</p>
+
+<p>Rule making activity mirrors historical wikipedia activity.</p>
+
+<p>Early rules are still very active sites of editing.</p>
+
+<p>New rule editors between 2006 and 2008 made the most edits, but make few edits now.</p>
+
+<p>People who participated in rule making participate in more namespaces and make smaller edits than before having been involved in rule making.</p>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

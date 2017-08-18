@@ -1,0 +1,41 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">notes on &#34;Classes of complex networks deﬁned by role-to-role connectivity proﬁles&#34;</h1>
+
+<section>
+      <h4 id="date"> Tue Apr 14, 2009 </h4>
+      <h5 id="wordcount"> 705 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/graphs">graphs</a>, <a href="/categories/network-science">network science</a>, <a href="/categories/modules">modules</a>, <a href="/categories/algorithm">algorithm</a>
+</div>
+
+<div>
+       <article id="content">
+          Looking for algorithms to do community detection (there are a bunch  from the famous Girvan-Newman algorithm <a href="http://dx.doi.org/10.1073/pnas.122653799">doi:10.1073/pnas.122653799</a> which seems to have gained popularity through being very simple, effiencet and usually pretty powerfull, through to a method <a href="http://dx.doi.org/10.1103/PhysRevE.71.046117">doi:10.1103/PhysRevE.71.046117</a> by Ziv, Middendorf and Wiggins. I have to admit I don't understand that paper yet, but hope to come back to it.) I was pointed to a paper by Guimera, Sales-Pardo and Amaral. In looking for the paper the first one that I found was Classes of complex networks deﬁned by role-to-role connectivity proﬁles on <a href="http://dx.doi.org/10.1038/nphys489">DOI:10.1038/nphys489</a>. It turns out that they describe their algorithm in the <a href="http://dx.doi.org/10.1038/nature03288">doi:10.1038/nature03288</a>, but as I encountered the nautre physics aritcle I may as well read my way through that and give you the skinny on it.<br /><br />The main story in this paper is that real networks are complicated, and that the properties of modules in the network are not reflected by the average properites of the entire network. The implication would seem to be that models for generating netowrks do note capture importnat properties of real world netowrks. That's not really a great surprise, however I guess that it is nice that someone has sone an explicit comparison.<br /><br />One interesting idea in the paper is that they try to classify modules according to how the average connectivity of the connecting nodes in the modules (the nodes that bridge out to other modules) is distributed among the other modules. The classes they describe are non-hubs, with non-hubs being further described into ultra-peripheral nodes, peripheral nodes, satellite connectors and kinless nodes. Hubs get broken out into connector hubs, global hubs and provincial hubs. <br /><br />These descriptions are tightly defined in terms of properties of the identified modules. The claim in the paper is that global properties of real networks, specifically some degree-degreee correlations, can only be reconstructed by taking into account this modular structure. The new property is called the "Participation Function".<br /><br />There is another imporant aspect to this picture. If we think of the modules as building blocks, this paper is saying that the kinds of building block of the network are key to understanding the properties of the network. In addition, how those building blocks tend to connect to each other is an equally important aspect of this picture and can be measured by looking at the likelihood of a connection between two blocks in a given network in contrast to a random connection probablility.<br /><br />An illuminating example is given by describing the differences between Cincinnati airport and Johannesburg airport. The two have the same degree distribution, but you can fly to the latter from most major airports in the world and not the former. This is described by noting that Joberg is the most connected city in it's region, but the same does not hold true for Cincinnati (trivia, this city was named after a roman dictator).<br /><br />This is mainly a descriptive paper, but the authors suggest that the differences may arise in real world networks depending on whether they are transportation networks that are constrained by conservation laws, as opposed to signialling networks that face no such constrainsts. (I'm not sure, without thinking about it further, that you wouldn't be able to define some kind of a conservation law on a signalling network, given that there will tend to be some constrainst, e.g. attention time/information processing capacity of the reciever nodes).<br /><br />It seems from the paper that they use simulated annealing to determing modularity. <br /><br /><hr /><br /><br />The math bit<br /><br />The modularity of a partition $\mathcal{M} \left( \mathcal{P} \right)$ is defined as<br /><pre lang="eq.latex"><br />\mathcal{M} \left( \mathcal{P} \right)  = \sum_{s=1}^{N_{M}} \left[ \frac{l_{s}}{L} - \left(  \frac{d_{s}}{2L} \right)^{2} \right]<br /></pre><br /><br />Where $L$ is the number of links in the network, $N_{M}$ is the number of non-empty modules in the partition, $l_{s}$ is the number of links in a module $s$ and $d_{s}$ is the sum of degrees in a module $s$. <br /><br />Pick your favorite algorithm (I don't have one yet!) to find a partition to your liking.<br /><br />Modules roles are determined by looking at where the modules fall in the $z$ - $P$ plane where $z$ is the relative within module degree and $P$ is the participation coefficient. I'll have a look at these two metrics in a later post.
+       </article>
+ </div>
+
+</body>
+</html>
+

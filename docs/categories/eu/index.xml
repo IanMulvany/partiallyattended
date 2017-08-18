@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eu on My New Hugo Site</title>
+    <link>/categories/eu/</link>
+    <description>Recent content in Eu on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/eu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>thoughts on the ERC data workshop</title>
+      <link>/2014/09/24/erc-workshop-thought/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/24/erc-workshop-thought/</guid>
+      <description>On Thursday and Friday of last week I attended a European Research Council workshop on managing research data. It was well attended with about 130 participants brining views from across the academic disciplines. I&amp;rsquo;ve blogged my raw notes from day one and day two. In this post I reflect on the points I noticed that were raised over the two days. People have been talking about the increasing importance of research information for many years now, and a hope was raised in the opening comments that we might be able to provide solutions to the problems posed by the issues of research data, by the end of the workshop.</description>
+    </item>
+    
+    <item>
+      <title>ERC data management workshop, day 1</title>
+      <link>/2014/09/21/erc-workshop-day1/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/21/erc-workshop-day1/</guid>
+      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene. Sabrina Leonelli - the epistemology of data-intesive science. Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed. Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting. Afternoon breakout session - Life Sciences.</description>
+    </item>
+    
+    <item>
+      <title>ERC data management workshop, day 2</title>
+      <link>/2014/09/21/erc-workshop-day2/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/21/erc-workshop-day2/</guid>
+      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  Paul Ayris - Implementing the Future: the LERU roadmap for research data. Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
+    </item>
+    
+    <item>
+      <title>EC consultation on Open Data - a report.</title>
+      <link>/2013/07/02/ec-open-data-consultation-report/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/07/02/ec-open-data-consultation-report/</guid>
+      <description>This is a report on todays consultation on open data that was help by the EC. The notes are long, so I have put my conclusions and general comments at the start.
+General comments There was not much disagreement throughout the day. There were repeated calls for the need to incentivise researchers to engage in data sharing, but not too many concrete proposals on how to do this. It does seem from my perspective that libraries could do an amazing job here, but that will depend on to which extent these libraries have deep technical expertise.</description>
+    </item>
+    
+    <item>
+      <title>EC consultation on Open Data - my presentation.</title>
+      <link>/2013/07/02/ec-open-data-consultation-our-view/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/07/02/ec-open-data-consultation-our-view/</guid>
+      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
+    </item>
+    
+  </channel>
+</rss>

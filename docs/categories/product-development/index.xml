@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Development on My New Hugo Site</title>
+    <link>/categories/product-development/</link>
+    <description>Recent content in Product Development on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/product-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Three posts about product development</title>
+      <link>/2017/03/15/three_posts_product_dev/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/03/15/three_posts_product_dev/</guid>
+      <description>I&amp;rsquo;m catching up on some reading at the moment. Trying to make headway on some other work while jet lagged is proving a challenge. Anyway, here are a couple of nice posts about product development that popped up in my feed (hat tip to Mind the Product Weekly Newsletter.
+## What do people do in the spaces in between?
+When thinking about what people do with your product, also think about what they don’t do, and how to help them get to where they are going.</description>
+    </item>
+    
+    <item>
+      <title>Some thoughts about product management</title>
+      <link>/2015/03/05/thoughts-on-product-management/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/03/05/thoughts-on-product-management/</guid>
+      <description>I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I&amp;rsquo;ve been learning on the job. There are a huge number of resources out there, great lectures, books, conferences, blog posts. In this short post I just want to reflect a bit on what I&amp;rsquo;ve learned on this topic through direct personal experience. I continue to learn, and my thinking continues to evolve, so this post is more of a look back, than a look to the future.</description>
+    </item>
+    
+    <item>
+      <title>April digital strategy forum</title>
+      <link>/2014/04/14/digital-strategy-forum-april-2014/</link>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/04/14/digital-strategy-forum-april-2014/</guid>
+      <description>On the 1st of April I had the pleasure of being invited to a digital strategy forum event hosted by the Wellcome Trust. People involved in digital and online projects from across a number of not for profit organisations gathered to hear some short talks about using, and contributing to, open source, agile project development and responsive design.
+Open Source development. Open Sourcing Wellcome Library Player – Tom Crane, Digirati agency The player can be embedded in other sites.</description>
+    </item>
+    
+  </channel>
+</rss>

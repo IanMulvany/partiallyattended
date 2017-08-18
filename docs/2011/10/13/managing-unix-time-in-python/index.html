@@ -1,0 +1,61 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2011/10/13/managing-unix-time-in-python/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">Converting between dates and unix time in Python</h1>
+
+<section>
+      <h4 id="date"> Thu Oct 13, 2011 </h4>
+      <h5 id="wordcount"> 50 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/python">python</a>, <a href="/categories/time">time</a>, <a href="/categories/unix">unix</a>
+</div>
+
+<div>
+       <article id="content">
+          
+
+<h1 id="going-from-a-date-to-a-unix-time">Going from a date to a unix time:</h1>
+
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">datetime</span> <span style="color: #f92672">import</span> <span style="color: #f8f8f2">date</span>
+<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">time</span> <span style="color: #f92672">import</span> <span style="color: #f8f8f2">mktime</span>
+<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f8f8f2">start</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">date(</span><span style="color: #ae81ff">2011</span><span style="color: #f8f8f2">,</span> <span style="color: #ae81ff">9</span><span style="color: #f8f8f2">,</span> <span style="color: #ae81ff">26</span><span style="color: #f8f8f2">)</span>
+<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f8f8f2">mktime(start</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">timetuple())</span>
+<span style="color: #ae81ff">1316991600.0</span>
+</pre></div>
+
+
+<h1 id="going-from-a-unix-time-to-a-date">Going from a unix time to a date:</h1>
+
+<p><div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">time</span> <span style="color: #f92672">import</span> <span style="color: #f8f8f2">strftime</span>
+<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">datetime</span> <span style="color: #f92672">import</span> <span style="color: #f8f8f2">datetime</span>
+<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f8f8f2">datetime</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">fromtimestamp(int(</span><span style="color: #e6db74">&quot;1284101485&quot;</span><span style="color: #f8f8f2">))</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">strftime(</span><span style="color: #e6db74">&#39;%Y-%m-%d %H:%M:%S&#39;</span><span style="color: #f8f8f2">)</span>
+<span style="color: #e6db74">&#39;2010-09-10 07:51:25&#39;</span>
+</pre></div>
+</p>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

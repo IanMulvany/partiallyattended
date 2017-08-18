@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chef on My New Hugo Site</title>
+    <link>/categories/chef/</link>
+    <description>Recent content in Chef on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/chef/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
+      <link>/2013/11/19/osx-mavericks-vagrant-librarian/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
+      <description>I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I&amp;rsquo;m working on OSX Mavericks, and I want to get as clean an install as possible. For the most part I am also using the fish shell. This is what I&amp;rsquo;ve just run through over the last 20 minutes.
+ Install command line tools from the terminal
+$ xcode-select --install  Next we are going to install homebrew, with homebrew we will install rvm and with rvm we will install ruby.</description>
+    </item>
+    
+    <item>
+      <title>Communicating better, moving from virtualenv to vagrant/Chef</title>
+      <link>/2013/04/23/chef-vagrant-over-virutalenv/</link>
+      <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/04/23/chef-vagrant-over-virutalenv/</guid>
+      <description>I&amp;rsquo;ve been using virtualenv for a while, but in the past few months, since taking up the role of head of technology for eLife, I&amp;rsquo;ve been giving much more thought about how to build scalable development environments.
+Ever since I was managing connotea, one of the biggest pains has been configuration management. I seem to have spent almost more time on configuring environments than on actually doing any development work (disclaimer, I don&amp;rsquo;t actually do much coding, I usually do more product management, but it&amp;rsquo;s really useful to know the development pain points).</description>
+    </item>
+    
+  </channel>
+</rss>

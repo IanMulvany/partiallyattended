@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network on My New Hugo Site</title>
+    <link>/categories/network/</link>
+    <description>Recent content in Network on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BarCamp Cambridge - teacking computers to understand text, Peter Corbett</title>
+      <link>/2008/07/14/barcamp-cambridge---teacking-computers-to-understand-text-peter-corbett/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/barcamp-cambridge---teacking-computers-to-understand-text-peter-corbett/</guid>
+      <description>a desk at the computer lab and at the chemistry lab.
+computationl lingustic chemistryauto-detect language in chemistry papers to try to recognics chemical andmarkup.
+suppliment the mark-up from publishers.
+can draw the chemical and annotating them overlayed over the paper
+some problems are that there can be new names in papers,comapct names, include extra hyphens, this program can deal with these kindsof things.
+also can use systematics parsing.
+this is the core technology, you can do things like search for alkloids inyour paper, or document dump</description>
+    </item>
+    
+    <item>
+      <title>live blogging from BarCamp Cambridge, Laura James</title>
+      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
+      <description>Laura JamesAlert Me.Com
+might get too corporate.
+trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
+they are going to ship a home security system, but they are actuallybuilding a platofrmthat can connect anything that does not require full audio and video
+using a mesh network that connect to a hub using a &#39;zigby&#39;output can be things like a lamp that has a color dependant state</description>
+    </item>
+    
+  </channel>
+</rss>

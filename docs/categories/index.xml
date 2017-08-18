@@ -1,0 +1,3282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My New Hugo Site</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/categories/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1am</title>
+      <link>/categories/1am/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/1am/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adobe</title>
+      <link>/categories/adobe/</link>
+      <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/adobe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile</title>
+      <link>/categories/agile/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>/categories/algorithm/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alm</title>
+      <link>/categories/alm/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/alm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alms</title>
+      <link>/categories/alms/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/alms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altmetrics</title>
+      <link>/categories/altmetrics/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/altmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazing Times</title>
+      <link>/categories/amazing-times/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/amazing-times/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon</title>
+      <link>/categories/amazon/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annotation</title>
+      <link>/categories/annotation/</link>
+      <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Api</title>
+      <link>/categories/api/</link>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>/categories/apple/</link>
+      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applescript</title>
+      <link>/categories/applescript/</link>
+      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/applescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aps</title>
+      <link>/categories/aps/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/aps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arxiv</title>
+      <link>/categories/arxiv/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astronomg</title>
+      <link>/categories/astronomg/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/astronomg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author Mapper</title>
+      <link>/categories/author-mapper/</link>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/author-mapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring</title>
+      <link>/categories/authoring/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/authoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avatar</title>
+      <link>/categories/avatar/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/avatar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avchd</title>
+      <link>/categories/avchd/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/avchd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>/categories/aws/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barcamp</title>
+      <link>/categories/barcamp/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/barcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behat</title>
+      <link>/categories/behat/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/behat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond The Pdf</title>
+      <link>/categories/beyond-the-pdf/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/beyond-the-pdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bicep2</title>
+      <link>/categories/bicep2/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/bicep2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>/categories/big-data/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biochemistry</title>
+      <link>/categories/biochemistry/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/biochemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogger</title>
+      <link>/categories/blogger/</link>
+      <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blogger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>/categories/blogging/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boltzmann</title>
+      <link>/categories/boltzmann/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/boltzmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>/categories/book/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Review</title>
+      <link>/categories/book-review/</link>
+      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/book-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>/categories/books/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bosons</title>
+      <link>/categories/bosons/</link>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/bosons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bouldering</title>
+      <link>/categories/bouldering/</link>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/bouldering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>/categories/business/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cambridge</title>
+      <link>/categories/cambridge/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cambridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camusability</title>
+      <link>/categories/camusability/</link>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/camusability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>/categories/career/</link>
+      <pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cc By</title>
+      <link>/categories/cc-by/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cc-by/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centrality</title>
+      <link>/categories/centrality/</link>
+      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/centrality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheese</title>
+      <link>/categories/cheese/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cheese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chef</title>
+      <link>/categories/chef/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/chef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemistry</title>
+      <link>/categories/chemistry/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citations</title>
+      <link>/categories/citations/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/citations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climbing</title>
+      <link>/categories/climbing/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/climbing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coasp</title>
+      <link>/categories/coasp/</link>
+      <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/coasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command Line</title>
+      <link>/categories/command-line/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/command-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>/categories/communication/</link>
+      <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Social Science</title>
+      <link>/categories/computational-social-science/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/computational-social-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Socical Science</title>
+      <link>/categories/computational-socical-science/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/computational-socical-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>/categories/conference/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connotea</title>
+      <link>/categories/connotea/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/connotea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cool</title>
+      <link>/categories/cool/</link>
+      <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copy Editing</title>
+      <link>/categories/copy-editing/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/copy-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copyright</title>
+      <link>/categories/copyright/</link>
+      <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/copyright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossref</title>
+      <link>/categories/crossref/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/crossref/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd Sourcing</title>
+      <link>/categories/crowd-sourcing/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/crowd-sourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Csl</title>
+      <link>/categories/csl/</link>
+      <pubDate>Fri, 24 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/csl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cug</title>
+      <link>/categories/cug/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>/categories/data/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Management</title>
+      <link>/categories/data-management/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>/categories/data-science/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data.Gov</title>
+      <link>/categories/data.gov/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/data.gov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>/categories/database/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Death</title>
+      <link>/categories/death/</link>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/death/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/categories/design/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/categories/development/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directed Weighted Graphs</title>
+      <link>/categories/directed-weighted-graphs/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/directed-weighted-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>/categories/disclaimer/</link>
+      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/disclaimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery</title>
+      <link>/categories/discovery/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diskworld</title>
+      <link>/categories/diskworld/</link>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/diskworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>/categories/django/</link>
+      <pubDate>Mon, 19 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dlf2010</title>
+      <link>/categories/dlf2010/</link>
+      <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/dlf2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dog In Manger</title>
+      <link>/categories/dog-in-manger/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/dog-in-manger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doi</title>
+      <link>/categories/doi/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/doi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drinks</title>
+      <link>/categories/drinks/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/drinks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dupuytrens Contracture</title>
+      <link>/categories/dupuytrens-contracture/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/dupuytrens-contracture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ebi</title>
+      <link>/categories/ebi/</link>
+      <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ebi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>/categories/economics/</link>
+      <pubDate>Mon, 26 Jun 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/categories/education/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Einstein</title>
+      <link>/categories/einstein/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/einstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elife</title>
+      <link>/categories/elife/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/elife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elife Bot</title>
+      <link>/categories/elife-bot/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/elife-bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elife Lens</title>
+      <link>/categories/elife-lens/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/elife-lens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Email</title>
+      <link>/categories/email/</link>
+      <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encode</title>
+      <link>/categories/encode/</link>
+      <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/encode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epistimology</title>
+      <link>/categories/epistimology/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/epistimology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equation</title>
+      <link>/categories/equation/</link>
+      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/equation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erc</title>
+      <link>/categories/erc/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/erc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>/categories/ethics/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eu</title>
+      <link>/categories/eu/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/eu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Every Day Matters</title>
+      <link>/categories/every-day-matters/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/every-day-matters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exif</title>
+      <link>/categories/exif/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/exif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>/categories/family/</link>
+      <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filter Failure</title>
+      <link>/categories/filter-failure/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/filter-failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flickr</title>
+      <link>/categories/flickr/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/flickr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluidinfo</title>
+      <link>/categories/fluidinfo/</link>
+      <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fluidinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus</title>
+      <link>/categories/focus/</link>
+      <pubDate>Sun, 06 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Font</title>
+      <link>/categories/font/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/font/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fontainbleau</title>
+      <link>/categories/fontainbleau/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fontainbleau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>/categories/food/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Force2015</title>
+      <link>/categories/force2015/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/force2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friction</title>
+      <link>/categories/friction/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/friction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuckers</title>
+      <link>/categories/fuckers/</link>
+      <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fuckers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funding</title>
+      <link>/categories/funding/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Futurepub</title>
+      <link>/categories/futurepub/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/futurepub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Futurepub10</title>
+      <link>/categories/futurepub10/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/futurepub10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gadget</title>
+      <link>/categories/gadget/</link>
+      <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gadget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gdocs</title>
+      <link>/categories/gdocs/</link>
+      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gdocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gdrive</title>
+      <link>/categories/gdrive/</link>
+      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gdrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geek</title>
+      <link>/categories/geek/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/geek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germany</title>
+      <link>/categories/germany/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/germany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gf1</title>
+      <link>/categories/gf1/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gf1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gherkin</title>
+      <link>/categories/gherkin/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gherkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>/categories/git/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>/categories/github/</link>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Pages</title>
+      <link>/categories/github-pages/</link>
+      <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>/categories/goals/</link>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gold</title>
+      <link>/categories/gold/</link>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>/categories/google/</link>
+      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google App Engine</title>
+      <link>/categories/google-app-engine/</link>
+      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/google-app-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Scholar</title>
+      <link>/categories/google-scholar/</link>
+      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/google-scholar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Wave</title>
+      <link>/categories/google-wave/</link>
+      <pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/google-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Theory</title>
+      <link>/categories/graph-theory/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/graph-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphs</title>
+      <link>/categories/graphs/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green</title>
+      <link>/categories/green/</link>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>/categories/hackathon/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacking</title>
+      <link>/categories/hacking/</link>
+      <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackney</title>
+      <link>/categories/hackney/</link>
+      <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/hackney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handbrake</title>
+      <link>/categories/handbrake/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/handbrake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Happyness</title>
+      <link>/categories/happyness/</link>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/happyness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harry Potter</title>
+      <link>/categories/harry-potter/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/harry-potter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heros</title>
+      <link>/categories/heros/</link>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/heros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higgs</title>
+      <link>/categories/higgs/</link>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/higgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hilighting</title>
+      <link>/categories/hilighting/</link>
+      <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/hilighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiring</title>
+      <link>/categories/hiring/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/hiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horizon 2020</title>
+      <link>/categories/horizon-2020/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/horizon-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoto</title>
+      <link>/categories/hoto/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/hoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ia</title>
+      <link>/categories/ia/</link>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iannotate</title>
+      <link>/categories/iannotate/</link>
+      <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/iannotate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ic12s2</title>
+      <link>/categories/ic12s2/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ic12s2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ic2s2</title>
+      <link>/categories/ic2s2/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ic2s2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>/categories/image/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>/categories/images/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imovie</title>
+      <link>/categories/imovie/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/imovie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>/categories/industry/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injuries</title>
+      <link>/categories/injuries/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/injuries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injury</title>
+      <link>/categories/injury/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/injury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>/categories/innovation/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspirational</title>
+      <link>/categories/inspirational/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/inspirational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interesting</title>
+      <link>/categories/interesting/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/interesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>/categories/internet/</link>
+      <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipython</title>
+      <link>/categories/ipython/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ipython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipython Notebook</title>
+      <link>/categories/ipython-notebook/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ipython-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ireland</title>
+      <link>/categories/ireland/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ireland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>/categories/javascript/</link>
+      <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>/categories/jekyll/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jisc</title>
+      <link>/categories/jisc/</link>
+      <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/jisc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>/categories/keynote/</link>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Köln</title>
+      <link>/categories/k%C3%B6ln/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/k%C3%B6ln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Models</title>
+      <link>/categories/language-models/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latex</title>
+      <link>/categories/latex/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>/categories/leadership/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lean</title>
+      <link>/categories/lean/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lean Value Tree</title>
+      <link>/categories/lean-value-tree/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lean-value-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leap</title>
+      <link>/categories/leap/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/leap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lens</title>
+      <link>/categories/lens/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons</title>
+      <link>/categories/lessons/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lessons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Librarian</title>
+      <link>/categories/librarian/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/librarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>/categories/life/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifehack</title>
+      <link>/categories/lifehack/</link>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lifehack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightroom</title>
+      <link>/categories/lightroom/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lightroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linked Data</title>
+      <link>/categories/linked-data/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/linked-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid</title>
+      <link>/categories/liquid/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/liquid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Literature</title>
+      <link>/categories/literature/</link>
+      <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/literature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>London</title>
+      <link>/categories/london/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lou</title>
+      <link>/categories/lou/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunch</title>
+      <link>/categories/lunch/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>/categories/mac/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/categories/machine-learning/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magic</title>
+      <link>/categories/magic/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/magic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mail</title>
+      <link>/categories/mail/</link>
+      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management</title>
+      <link>/categories/management/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathjax</title>
+      <link>/categories/mathjax/</link>
+      <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mathjax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mavericks</title>
+      <link>/categories/mavericks/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mavericks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megajournals</title>
+      <link>/categories/megajournals/</link>
+      <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/megajournals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>/categories/memory/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mendeley</title>
+      <link>/categories/mendeley/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mendeley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metadata</title>
+      <link>/categories/metadata/</link>
+      <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/metadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaphor</title>
+      <link>/categories/metaphor/</link>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/metaphor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moblog</title>
+      <link>/categories/moblog/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/moblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modules</title>
+      <link>/categories/modules/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/modules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mov</title>
+      <link>/categories/mov/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mp4</title>
+      <link>/categories/mp4/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mp4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mulvany.Net</title>
+      <link>/categories/mulvany.net/</link>
+      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mulvany.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Munich</title>
+      <link>/categories/munich/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/categories/music/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>/categories/nature/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>/categories/network/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Science</title>
+      <link>/categories/network-science/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/network-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>/categories/networks/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New York</title>
+      <link>/categories/new-york/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/new-york/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niso</title>
+      <link>/categories/niso/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/niso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nyc</title>
+      <link>/categories/nyc/</link>
+      <pubDate>Sun, 06 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/nyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oa</title>
+      <link>/categories/oa/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/oa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odi</title>
+      <link>/categories/odi/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/odi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>/categories/online/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Access</title>
+      <link>/categories/open-access/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Annotation</title>
+      <link>/categories/open-annotation/</link>
+      <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>/categories/open-data/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Peer Review</title>
+      <link>/categories/open-peer-review/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-peer-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science</title>
+      <link>/categories/open-science/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>/categories/open-source/</link>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openaccess</title>
+      <link>/categories/openaccess/</link>
+      <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/openaccess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opensocial</title>
+      <link>/categories/opensocial/</link>
+      <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/opensocial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opensocial Jquery</title>
+      <link>/categories/opensocial-jquery/</link>
+      <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/opensocial-jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Osx</title>
+      <link>/categories/osx/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/osx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxford</title>
+      <link>/categories/oxford/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>/categories/paper/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>/categories/papers/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>/categories/patents/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/patents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pdf</title>
+      <link>/categories/pdf/</link>
+      <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/pdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer</title>
+      <link>/categories/peer/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/peer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Review</title>
+      <link>/categories/peer-review/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/peer-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perl</title>
+      <link>/categories/perl/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>/categories/philosophy/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>/categories/photography/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>/categories/php/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>/categories/physics/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picasa</title>
+      <link>/categories/picasa/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/picasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picture</title>
+      <link>/categories/picture/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/picture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plos</title>
+      <link>/categories/plos/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poem</title>
+      <link>/categories/poem/</link>
+      <pubDate>Tue, 04 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pool Party</title>
+      <link>/categories/pool-party/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/pool-party/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postcode Paper</title>
+      <link>/categories/postcode-paper/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/postcode-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preprints</title>
+      <link>/categories/preprints/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/preprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>/categories/presentation/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability</title>
+      <link>/categories/probability/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Development</title>
+      <link>/categories/product-development/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/product-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Developmet</title>
+      <link>/categories/product-developmet/</link>
+      <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/product-developmet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Management</title>
+      <link>/categories/product-management/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/product-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Tank</title>
+      <link>/categories/product-tank/</link>
+      <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/product-tank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>/categories/productivity/</link>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Sector</title>
+      <link>/categories/public-sector/</link>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/public-sector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>/categories/publication/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publishing</title>
+      <link>/categories/publishing/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publishinig</title>
+      <link>/categories/publishinig/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/publishinig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/categories/python/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Mechanics</title>
+      <link>/categories/quantum-mechanics/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/quantum-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rat Rock</title>
+      <link>/categories/rat-rock/</link>
+      <pubDate>Sun, 06 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rat-rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raw</title>
+      <link>/categories/raw/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/raw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rdf</title>
+      <link>/categories/rdf/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rdfa</title>
+      <link>/categories/rdfa/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rdfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readwriteweb</title>
+      <link>/categories/readwriteweb/</link>
+      <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/readwriteweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendations</title>
+      <link>/categories/recommendations/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/recommendations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>/categories/religion/</link>
+      <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replicator</title>
+      <link>/categories/replicator/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/replicator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>/categories/report/</link>
+      <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/categories/research/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolutions</title>
+      <link>/categories/resolutions/</link>
+      <pubDate>Sun, 08 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/resolutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restaurant</title>
+      <link>/categories/restaurant/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/restaurant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retraction</title>
+      <link>/categories/retraction/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/retraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reveal.Js</title>
+      <link>/categories/reveal.js/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/reveal.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>/categories/review/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetoric</title>
+      <link>/categories/rhetoric/</link>
+      <pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rhetoric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Royal Statistics Society</title>
+      <link>/categories/royal-statistics-society/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/royal-statistics-society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rss</title>
+      <link>/categories/rss/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>/categories/ruby/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rvm</title>
+      <link>/categories/rvm/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sadness</title>
+      <link>/categories/sadness/</link>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sadness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sage</title>
+      <link>/categories/sage/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sameas</title>
+      <link>/categories/sameas/</link>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sameas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sankey Diagrams</title>
+      <link>/categories/sankey-diagrams/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sankey-diagrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>/categories/science/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Communication</title>
+      <link>/categories/science-communication/</link>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Hack Day</title>
+      <link>/categories/science-hack-day/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science-hack-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Online</title>
+      <link>/categories/science-online/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science2.0</title>
+      <link>/categories/science2.0/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientology</title>
+      <link>/categories/scientology/</link>
+      <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/scientology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting</title>
+      <link>/categories/scripting/</link>
+      <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seabald</title>
+      <link>/categories/seabald/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/seabald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/categories/search/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Web</title>
+      <link>/categories/semantic-web/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/semantic-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serendipity</title>
+      <link>/categories/serendipity/</link>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/serendipity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shit Sandwich</title>
+      <link>/categories/shit-sandwich/</link>
+      <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/shit-sandwich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoreditch</title>
+      <link>/categories/shoreditch/</link>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/shoreditch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoreditch Boulder</title>
+      <link>/categories/shoreditch-boulder/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/shoreditch-boulder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simpsons</title>
+      <link>/categories/simpsons/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/simpsons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sits</title>
+      <link>/categories/sits/</link>
+      <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skos</title>
+      <link>/categories/skos/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/skos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/categories/slides/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slowness</title>
+      <link>/categories/slowness/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/slowness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Science</title>
+      <link>/categories/social-science/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/social-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/categories/software/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Carpentry</title>
+      <link>/categories/software-carpentry/</link>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/software-carpentry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solo</title>
+      <link>/categories/solo/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/solo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solo10</title>
+      <link>/categories/solo10/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/solo10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solo11</title>
+      <link>/categories/solo11/</link>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/solo11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solo12</title>
+      <link>/categories/solo12/</link>
+      <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/solo12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solo13</title>
+      <link>/categories/solo13/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/solo13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spain</title>
+      <link>/categories/spain/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/spain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spoton</title>
+      <link>/categories/spoton/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/spoton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Springer</title>
+      <link>/categories/springer/</link>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/springer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sqlite</title>
+      <link>/categories/sqlite/</link>
+      <pubDate>Mon, 19 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sqlite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standards</title>
+      <link>/categories/standards/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/standards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>/categories/statistics/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stm</title>
+      <link>/categories/stm/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/stm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>/categories/storage/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sys Ops</title>
+      <link>/categories/sys-ops/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sys-ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysops</title>
+      <link>/categories/sysops/</link>
+      <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sysops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag Cloud</title>
+      <link>/categories/tag-cloud/</link>
+      <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tag-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/categories/tags/</link>
+      <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>/categories/talk/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talkfest</title>
+      <link>/categories/talkfest/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/talkfest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/categories/talks/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>/categories/tech/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Debt</title>
+      <link>/categories/technical-debt/</link>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/technical-debt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templating</title>
+      <link>/categories/templating/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/templating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/categories/test/</link>
+      <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>/categories/testing/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Analysis</title>
+      <link>/categories/text-analysis/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Future Is Coming</title>
+      <link>/categories/the-future-is-coming/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/the-future-is-coming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threaded Publications</title>
+      <link>/categories/threaded-publications/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/threaded-publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threads</title>
+      <link>/categories/threads/</link>
+      <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/threads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time</title>
+      <link>/categories/time/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tolstoy</title>
+      <link>/categories/tolstoy/</link>
+      <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tolstoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toolbox</title>
+      <link>/categories/toolbox/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/toolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>/categories/tools/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>/categories/training/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparency</title>
+      <link>/categories/transparency/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/transparency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>/categories/travel/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends</title>
+      <link>/categories/trends/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust</title>
+      <link>/categories/trust/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tumblog</title>
+      <link>/categories/tumblog/</link>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tumblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>/categories/tutorial/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tv</title>
+      <link>/categories/tv/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/categories/twitter/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Txt</title>
+      <link>/categories/txt/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/txt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>/categories/unix/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Experience</title>
+      <link>/categories/user-experience/</link>
+      <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/user-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ux</title>
+      <link>/categories/ux/</link>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vagrant</title>
+      <link>/categories/vagrant/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/vagrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/categories/video/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>War</title>
+      <link>/categories/war/</link>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/categories/web/</link>
+      <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wedding</title>
+      <link>/categories/wedding/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/wedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weight</title>
+      <link>/categories/weight/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/weight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whiskey</title>
+      <link>/categories/whiskey/</link>
+      <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/whiskey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Widget</title>
+      <link>/categories/widget/</link>
+      <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/widget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wikimania</title>
+      <link>/categories/wikimania/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/wikimania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wikimania2014</title>
+      <link>/categories/wikimania2014/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/wikimania2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wittgenstein</title>
+      <link>/categories/wittgenstein/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/wittgenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>/categories/work/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>/categories/workshops/</link>
+      <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writelatex</title>
+      <link>/categories/writelatex/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/writelatex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xmp</title>
+      <link>/categories/xmp/</link>
+      <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/xmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yenow</title>
+      <link>/categories/yenow/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/yenow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yql</title>
+      <link>/categories/yql/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/yql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zanran</title>
+      <link>/categories/zanran/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/zanran/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

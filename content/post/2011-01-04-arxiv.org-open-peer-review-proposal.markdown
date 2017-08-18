@@ -1,0 +1,18 @@
+---
+categories:
+- publishing
+- arxiv
+- peer review
+date: 2011-01-04T00:00:00Z
+title: Turning the Physics ArXiV into an Open Peer Review System.
+url: /2011/01/04/arxiv.org-open-peer-review-proposal/
+---
+
+[Axel Boldt][ab] posted an interesting [short paper][paper] discussing how to turn the physics ArXiV into an open peer review system. It's a short read, about three pages, but if you are familiar with the problems around peer review then you can just jump to part three of the paper which is a little under a page.
+
+ The solution proposed is to create a new role of editor on the ArXiV, and allow anyone to propose their paper for review.  An open, almost endless, review process could ensue if scientists wanted to contribute time to review items. The editor has to choose who gets to review the paper, and this layer of peer review would require some maintenance. An extension to the idea might be to allow anyone to peer review a paper that was in the "reviewing pool", and then attach reviewing profiles to the people who had done reviews. Those profiles could include information about the connections between reviewers and reviwees, and one could imagine an editor refusing the peer review stamp if those explicit connections between reviewer and reviewee were too close. With another tweak, one could imagine assigning points to the reviewers, and if one has enough review points, then you get to somehow jump the queue when you submit a paper for review.
+
+I'd say Axel's idea is a good starting point. Many of the social gaming features that you would want to incorporate into a site that allows social reviews are understood, and if you built it right it could work. I think the success would depend on getting an initial stable or high-quality editors associated with a "journal brand", that would attract submissions, and in addition you would want to build a fairly seemless system, but it's not implausible to see that such a system could be built.
+
+[ab]: http://math-www.uni-paderborn.de/~axel/
+[paper]: http://arxiv.org/pdf/1011.6590v1

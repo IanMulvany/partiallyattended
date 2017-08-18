@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disclaimer on My New Hugo Site</title>
+    <link>/categories/disclaimer/</link>
+    <description>Recent content in Disclaimer on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/disclaimer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I&#39;m setting up this blog</title>
+      <link>/2009/04/13/why-im-setting-up-this-blog/</link>
+      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/04/13/why-im-setting-up-this-blog/</guid>
+      <description>Right, well, I&#39;m pretty interested in graph theory. I work in publishing for the journal Nature on new web products, and I need a focussed way of getting my thoughts together on a range of topics that touch on science. I wanted a space that was more focussed than my personal blog.
+I have a few specific aims for this blog. Get some of my thoughts on publishing, science and the philosophy of science out of my head and into an archived public space</description>
+    </item>
+    
+  </channel>
+</rss>

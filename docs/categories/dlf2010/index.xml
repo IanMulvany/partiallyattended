@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dlf2010 on My New Hugo Site</title>
+    <link>/categories/dlf2010/</link>
+    <description>Recent content in Dlf2010 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Mar 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/dlf2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sits meeting notes, November 2010.</title>
+      <link>/2011/03/30/sits-notes/</link>
+      <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/03/30/sits-notes/</guid>
+      <description>2010-11-04 sits
+Right, the meeting is starting, it&amp;rsquo;s an open meeting, so we don&amp;rsquo;t have a specific agenda, but as the day goes on topics for discussion will emerge, and these will be time-boxed for discussion.
+As the participation list is available on the eventbrite site, I&amp;rsquo;m not going to capture that here.
+Some topics from the last meeting  signatures on digital objects correct identifiers on digital objects author identifiers lightweight languages toolsets sword, sword2</description>
+    </item>
+    
+    <item>
+      <title>Arriving in Paulo Alto for the DLF fall forum</title>
+      <link>/2010/11/02/arriving-for-the-dlf/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/02/arriving-for-the-dlf/</guid>
+      <description>(I&amp;rsquo;m posting some of these posts a few days after writing, but you&amp;rsquo;ll get that, won&amp;rsquo;t you)
+It&amp;rsquo;s five in the morning, and I&amp;rsquo;m well and truly jet lagged, but after the past week this is not the strangest I&amp;rsquo;ve been feeling so, it&amp;rsquo;s not too bad (the immunisation shots for my trip to Mexico left me in an entertainingly woozy state Friday evening).
+I&amp;rsquo;m over to cover the digital library federation meeting, and the satellite SITS meeting on thursday.</description>
+    </item>
+    
+    <item>
+      <title>DLF opening keynote, beyond buckets and boxes</title>
+      <link>/2010/11/02/dlf2010-keynote/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/02/dlf2010-keynote/</guid>
+      <description>(notes taken yesterday)
+The keynote is starting, the DLF has grown by 15 new member organisations, and this is one of the best attended events that they have run, the room is packed, i didn&amp;rsquo;t realise that there were so many people in the hotel, its looking like its going to be an interesting meeting.
+The original vision for this group is to create a national digital library, they have been talking about this since 1994 (goodness, so much that needs to be cut through to get to where we know we need to get to).</description>
+    </item>
+    
+    <item>
+      <title>San Francisco, and science hack day discussions</title>
+      <link>/2010/11/02/science-hack-day-discussions/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/02/science-hack-day-discussions/</guid>
+      <description>(This was from Sunday)
+In an attempt to get over the jet lag, myself and Dave headed over to San Francisco yesterday, we had a good walk around, got lost twice, and then met pup with the lovely Ariel Waldman. I had to drop off some mendeley schwag for the upcoming San Francisco science hack day that Ariel is organising (we are giving a little sponsorship, yay!). It&amp;rsquo;s going to take place in two weeks, and it looks lie it&amp;rsquo;s going to be an awesome event.</description>
+    </item>
+    
+  </channel>
+</rss>

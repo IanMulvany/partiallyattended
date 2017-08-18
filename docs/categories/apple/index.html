@@ -1,0 +1,55 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/categories/apple/'>
+  <link href='/categories/apple/index.xml' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+<div>
+ <h1>Apple</h1>
+ 
+  
+    <article class="post-preview">
+  <a href="/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/">
+      <h1 class="post-title">save mailfolder messages to a file using applescript</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+                                            Posted on October 18, 2010
+  </p>
+
+  <div class="post-entry">
+                <p>
+                    I&rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.
+This is what I came up with.
+set fileRoot to &quot;Macintosh HD:Users:path:&quot; set messageList to {} tell application &quot;Mail&quot; set messageList to messageList &amp; (messages of mailbox &quot;mailbox name&quot; of account &quot;account&quot; of application &quot;Mail&quot;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp; &quot;mailcontent&quot; &amp; fileNum &amp; &quot;.
+                    <a href="/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/" class="post-read-more">... (more)</a>
+                </p>
+
+          <div class="post-entry-tags">
+              Posted In:
+               <a href="/categories/apple">apple</a>, <a href="/categories/mail">mail</a>, <a href="/categories/applescript">applescript</a>
+          </div>
+  </div>
+
+ </article>
+
+  
+</div>
+
+</body>
+</html>
+

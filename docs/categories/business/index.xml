@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on My New Hugo Site</title>
+    <link>/categories/business/</link>
+    <description>Recent content in Business on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>friends of mine of TV</title>
+      <link>/2008/07/14/friends-of-mine-of-tv/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/friends-of-mine-of-tv/</guid>
+      <description>A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ais for the first couple of years,but it is looking like things are really working out for her now. She wasrecently featured on TV in Ireland, and she has posted a link to the clipfrom her blog. For a really inspirational view on managing business withchildcare have a loot at the vid:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Replicator on My New Hugo Site</title>
+    <link>/categories/replicator/</link>
+    <description>Recent content in Replicator on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/replicator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Today at lunch duplicators and instantiators</title>
+      <link>/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
+      <description>I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last time I can recall having somany interesting discussions over lunch and breaks was way back when I wasin my first undergraduate degree, but the topics of conversation that tendto come up at my current place of employment are really worth trying torecord.
+Today we started off having a couple of split conversation, Euan describingchatting to Martha at Sci-Foo and Euan and I talking about Euler, as you do.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2009/04/12/testing-latex-and-syntax-hilighting-on-blogger/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">testing latex and syntax hilighting on blogger</h1>
+
+<section>
+      <h4 id="date"> Sun Apr 12, 2009 </h4>
+      <h5 id="wordcount"> 75 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                          
+</div>
+
+<div>
+       <article id="content">
+          Some python code <br /><br /><br />some links <br />http://www.ramymostafa.com/?p=99<br />http://alexgorbatchev.com/wiki/SyntaxHighlighter<br />http://www.botcyb.org/2008/10/rendering-latex-in-blogger.html<br />http://blog.yourequations.com/<br /><br /><br />Syntaxhiligher2 (unreliable)<br /><pre class="brush: py"><br /><br />def AuthenticateSession(username,password):<br />     blogger_service = service.GDataService(username,password)<br />     blogger_service.source = 'mulvanynet-BloggerTagger-1.0'<br />     blogger_service.service = 'blogger'<br />     blogger_service.server = 'www.blogger.com'<br />     blogger_service.ProgrammaticLogin()<br />     return blogger_service<br /><br />def PrintUserBlogInfo(blogger_service):<br />     query = service.Query()<br />     query.feed = '/feeds/default/blogs'<br />     feed = blogger_service.Get(query.ToUri())<br />     blog_id = feed.entry[0].GetSelfLink().href.split("/")[-1]<br />     print feed.title.text<br />     print blog_id<br />     for entry in feed.entry:<br />         print "\t" + entry.title.text,<br />         print entry.GetSelfLink().href.split("/")[-1]<br /><br />def GetBlogFeed(blogger_service):<br />    query = service.Query()<br />    query.feed = "/feeds/default/blogs"<br />   feed = blogger_service.Get(query.ToUri())<br />   return feed<br /></pre><br /><br /><pre lang="latex"><br />\int_{0}^{1}\frac{x^{4}\left(1-x\right)^{4}}{1+x^{2}}dx<br />=\frac{22}{7}-\pi<br /></pre><br /><br />renders as<br /><br /><pre lang="eq.latex"><br />\int_{0}^{1}\frac{x^{4}\left(1-x\right)^{4}}{1+x^{2}}dx<br />=\frac{22}{7}-\pi<br /></pre>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

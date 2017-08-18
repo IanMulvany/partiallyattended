@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oxford on My New Hugo Site</title>
+    <link>/categories/oxford/</link>
+    <description>Recent content in Oxford on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/oxford/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wittgenstein and Physics, Cross College Oxford one day seminar</title>
+      <link>/2015/02/19/wittgenstein-and-physics/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/02/19/wittgenstein-and-physics/</guid>
+      <description>(image via peternijenhuis)
+Last year I attended a one day seminar on Wittgenstein and Physics. It was held at Cross College Oxford and was the first in a planned series of talks on the history and philosophy of science. It&amp;rsquo;s been a long time since I&amp;rsquo;ve done physics seriously, and longer still since I took classes on the history and philosophy of science, so I attended very much in the mode of the interested outsider.</description>
+    </item>
+    
+    <item>
+      <title>Some thoughts on FORCE2015, science trust and ethics.</title>
+      <link>/2015/01/19/force2015-thoughts/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/01/19/force2015-thoughts/</guid>
+      <description>Last week I was at the FORCE2015 conference. I enjoyed it greatly. This was the 2015 instance of the FORCE11/Beyond the pdf conference. I&amp;rsquo;d been aware of these meetings since the first one was announced back in 2011, but this was my first chance to attend one. (If I recall, I&amp;rsquo;d even been invited to the DagStuhl workshop, but had been unable to attend. I&amp;rsquo;d been to one DagStuhl workshop on science and social networks many years ago, and that had been one of the best short meetings that I&amp;rsquo;d ever attended, so I&amp;rsquo;d been sad not to be able to go to the Beyond the PDF meeting).</description>
+    </item>
+    
+  </channel>
+</rss>

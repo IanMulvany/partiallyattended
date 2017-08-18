@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connotea on My New Hugo Site</title>
+    <link>/categories/connotea/</link>
+    <description>Recent content in Connotea on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/connotea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some thoughts about product management</title>
+      <link>/2015/03/05/thoughts-on-product-management/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/03/05/thoughts-on-product-management/</guid>
+      <description>I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I&amp;rsquo;ve been learning on the job. There are a huge number of resources out there, great lectures, books, conferences, blog posts. In this short post I just want to reflect a bit on what I&amp;rsquo;ve learned on this topic through direct personal experience. I continue to learn, and my thinking continues to evolve, so this post is more of a look back, than a look to the future.</description>
+    </item>
+    
+  </channel>
+</rss>

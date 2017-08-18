@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Tank on My New Hugo Site</title>
+    <link>/categories/product-tank/</link>
+    <description>Recent content in Product Tank on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/product-tank/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Product Tank 6, big data</title>
+      <link>/2013/01/23/product-tank-jan-2013/</link>
+      <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/01/23/product-tank-jan-2013/</guid>
+      <description>I&amp;rsquo;m at PridcutTank 6. Todays topic is big data.
+Hether Savory - Open Data User Group She is the chair of the open data user group. She is using a recipe analogy for the use of data in the creation of products - data is an ingredient, but you have to get the ingredients right. (There are a number of people in the audience who work with public sector data, and more people who work with open data, but most people know about this, but they don&amp;rsquo;t use it).</description>
+    </item>
+    
+  </channel>
+</rss>

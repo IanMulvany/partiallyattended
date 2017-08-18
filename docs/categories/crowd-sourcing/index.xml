@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crowd Sourcing on My New Hugo Site</title>
+    <link>/categories/crowd-sourcing/</link>
+    <description>Recent content in Crowd Sourcing on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Sep 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/crowd-sourcing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slides from APS Talk, August, 2010</title>
+      <link>/2010/09/13/slides-from-aps-talk/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/09/13/slides-from-aps-talk/</guid>
+      <description>Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to talk to some really interesting scientists. My talk slides are below.
+Unveiling the web, making the implicit explicit.View more documents from Ian Mulvany. </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2009/01/21/unnamed/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">unknown post</h1>
+
+<section>
+      <h4 id="date"> Wed Jan 21, 2009 </h4>
+      <h5 id="wordcount"> 20 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                          
+</div>
+
+<div>
+       <article id="content">
+          <textarea><br /><link href='http://[YOUR HOST]/SyntaxHighlighter.css' rel='stylesheet' type='text/css'/><br /><script src='http://[YOUR HOST]/shCore.js' type='text/javascript'/><br /><br /><script src='http://[YOUR HOST]/shBrushCpp.js' type='text/javascript'/><br /><script src='http://[YOUR HOST]/shBrushCSharp.js' type='text/javascript'/><br /><script src='http://[YOUR HOST]/shBrushCss.js' type='text/javascript'/><br /><script src='http://[YOUR HOST]/shBrushJava.js' type='text/javascript'/><br /><script src='http://[YOUR HOST]/shBrushJScript.js' type='text/javascript'/><br /><script src='http://[YOUR HOST]/shBrushSql.js' type='text/javascript'/><br /><script src='http://[YOUR HOST]/shBrushXml.js' type='text/javascript'/><br /><br /><script class='javascript'><br />//<![CDATA[<br />  function FindTagsByName(container, name, Tag)<br />  {<br />      var elements = document.getElementsByTagName(Tag);<br />      for (var i = 0; i < elements.length; i++)<br />      {<br />          if (elements[i].getAttribute("name") == name)<br />          {<br />              container.push(elements[i]);<br />          }<br />      }<br />  }<br />  var elements = [];<br />  FindTagsByName(elements, "code", "pre");<br />  FindTagsByName(elements, "code", "textarea");<br /><br />for(var i=0; i < elements.length; i++) {<br />if(elements[i].nodeName.toUpperCase() == "TEXTAREA") {<br /> var childNode = elements[i].childNodes[0];<br /> var newNode = document.createTextNode(childNode.nodeValue.replace(/<br\s*\/?>/gi,'\n'));<br /> elements[i].replaceChild(newNode, childNode);<br /><br />}<br />else if(elements[i].nodeName.toUpperCase() == "PRE") {<br /> brs = elements[i].getElementsByTagName("br");<br /> for(var j = 0, brLength = brs.length; j < brLength; j++) {<br />  var newNode = document.createTextNode("\n");<br />  elements[i].replaceChild(newNode, brs[0]);<br /> }<br />}<br />}<br />//clipboard does not work well, no line breaks<br />// dp.SyntaxHighlighter.ClipboardSwf =<br />//"http://[YOUR HOST]/clipboard.swf";<br />dp.SyntaxHighlighter.HighlightAll("code");<br />//]]><br /></script><br /><br /></body><br /></html><br /></textarea>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

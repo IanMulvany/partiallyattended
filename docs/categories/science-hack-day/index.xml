@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Hack Day on My New Hugo Site</title>
+    <link>/categories/science-hack-day/</link>
+    <description>Recent content in Science Hack Day on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Nov 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/science-hack-day/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>San Francisco, and science hack day discussions</title>
+      <link>/2010/11/02/science-hack-day-discussions/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/02/science-hack-day-discussions/</guid>
+      <description>(This was from Sunday)
+In an attempt to get over the jet lag, myself and Dave headed over to San Francisco yesterday, we had a good walk around, got lost twice, and then met pup with the lovely Ariel Waldman. I had to drop off some mendeley schwag for the upcoming San Francisco science hack day that Ariel is organising (we are giving a little sponsorship, yay!). It&amp;rsquo;s going to take place in two weeks, and it looks lie it&amp;rsquo;s going to be an awesome event.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2017/01/10/crossref-reverse-lookups/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">Reverse DOI lookups with Crossref</h1>
+
+<section>
+      <h4 id="date"> Tue Jan 10, 2017 </h4>
+      <h5 id="wordcount"> 205 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/publishing">publishing</a>, <a href="/categories/citations">citations</a>, <a href="/categories/doi">doi</a>, <a href="/categories/programming">programming</a>, <a href="/categories/crossref">crossref</a>
+</div>
+
+<div>
+       <article id="content">
+          <p>Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.</p>
+
+<p><a href="https://twitter.com/crossreforg">@CrossrefOrg</a> helped out and pointed me to the <code>reverse</code> api endpoint. It workes like this:</p>
+
+<p><code>http://api.crossref.org/reverse</code></p>
+
+<p>Created a json payload file “citation.json” formatted as follows:</p>
+
+<pre><code class="language-json">[
+  &quot;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers. Journal of General Internal Medicine, 16, 41-49.
+  &quot;
+]
+</code></pre>
+
+<p>Call the API using CURL (you need to set the Content-Type header to application/json)</p>
+
+<blockquote>
+<p>$ curl -vX POST <a href="http://api.crossref.org/reverse">http://api.crossref.org/reverse</a> -d @citation.json &ndash;header &ldquo;Content-Type: application/json&rdquo;</p>
+</blockquote>
+
+<p>I then got the following response:</p>
+
+<pre><code class="language-json">{&quot;status&quot;:&quot;ok&quot;,&quot;message-type&quot;:&quot;work&quot;,&quot;message-version&quot;:&quot;1.0.0&quot;,&quot;message&quot;:{&quot;indexed&quot;:{&quot;date-parts&quot;:[[2016,10,25]],&quot;date-time&quot;:&quot;2016-10-25T11:17:12Z&quot;,&quot;timestamp&quot;:1477394232160},&quot;reference-count&quot;:21,&quot;publisher&quot;:&quot;Springer Nature&quot;,&quot;issue&quot;:&quot;1&quot;,&quot;content-domain&quot;:{&quot;domain&quot;:[],&quot;crossmark-restriction&quot;:false},&quot;short-container-title&quot;:[&quot;J Gen Intern Med&quot;],&quot;cited-count&quot;:0,&quot;published-print&quot;:{&quot;date-parts&quot;:[[2001,1]]},&quot;DOI&quot;:&quot;10.1111\/j.1525-1497.2001.00333.x&quot;,&quot;type&quot;:&quot;journal-article&quot;,&quot;created&quot;:{&quot;date-parts&quot;:[[2004,6,9]],&quot;date-time&quot;:&quot;2004-06-09T16:44:02Z&quot;,&quot;timestamp&quot;:1086799442000},&quot;page&quot;:&quot;41-49&quot;,&quot;source&quot;:&quot;CrossRef&quot;,&quot;title&quot;:[&quot;Understanding Physicians' Skills at Providing End-of-Life Care. Perspectives of Patients, Families, and Health Care Workers&quot;],&quot;prefix&quot;:&quot;http:\/\/id.crossref.org\/prefix\/10.1007&quot;,&quot;volume&quot;:&quot;16&quot;,&quot;author&quot;:[{&quot;given&quot;:&quot;J. Randall”,&quot;family&quot;:&quot;Curtis&quot;,&quot;affiliation&quot;:[]},{&quot;given&quot;:&quot;Marjorie D.&quot;,&quot;family&quot;:&quot;Wenrich&quot;,&quot;affiliation&quot;:[]},{&quot;given&quot;:&quot;Jan D.&quot;,&quot;family&quot;:&quot;Carline&quot;,&quot;affiliation&quot;:[]},{&quot;given&quot;:&quot;Sarah E.&quot;,&quot;family&quot;:&quot;Shannon&quot;,&quot;affiliation&quot;:[]},{&quot;given&quot;:&quot;Donna M.&quot;,&quot;family&quot;:&quot;Ambrozy&quot;,&quot;affiliation&quot;:[]},{&quot;given&quot;:&quot;Paul G.&quot;,&quot;family&quot;:&quot;Ramsey&quot;,&quot;affiliation&quot;:[]}],&quot;member&quot;:&quot;http:\/\/id.crossref.org\/member\/297&quot;,&quot;container-title&quot;:[&quot;Journal of General Internal Medicine&quot;],&quot;original-title&quot;:[],&quot;deposited&quot;:{&quot;date-parts&quot;:[[2011,8,10]],&quot;date-time&quot;:&quot;2011-08-10T15:39:02Z&quot;,&quot;timestamp&quot;:1312990742000},&quot;score&quot;:120.61636,&quot;subtitle&quot;:[],&quot;short-title&quot;:[],&quot;issued&quot;:{&quot;date-parts&quot;:[[2001,1]]},&quot;alternative-id&quot;:[&quot;10.1111\/j.1525-1497.2001.00333.x&quot;],&quot;URL&quot;:&quot;http:\/\/dx.doi.org\/10.1111\/j.1525-1497.2001.00333.x&quot;,&quot;ISSN&quot;:[&quot;0884-8734&quot;,&quot;1525-1497&quot;],&quot;citing-count&quot;:21,&quot;subject&quot;:[&quot;Internal Medicine&quot;]}}
+</code></pre>
+
+<p>From this we can see that crossref suggests the following DOI lookup with a score of “120”
+http:\/\/dx.doi.org\/10.1111\/j.1525-1497.2001.00333.x</p>
+
+<p>There is some backslash escaping going on here, so the actual lookup url is:
+[<a href="http://dx.doi.org/10.1111/j.1525-1497.2001.00333.x](">http://dx.doi.org/10.1111/j.1525-1497.2001.00333.x](</a>).</p>
+
+<p>This directs us the the following <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1525-1497.2001.00333.x/abstract;jsessionid=12FD9F17A25B963F3E7D03C42AB137A7.f03t03?systemMessage=Wiley+Online+Library+Journal+subscribe+and+renew+pages+for+some+journals+will+be+unavailable+on+Wednesday+11th+January+2017+from+06%3A00-12%3A00+GMT+%2F+01%3A00-07%3A00+EST+%2F+14%3A00-20%3A00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience">article</a>, which does seem to be the one that we are interested in.</p>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

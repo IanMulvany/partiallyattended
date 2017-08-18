@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipython on My New Hugo Site</title>
+    <link>/categories/ipython/</link>
+    <description>Recent content in Ipython on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ipython/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some pittfalls in using iPython to generate talk slides</title>
+      <link>/2014/08/11/pitfalls-of-ipython-for-talk-slides/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/08/11/pitfalls-of-ipython-for-talk-slides/</guid>
+      <description>Yesterday I gave a talk using iPython notebook to generate the talk slides. You can get the notebook on github, and you can see a live version of the slides.
+It succeeded in generating an artefact that was somewhat literate, in that the code and documentation are nicely woven together, so anyone who has the time can get to exactly the same point that I got to, with this repo, however there were also a couple of problems that I ran into that make me feel that this is not yet ready for mainstream use, specifically:</description>
+    </item>
+    
+    <item>
+      <title>Communicating better, moving from virtualenv to vagrant/Chef</title>
+      <link>/2013/04/23/chef-vagrant-over-virutalenv/</link>
+      <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/04/23/chef-vagrant-over-virutalenv/</guid>
+      <description>I&amp;rsquo;ve been using virtualenv for a while, but in the past few months, since taking up the role of head of technology for eLife, I&amp;rsquo;ve been giving much more thought about how to build scalable development environments.
+Ever since I was managing connotea, one of the biggest pains has been configuration management. I seem to have spent almost more time on configuring environments than on actually doing any development work (disclaimer, I don&amp;rsquo;t actually do much coding, I usually do more product management, but it&amp;rsquo;s really useful to know the development pain points).</description>
+    </item>
+    
+  </channel>
+</rss>

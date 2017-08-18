@@ -1,0 +1,450 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2011/03/30/sits-notes/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">Sits meeting notes, November 2010.</h1>
+
+<section>
+      <h4 id="date"> Wed Mar 30, 2011 </h4>
+      <h5 id="wordcount"> 2057 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/sits">sits</a>, <a href="/categories/jisc">jisc</a>, <a href="/categories/dlf2010">DLF2010</a>
+</div>
+
+<div>
+       <article id="content">
+          
+
+<p>2010-11-04 sits</p>
+
+<p>Right, the meeting is starting, it&rsquo;s an open meeting, so we don&rsquo;t have
+a specific agenda, but as the day goes on topics for discussion will
+emerge, and these will be time-boxed for discussion.</p>
+
+<p>As the participation list is available on the <a href="http://sits-dlf.eventbrite.com/">eventbrite</a> site,
+I&rsquo;m not going to capture that here.</p>
+
+<h1 id="some-topics-from-the-last-meeting">Some topics from the last meeting</h1>
+
+<ul>
+<li>signatures on digital objects</li>
+<li>correct identifiers on digital objects</li>
+<li>author identifiers</li>
+<li>lightweight languages</li>
+<li>toolsets</li>
+<li>sword, sword2</li>
+</ul>
+
+<p></br></p>
+
+<h1 id="some-potential-topics-for-this-meeting">Some potential topics for this meeting</h1>
+
+<ul>
+<li>authentication and access control</li>
+<li>rdf and linked data within institutions and repositories</li>
+<li>data curation</li>
+<li>reasonable workflow components, best practices</li>
+<li>lightweight tool sharing</li>
+<li>web archiving</li>
+<li>sustainable storage</li>
+<li>tool sharing</li>
+
+<li><p>data curation, big data, and what the concept of curation means for
+repositories<br />
+</br></p>
+
+<h1 id="actual-topics-discussed">Actual topics discussed</h1></li>
+
+<li><p><a href="#auth">Authentication</a></p></li>
+
+<li><p><a href="#link">Linked data</a></p></li>
+
+<li><p><a href="#arch">Web Archiving</a></p></li>
+
+<li><p><a href="#id">Identifiers for people</a></p></li>
+
+<li><p><a href="#ms">Microservices</a></p></li>
+
+<li><p><a href="#seo">SEO and search engine optimisation</a></p></li>
+
+<li><p><a href="#light">Lightweight Languages</a></p></li>
+</ul>
+
+<p></br></p>
+
+<h1 id="topic-discussions">topic discussions</h1>
+
+<h2 id="auth">Authentication</h2> 
+
+<p>The first option that is discussed is shibboleth. Generally authentication breaks down according on one of the following mechanisms:</p>
+
+<ul>
+<li>shib</li>
+<li>non-shib</li>
+<li>ip based</li>
+</ul>
+
+<p>One of the questions is how does service host have trust in 3rd party
+services, and understand whether that other provider is doing a good
+job?</p>
+
+<dl>
+<dt>A problem with ldap is that groups within ldap could go out of date.</dt>
+<dt>:question: has shibboleth provided support for services yet?
+:answer: it&rsquo;s an interesting question</dt>
+</dl>
+
+<p>Are there approaches on service to service authentication that have worked
+3 concrete examples:</p>
+
+<ul>
+<li>j2k service, it retrieves content over http</li>
+<li>integrating with JOVE, pass in to it a url source, and if that content
+is protected it will be the same issue</li>
+<li>fedora</li>
+</ul>
+
+<p>So there are social, and technological problems</p>
+
+<p>How does one manage individual level access on a lightweight basis,
+for instance, allowing people to pass something off to an iPhone. How
+do you enable content owners to set the access permissions of their
+own data.</p>
+
+<p>If you deliver all of your content with Drupal, you can just hook into
+drupal&rsquo;s authentication systems, and this makes it look to the end
+user that they are just managing a part of their site.</p>
+
+<p>So there are a couple of things going on here:</p>
+
+<ul>
+<li>institute to institute</li>
+<li>institute to end users around content held by the institute</li>
+<li>data owner within institute to 3rd party applications for that user,
+e.g. iPhone apps</li>
+<li>data owner within institute setting permissions around their own data</li>
+</ul>
+
+<p>An interesting use case is how you allow anonymous local users on a
+campus wide system to access content.
+Shib2 has a way of allowing an ip address to skip the authentication
+step, it&rsquo;s a pretty static list.
+This use case was designed for kiosk machines</p>
+
+<p>There are <a href="http://www.oclc.org/ezproxy/">ezproxy</a> campuses and non-ezproxy campuses. This use case is
+slightly different from the normal experience of a web user because
+when they go to a 3rd party service we need to figure out a way that
+would enable them to assert the university rights at that end point.</p>
+
+<h3 id="takeaways-from-this-talking-point">takeaways from this talking point:</h3>
+
+<ul>
+<li>think about pushing the authentication down into the stack, so that
+the front layer can be plugged into a number of different areas? (I
+didn&rsquo;t capture that point well)</li>
+<li>articulate how openauth does or does not work within institutions
+(what does <a href="http://en.wikipedia.org/wiki/Security_Assertion_Markup_Language">saml</a> give you that <a href="http://oauth.net/">oauth</a> does not give you?)</li>
+<li>are there any examples of universities that are using <a href="http://openid.net/">openid</a>?</li>
+<li>think about creating a microservices driven layer for
+multi-authentication systems</li>
+</ul>
+
+<p></br></p>
+
+<p><h2 id="link">Linked data</h2></p>
+
+<p>What is happening and what is not happening, what could easily happen,
+and why is it not happening?</p>
+
+<p>In <a href="http://projectblacklight.org/">blacklight</a> search repositories there is a lot of content
+aggregating there, and these could be exposed as <a href="http://www.w3.org/RDF/">rdf</a>. I ask what is
+the advantage or disadvantage of rdf over <a href="http://www.opensearch.org/Home">opensearch</a>. This is answered
+quite nicely, linked data is about known content, and opensearch is
+about finding content when you don&rsquo;t know exactly where it might be.
+Think of linked data a bit like rss.</p>
+
+<p>Another question, is there other content that we should be thinking
+about pushing out too, is there local content, what would that look
+like, and how would that help in the open world?</p>
+
+<p>Is there a spec for exposing triples as linked data. There are
+hundreds of specs, and many different ontologies. The best thing to do
+might be to wait and see what the big players are doing. A good
+example is Google&rsquo;s recent adoption of <a href="http://www.heppnetz.de/projects/goodrelations/">GoodRelations</a>.</p>
+
+<p>One thing that really bit Southampton is to think about how it is
+going to be consumed, and ideally consume it yourself.  A good analogy
+is to create a user interface, and never use that user interface
+yourself.  It&rsquo;s the only way where one will find the minor but really
+annoying errors.</p>
+
+<p>Something to look for are javascript tools and restful apis for
+playing with the semantic web. <a href="http://www.jenitennison.com/blog/">Jenny Tennison</a> is working on some of
+these tools like <a href="http://code.google.com/p/rdfquery/">redfquery</a>.</p>
+
+<p>Another issue is what namespace do you link to, and where is the
+trust.  (I&rsquo;m in sameas, yay!
+<a href="http://sameas.org/html?q=ian+mulvany&amp;x=0&amp;y=0)">http://sameas.org/html?q=ian+mulvany&amp;x=0&amp;y=0</a>)</p>
+
+<p>How do you decide what you want to link to?</p>
+
+<h2 id="some-ontologies-that-might-be-useful">some ontologies that might be useful</h2>
+
+<p>The BIBO ontology seems to be a good first place to look, and here are a bunch:</p>
+
+<ul>
+<li><a href="http://SemanticOverflow.com">SemanticOverflow</a> is a good ontology</li>
+<li><a href="http://bibliontology.com/">bibontology</a></li>
+<li><a href="http://www.heppnetz.de/projects/goodrelations/">Good Relations</a></li>
+<li><a href="http://www.w3.org/2001/sw/hcls/">HCLE</a></li>
+<li><a href="http://sindice.com/">Sindice</a></li>
+<li><a href="http://sameas.org/">SameAs</a></li>
+<li><a href="http://www.freebase.com/">Freebase</a></li>
+<li><a href="http://dbpedia.org/About">DBPedia</a><br /></li>
+</ul>
+
+<h2 id="action-items">Action Items</h2>
+
+<ul>
+<li>have noted that we need to identify promising formats and vocabularies</li>
+<li>a low hanging fruit is to have a community effort to identify, even
+at the predicate level, what terms to use (there is a lot of
+discussion going on in the UK between various groups, but there is no
+formal &hellip;</li>
+<li>we will set up a freebase page for collecting ideas around this</li>
+</ul>
+
+<p></br></p>
+
+<h2 id="arch">Web Archiving</h2>
+
+<p>From the <a href="http://www.mementoweb.org/news/">maemento</a> perspective, an archive is no different from the
+rest of the web, it just has content from the rest of the web.  That
+includes CMS&rsquo;s, these are just archives systems, as they have the
+content from the past sitting in their databases.</p>
+
+<h2 id="issues">Issues:</h2>
+
+<ul>
+<li>versioning requirements</li>
+<li>accessibility</li>
+</ul>
+
+<p>As a starting point it would be interesting to see what the Duraspace
+people are thinking.</p>
+
+<p>It seems like making a repository a time gate for itself is a great
+idea.  Dspace, however, does not do versioning. As a part of the
+re-architecting there is a hope to get versioning into Dspace via the
+fedora component, but it is a little way off.</p>
+
+<p>Hydra would be dependant on the fedora component, but it is not
+implemented at a high level yet.</p>
+
+<p>What % of revisions in repository systems at the moment are ones that
+could be exposed, compared to ones that are just typos?</p>
+
+<p>This is a decision that one has to make in general, there may be legal
+restrictions, for instance. But if you do expose them, then doing so
+in a way that is browsable is probably a good idea.</p>
+
+<p>An interesting question, if something like google becomes maemento
+aware then it&rsquo;s likely that this will take care of this issue.</p>
+
+<p>There seems a lot of years between now, and when google is going to
+provide time aware content.</p>
+
+<p>There is a difference between doing a historic search, and currently
+available history.</p>
+
+<p>An interesting thing might be to be able to get a list of recent uris
+from an archive, and find a way to preserve the content at those uris.</p>
+
+<p>There is a &ldquo;wayn&rdquo; protocol for handing over web archives from one
+place to another.</p>
+
+<p>A question comes up for how do you archive rapidly moving web sites.
+There is no good approach for this yet. Transactional archiving is an
+approach that might be investigated.</p>
+
+<h2 id="action-items-1">Action Items</h2>
+
+<ul>
+<li>if you want to be well behaved, it can be hard to archive social
+media sites (one could look at consuming feeds)</li>
+</ul>
+
+<p></br></p>
+
+<h1 id="lunch">Lunch</h1>
+
+<p>Now we have a discussion about what we will talk about in the evening session.</p>
+
+<p><h2 id="id">Identifiers for people</h2></p>
+
+<p>In terms of author identifiers, Southampton have gone for a local
+approach, and are creating linked data identifiers. Where two people
+are the same, use sameas to link them. They do make them available.</p>
+
+<p>The ORCID project is going to go and push ORCIDs onto people that
+publishers know about. This won&rsquo;t happen immediately, but will get
+better as time goes on. Disambiguating authors is costly, so there is
+a large advantage from doing this as early in the publication process as you can.</p>
+
+<p>ORCID will also act as a registry, so one can lookup things like a
+REPEC and other identifiers that an author might have.</p>
+
+<p>The big question is whether ORCID should just be an identifier, or
+whether it should contain information like bibliographies. The issue
+is if it is an identifier service only, how will it get paid for.</p>
+
+<p>Right now thee is a testbed, the code from Thompson has been
+submitted, does not cover every use case yet.</p>
+
+<p>There is a hope that this will be available in 2011 at some level.
+There is a big stakeholders group meeting in London on November 18th.</p>
+
+<p>There will be APIs for deposit and search, as well as a web protocol</p>
+
+<p>Independent researchers will be able to register themselves.</p>
+
+<p>There will be provenance for who made different assertions, whether,
+for example, a publisher or an institution the independent researcher.</p>
+
+<p>Some questions: has there been any discussion around assuming that
+this needs to be a central vs distributed blob of information?</p>
+
+<p>isni is another initiative, it&rsquo;s an iso standard. A number of music.
+isni&rsquo;s require that you have published something that people consider
+to be authoritative. The names project seems to be working with the
+isni project.</p>
+
+<p>There is work ongoing to test ORCIDs against Dspace.</p>
+
+<h3 id="resources">Resources</h3>
+
+<ul>
+<li><a href="http://www.orcid.org/">ORICD</a></li>
+<li><a href="http://readermeter.org">ReaderMeter</a></li>
+<li><a href="http://namesproject.wordpress.com/">NAMES</a><br /></li>
+<li><a href="http://www.isni.org/">ISNI</a></li>
+</ul>
+
+<p></br>
+ <h2 id="ms">Microservices</h2></p>
+
+<p>What do we mean by micro-services? It&rsquo;s becoming a buzz word because
+it is identifying an emerging pattern.</p>
+
+<p>There seems to be some confusion over microservices as just being the
+CDL implementation in contrast to a general architectural approach.</p>
+
+<p>I&rsquo;m going to skip out and talk to my wife now ;)
+OK, I&rsquo;m back from the conversation with my wife.</p>
+
+<h2 id="resources-1">Resources</h2>
+
+<ul>
+<li><a href="http://www.cdlib.org/services/uc3/curation/">CDLIB</a></li>
+</ul>
+
+<p>We are now onto the final session.</p>
+
+<p><h2 id="seo">SEO and search engine optimisation</h2></p>
+
+<p>Dspace is working with google scholar, and Anurag at google.
+Essentially there are a list of tags that google scholar wants, and if
+you fill those out then google scholar will give you more coverage.</p>
+
+<p>Scholar has a citation meta-tag schema, and so the exercise is to map
+dublin core to that schema. Many of the local repositories (what they
+really want are the pdfs, and have metadata around those pdfs).  What
+google scholar want is totally different from what Google news wants,
+and what the main google search engine wants.</p>
+
+<p>They already had google site maps, but google scholar don&rsquo;t use those.</p>
+
+<p>You ask scholar to crawl your site. You email Anurag.</p>
+
+<p>An interesting question is how much traffic comes in from google,
+there is data that about 90% of the repo traffic comes in from google
+scholar, and more and more of the faculty are now using google scholar
+over web of science, so this is really really important.</p>
+
+<p>What&rsquo;s interesting is that google scholar are trying to encourage
+people to use the de-facto Google Scholar standard</p>
+
+<p>An interesting use of testing is to use cucumber and a subject
+specific expert to write tests like:</p>
+
+<p>&ldquo;when I search for blah&rdquo;
+&ldquo;I should get back search result blah&rdquo;</p>
+
+<p>There is an interesting conversation about how would this community
+propose as a better way to organise metadata on the web, and
+potentially look to propose something in RDF.</p>
+
+<h2 id="resources-2">Resources</h2>
+
+<ul>
+<li><a href="http://drupal.org/node/641580">Drupal</a></li>
+<li><a href="http://www.ghastlyfop.com/blog/2008/05/meta-analysis.html">Publishing Tags</a></li>
+<li><a href="http://scholar.google.com/intl/en/scholar/publishers.html">Google Scholar for Publishers</a></li>
+<li><a href="http://scholar.google.com/intl/en/scholar/inclusion.html">Inclusion in Google Scholar</a></li>
+</ul>
+
+<h2 id="actions">Actions</h2>
+
+<p>Perhaps take this issue to NISO, to determine whether there is space
+for publishers and repositories to push back against google for
+adoption of better metadata tags. An example would be to propose
+possibly RDFa (perhaps under the bibo ontology)</p>
+
+<p><h2 id="light">Lightweight Languages</h2></p>
+
+<p>A discussion ensues about adopting new tools, and how to convince IT
+managers to adopt new tools.</p>
+
+<ul>
+<li>security holes will almost always come from customisations</li>
+<li>setting expectations, and having a regular patch cycle</li>
+<li>ensure that there is a good shared install base with the same dependancy trees</li>
+<li>can you turn something old off</li>
+<li>log inbound requests for software stacks</li>
+<li>bundle your stuff as a war file and make it pretend that it&rsquo;s a java program</li>
+</ul>
+
+<p>We have not talked about developer retraining. Why should people learn
+a new language?</p>
+
+<h2 id="resources-3">Resources</h2>
+
+<ul>
+<li><a href="http://www.squid-cache.org/">Squid-cache</a></li>
+</ul>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

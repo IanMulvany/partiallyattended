@@ -1,0 +1,42 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2009/06/11/fluid-dynamics-in-the-browser/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">Fluid Dynamics in the Browser</h1>
+
+<section>
+      <h4 id="date"> Thu Jun 11, 2009 </h4>
+      <h5 id="wordcount"> 250 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                          
+</div>
+
+<div>
+       <article id="content">
+          The Navier-Stokes equations:<br /><br /><pre lang="eq.latex"><br />\frac{\partial \mathbf{v}}{\partial t} + ( \mathbf{v}\cdot\nabla ) \mathbf{v} = -\nabla p + \nu\Delta \mathbf{v} +\mathbf{f}(\boldsymbol{x},t)<br /></pre><br /><pre lang="latex"><br />\frac{\partial \mathbf{v}}{\partial t} + ( \mathbf{v}\cdot\nabla ) \mathbf{v} = -\nabla p + \nu\Delta \mathbf{v} +\mathbf{f}(\boldsymbol{x},t)<br /></pre><br /><br />Describe the flow of an incompressible fluid. The equations are non-linear and are notoriously difficult to solve. I've always found them to be very beautiful and the fact that <a href="http://en.wikipedia.org/wiki/George_Gabriel_Stokes">Sr George Stokes</a> was an Irishman probably had some effect on my taking to the subject when I was an undergrad. <br /><br />There are many subtleties hidden in the equations, notably the issue of conservation of momentum and the appearance of turbulence. The subject inspired the following rather fun ditty:<br /><br /><quote><br />Big whorls have little whorls<br />  That feed on their velocity,<br />And little whorls have lesser whorls<br />  And so on to viscosity.<br /><br />  -- Lewis F. Richardson<br /></quote><br /><br />When I was an undergrad I spent some time playing with a Cray supercomputer running simulations of fluid flow on a sphere. A supercomputer. A big one. In my grazing of the online new sources today I saw a link to <a href="http://nerget.com/fluidSim/">Oliver's fluid dynamics simulation</a> which provides a Navier - Stokes solver in the browser in javascript. It's pretty, and it's damn impressive. <br /><br />It doesn't solve the actual equations, but a diffusive model optimized for stability, speed and aesthetics based on <a href="http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf">this paper</a>. <br /><br />It really shows the potential of the browser as a tool for the teaching of science. Being able to make changes to your code and test the results right there, nice!
+
+       </article>
+ </div>
+
+</body>
+</html>
+

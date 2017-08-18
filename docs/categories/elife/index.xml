@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elife on My New Hugo Site</title>
+    <link>/categories/elife/</link>
+    <description>Recent content in Elife on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/elife/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello SAGE!</title>
+      <link>/2016/12/15/hello-sage/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/12/15/hello-sage/</guid>
+      <description>Hello SAGE! I joined SAGE at the start of September. Hello SAGE!! Here I outline some of my initial impressions.
+First up, I&amp;rsquo;ve been really delighted to meet so many great people at SAGE. I&amp;rsquo;ve received great support from everyone in the company. I generally find publishing folk to be very friendly. This is a friendly industry, working on the fabric of knowledge, knowing that your work can help to make a difference, trying to make the work of academics a bit easier.</description>
+    </item>
+    
+    <item>
+      <title>Goodbye eLife!</title>
+      <link>/2016/06/15/goodbye-elife/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/15/goodbye-elife/</guid>
+      <description># Goodbye eLife!
+So after nearly four and a half years I am moving on from eLife. I&amp;rsquo;ve had an amazing time, worked with some amazing people, and we have gotten a few really nice things done.
+First off, we are hiring a replacement for my role, this is an amazing opportunity to effect real change in scholarly publishing. eLife has just announced follow on funding of £25M to sustain us through to 2022.</description>
+    </item>
+    
+    <item>
+      <title>aws london summit notes</title>
+      <link>/2015/04/16/aws-london-summit-notes/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/04/16/aws-london-summit-notes/</guid>
+      <description>Amazon Web Summit London 2015 ## Keynote
+There were about three thousand people at the summit. I chatted to a few people throughout the day. Their experience with AWS ranged from moderate use through to just being at the evaluation stage.
+The keynote highlighted AWS&amp;rsquo;s approach of wanting to put the customer in control, and to remove all unnecessary work from the customer in terms of managing IT.
+AWS has grown enormously, they are estimated to have five times the compute power on hand than all other cloud providers combined.</description>
+    </item>
+    
+    <item>
+      <title>Some thoughts about product management</title>
+      <link>/2015/03/05/thoughts-on-product-management/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/03/05/thoughts-on-product-management/</guid>
+      <description>I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I&amp;rsquo;ve been learning on the job. There are a huge number of resources out there, great lectures, books, conferences, blog posts. In this short post I just want to reflect a bit on what I&amp;rsquo;ve learned on this topic through direct personal experience. I continue to learn, and my thinking continues to evolve, so this post is more of a look back, than a look to the future.</description>
+    </item>
+    
+    <item>
+      <title>FuturePub Jan 2015 - Lens Next</title>
+      <link>/2015/01/28/futurepub4-lens-next/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/01/28/futurepub4-lens-next/</guid>
+      <description>On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick update on where the Lens viewer for research articles is heading. Lens is a great platform for experimentation, and we have been iterating on some ideas towards the end of 2014 that have now made it into the 2.0 release.
+The main update is that Lens can now be configured to accept information from a 3rd party source and display that information in the right hand resources pane.</description>
+    </item>
+    
+    <item>
+      <title>How to create threads between publications and clinical trial registraion numbers</title>
+      <link>/2014/01/31/threaded-publications-discussion/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/01/31/threaded-publications-discussion/</guid>
+      <description>Yesterday I attended an interesting meeting to discuss how to improve the connection between clinical trial registration ids and publications. My raw notes from the meeting follow. This is being discussed as publication threads, but the idea discussed here stands apart from the kind of publication threads that the endcode project worked on.
+attendees ATTENDEES - organisations: eLife f1000 PLOS BMC Springer lancet BMJ crossref
+attendees - people Geoffrey Bilder, CrossRef, Director of Strategic Initiatives Rachael Lammey, CrossRef, Product Manager CrossMark Daniel Shanahan, BioMed Central, Associate Publisher Tim Stevenson, BioMed Central, Product Manager Deborah Kahn, BioMed Central, EVP Publishing Caroline Black, BioMed Central, Senior Publisher Katherine Barton, BMJ, Operations Manager Josie Breen, BMJ, Head of Editorial Production Isaac Jones, BMJ, Production Manager Ian Mulvany, eLife, Head of Technology Iain Hrynaszkiewicz, F1000, Outreach Director Karen Rowlett, F1000Research, Managing Editor Helene Faure, ISRCTN Database Manager Hannah Jones, The Lancet, Managing Editor Dan Lewsley, The Lancet, Head of Production Joseph Brown, PLoS, Senior Editorial Manager Volker Boeing, Springer, Director, Process and Content Management Mirjam Kessler, Springer, Bibliographic Metadata Manager</description>
+    </item>
+    
+    <item>
+      <title>EC consultation on Open Data - a report.</title>
+      <link>/2013/07/02/ec-open-data-consultation-report/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/07/02/ec-open-data-consultation-report/</guid>
+      <description>This is a report on todays consultation on open data that was help by the EC. The notes are long, so I have put my conclusions and general comments at the start.
+General comments There was not much disagreement throughout the day. There were repeated calls for the need to incentivise researchers to engage in data sharing, but not too many concrete proposals on how to do this. It does seem from my perspective that libraries could do an amazing job here, but that will depend on to which extent these libraries have deep technical expertise.</description>
+    </item>
+    
+    <item>
+      <title>EC consultation on Open Data - my presentation.</title>
+      <link>/2013/07/02/ec-open-data-consultation-our-view/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/07/02/ec-open-data-consultation-our-view/</guid>
+      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
+    </item>
+    
+    <item>
+      <title>Some Thoughts on web scale annotation.</title>
+      <link>/2013/05/16/q-and-a-on-web-annotations/</link>
+      <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/05/16/q-and-a-on-web-annotations/</guid>
+      <description>Mark Ware recently asked me some questions about the state of web scale annotation, based on my impressions from the recent iannotate conference (at which I gave a short talk on the idea of research threads)
+What is the eLife view of annotation systems?
+ We like the fact that there is now a W3C standard for Open Annotations (OA). We are encouraged that so many projects out there are looking to make their annotations interoperable with this standard.</description>
+    </item>
+    
+    <item>
+      <title>The slow web, more thoughtful experiences.</title>
+      <link>/2012/08/22/the-slow-web/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/08/22/the-slow-web/</guid>
+      <description>I&amp;rsquo;ve been concerned for a few years about the flow of data that we are producing, and how to handle the angst of not being able to keep up with everything, ever. I think it started when I became a very heavy user of google reader back in 2006 or so.
+There is little doubt that the web is moving more in this direction, Anil Dash recently called for people to stop creating web pages, and to start creating only streams.</description>
+    </item>
+    
+    <item>
+      <title>Leaving Mendeley</title>
+      <link>/2012/05/05/leaving-mendeley/</link>
+      <pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/05/05/leaving-mendeley/</guid>
+      <description>I&amp;rsquo;m starting to draft this post on the train on the commute to my new job at eLife. After almost two years I&amp;rsquo;ve taken the decision to move on from Mendeley. They were without doubt the two best and most challenging years of my career to date. Working in a start up is an amazing, frustrating, enlightening, energising and rewarding experience.
+No single post can do justice to that time, and each time in the past weeks that I have drafted this post in my head it has had a slightly different timbre, so take this for what it is, a reflection in a moment.</description>
+    </item>
+    
+  </channel>
+</rss>

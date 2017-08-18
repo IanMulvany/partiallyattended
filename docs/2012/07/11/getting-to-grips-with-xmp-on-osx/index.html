@@ -1,0 +1,174 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2012/07/11/getting-to-grips-with-xmp-on-osx/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">XMP wrangling on OS X</h1>
+
+<section>
+      <h4 id="date"> Wed Jul 11, 2012 </h4>
+      <h5 id="wordcount"> 1427 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/xmp">xmp</a>, <a href="/categories/pdf">pdf</a>, <a href="/categories/adobe">adobe</a>, <a href="/categories/metadata">metadata</a>
+</div>
+
+<div>
+       <article id="content">
+          
+
+<h1 id="xmp">XMP</h1>
+
+<p><a href="http://www.adobe.com/products/xmp/">XMP</a> is the extensible metadata platform from Adobe. It can be used to embed structured metadata into a file. I think it&rsquo;s most common usage is for storing image metadata in image files, but it also has a use in embedding metadata in PDF files.</p>
+
+<p>Adobe provide an <a href="http://www.adobe.com/devnet/xmp.html">SDK</a> that you can use to start coding applications for working with XMP. They provide a guide for developers, and I&rsquo;ve posted a <a href="https://dl.dropbox.com/u/2270414/XMPProgrammersGuide.pdf">copy</a> so you can have a quick look if you are interested, without downloading the full SDK.</p>
+
+<p>In this post I will look at compiling the SDK on OSX 10.7.4 with Xcode 4.3.2, and run through getting one of the demo applications provided in the SDK working. This was my first time working with Xcode, so I have certainly done some stupid things with setting up the environment, however in the end it worked. YMMV.</p>
+
+<h1 id="compiling-the-xmp-libraries-on-osx-10-7-4-with-xcode-4-3-2">Compiling the XMP libraries on OSX 10.7.4 with Xcode 4.3.2</h1>
+
+<p>I was unable to get the provided SDK to compile on my machine with Xcode 4.3.2. I kept running into issues that I just didn&rsquo;t understand in how the distributed Xcode project was set up. I was bitching about this on Twitter and the amazing <a href="https://twitter.com/mz2">Matias Piipari</a> offered to have a look. He said:</p>
+
+<blockquote>
+<p>They&rsquo;d done this silly thing where they require you to download 3rd party code and place it inside the project root, and then they hard-code the relative paths to those 3rd party source files in the #includes. Both expat and zlib are actually available as part of the OSX SDK, but was easier to just download zlib and unpackage them both into that 3rd-party directory rather than fix the includes to use systemwide header search paths and to set up dynamic linking for expat and zlib.</p>
+</blockquote>
+
+<p>He modified the distributed project as described, and sent me a <a href="https://www.dropbox.com/sh/gceyj2ieuvme1aa/9FONH2OF2b">copy</a>. Downloading this, and following the build instructions from the programmers guide compiles the libraries, raising about 54 warnings on my machine.</p>
+
+<h1 id="building-a-demo-application-using-the-compiled-libraries-the">Building a demo application using the compiled libraries. The</h1>
+
+<p>First step, we need to set up a project in Xcode.</p>
+
+<h2 id="creating-an-xcode-project-to-read-xmp-metadata">Creating an Xcode project to read XMP metadata</h2>
+
+<p>The following is based on the instructions from the developers guide, which start on page 62, however there are quite a few differences between the provided instructions, and what I did to get the sample code working.</p>
+
+<ol>
+<li>Create a new project <code>File &gt; New &gt; Project ...</code> or &#8679;&#8984;N</li>
+<li>Select the <code>Command Line tool</code> option.</li>
+<li>Hit <code>next</code>.</li>
+<li>Name your product, pick your company name and choose <code>C++</code> for the project type.</li>
+<li>You will then be asked to chose where to save the project. I&rsquo;m saving my project in <code>/Users/ian/code/private-code/xmp/XMP-Toolkit-SDK-5.1.2/samples/build/Xcode3/</code>, with the project name <code>MyReadingXMP</code>. Hit <code>save</code>.
+I have git installed on my system, and Xcode offers to place the project under source control, why not, let&rsquo;s go with that.</li>
+<li>In the project window, highlight the file main.cpp and delete it by choosing <code>Edit &gt; Delete</code> or &#8984;&#9003;. In the
+confirmation dialog select <code>Move to Trash</code>.</li>
+<li>Add a new file, there are many options for adding a new file, &#8984;N works. This brings up the file template chooser.</li>
+<li>Pick a <code>C++</code> file, hit <code>Next</code>.</li>
+<li>Name the file <code>MyReadingXMP.cpp</code>. The instructions in the programmers guide tell you to deselect the option to create a header file, however the version of Xcode that we are working with does not offer to create a header file, so you can ignore this step.</li>
+</ol>
+
+<h2 id="compiling-the-application">Compiling the application.</h2>
+
+<p>Selecting the project in the left hand pane of Xcode will show the project info and build settings in the central pane:</p>
+
+<p><img src="/images/xcode-settings.jpg" alt="Xcode settings" title="Xcode settings" /></p>
+
+<p>For finding the various options in the build settings, the search field is convenient.</p>
+
+<ol>
+<li>Select <code>Build Settings</code> and under <code>Build Locations</code>select <code>Per-configuration Build Products Path</code>.</li>
+<li>Insert <code>$(PROJECT_DIR)</code>, you should see Xcode expand this to point to the directory that contains the project files.</li>
+<li>Under <code>Search Paths</code> select <code>Header Search Paths</code>. The XMP developer documentation says to include <code>${SDKROOT}/public/include</code>. This is where things started to go tits up for me. There is a <a href="http://forums.adobe.com/message/3234962">bug report</a> on the adobe forums pointing out that the developer documentation is broken at this step, and that one should insert <code>&lt;xmpsdk&gt;</code> in place of <code>${SDKROOT}</code>, but I didn&rsquo;t get it to work with this substitution either, so I started to hard code the paths. This is a bad practice, but it was the way that I got it to work. If I knew a little more about Xcode I am sure this would be trivial to fix, but for now I started to use <code>/Users/ian/code/private-code/xmp/XMP-Toolkit-SDK-5.1.2/</code> in every place in the documentation where you are advised to use <code>${SDKROOT}</code>, so we put in <code>/Users/ian/code/private-code/xmp/XMP-Toolkit-SDK-5.1.2/public/include</code> for this variable.</li>
+<li>Select Framework Search Paths and enter <code>/Users/ian/code/private-code/xmp/XMP-Toolkit-SDK-5.1.2/System/Library/Frameworks</code>. When I finally got to the compile stage I was getting a warning that this directory didn&rsquo;t exist, so I manually created that directory inside of the project.</li>
+<li>Deselect <code>Precompiled Header Uses Files From Build Directory</code>.</li>
+<li>Select Other Linker Flags and add the paths to both the XMP Toolkit SDK static libraries:
+<code>/Users/ian/code/private-code/xmp/XMP-Toolkit-SDK-5.1.2/public/libraries/macintosh/debug/libXMPCoreStaticDebug.a</code>
+<code>/Users/ian/code/private-code/xmp/XMP-Toolkit-SDK-5.1.2/public/libraries/macintosh/debug/libXMPFilesStaticDebug.a</code></li>
+<li>In Other Linker Flags, at the end of the paths to the static libraries enter the flag <code>-framework CoreServices</code>. At this point I may have tried compiling the empty project, or I may have toggled some other interaction with Xcode, in any case Xcode began downloading the CoreServices framework.</li>
+<li>Select <code>Preprocessor Macros</code> and enter <code>MAC_ENV=1</code></li>
+<li>The instructions provided direct you to set the Preprocessor Macros for the target, however in this version of Xcode when I looked, this setting carried over from the project setting, and I didn&rsquo;t need to do anything.</li>
+</ol>
+
+<p>I tried compiling the empty project, but ran into some bugs. I then cut and pasted the entire sample XMP reader code into the my empty project. I also manually linked the CoreServices library against the target using the <code>Build Phases</code> option Xcode.</p>
+
+<p><img src="/images/set-services.jpg" alt="Link Xcode target to CoreServices" title="Link Xcode target to CoreServices" /></p>
+
+<p>I honestly don&rsquo;t know what I am doing at this point, and I don&rsquo;t know whether this helped, but on the next attempt to compile the project compiled fully, and I got an executable.</p>
+
+<p>It took me a while to find where the executable was located, but eventually I found it located in</p>
+
+<pre><code>~/Library/Developer/Xcode/DerivedData/
+MyXMPReader-dzqqlyrtudnrpsganqbsozskatkp/
+Build/Products/Debug /Users/ian/code/
+private-code/xmp/XMP-Toolkit-SDK-5.1.2/
+samples/build/Xcode3/MyXMPReader
+</code></pre>
+
+<p>Obviously I&rsquo;ve made a typo in the name of the target, you can see that I have an extra space next to the <code>../Debug /..</code> part of the path, and I had expected the executable to land in the project directory, rather than in the system Library, but we have the working executable &lsquo;MyXMPReader&rsquo;.</p>
+
+<h2 id="running-the-application">Running the application</h2>
+
+<p>It&rsquo;s a command line application, and takes a path to a file as an argument. To run this, point it at a PDF like so:</p>
+
+<p><code>$ MyXMPReader test.pdf</code></p>
+
+<p>It produces some terminal output, and writes the XMP data into a local <code>XMPDump.txt</code> file. I verified the tool works by running it against a nature communications pdf, and you can see some of the output here:</p>
+
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span>$ head -40 XMPDump.txt 
+Dumping XMPMeta object &quot;&quot;  (0x0)
+
+   dc:  http://purl.org/dc/elements/1.1/  (0x80000000 : schema)
+      dc:format = &quot;application/pdf&quot;
+      dc:identifier = &quot;
+            doi:10.1038/ncomms1828&quot;
+      dc:creator  (0x600 : isOrdered isArray)
+         [1] = &quot;Zhong Yan&quot;
+         [2] = &quot;Guanxiong Liu&quot;
+         [3] = &quot;Javed M. Khan&quot;
+         [4] = &quot;Alexander A. Balandin&quot;
+      dc:description  (0x1E00 : isLangAlt isAlt isOrdered isArray)
+         [1] = &quot;Nature Communications 3, 827 (2012). doi:10.1038/ncomms1828&quot;  (0x50 : hasLang hasQual)
+               ? xml:lang = &quot;x-default&quot;  (0x20 : isQual)
+      dc:publisher  (0x200 : isArray)
+         [1] = &quot;Nature Publishing Group&quot;
+      dc:rights  (0x1E00 : isLangAlt isAlt isOrdered isArray)
+         [1] = &quot;<span style="color: #f92672">&lt;C2</span> <span style="color: #960050; background-color: #1e0010">A9</span><span style="color: #f92672">&gt;</span> 2012 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.&quot;  (0x50 : hasLang hasQual)
+               ? xml:lang = &quot;x-default&quot;  (0x20 : isQual)
+      dc:title  (0x1E00 : isLangAlt isAlt isOrdered isArray)
+         [1] = &quot;Graphene quilts for thermal management of high-power GaN transistors&quot;  (0x50 : hasLang hasQual)
+               ? xml:lang = &quot;x-default&quot;  (0x20 : isQual)
+
+   pdf:  http://ns.adobe.com/pdf/1.3/  (0x80000000 : schema)
+      pdf:Producer = &quot;Adobe PDF Library 7.0&quot;
+
+   prism:  http://prismstandard.org/namespaces/basic/2.0/  (0x80000000 : schema)
+      prism:copyright = &quot;
+            <span style="color: #f92672">&lt;C2</span> <span style="color: #960050; background-color: #1e0010">A9</span><span style="color: #f92672">&gt;</span> 2012 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.&quot;
+      prism:doi = &quot;10.1038/ncomms1828&quot;
+      prism:eIssn = &quot;2041-1723&quot;
+      prism:endingPage = &quot;8&quot;
+      prism:publicationName = &quot;Nature Communications&quot;
+      prism:rightsAgent = &quot;permissions@nature.com&quot;
+      prism:startingPage = &quot;827&quot;
+      prism:volume = &quot;3&quot;
+      prism:publicationDate  (0x200 : isArray)
+         [1] = &quot;--&quot;
+      prism:url  (0x200 : isArray)
+</pre></div>
+
+
+<p>I&rsquo;ll explore some other tools that you can use to look at XMP data in pdfs in a later post, and I&rsquo;ll also look at what we can find inside some recently published academic PDFs with an eye to deciding what we should be putting into the documents that we will be producing at <a href="http://elifesciences.org/">eLife</a> (don&rsquo;t forget to <a href="http://submit.elifesciences.org/cgi-bin/main.plex">submit</a>).</p>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

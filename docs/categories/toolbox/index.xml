@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toolbox on My New Hugo Site</title>
+    <link>/categories/toolbox/</link>
+    <description>Recent content in Toolbox on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/toolbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>looking for ideas for our wikimania talk on open scholarship tools</title>
+      <link>/2014/07/29/wikimania-openscholarship-preview/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/07/29/wikimania-openscholarship-preview/</guid>
+      <description>Inspired somewhat by the aweome http://sciencetoolbox.org, along with Martin Fenner, we proposed a session for the upcoming Wikimania conference. We will be talking about Open Scholarship Tools on Sunday the 10th of August at 9:30 am. In our outline for our talk we have decided to possibly think about:
+ CrossRef API (and possibly also the DataCite and ORCID APIs) Pandoc
+ Rstudio
+ Zotero
+ iPython Notebook
+ Plotly</description>
+    </item>
+    
+  </channel>
+</rss>

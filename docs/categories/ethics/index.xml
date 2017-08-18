@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics on My New Hugo Site</title>
+    <link>/categories/ethics/</link>
+    <description>Recent content in Ethics on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some thoughts on FORCE2015, science trust and ethics.</title>
+      <link>/2015/01/19/force2015-thoughts/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/01/19/force2015-thoughts/</guid>
+      <description>Last week I was at the FORCE2015 conference. I enjoyed it greatly. This was the 2015 instance of the FORCE11/Beyond the pdf conference. I&amp;rsquo;d been aware of these meetings since the first one was announced back in 2011, but this was my first chance to attend one. (If I recall, I&amp;rsquo;d even been invited to the DagStuhl workshop, but had been unable to attend. I&amp;rsquo;d been to one DagStuhl workshop on science and social networks many years ago, and that had been one of the best short meetings that I&amp;rsquo;d ever attended, so I&amp;rsquo;d been sad not to be able to go to the Beyond the PDF meeting).</description>
+    </item>
+    
+  </channel>
+</rss>

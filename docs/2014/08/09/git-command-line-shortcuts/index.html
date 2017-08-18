@@ -1,0 +1,71 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2014/08/09/git-command-line-shortcuts/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">shortcuts that I use for the git command line</h1>
+
+<section>
+      <h4 id="date"> Sat Aug 9, 2014 </h4>
+      <h5 id="wordcount"> 168 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/git">git</a>, <a href="/categories/command-line">command line</a>
+</div>
+
+<div>
+       <article id="content">
+          <p>I use git a lot, it&rsquo;s pretty complicated, and it has a lot of command line optoins that I can never remember. I&rsquo;ve copied
+a couple of shortcuts from the web, and here are two that I use a lot. These are presented in the form of <a href="http://fishshell.com">fish shell</a> scripts.</p>
+
+<blockquote>
+<p>function gl
+        git log &ndash;graph &ndash;abbrev-commit
+        &ndash;decorate &ndash;date=relative
+        &ndash;format=format:&lsquo;%C(bold blue)%h%C(reset)
+        - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset)
+        %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)&rsquo;
+        &ndash;all
+end</p>
+</blockquote>
+
+<p>This provides a nicer view on the git log, with the brancing tree also displayed.</p>
+
+<blockquote>
+<p>function branches
+git for-each-ref &ndash;sort=-committerdate refs/heads/
+git for-each-ref &ndash;sort=-committerdate refs/heads/
+  &ndash;format=&lsquo;%(refname) %(committerdate) %(authorname)&rsquo;
+  | sed &rsquo;s/refs\/heads\///g&rsquo;
+end</p>
+</blockquote>
+
+<p>This shows two lists of current brances in the repo, in reverse chronological order. The first list provides the full sha,
+and the second list shows the last commit message. This is useful when coming back to repo that has a few branches, to help you get an
+overview of the activity that&rsquo;s happened in the different branches.</p>
+
+<p>I put these examples into a <a href="https://gist.github.com/IanMulvany/3591216fb05b18f97b98">gist file</a></p>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

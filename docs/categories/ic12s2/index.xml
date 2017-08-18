@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ic12s2 on My New Hugo Site</title>
+    <link>/categories/ic12s2/</link>
+    <description>Recent content in Ic12s2 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ic12s2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IC2s2 Wikipedia track, Wednesday</title>
+      <link>/2017/07/12/ic2s2_wikipedia_track/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/12/ic2s2_wikipedia_track/</guid>
+      <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
+TokTrack - data is available on Zenodo, 13.5B tokens. There is a wikiwho API. This is an accurate dataset of all provennced changes in English wikipedia.
+They can look at survival rates for edits. If an edit survives for 48 hours, then it’s probably safe and will live on in wikipedia.</description>
+    </item>
+    
+  </channel>
+</rss>

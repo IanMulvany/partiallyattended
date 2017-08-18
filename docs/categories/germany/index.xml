@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Germany on My New Hugo Site</title>
+    <link>/categories/germany/</link>
+    <description>Recent content in Germany on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/germany/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>restaurant BAYOU Berlin</title>
+      <link>/2008/07/14/restaurant-bayou-berlin/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/restaurant-bayou-berlin/</guid>
+      <description>I got the email below a few days ago:
+Hello to you all,Please forgive the bulk email! We hope all is well with you.We will be opening our new restaurant on December 1st. Please visit our newwebsite at www.bayou-berlin.com You are able to book hotel reservations onour site using our corporate discount rate. We hope to see you sometimesoon,All the best,Steve and Brandon
+Earlier this year I was on holiday in Nerja in the south of Spain.</description>
+    </item>
+    
+    <item>
+      <title>weekend grill</title>
+      <link>/2008/07/14/weekend-grill/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/weekend-grill/</guid>
+      <description> I visited my girlfriend in Germany this weekend, and her father wascelebrating his 60th birthday. A friend of his arranged a full wild boarfrom the German forests. The spit it and slow cooked it for 7 hours, ittasted amazing. I can quite see why Asterix and friends got so excited aboutthis.
+  13102007410.jpg     13102007409.jpg    </description>
+    </item>
+    
+  </channel>
+</rss>

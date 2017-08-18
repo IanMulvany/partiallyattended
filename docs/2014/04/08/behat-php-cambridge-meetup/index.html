@@ -1,0 +1,96 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2014/04/08/behat-php-cambridge-meetup/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">Php user group March 2013 - BeHat.</h1>
+
+<section>
+      <h4 id="date"> Tue Apr 8, 2014 </h4>
+      <h5 id="wordcount"> 460 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/php">php</a>, <a href="/categories/testing">testing</a>, <a href="/categories/gherkin">gherkin</a>, <a href="/categories/behat">behat</a>
+</div>
+
+<div>
+       <article id="content">
+          
+
+<h1 id="background">Background.</h1>
+
+<p>On Monday the 31st of March I attended the <a href="http://www.meetup.com/phpcambridge/events/168024132/">Cambridge PHP Meetup</a>, the topic was BeHat testing. Johnathan Gough gave the talk.</p>
+
+<p>This is something we are getting started with in eLife. We have a few small tests in place, we have a few regressions on the site that we want to tackle, and we are looking to use it as a way of pinning down requirements from the company for new features that we want to roll out. After attending this talk I also found this great blog post on why BDD is <a href="https://cucumber.pro/blog/2014/03/03/the-worlds-most-misunderstood-collaboration-tool.html">the world&rsquo;s most misunderstood collabroation tool</a>.</p>
+
+<h1 id="notes">NOTES:</h1>
+
+<ul>
+<li>lots of reasons to test</li>
+<li>some reasons not to</li>
+<li>it&rsquo;s suggested that TDD can be quite brittle</li>
+<li>BDD via BeHat is introduced as outside-in testing, a user story is introduced</li>
+<li>one should use behat with composer<br /></li>
+</ul>
+
+<p>An interesting thing is that behat will create a /bin directory in the project directory. (I wonder whether that is something that can be set to system level, probably. (I would image that would be much nicer)).</p>
+
+<p>behat creates a <code>/features</code> directory.</p>
+
+<p>Behat lives in a universe of other tools, it sits on top of <code>Behat Context</code> and <code>Mink Context</code>. The <code>Behat Context</code> is a vanilla file in which you write your own context for how behat should interpret the tests. <code>Mink</code> provides web browser functionality. It can sit on top of</p>
+
+<ul>
+<li>seleneum<br /></li>
+<li>goutte</li>
+<li>zombie<br /></li>
+<li>sahi<br /></li>
+</ul>
+
+<p>If you are using a framework, you can fire up the framework, inject the request, and get the response out, and this kind of customisation is available to people writing their own contexts. An open question is whether one can mock up Drupal requests to insert into the manual contextual scripts.</p>
+
+<p>Mink exposes descriptive commands that you can use to describe how your web application should work.</p>
+
+<ul>
+<li>Selenium: popular, multi-browser, js, slow<br /></li>
+<li>goutte: défaut, native PHP, fast, no javascript<br /></li>
+<li>sahi: multi-browser, js, slow, easier setup than selenium - maybe?<br /></li>
+<li>zombie: headless browser in js written in node.js<br /></li>
+</ul>
+
+<p>You can specify at the level of an individual tests or scenarios as to which context that scenario should use (that sounds potentially really useful).</p>
+
+<p>Bottom line, Behat makes testing a lot easier, makes testing fun, and can be quite revolutionary.</p>
+
+<p>Questions:<br />
+- how compliant is this user story language to the python/ruby equivalents - lettuce/cucumber
+    the answer is they all use the same language - gherkin, so tests are cross system writable.</p>
+
+<ul>
+<li>can one get to a level of creating these kinds of stories for extremely fine grained visual elements?<br />
+the answer to this is how do you get the balance between brittle tests, and tests that are too loose to
+be of use. If can do this, it might not be the best idea to do this.<br /></li>
+</ul>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

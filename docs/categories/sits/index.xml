@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sits on My New Hugo Site</title>
+    <link>/categories/sits/</link>
+    <description>Recent content in Sits on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Mar 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/sits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sits meeting notes, November 2010.</title>
+      <link>/2011/03/30/sits-notes/</link>
+      <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/03/30/sits-notes/</guid>
+      <description>2010-11-04 sits
+Right, the meeting is starting, it&amp;rsquo;s an open meeting, so we don&amp;rsquo;t have a specific agenda, but as the day goes on topics for discussion will emerge, and these will be time-boxed for discussion.
+As the participation list is available on the eventbrite site, I&amp;rsquo;m not going to capture that here.
+Some topics from the last meeting  signatures on digital objects correct identifiers on digital objects author identifiers lightweight languages toolsets sword, sword2</description>
+    </item>
+    
+  </channel>
+</rss>

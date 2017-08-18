@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rhetoric on My New Hugo Site</title>
+    <link>/categories/rhetoric/</link>
+    <description>Recent content in Rhetoric on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/rhetoric/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discussing Open Access - a comment</title>
+      <link>/2014/03/23/discussing-oa-comment/</link>
+      <pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/03/23/discussing-oa-comment/</guid>
+      <description>Discussing Open Access http://discussingoa.wordpress.com/
+I read through this piece by Rick Anderson. It&amp;rsquo;s a very good piece. It does an excellent job of articulating some of the challenges of subscription publishing and of various forms of open access publishing.
+I have a couple of relativly minor issues with it.
+The impression I got from reading it was that OA advocates are more shouty and incapable of a serious debate on the issue than advocates of a subscription model, and possibly those who pursue subscription models are more open minded.</description>
+    </item>
+    
+  </channel>
+</rss>

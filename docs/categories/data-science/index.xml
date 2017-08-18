@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on My New Hugo Site</title>
+    <link>/categories/data-science/</link>
+    <description>Recent content in Data Science on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>data science vs statistics talk at the RSS</title>
+      <link>/2015/05/11/rss-data-science-talk/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/05/11/rss-data-science-talk/</guid>
+      <description>Tonight I attend a debate held at the Royal Statistics Society. It was en entertaining, and wide ranging discussion with a great panel, and fairly intelligent questions from the floor.
+Two fun facts:
+ One of the founding members of the society was Charles Babbage
+ The society is located within spitting distance of the grave of William Thomas Bayes
+  So, here are the notes, rough and ready, and I missed a lot in my note taking, but I hope I get a flavour of the discussion across.</description>
+    </item>
+    
+  </channel>
+</rss>

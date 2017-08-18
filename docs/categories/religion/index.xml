@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Religion on My New Hugo Site</title>
+    <link>/categories/religion/</link>
+    <description>Recent content in Religion on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Feb 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/religion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our gospels define us</title>
+      <link>/2011/02/27/our-gospels-define-us/</link>
+      <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/02/27/our-gospels-define-us/</guid>
+      <description>I&amp;rsquo;m reading a fascinating book about the Wittgenstein family. It&amp;rsquo;s called House Wittgenstein, a family a war. The book main focuses on Paul Wittgenstein, the left armed concert pianist, nonetheless there are many things detailed in this book that have dramatically informed my opinion on both Ludwig Wittgenstein and his philosophy.
+Two things I want to mention here, firstly much of Ludwig&amp;rsquo;s approach to life was influenced by Tolstoy&amp;rsquo;s work The Gospel in Brief (The parallels between the two works are drawn out very nicely here), secondly Wittgenstein&amp;rsquo;s close family constantly refer to him as being a saint in their personal correspondences.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centrality on My New Hugo Site</title>
+    <link>/categories/centrality/</link>
+    <description>Recent content in Centrality on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/centrality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Directed Graph blog setup.</title>
+      <link>/2009/04/13/directed-graph-blog-setup/</link>
+      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/04/13/directed-graph-blog-setup/</guid>
+      <description>I&#39;ve decided to use syntaxhiligher2 to do syntax hi-lighting and a call to Yourequations.com for rendering latex on the blog. Bot Cyborg has a good description of how to get this to work on blogger.
+The main advantage of this approach is that the pseudo code is written in the blog posts in plain encased in a pre statement, and the equations are also just vanilla latex in a pre statement.</description>
+    </item>
+    
+  </channel>
+</rss>

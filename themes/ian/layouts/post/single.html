@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">{{ .Title }}</h1>
+
+<section>
+      <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+      <h5 id="wordcount"> {{ .WordCount }} Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                          {{ range $i, $e := .Params.categories }}{{ if $i }},{{ end }} <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+</div>
+
+<div>
+       <article id="content">
+          {{ .Content }}
+       </article>
+ </div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report on My New Hugo Site</title>
+    <link>/categories/report/</link>
+    <description>Recent content in Report on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jul 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/report/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes from JISC activity streams workshop</title>
+      <link>/2010/07/14/raw-notes-jiscad/</link>
+      <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/07/14/raw-notes-jiscad/</guid>
+      <description>Dave Jennings giving the opening talk, http://www.slideshare.net/davidjennings abundance of content without structure is not to be feared, example comes from music. uses a Medneley slide to talk about the lastfm &amp;ndash; Medneley bridge. talks about the amazon collaborative filter mentions how this can lead to a dystopia, Googlezon, the big brother of recommender system. talks about the future of pervasive recommender systems, and brain matching to content matching. john cage - my favourite music the music I haven&amp;rsquo;t heard yet.</description>
+    </item>
+    
+  </channel>
+</rss>

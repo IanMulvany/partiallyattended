@@ -1,0 +1,119 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">save mailfolder messages to a file using applescript</h1>
+
+<section>
+      <h4 id="date"> Mon Oct 18, 2010 </h4>
+      <h5 id="wordcount"> 594 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/apple">apple</a>, <a href="/categories/mail">mail</a>, <a href="/categories/applescript">applescript</a>
+</div>
+
+<div>
+       <article id="content">
+          <p>I&rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.</p>
+
+<p>This is what I came up with.</p>
+
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">fileRoot</span> <span style="color: #66d9ef">to</span> <span style="color: #e6db74">&quot;Macintosh HD:Users:path:&quot;</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">messageList</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">{}</span>
+<span style="color: #66d9ef">tell</span> <span style="color: #f8f8f2">application</span> <span style="color: #e6db74">&quot;Mail&quot;</span>
+	<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">messageList</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">messageList</span> <span style="color: #f92672">&amp;</span> <span style="color: #f8f8f2">(messages</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">mailbox</span> <span style="color: #e6db74">&quot;mailbox name&quot;</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">account</span> <span style="color: #e6db74">&quot;account&quot;</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">application</span> <span style="color: #e6db74">&quot;Mail&quot;</span><span style="color: #f8f8f2">)</span>
+	<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">counter</span> <span style="color: #66d9ef">to</span> <span style="color: #ae81ff">1</span>
+	<span style="color: #66d9ef">repeat</span> <span style="color: #f8f8f2">with</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">in</span> <span style="color: #f8f8f2">messageList</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">fileNum</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">counter</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">theFilePath</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">fileRoot</span> <span style="color: #f92672">&amp;</span> <span style="color: #e6db74">&quot;mailcontent&quot;</span> <span style="color: #f92672">&amp;</span> <span style="color: #f8f8f2">fileNum</span> <span style="color: #f92672">&amp;</span> <span style="color: #e6db74">&quot;.txt&quot;</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">p</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">POSIX</span> <span style="color: #a6e22e">path</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theFilePath</span>
+		<span style="color: #f8f8f2">do shell script</span> <span style="color: #e6db74">&quot;touch &quot;</span> <span style="color: #f92672">&amp;</span> <span style="color: #f8f8f2">p</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">open for access</span> <span style="color: #f8f8f2">theFilePath</span> <span style="color: #f8f8f2">with</span> <span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">permission</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">messageText</span> <span style="color: #66d9ef">to</span> <span style="color: #a6e22e">content</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">date</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+		<span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+		<span style="color: #f8f8f2">write</span> <span style="color: #e6db74">&quot;\n&quot;</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+		<span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">messageText</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+		<span style="color: #f8f8f2">close access</span> <span style="color: #f8f8f2">theFileReference</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">counter</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">counter</span> <span style="color: #f92672">+</span> <span style="color: #ae81ff">1</span>
+	<span style="color: #66d9ef">end</span> <span style="color: #66d9ef">repeat</span>
+<span style="color: #66d9ef">end</span> <span style="color: #66d9ef">tell</span>
+</pre></div>
+
+
+<p>It breaks down like this, the following script sets a list to be the messages in our names mailbox folder. We can then iterate over that array, getting attributes of each message, such as the message content or the sent date of the message:</p>
+
+<p><div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">messageList</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">{}</span>
+<span style="color: #66d9ef">tell</span> <span style="color: #f8f8f2">application</span> <span style="color: #e6db74">&quot;Mail&quot;</span>
+	<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">messageList</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">messageList</span> <span style="color: #f92672">&amp;</span> <span style="color: #f8f8f2">(messages</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">mailbox</span> <span style="color: #e6db74">&quot;mailbox name&quot;</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">account</span> <span style="color: #e6db74">&quot;account&quot;</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">application</span> <span style="color: #e6db74">&quot;Mail&quot;</span><span style="color: #f8f8f2">)</span>
+	<span style="color: #66d9ef">repeat</span> <span style="color: #f8f8f2">with</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">in</span> <span style="color: #f8f8f2">messageList</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">messageText</span> <span style="color: #66d9ef">to</span> <span style="color: #a6e22e">content</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+		<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">date</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+	<span style="color: #66d9ef">end</span> <span style="color: #66d9ef">repeat</span>
+<span style="color: #66d9ef">end</span> <span style="color: #66d9ef">tell</span>
+</pre></div>
+</p>
+
+<p>Taking the creation of the file root out of the loop, and also adding a looping variable out of the loop the content inside the loop now looks like:</p>
+
+<p><div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">fileNum</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">counter</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">theFilePath</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">fileRoot</span> <span style="color: #f92672">&amp;</span> <span style="color: #e6db74">&quot;mailcontent&quot;</span> <span style="color: #f92672">&amp;</span> <span style="color: #f8f8f2">fileNum</span> <span style="color: #f92672">&amp;</span> <span style="color: #e6db74">&quot;.txt&quot;</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">p</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">POSIX</span> <span style="color: #a6e22e">path</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theFilePath</span>
+<span style="color: #f8f8f2">do shell script</span> <span style="color: #e6db74">&quot;touch &quot;</span> <span style="color: #f92672">&amp;</span> <span style="color: #f8f8f2">p</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">open for access</span> <span style="color: #f8f8f2">theFilePath</span> <span style="color: #f8f8f2">with</span> <span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">permission</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">messageText</span> <span style="color: #66d9ef">to</span> <span style="color: #a6e22e">content</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">date</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+<span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+<span style="color: #f8f8f2">write</span> <span style="color: #e6db74">&quot;\n&quot;</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+<span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">messageText</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+<span style="color: #f8f8f2">close access</span> <span style="color: #f8f8f2">theFileReference</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">counter</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">counter</span> <span style="color: #f92672">+</span> <span style="color: #ae81ff">1</span>
+</pre></div>
+</p>
+
+<p>Looking in a bit more detail, we convert the counter (an int) into a string. We set the filepath to a base filename, the string version of the counter, and a file extension.  In order to ensure that the file exists we pass this path to a shell script, and &ldquo;touch&rdquo; the file. That&rsquo;s right, in order not to get fucked over by applescripts error handling, I&rsquo;ve just called out to the system shell as the most useful way of creating a filehandler to a file that might not extist. Jesus.</p>
+
+<p><div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">fileNum</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">counter</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">theFilePath</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">fileRoot</span> <span style="color: #f92672">&amp;</span> <span style="color: #e6db74">&quot;mailcontent&quot;</span> <span style="color: #f92672">&amp;</span> <span style="color: #f8f8f2">fileNum</span> <span style="color: #f92672">&amp;</span> <span style="color: #e6db74">&quot;.txt&quot;</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">p</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">POSIX</span> <span style="color: #a6e22e">path</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theFilePath</span>
+<span style="color: #f8f8f2">do shell script</span> <span style="color: #e6db74">&quot;touch &quot;</span> <span style="color: #f92672">&amp;</span> <span style="color: #f8f8f2">p</span>
+</pre></div>
+</p>
+
+<p>The second part of the loop now creates the file handler, writes some of the properties of the mail message into the file, closes the file handler, and iterates our loop counter.</p>
+
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">open for access</span> <span style="color: #f8f8f2">theFilePath</span> <span style="color: #f8f8f2">with</span> <span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">permission</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">messageText</span> <span style="color: #66d9ef">to</span> <span style="color: #a6e22e">content</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">date</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">of</span> <span style="color: #f8f8f2">theMessage</span> <span style="color: #66d9ef">as </span><span style="color: #a6e22e">string</span>
+<span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">sent</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+<span style="color: #f8f8f2">write</span> <span style="color: #e6db74">&quot;\n&quot;</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+<span style="color: #f8f8f2">write</span> <span style="color: #f8f8f2">messageText</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">theFileReference</span> <span style="color: #f8f8f2">starting</span> <span style="color: #f8f8f2">at</span> <span style="color: #f8f8f2">eof</span>
+<span style="color: #f8f8f2">close access</span> <span style="color: #f8f8f2">theFileReference</span>
+<span style="color: #66d9ef">set</span> <span style="color: #f8f8f2">counter</span> <span style="color: #66d9ef">to</span> <span style="color: #f8f8f2">counter</span> <span style="color: #f92672">+</span> <span style="color: #ae81ff">1</span>
+</pre></div>
+
+
+       </article>
+ </div>
+
+</body>
+</html>
+

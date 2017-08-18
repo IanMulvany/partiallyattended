@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osx on My New Hugo Site</title>
+    <link>/categories/osx/</link>
+    <description>Recent content in Osx on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/osx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
+      <link>/2013/11/19/osx-mavericks-vagrant-librarian/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
+      <description>I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I&amp;rsquo;m working on OSX Mavericks, and I want to get as clean an install as possible. For the most part I am also using the fish shell. This is what I&amp;rsquo;ve just run through over the last 20 minutes.
+ Install command line tools from the terminal
+$ xcode-select --install  Next we are going to install homebrew, with homebrew we will install rvm and with rvm we will install ruby.</description>
+    </item>
+    
+    <item>
+      <title>CPANPLUS and Mac OSX</title>
+      <link>/2008/07/14/cpanplus-and-mac-osx/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/cpanplus-and-mac-osx/</guid>
+      <description>OK, so I&#39;m interested in installing the Connotea code base on my mac fordevelopment reasons. It will be the first time that I am going to startplaying around with a largish perl installation on my macine and there are alot of perl dependencies to be installed. Rather than going through CPANmodule by module, and rather than writing a bundle file for the connoteadependancies (because I don&#39;t know how to do that yet) I decided to try touse CPANPLUS, due to the tips on perl administration withCPANPLUS</description>
+    </item>
+    
+    <item>
+      <title>Installing Python Image Library on a Mac</title>
+      <link>/2008/07/14/installing-python-image-library-on-a-mac/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/installing-python-image-library-on-a-mac/</guid>
+      <description>I spent about half an hour trying to install the excellent Python ImageLibrary on my mac. It&#39;s one of those things that is more annying than itshould be. You get libjpeg from herehttp://www.ijg.org/files/jpegsrc.v6b.tar.gz follow the instructions here onhow to patch the makefile and how to install libjpeg:http://www.kyngchaos.com/macosx/install/libjpeg (all this after installingthe developer tools on mac), only to fail and then discover that there is aprebuilt binary package here:http://pythonmac.org/packages/py25-fat/index.html which works perfectly.</description>
+    </item>
+    
+  </channel>
+</rss>

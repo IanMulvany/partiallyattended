@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simpsons on My New Hugo Site</title>
+    <link>/categories/simpsons/</link>
+    <description>Recent content in Simpsons on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/simpsons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simpsian</title>
+      <link>/2008/07/14/simpsian/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/simpsian/</guid>
+      <description> Yesterday one of the guy&#39;s at the office interviewed the producer of TheSimpsons. As a result he had to do quite a lot of research yesterday onSimsonalia, and decided to use the make your own simpson avatar tool on theSimpsons movie page to make all of us our own simpson character, this iswhat I would look like if I were a simpson.
+Tags: simpsons, avatar 
+  IansSimpson.jpg    </description>
+    </item>
+    
+  </channel>
+</rss>

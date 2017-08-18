@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dupuytrens Contracture on My New Hugo Site</title>
+    <link>/categories/dupuytrens-contracture/</link>
+    <description>Recent content in Dupuytrens Contracture on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jun 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/dupuytrens-contracture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Did you just tell me to go fuck myself?</title>
+      <link>/2012/06/26/go-fuck-yourself/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/06/26/go-fuck-yourself/</guid>
+      <description>So this morning I had a scan with a consultant and he has diagnosed me with Dupuytren&amp;rsquo;s Contracture. I&amp;rsquo;ve been a climber since the summer of 1990, nearly 22 years now. It&amp;rsquo;s been amazing, I&amp;rsquo;ve gotten into some pretty special situations, and I&amp;rsquo;ve gotten pretty fit. There is some evidence that there is a higher incedence of Dupuytren&amp;rsquo;s Contracture amongst climbers. There is a great write up about a climbers experience of this condition on ukclimbing.</description>
+    </item>
+    
+  </channel>
+</rss>

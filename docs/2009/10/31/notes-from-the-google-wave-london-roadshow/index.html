@@ -1,0 +1,42 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2009/10/31/notes-from-the-google-wave-london-roadshow/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">Notes from the Google Wave London roadshow</h1>
+
+<section>
+      <h4 id="date"> Sat Oct 31, 2009 </h4>
+      <h5 id="wordcount"> 1147 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/google">google</a>, <a href="/categories/google-wave">google-wave</a>
+</div>
+
+<div>
+       <article id="content">
+          Gtug blog post<br /><br />On Monday I was at the London Google wave roadshow  presented by Lars and Stephanie. The previous Friday I had helped to run a hack day for science applications in wave,  so with that experience fresh in my mind I was particularly interested to see what they would say about a few particular topics.<br /><br />We had a few problems in the hack day which could be summarised as follows:<br /><br />- hard to debug with many points of failure when developing robots.<br />- the wave client is a hard interface for keeping track of conversations happening in the wave, and the document at hand.<br /><br />If you could customize your client, and you could develop locally against your own server and robot endpoints, and the APIs were stable, then that would solve all the problems that we faced on Friday.<br /><br />With that in mind I went into the meeting wanting to find out about the following<br /><br />- status of open sourcing the client and server<br />- future api extensions<br />- usability improvements<br />- ability to deploy robots to non-appengine endpoints<br /><br />All of these, and more, were discussed. It is an evolving platform, and Steph and Lars were very clear on their desire for community feedback to help target the dev resource that they have. <br />  <br />- status of open sourcing the client and server<br /><br />Lars gave some detail on this. They intend to open source the server totally, they have already open sources the hardest part of the software in the server. They don't want to start opening up the client until the server specification is totally pinned down, as the server client protocol is currently changing a lot. There are also issues around opening up the client as parts of the client as it currently exist depend on proprietary Google technology, particularly search in the client. Lars said that they expect they will begin by progressively opening up parts of the client, for example the editor first. <br /><br />I would like to see a library of units that could be dropped into a page to create a client. I would love to be able to redirect parts of a wave to different parts of the screen. One could then have a "Document" part of a wave and next to it a conversation part of the wave. One could also make something akin to a site specific browser for wave that could display a zoomed out view of the wave where you could see where every participant was at any one point. I guess that these kinds of interfaces would be possible. <br /><br /><br />- future api extensions<br /><br />There were lots of tantalising bits and pieces mentioned throughout the talk. They were clear thy they want to extend the number if hooks that can be programmed against a wave. In no particular<br />order the following were mentioned. <br /><br />A notification api so that changes in waves can be propagated out into other systems. <br /><br />Very exciting was discussion of a regex hook. You could register your robot with this hook an instead of surfer (I guess that's the appropriate term for a wave user) adding a robot, on a regex triggering, the robot could be auto-added. One can think of many pitfalls with this, as well as many advantages, and they did say that they are taking their time and being very careful about how they implement this. <br /><br />They are not working in integrating with email. This is the biggest requested feature, however they want to concentrate on making the wave experience great. They did look at this somewhat, but said that it changes the experience of using wave significantly. They expect other people to use the provided API's to figure it out but they are definitely not working on it themselves. <br /><br />At the moment with a gadget that displays a view to something like a map, if one person moves the map all of the people can see that. They are thinknig about introducing a "wave view" and an "edit view". They are also thinking about tying the ability to change views in gadgets to the edit state of the surrounding blip. This makes a lot of sense, and I think is one of those things that only became apparent after a lot of people started using the system.<br /><br /><br />- usability improvements<br /><br />Lots of discussion about various improvements. Things are rolled out to the sandbox first and then onto the main wave server. They will implement a draft mode, and introduce settings that can be used to set things like the level of spelling correction. Rosy is going to be coming, but probably only for short blips, in order to aid with conversation. I can't remember the other things that were mentioned right now.<br /><br />Soon you will be able to remove people from waves, but I guess they want to make it a polite kind of a thing. Could lead to tit for tat behaviour. <br /><br />They are working on wave gardening, where you can merge, split, concatenate, and generally de-threat the blips in a wave. This is going to be awesome of they can get both the protocol and UX right.<br /><br />- ability to deploy robots to non-appengine endpoints<br /><br />Definitely coming, probably before end of 2010. They are taking care with this, they want to be able to address issues such as what to do when the robot changes without a surfer knowing. This could be a security issue, and so they want to get this right.<br /><br /><br />Some other titbits:<br /><br />They have on the order of 100s k users<br /> <br />Public waves are only .5% of all the waves created so far. (I guess lots of people kick open a few waves before even realising that they can make them public)<br /><br />Largest wave is 100kb, this is a limit imposed by the system. <br /><br />They have a list of top gadgets. They track usage, and are thinking about making a gadget gallery to increase discoverability of extensions and robots.<br /><br />They are going to open up the embed api so that at some point in the future non-wave account holders can interact with waves through that api (on a web page for instance). They are not releasing this right now as they don't want to have the system slashdotted. From what I gather that all works, they are just waiting to scale.<br /><br />The last two notes are that their developer resource is scaled according to how many people use the app. So if you want to see it developed more quickly, use it more! (If this is a general Google policy then they must run a pretty tight ship, as right now wave has 100s of thousands of users, and it's clear the dev team are having to make tough choices over what to build).<br /><br /><br />Shift + enter is your friend. Play with it when you are trying out editing and replying to waves!
+
+       </article>
+ </div>
+
+</body>
+</html>
+

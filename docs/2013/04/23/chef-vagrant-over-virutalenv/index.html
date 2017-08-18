@@ -1,0 +1,70 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2013/04/23/chef-vagrant-over-virutalenv/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">Communicating better, moving from virtualenv to vagrant/Chef</h1>
+
+<section>
+      <h4 id="date"> Tue Apr 23, 2013 </h4>
+      <h5 id="wordcount"> 497 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/python">python</a>, <a href="/categories/chef">chef</a>, <a href="/categories/vagrant">vagrant</a>, <a href="/categories/sysops">sysops</a>, <a href="/categories/ipython">ipython</a>, <a href="/categories/development">development</a>, <a href="/categories/communication">communication</a>
+</div>
+
+<div>
+       <article id="content">
+          <p>I&rsquo;ve been using <a href="http://www.virtualenv.org/en/latest/">virtualenv</a> for a while, but in the past few months, since taking up the role of head of technology for eLife, I&rsquo;ve been giving much more thought about how to build scalable development environments.</p>
+
+<p>Ever since I was managing <a href="http://en.wikipedia.org/wiki/Connotea">connotea</a>, one of the biggest pains has been <a href="http://www.mulvany.net/files/README.osx.html">configuration management</a>. I seem to have spent almost more time on configuring environments than on actually doing any development work (disclaimer, I don&rsquo;t actually do much coding, I usually do more product management, but it&rsquo;s really useful to know the development pain points).</p>
+
+<p>For sure package installation has gotten a lot easier over the past couple of decades. In the 1990&rsquo;s I was up to my next in make files, now I usually just <code>pip install</code> something.</p>
+
+<p><a href="http://www.virtualenv.org/en/latest/">virtualenv</a> has been really nice for working with different versions of the same library on the same system, but this week I ran into a problem when trying to make <a href="http://ipython.org/">iPython</a> aware of the packages installed within a virtual environment. The result was an afternoon of faff.</p>
+
+<p>At the same time I&rsquo;ve been learning about <a href="http://www.vagrantup.com/">vagrant</a>, <a href="http://wiki.opscode.com/display/chef/Chef+Solo">chef</a> and that toolchain. Over the weekend I wondered if it could provide a replacement for virtualenv. After mucking around for a few hours
+with <a href="https://github.com/applicationsonline/librarian">librarian</a>, <a href="http://www.vagrantup.com/">Vagrant</a> and <a href="http://wiki.opscode.com/display/chef/Chef+Solo">chef solo</a> I ended with a virtual machine with a number of python packages installed, running an instance of <a href="http://ipython.org/ipython-doc/dev/interactive/htmlnotebook.html">iPython Notebook</a> that can be accessed from the host browser via port forwarding.</p>
+
+<p>If you have already have <a href="http://www.vagrantup.com/">Vagrant</a>, <a href="http://wiki.opscode.com/display/chef/Chef+Solo">chef solo</a> and <a href="https://github.com/applicationsonline/librarian">librarian</a> installed you can have it too by following these steps</p>
+
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span>   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">git</span> <span style="color: #f8f8f2">clone</span> <span style="color: #e6db74">git</span><span style="color: #f8f8f2">:</span><span style="color: #e6db74">//</span><span style="color: #f8f8f2">github</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">com</span><span style="color: #f92672">/</span><span style="color: #f8f8f2">elifesciences</span><span style="color: #f92672">/</span><span style="color: #f8f8f2">elife</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">template</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">env</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">git</span>
+   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">cd</span> <span style="color: #f8f8f2">elife</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">template</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">env</span>
+   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">librarian</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">chef</span> <span style="color: #f8f8f2">install</span>
+   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">vagrant</span> <span style="color: #f8f8f2">up</span>
+   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">vagrant</span> <span style="color: #f8f8f2">ssh</span>
+   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">ipython</span> <span style="color: #f8f8f2">notebook</span> <span style="color: #f92672">--</span><span style="color: #f8f8f2">ip</span><span style="color: #f92672">=</span><span style="color: #ae81ff">192</span><span style="color: #f92672">.</span><span style="color: #ae81ff">168</span><span style="color: #f92672">.</span><span style="color: #ae81ff">33</span><span style="color: #f92672">.</span><span style="color: #ae81ff">10</span>  
+</pre></div>
+
+
+<p>Then in your host browser open <a href="http://192.168.33.10:8888">http://192.168.33.10:8888</a>.</p>
+
+<p>The <a href="https://github.com/elifesciences/elife-template-env">elife-template-env</a> repo contains a longer description of the setup.</p>
+
+<p>It strikes me that this way forward is a much friendlier way of packaging code. With an upcoming release of Vagrant one would also be able to deploy immediate to AWS. I was chatting to someone last night about good development practices. When we write code in a team we are communicating with other developers. How we decide to package our work is also an act of communication. I think that the vagrant approach has a lot going for it. You take a definite performance hit in setting up the VM on first run , so I&rsquo;m already planning on upgrading my setup. On the other hand, in principle you get systems that can be shared really painlessly, and on balance that feels like the more important aspect.</p>
+
+<p>It will be interesting to see if the packaged approach also has any hope of uptake in the distribution of scientific research. We are already in discussion with a number of researchers who are interested in this idea, but I&rsquo;m not sure there enough familiarity with the tools to make it take off super quickly. I&rsquo;m hopeful though, as the tools are getting easier to use all the time.</p>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

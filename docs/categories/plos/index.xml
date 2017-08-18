@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plos on My New Hugo Site</title>
+    <link>/categories/plos/</link>
+    <description>Recent content in Plos on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/plos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PLOS are looking for a new CEO</title>
+      <link>/2017/01/10/plos-ceo/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/10/plos-ceo/</guid>
+      <description>So I hear that PLOS are looking for a new CEO. They are making the process fairly open, so if you are interested you can read more here.
+I got to thinking about some of the challenges and opportunities facing PLOS over the weekend. Over the years I&amp;rsquo;ve gotten to know a lot of PLOS folk, and I think it&amp;rsquo;s an amazing organisation. It has proved the viability of open access, and their business model is being copied by a lot of other publishers.</description>
+    </item>
+    
+    <item>
+      <title>PLOS ALM 13 day 2</title>
+      <link>/2013/10/17/plos-alm-13-day2/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/10/17/plos-alm-13-day2/</guid>
+      <description>Connecting ALM and Literature As I took part in the first session I don&amp;rsquo;t have many notes from it. I&amp;rsquo;ve posted the slides from my talk, and I&amp;rsquo;ll write up some more on those in due course. For me the standout talk of the session, if not the entire meeting, was from Jevin West who talked about using networked ranked data to provide recommendations. The algorithms his group are working on are being tested on [SSRN][ssrn], and will be rolled out to PLOS.</description>
+    </item>
+    
+    <item>
+      <title>PLOS ALM 13, day1</title>
+      <link>/2013/10/16/plos-aml-13-day1/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/10/16/plos-aml-13-day1/</guid>
+      <description>## Cameron Neylon - Introduction &amp;amp; Welcome
+Interesting - this is the first PLOS ALM meeting that is a &amp;ldquo;normal&amp;rdquo; scheduled presentation. Time is going to be tight.
+Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch.</description>
+    </item>
+    
+  </channel>
+</rss>

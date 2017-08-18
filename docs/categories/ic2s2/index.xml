@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ic2s2 on My New Hugo Site</title>
+    <link>/categories/ic2s2/</link>
+    <description>Recent content in Ic2s2 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ic2s2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ic2s2 - Thursday, closing keynotes</title>
+      <link>/2017/07/13/ic2s2-thursday-closing-keynotes/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/13/ic2s2-thursday-closing-keynotes/</guid>
+      <description>ic2s2 - Thursday, closing keynotes Economic AI - Matt Taddy Economic AI breaks complex systemic questions into simple sets of prediction tasks, that can be attacked with off the shelf ML techniques.
+Today economists are being asked to answer basic economic questions but at a ridiculous scale (within companies like Microsoft or Amazon). There are just not enough economists out there to do all the work being asked of them.</description>
+    </item>
+    
+    <item>
+      <title>ic2s2 Thursday morning keynotes</title>
+      <link>/2017/07/13/ic2s2-thursday-morning-keynotes/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/13/ic2s2-thursday-morning-keynotes/</guid>
+      <description>ic2s2 Thursday morning keynotes Daniel Romero - Examining the Effects of Exogenous Shocks on Social Networks and Collaborative Crowds We are looking at the dynamics of social networks. The dynamics of networks are becoming increasingly well understood, but the question here is what happens to a network when there is a big external shock to the system?
+One example that they looked at came from a hedge fund, the data included full IM communication amongst about 182 people, about 22M items.</description>
+    </item>
+    
+    <item>
+      <title>ic2s2 Wednesday morning keynotes</title>
+      <link>/2017/07/12/ic2s2-wed-keynotes/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/12/ic2s2-wed-keynotes/</guid>
+      <description>IC2s2 Wednesday Morning Keynotes Cecliia Mascolo - human behaviour studies through the lens of mobile sensing and complex networks She has been involved for many years in making and deploying sensors. The talk today will look at work they have been doing on foursquare data.
+In London they have data of about 0.5M check-ins over nine months over about 40k users.
+They also have social network data for these people, so they can connect their social network with the geo-spatial behaviour of these people.</description>
+    </item>
+    
+    <item>
+      <title>IC2s2 - Tuesday Morning</title>
+      <link>/2017/07/11/ic2s2_2017_tuesday_morning/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/11/ic2s2_2017_tuesday_morning/</guid>
+      <description>IC2s2 - Tuesday Morning Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science  opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,  also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
+    </item>
+    
+    <item>
+      <title>IC2s2 Tuesday Afternoon Keynotes</title>
+      <link>/2017/07/11/ic2s2_tuesday_afternoon/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/11/ic2s2_tuesday_afternoon/</guid>
+      <description>IC2s2 Tuesday afternoon Dashun Wang - Predictive Signals Behind Success Dashun starts by talking about weather predictions, natural phenomena can be observed, modelled and predicted. Can success be measured modelled and predicted? Obviously Dashun thinks so, and we are gong to be looking at the result of a number of studies in this talk.
+Science of Science Aim is to build on top of the work of others, but add to it the massive data that we now have access to, along with the tools that we have developed.</description>
+    </item>
+    
+    <item>
+      <title>IC2s2 2017, conference preview</title>
+      <link>/2017/07/10/ic2s2-preview/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/10/ic2s2-preview/</guid>
+      <description>I&amp;rsquo;m about to head to Köln for the International Conference on Computational Social Science (IC2S2) and I&amp;rsquo;m pretty excited for a whole bunch of reasons.
+I&amp;rsquo;ve been fascinated by network science, and the potential application of techniques from that science to the rest of research, for quite a while, but generally this has been an interest that I have entertained from a distance.
+I had the pleasure of attending an early instance of the NetSci conference series back in 2008, and even contributed to a working paper looking at the implications of the intersection between social data and network algorithms (Mining for Social Serendipity), however the academic track has not been my track at all, and with one thing or another this was a community that my career moved me away from for some time.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flickr on My New Hugo Site</title>
+    <link>/categories/flickr/</link>
+    <description>Recent content in Flickr on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/flickr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Five places to eat in New York, mmmmm</title>
+      <link>/2009/03/02/five-places-to-eat-in-new-york-mmmmm/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/03/02/five-places-to-eat-in-new-york-mmmmm/</guid>
+      <description>Five places to eat in New York,
+I used to live in New York a good few years ago, and now when friends ofmine are about to go there they sometimes ask me about what to do there. Ikeep trying to think of great places to go in the city, so here is a shortlist of five of my favorite places to eat in New York. Not fancy, notexhaustive, just five places that I remember fondly now that I look back onmy time there.</description>
+    </item>
+    
+    <item>
+      <title>An idea for an interface for picture search</title>
+      <link>/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+      <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
+    </item>
+    
+    <item>
+      <title>Get Slimmer Pets</title>
+      <link>/2008/07/14/get-slimmer-pets/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/get-slimmer-pets/</guid>
+      <description>    12/01/2008 Originally uploaded by Ian Mulvany I was shopping at Lidl last weekend and saw this for sale. It might be a bit of a drastic measure, but I think it would work.
+ </description>
+    </item>
+    
+    <item>
+      <title>Mining social data, what Flickr tells us about place</title>
+      <link>/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
+      <description>toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I attended last week it came up frequently as being one of the most over-hyped terms around at the moment, but there is substance behind it, and how that substance appears is fully up to the creativity of people who are willing to get their hands dirty with the actual data that is being produced by social web sites.</description>
+    </item>
+    
+    <item>
+      <title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
+      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
+      <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
+we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
+Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding
+should consider semantic web, rather than Semantic Web,</description>
+    </item>
+    
+  </channel>
+</rss>

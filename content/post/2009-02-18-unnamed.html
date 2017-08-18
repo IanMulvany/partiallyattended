@@ -1,0 +1,7 @@
+---
+date: 2009-02-18T00:00:00Z
+title: unknown post
+url: /2009/02/18/unnamed/
+---
+
+I want to find out what all of the ISSN's are for the publications that are printed by Nature Publishing Group. They list all of their publications on the following page <a href="http://www.nature.com/siteindex/index.html">http://www.nature.com/siteindex/index.html</a>.<br /><br /><br />awk '{print "curl http://www.nature.com"$1"index.html | grep ISSN"}' nature-journal-links.txt <br /><br /><br />

@@ -1,0 +1,26 @@
+---
+categories:
+- OA
+- cc-by
+- publishing
+- dog in manger
+date: 2013-04-27T00:00:00Z
+title: Some thoughts on the Taylor and Francis Survey.
+url: /2013/04/27/tf-survey/
+---
+
+I took a look at the [T&F survey][tfs] with interest. I'm also very aware of the concerns and confusions that exist around licensing. I'm also aware of the "one size doesn't fit all" argument. 
+
+[tfs]: http://www.tandf.co.uk/journals/pdf/open-access-survey-march2013.pdf
+
+I'll address the T&F survey first, and then I'll briefly discuss CC-BY pros and cons, purely from the point of view of my own understanding of these issues - I might be very wrong on this.
+
+I believe there are two core flaws with the T&F survey.
+
+1.When asking about reuse and licensing, ownership of the work was presented as if the author owned the work. In some cases this may be true, but for the most part the work is owned either by the university or the grant funder. Most academics don't thing that way, naturally, but this is the reason why funders can take a role in dictating licensing. 
+
+2. The opportunity costs of the current system were not presented to authors in the survey, especially the aspect of financial gain that publishers make from the content that authors sign over. In effect the questions around licensing were biased in favor of the status quo. 
+
+Notwithstanding these issues, the survey had a large number of respondents, and you can't look at those results and argue in any way that there is no concern amongst authors over the issue of licensing. For those of us who believe in the value of CC-BY it clearly sends a message that we have to up our game in explaining that value, and showing that value. 
+
+On CC-BY, it really is the case that there is a potential lose of revenue to both publishers and authors, in that commercial value can be created outside of the control of either the publisher or the author. But that's kind of the point! In reality the commercial value that will be created is very unlikely to every be actually created by publishers or authors. Saying that you don't want this to happen is a "dog in a manger" kind of approach. It's selfish, and short sighted. It's the tragedy of the commons. To promote an argument like that authors might miss an opportunity to generate revenue, is to promote fear uncertainty and doubt - FUD. There will be a few cases where some authors will miss out, but the counter balance of making this content open to the commons far outweighs this downside. 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on My New Hugo Site</title>
+    <link>/categories/database/</link>
+    <description>Recent content in Database on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covalent Data, first impressions</title>
+      <link>/2016/12/08/quick-review-covalent-data/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/12/08/quick-review-covalent-data/</guid>
+      <description>Covalent Data is a tool to search over research topics. It seems to have the following features:
+ Is a DB of grants, papers, people and institutions.
+ claims to use machine learning to tie these entities together.
+ search results don’t seem to have a way to be exported, so for example though the grant awards results do list the amount of each grant, to get a total amount against a search term, you would need to do the work of extracting each data point manually.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solo11 on My New Hugo Site</title>
+    <link>/categories/solo11/</link>
+    <description>Recent content in Solo11 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/solo11/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SOLO11, day1, morning sessions.</title>
+      <link>/2011/09/02/solo11-day1-morning-sessions/</link>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/09/02/solo11-day1-morning-sessions/</guid>
+      <description>Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points that arose during the discussion:
+ discussions with the public needs to happen where the public is being half assed about engaging the public discourse around papers, and then hiding behind peer review when you run into criticism is really bad, as for example what happened with the arsenic story nasa and science the public needs to be educated that peer review is not binary peer review comments should be made public (not everyone agrees) where we have representations of papers we should look to link to conversations about those papers (trackbacks and so forth)  There is a very interesting comment in the Q&amp;amp;A from [Martin Fenner][mf] about peer review in clinical medicine.</description>
+    </item>
+    
+    <item>
+      <title>Science Online London Keynote, Michael Nielson on Open Sciecne</title>
+      <link>/2011/09/02/solo11-day1-keynote/</link>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/09/02/solo11-day1-keynote/</guid>
+      <description>Michael Nielson Keynote on Open Science He rightly points out that he is probably going to be talking to the converted, so his talk is aimed at looking for resources that can help us to find answers about how to make open science works. He starts talking about an example of failure in open science. his example is an open notebook science from Tobias J Osbourne. He built up a readership of about 100 readers on a highly technical field, but he was not getting much participation, and very little feedback.</description>
+    </item>
+    
+    <item>
+      <title>Talkfest, science and community</title>
+      <link>/2011/09/01/solo11-talkfest/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/09/01/solo11-talkfest/</guid>
+      <description>Introduction So this is a short TalkFest event looking at the public, communities and online science. I&amp;rsquo;m sure there will be plenty of online discussion around this topic, below are some very rough notes that I took during the event. It was very enjoyable.
+The people on the panel are D. Amy Sanders from the Welcome Trust, Rob Simpson, (a.k.a OrbitingFrog), Linda Davies and Stephen Cury. The panel was convened by Alice Bell</description>
+    </item>
+    
+  </channel>
+</rss>

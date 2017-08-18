@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ia on My New Hugo Site</title>
+    <link>/categories/ia/</link>
+    <description>Recent content in Ia on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing better UX deliverables - Anna Dahlström</title>
+      <link>/2014/05/30/designing-better-ux-deliverables/</link>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/05/30/designing-better-ux-deliverables/</guid>
+      <description>This talk happened a few weeks ago now, but the topic is timeless, so there is no harm in getting my notes up a bit late. Anna Dahlstrom(@annadahlstrom) came up to Cambridge to give a talk on how to design better UX deliverables, but more broadly the talk had many lessons about how to present results to different stakeholders, not just for UX.
+A litte bit about Anna Anna had gone from only working with HMRC to working agency side - multiple clients, multiple project, different industries.</description>
+    </item>
+    
+  </channel>
+</rss>

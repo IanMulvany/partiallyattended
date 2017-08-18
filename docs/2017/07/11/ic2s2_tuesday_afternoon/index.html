@@ -1,0 +1,112 @@
+<htlml>
+<head>
+  <base href=''>
+  
+  <link rel='canonical' href='/2017/07/11/ic2s2_tuesday_afternoon/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='My New Hugo Site' />
+  <link rel='stylesheet' href="/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="">home</a> |
+  <a href="/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+This is what we see on a post page in /post/single.html
+
+<h1 id="title">IC2s2 Tuesday Afternoon Keynotes</h1>
+
+<section>
+      <h4 id="date"> Tue Jul 11, 2017 </h4>
+      <h5 id="wordcount"> 737 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Posted In:
+                           <a href="/categories/ic2s2">ic2s2</a>, <a href="/categories/computational-socical-science">computational socical science</a>, <a href="/categories/conference">conference</a>
+</div>
+
+<div>
+       <article id="content">
+          
+
+<h1 id="ic2s2-tuesday-afternoon">IC2s2 Tuesday afternoon</h1>
+
+<hr />
+
+<h3 id="dashun-wang-predictive-signals-behind-success">Dashun Wang - Predictive Signals Behind Success</h3>
+
+<p>Dashun starts by talking about weather predictions, natural phenomena can be observed, modelled and predicted. Can success be measured modelled and predicted? Obviously Dashun thinks so, and we are gong to be looking at the result of a number of studies in this talk.</p>
+
+<h6 id="science-of-science">Science of Science</h6>
+
+<p>Aim is to build on top of the work of others, but add to it the massive data that we now have access to, along with the tools that we have developed.</p>
+
+<p>First question, is there a mechanistic model that can predict future citations of papers? There are three factors:</p>
+
+<pre><code>*   preferential attachment -&gt; fitness
+* ageing -&gt; immediacy 
+* novelty -&gt; longevity 
+</code></pre>
+
+<p>You get to a formula that shows the future citation for any papers. What changes on a paper if the “scaled time“ for that paper.</p>
+
+<p>Given this function you can give high resolution future prediction for that paper.</p>
+
+<p>Can we now look at patterns for careers as well? We can look at the best paper for a person’s career. His work shows that your “best” paper can arrive at any time in your career. This is based on looking at the random impact rule.</p>
+
+<p>There is a Matthew effect. Does the location of your biggest work affect where your second biggest work is? If we know where your biggest work is then your next biggest is gong to be close to your biggest. This is sometimes called the “Hot Hand” period. This pattern can appear randomly in your career. Most people have one of these, and it usually lasts 4 to 5 years.</p>
+
+<p>Your google scholar profile is highly affected by whether or not a scholar has experienced this hot and period.</p>
+
+<h3 id="diffusion-and-adoption-of-technology">diffusion and adoption of technology</h3>
+
+<p>He is talking about how many things we talk about as adoption of technology is substitution. Not everything is, but many things are.</p>
+
+<p>What do systems driven by substitution look like?</p>
+
+<p>Many of these systems follow power law growth.</p>
+
+<p>The model for future growth is also captured by three parameters, which look a lot like the parameters from citation analysis.</p>
+
+<hr />
+
+<h2 id="ulrik-brandes-the-space-of-all-centralities">Ulrik Brandes - The Space of All Centralities</h2>
+
+<p>This is going to be a methodological talk. There are hundreds of centrality measures. He goes on to describe what  a centrality index is and shows that we can write a number of centralises to share the small nature of the relationship between objects in our network.</p>
+
+<pre><code>	c(i) = \Sum_t \tau(s,t)
+</code></pre>
+
+<p>You can think of this relation as being expressed in a path algebra. Different operators on the paths will produce different values.</p>
+
+<p>If the property is to be a centrality, then any property must do worse as we move away from the “central” position, and we say that this means we say that neighbourhood-inclusion is respected.</p>
+
+<p>We can look at the position of the node in the network, and compare the measure based on the location of the node in the network.</p>
+
+<p>We can map social spaces into network spaces by using variables in the social space as positions in the network space.</p>
+
+<p>When thinking of the space of all centralities we can think about ranking only. All rankings are defined by the number of items in the network, and there are about k! Items in a k sized network (just the permutation factor). This is quite a lot.</p>
+
+<p>Remember though, we want to support neighbourhood-inclusion, otherwise we get a ranking, but not one that perseveres the property of a centrality. It turns out that this will then depend on the network structure, but it will probably be lower than just the permutation of nodes.</p>
+
+<p>Remember, we are trying to understand how to get to centrality measures, and we have looked at some of the constraints of networks on what it means to be a centrality measure.</p>
+
+<p>Now we look at some examples.</p>
+
+<p>Looking at the Medici network. By looking at the neighbourhood-inclusion requirement we get an initial baseline for ordering of members on this network. It doesn’t provide full ranking, but all other centralities must at least preserver the ordering we get from this analysis.</p>
+
+<p>This provides an interesting new way to look at centralities.</p>
+
+<p>This was quite a technical talk, and I appreciated the cleanest of the analysis, but without a deeper dive on some networks to analyse I’m not going to be able to fully grok the content.</p>
+
+       </article>
+ </div>
+
+</body>
+</html>
+

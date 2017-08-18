@@ -1,0 +1,84 @@
+---
+categories:
+- dlf2010
+- keynote
+- education
+- publishinig
+date: 2010-11-02T00:00:00Z
+title: DLF opening keynote, beyond buckets and boxes
+url: /2010/11/02/dlf2010-keynote/
+---
+
+(notes taken yesterday)
+
+The keynote is starting, the DLF has grown by 15 new member organisations, and this is one of the best attended events that they have run, the room is packed, i didn't realise that there were so many people in the hotel, its looking like its going to be an interesting meeting.
+
+The original vision for this group is to create a national digital library, they have been talking about this since 1994 (goodness, so much that needs to be cut through to get to where we know we need to get to). 
+
+An interesting point from the speaker is that making a metric based on transactional numbers may not be the best way to look at things in a networked world, collaboration is far more important now, than just an impact factor (i cant agree strongly enough with this sentiment). 
+
+(Ahh, the famous [click stream image][csd] is on the screen now (funny that the last time I saw this it was in a talk by [David Mccandless][info], and he was giving out about these ball and stick pictures, of course in the context of this audience, they really have the background understanding to get a lot out of that image, these visualisations have been haunting me for years)
+
+[info]: http://www.davidmccandless.com/	
+[csd]: http://www.plosone.org/article/slideshow.action?uri=info:doi/10.1371/journal.pone.0004803&imageURI=info:doi/10.1371/journal.pone.0004803.g005
+
+So that was the introduction to the meeting, the keynote speaker is starting now, it's been given by Charles Henry, the president of [CLIR][clir].
+
+[clir]: http://www.clir.org
+
+# Beyond buckets and boxes.
+
+The speaker is going to look at higher education and look at the things that tend to get in the way of realising the vision.
+
+## General overview
+
+Ok, these notes are going to be very schematic. One of the problems is that there are thousands of libraries and institutions, and the higher education landscape is one of competition. This world is demarked by solitary comporting entities, the network has no place at all, so these institutions are antithetical to the nature of the networks with which academics deal
+
+Funding patterns, much of huger education has been built project by project, funded projects always have an end, and long term sustainability is hard in this landscape. Yet we know that collaborative grants are going to grow. 
+
+## Coherence of design
+An example is the digitisation of mediaeval manuscripts, there are a number of interesting projects going on, but when they started they didn't talk to each other. The funding agencies are beginning to understand that they may have been part of the problem over the past 10years.
+
+Another problem is collaboration across disciplines. 
+
+Emerging disciplines also present an issue, the Internet brings people together naturally, but it's hard to sustain that as the people engaged are in traditional departments.
+
+A great example is the hemispheric study of the history of intoxication.
+
+Digital versions do not replicate analog models, and yet we try to make them, and this may be due to the conservative streak in higher education.
+
+Economies, the products of education are public goods, we need to rethink the way we make and save money.
+
+ 
+## clr mission
+Well the challenge is there in front of us, and we need people to do this, the goal must be to rethink the traditional model of what a university and university service level is, by collaborating.  Institutions need to become wilfully dependant upon each other.
+
+Discovery, reconstitution, publishing, sharing, augmenting.
+
+The components of knowledge need to be brought into this (there is a bit of a dig at the academic publishing industry).
+
+Presses don't want to publish unknown scholars, as they don't sell (agggggg, makes one want to scream). The old model of publication is bankrupt (that is my phrase). 
+
+Areas of focus: Coordinated and shared staff, resources, IT.
+
+There are some projects coming up now. 
+West, dpla, [2cul][2cul], oapen[oaopen], [cdl][cdl], [HathiTrust][ht] are some examples.
+
+[2cul]: http://2cul.org/
+[oaopen]: http://www.oapen.org/xtf/home?brand=oapen
+[cdl]: http://www.cdl.edu/cdl_home
+[ht]: http://www.hathitrust.org/
+
+These projects are efficient, and also disruptive. Disruption can well mean loosing some staff, where some of that expertise is scaled and shared across institutions. 
+
+##The role of DLF
+
+The DLF is a great place to discuss these ideas, to incubate them, and it may be that this idealised future can't come to fruition without DLF. Looking at some of the goals of the DLF, they fit ideally within the context of the landscape that has been pointed out.
+
+I got stuck in the Twitter back channel, the closing call for action seems to me to lead to a world that needs quite a lot of structure. If one really wants to take advantage of web scale technologies I think one would need to take risks, but will people be willing to risk their cultural and scholarly artefacts? In the startup scene it's ok to fail, there will always be another startup coming along, I think that this level of risk does not sit well within the library community, so understanding what we can experiment with, and perhaps just experimenting where we can without thinking about it too much, will tell us more than thinking about it, the university of [Huddersfield experiments][hex] are a great example of this.
+
+[hex]: http://www.ckan.net/package/hud-library-usagedata
+
+   
+
+

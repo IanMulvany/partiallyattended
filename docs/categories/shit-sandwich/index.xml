@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shit Sandwich on My New Hugo Site</title>
+    <link>/categories/shit-sandwich/</link>
+    <description>Recent content in Shit Sandwich on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/shit-sandwich/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SOPA and PIPA stink, but the RWA is more dangerous to science.</title>
+      <link>/2012/01/17/sopa-pipia-rwa-dangers/</link>
+      <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/01/17/sopa-pipia-rwa-dangers/</guid>
+      <description>There are three bills up for consideration in the US Government which if passed will have a significant negative impact on academic research. These are the Stop Online Piracy Act (SOPA), the Protect IP Act (PIPA), and the Research Works Act (RWA).
+SOPA and PIPA will have a negative impact by putting censorship controls into the hands of the entertainment industry, and permitting legal process to affect the underlying architecture of the web.</description>
+    </item>
+    
+  </channel>
+</rss>

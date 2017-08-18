@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry on My New Hugo Site</title>
+    <link>/categories/industry/</link>
+    <description>Recent content in Industry on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/industry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STM brainstorming session - 2013</title>
+      <link>/2013/12/03/stm-brainstorming-meeting/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/12/03/stm-brainstorming-meeting/</guid>
+      <description>Just attended the STM brainstroming session. I&amp;rsquo;ll update these notes in due course, and fix spelling issues, but I wanted to get the post live first.
+Notes I&amp;rsquo;ll just mention the things that I found interesting. ## Round1
+Science Gists get a mention, yay!!
+Google scholar library gets a mention.
+Visualising data as maps is mentioned, mentions that there are no standards
+Howard mentions much richer tagging in the article, and upfront semantic tagging.</description>
+    </item>
+    
+  </channel>
+</rss>
