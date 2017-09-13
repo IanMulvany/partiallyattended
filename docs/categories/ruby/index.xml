@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruby on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/ruby/</link>
+    <link>http://partiallyattended.com/categories/ruby/</link>
     <description>Recent content in Ruby on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/ruby/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/ruby/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Something broke in a Jekyll upgrade (a.k.a, sometimes I hate software)</title>
-      <link>https://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</link>
+      <link>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</guid>
+      <guid>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</guid>
       <description>This is a short story about software, some of the things I hate about it, my lack of knowledge of ruby, and a desire to own my own words.
 For various reasons I&amp;rsquo;m working on a brand new machine, I decided that I want to start posting to my own blog again (as well as cross posting to Medium, because fuck it, why not).
 That involved dusting down my Jekyll site and seeing if I could get it to work again.</description>
@@ -24,10 +24,10 @@ That involved dusting down my Jekyll site and seeing if I could get it to work a
     
     <item>
       <title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
-      <link>https://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
+      <link>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
+      <guid>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
       <description>I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I&amp;rsquo;m working on OSX Mavericks, and I want to get as clean an install as possible. For the most part I am also using the fish shell. This is what I&amp;rsquo;ve just run through over the last 20 minutes.
  Install command line tools from the terminal
 $ xcode-select --install  Next we are going to install homebrew, with homebrew we will install rvm and with rvm we will install ruby.</description>
@@ -35,10 +35,10 @@ $ xcode-select --install  Next we are going to install homebrew, with homebrew w
     
     <item>
       <title>Passing arguments in liquid templates.</title>
-      <link>https://partiallyattended.com/2010/08/23/passing-arguments-in-liquid-templates/</link>
+      <link>http://partiallyattended.com/2010/08/23/passing-arguments-in-liquid-templates/</link>
       <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2010/08/23/passing-arguments-in-liquid-templates/</guid>
+      <guid>http://partiallyattended.com/2010/08/23/passing-arguments-in-liquid-templates/</guid>
       <description>I&amp;rsquo;ve recently moved my blog over to hosting on github using the Jekyll templating system. I was intrigued by the ability of Jekyll to create a listing for related posts, but in the end the quality was poor. There are two methods avilable, the more robust uses latent semantic indexing, but this is not supported by github. I can understand this, as the processing required is a bit too much of an overhead for a lightweight hosting service.</description>
     </item>
     

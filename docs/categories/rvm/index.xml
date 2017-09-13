@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rvm on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/rvm/</link>
+    <link>http://partiallyattended.com/categories/rvm/</link>
     <description>Recent content in Rvm on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Nov 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/rvm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/rvm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
-      <link>https://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
+      <link>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
+      <guid>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
       <description>I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I&amp;rsquo;m working on OSX Mavericks, and I want to get as clean an install as possible. For the most part I am also using the fish shell. This is what I&amp;rsquo;ve just run through over the last 20 minutes.
  Install command line tools from the terminal
 $ xcode-select --install  Next we are going to install homebrew, with homebrew we will install rvm and with rvm we will install ruby.</description>

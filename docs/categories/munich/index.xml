@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Munich on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/munich/</link>
+    <link>http://partiallyattended.com/categories/munich/</link>
     <description>Recent content in Munich on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/munich/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/munich/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An idea for an interface for picture search</title>
-      <link>https://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+      <link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
       <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
     </item>
     
     <item>
       <title>Weddings make you fat</title>
-      <link>https://partiallyattended.com/2008/07/14/weddings-make-you-fat/</link>
+      <link>http://partiallyattended.com/2008/07/14/weddings-make-you-fat/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/weddings-make-you-fat/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/weddings-make-you-fat/</guid>
       <description>I just got back from a wedding and bier festival thing in Munich. I&#39;ve been tracking my weight on and off for the past year and a half with the ultimate goal of getting back to my climbing fit weight of about 80kgs. From the graph below you can see the spike that was caused by the extertions at the wedding!
 (OK, in the vox rendering you can&#39;t really see the spike on the right hand side of the graph, but if you are bothered then click through and you&#39;ll see the original graph.</description>
     </item>

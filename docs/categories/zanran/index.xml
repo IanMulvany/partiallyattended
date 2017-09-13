@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zanran on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/zanran/</link>
+    <link>http://partiallyattended.com/categories/zanran/</link>
     <description>Recent content in Zanran on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Nov 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/zanran/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/zanran/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example title</title>
-      <link>https://partiallyattended.com/2011/11/21/zanran-google-for-data/</link>
+      <link>http://partiallyattended.com/2011/11/21/zanran-google-for-data/</link>
       <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/11/21/zanran-google-for-data/</guid>
+      <guid>http://partiallyattended.com/2011/11/21/zanran-google-for-data/</guid>
       <description>Back in 2010 I was pointed at zanran, a search engine that looks for data in graphs.
 I&amp;rsquo;ve been playing around with some sample searches, and decided to try drowning deaths swimming pool. Incidentally all of the results that came back were figures for young children. I guess this is because that is the group where there is the most concern, and so there is more published data about this group.</description>
     </item>

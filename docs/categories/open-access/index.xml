@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Access on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/open-access/</link>
+    <link>http://partiallyattended.com/categories/open-access/</link>
     <description>Recent content in Open Access on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/open-access/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/open-access/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PLOS are looking for a new CEO</title>
-      <link>https://partiallyattended.com/2017/01/10/plos-ceo/</link>
+      <link>http://partiallyattended.com/2017/01/10/plos-ceo/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/01/10/plos-ceo/</guid>
+      <guid>http://partiallyattended.com/2017/01/10/plos-ceo/</guid>
       <description>So I hear that PLOS are looking for a new CEO. They are making the process fairly open, so if you are interested you can read more here.
 I got to thinking about some of the challenges and opportunities facing PLOS over the weekend. Over the years I&amp;rsquo;ve gotten to know a lot of PLOS folk, and I think it&amp;rsquo;s an amazing organisation. It has proved the viability of open access, and their business model is being copied by a lot of other publishers.</description>
     </item>
     
     <item>
       <title>What we mean when we talk about preprints</title>
-      <link>https://partiallyattended.com/2016/12/13/when-we-talk-about-preprints/</link>
+      <link>http://partiallyattended.com/2016/12/13/when-we-talk-about-preprints/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2016/12/13/when-we-talk-about-preprints/</guid>
+      <guid>http://partiallyattended.com/2016/12/13/when-we-talk-about-preprints/</guid>
       <description>Cameron Neylon, Damian Pattinson, Geoffrey Bilder, and Jennifer Lin have just posted a cracker of a preprint onto biorxiv.
 On the origin of nonequivalent states: how we can talk about preprints
  Increasingly, preprints are at the center of conversations across the research ecosystem. But disagreements remain about the role they play. Do they &amp;ldquo;count&amp;rdquo; for research assessment? Is it ok to post preprints in more than one place? In this paper, we argue that these discussions often conflate two separate issues, the history of the manuscript and the status granted it by different communities.</description>
@@ -34,10 +34,10 @@ On the origin of nonequivalent states: how we can talk about preprints
     
     <item>
       <title>FuturePub3 - September 2014 event</title>
-      <link>https://partiallyattended.com/2014/09/24/futurepub3/</link>
+      <link>http://partiallyattended.com/2014/09/24/futurepub3/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/09/24/futurepub3/</guid>
+      <guid>http://partiallyattended.com/2014/09/24/futurepub3/</guid>
       <description>Welcome back for the next installment of FuturePub. There are tons of people at the meeting tonight, pizza and beers care of WriteLaTeX!!
 # Sumika Sakanishi - Product Manager - ODI
 They aim to encourage organisations to unlock data. They also work with individuals to help them unlock the value of open data.
@@ -47,37 +47,37 @@ The open data instutute have created the open data certificate, an online tool t
     
     <item>
       <title>thoughts on the ERC data workshop</title>
-      <link>https://partiallyattended.com/2014/09/24/erc-workshop-thought/</link>
+      <link>http://partiallyattended.com/2014/09/24/erc-workshop-thought/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/09/24/erc-workshop-thought/</guid>
+      <guid>http://partiallyattended.com/2014/09/24/erc-workshop-thought/</guid>
       <description>On Thursday and Friday of last week I attended a European Research Council workshop on managing research data. It was well attended with about 130 participants brining views from across the academic disciplines. I&amp;rsquo;ve blogged my raw notes from day one and day two. In this post I reflect on the points I noticed that were raised over the two days. People have been talking about the increasing importance of research information for many years now, and a hope was raised in the opening comments that we might be able to provide solutions to the problems posed by the issues of research data, by the end of the workshop.</description>
     </item>
     
     <item>
       <title>ERC data management workshop, day 1</title>
-      <link>https://partiallyattended.com/2014/09/21/erc-workshop-day1/</link>
+      <link>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</link>
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/09/21/erc-workshop-day1/</guid>
+      <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</guid>
       <description>initial thoughts about the workshop.  Opening remarks. Setting the scene. Sabrina Leonelli - the epistemology of data-intesive science. Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed. Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting. Afternoon breakout session - Life Sciences.</description>
     </item>
     
     <item>
       <title>ERC data management workshop, day 2</title>
-      <link>https://partiallyattended.com/2014/09/21/erc-workshop-day2/</link>
+      <link>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</link>
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/09/21/erc-workshop-day2/</guid>
+      <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</guid>
       <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  Paul Ayris - Implementing the Future: the LERU roadmap for research data. Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
     </item>
     
     <item>
       <title>looking for ideas for our wikimania talk on open scholarship tools</title>
-      <link>https://partiallyattended.com/2014/07/29/wikimania-openscholarship-preview/</link>
+      <link>http://partiallyattended.com/2014/07/29/wikimania-openscholarship-preview/</link>
       <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/07/29/wikimania-openscholarship-preview/</guid>
+      <guid>http://partiallyattended.com/2014/07/29/wikimania-openscholarship-preview/</guid>
       <description>Inspired somewhat by the aweome http://sciencetoolbox.org, along with Martin Fenner, we proposed a session for the upcoming Wikimania conference. We will be talking about Open Scholarship Tools on Sunday the 10th of August at 9:30 am. In our outline for our talk we have decided to possibly think about:
  CrossRef API (and possibly also the DataCite and ORCID APIs) Pandoc
  Rstudio
@@ -88,10 +88,10 @@ The open data instutute have created the open data certificate, an online tool t
     
     <item>
       <title>Discussing Open Access - a comment</title>
-      <link>https://partiallyattended.com/2014/03/23/discussing-oa-comment/</link>
+      <link>http://partiallyattended.com/2014/03/23/discussing-oa-comment/</link>
       <pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/03/23/discussing-oa-comment/</guid>
+      <guid>http://partiallyattended.com/2014/03/23/discussing-oa-comment/</guid>
       <description>Discussing Open Access http://discussingoa.wordpress.com/
 I read through this piece by Rick Anderson. It&amp;rsquo;s a very good piece. It does an excellent job of articulating some of the challenges of subscription publishing and of various forms of open access publishing.
 I have a couple of relativly minor issues with it.
@@ -100,10 +100,10 @@ The impression I got from reading it was that OA advocates are more shouty and i
     
     <item>
       <title>STM brainstorming session - 2013</title>
-      <link>https://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</link>
+      <link>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</link>
       <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</guid>
+      <guid>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</guid>
       <description>Just attended the STM brainstroming session. I&amp;rsquo;ll update these notes in due course, and fix spelling issues, but I wanted to get the post live first.
 Notes I&amp;rsquo;ll just mention the things that I found interesting. ## Round1
 Science Gists get a mention, yay!!
@@ -114,38 +114,38 @@ Howard mentions much richer tagging in the article, and upfront semantic tagging
     
     <item>
       <title>Spoton13</title>
-      <link>https://partiallyattended.com/2013/11/10/solo13-friday/</link>
+      <link>http://partiallyattended.com/2013/11/10/solo13-friday/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/11/10/solo13-friday/</guid>
+      <guid>http://partiallyattended.com/2013/11/10/solo13-friday/</guid>
       <description>I managed to squeeze in a few hours on Friday attending the spoton conference in London. I&amp;rsquo;ve been at each one since 2008, and have had the good fortune to present something at most of them. This time I had been asked to sit in on a panel to talk about elife&amp;rsquo;s policy around media relations, but as I was flying in that morning from an editorial board meeting held in Washington it was not clear to me that I would make it in time, so the fantastic @sciencescoops (Jennifer Mitchell) represented for eLife in my place.</description>
     </item>
     
     <item>
       <title>EC consultation on Open Data - a report.</title>
-      <link>https://partiallyattended.com/2013/07/02/ec-open-data-consultation-report/</link>
+      <link>http://partiallyattended.com/2013/07/02/ec-open-data-consultation-report/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/07/02/ec-open-data-consultation-report/</guid>
+      <guid>http://partiallyattended.com/2013/07/02/ec-open-data-consultation-report/</guid>
       <description>This is a report on todays consultation on open data that was help by the EC. The notes are long, so I have put my conclusions and general comments at the start.
 General comments There was not much disagreement throughout the day. There were repeated calls for the need to incentivise researchers to engage in data sharing, but not too many concrete proposals on how to do this. It does seem from my perspective that libraries could do an amazing job here, but that will depend on to which extent these libraries have deep technical expertise.</description>
     </item>
     
     <item>
       <title>EC consultation on Open Data - my presentation.</title>
-      <link>https://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</link>
+      <link>http://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
+      <guid>http://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
       <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
     </item>
     
     <item>
       <title>ENCODE - an example of open publication and data integration.</title>
-      <link>https://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</link>
+      <link>http://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</link>
       <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</guid>
+      <guid>http://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</guid>
       <description>On Monday the 14th of January we met at the PLOS offices in Cambridge to hear a talk from Euan Birney on lessons learned from publishing data rich publications though the encode project.
 This was the first time that Euan was far less worried about the print, and far more worried about how well the online version was going to work.
 Dimensions of the project  5 TeraBases 1715 times the size of the Human Genome 3k experiments 410 authors on the main paper 6 high profile papers ~35 companion papers  The output should not be thought of as papers, but as the raw data.</description>
@@ -153,20 +153,20 @@ Dimensions of the project  5 TeraBases 1715 times the size of the Human Genome 3
     
     <item>
       <title>The journal is dead, long live the journal - abstract.</title>
-      <link>https://partiallyattended.com/2012/10/28/jidlltj-abstract/</link>
+      <link>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</link>
       <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/10/28/jidlltj-abstract/</guid>
+      <guid>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</guid>
       <description>With Anna Sharman and Bob O&amp;rsquo;Hara, I&amp;rsquo;ll be hosting a session on the future of academic journals at SpotOnLondon (formerly ScienceOnline London). You can check out the session details here. They have posted the short version of the abstract on the site, I&amp;rsquo;m posting the longer version here, and you can also see our google planning document. We will update with details on the panel very soon.
 Abstract Today&amp;rsquo;s online articles and journals remain mostly an online mirror of print products.</description>
     </item>
     
     <item>
       <title>Going for gold, open access debate.</title>
-      <link>https://partiallyattended.com/2012/10/02/icoa-going-for-gold/</link>
+      <link>http://partiallyattended.com/2012/10/02/icoa-going-for-gold/</link>
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/10/02/icoa-going-for-gold/</guid>
+      <guid>http://partiallyattended.com/2012/10/02/icoa-going-for-gold/</guid>
       <description>Update, audio of the meeting is now available on figshare
 Last Thursday I attended the SciCommForum debate &amp;ldquo;Open access: going for gold?&amp;rdquo; held at Imperial College. Below are my notes from the event. The notes are fairly raw, and not comprehensive.
 The debate is going to be looking at open access in the context of the RCUK policy, it is being hosted by Richard Van Noorden (RVN), Mark Thorley (MT) from RCUK, and Stephen Curry (SC).</description>
@@ -174,97 +174,97 @@ The debate is going to be looking at open access in the context of the RCUK poli
     
     <item>
       <title>The cost of production</title>
-      <link>https://partiallyattended.com/2012/07/12/the-cost-of-production/</link>
+      <link>http://partiallyattended.com/2012/07/12/the-cost-of-production/</link>
       <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/07/12/the-cost-of-production/</guid>
+      <guid>http://partiallyattended.com/2012/07/12/the-cost-of-production/</guid>
       <description>Last week an interesting discussion on the cost of copy editing popped up over on Stephen Curry&amp;rsquo;s blog. In addition the comment thread at the recent Science editorial seems to make this post somewhat timely. I used to manage the copy editing of a good portion of physical science related content from Springer from 2002 &amp;ndash; 2005. I&amp;rsquo;m also currently in the process of setting up a new online-only journal.</description>
     </item>
     
     <item>
       <title>Did you just tell me to go fuck myself?</title>
-      <link>https://partiallyattended.com/2012/06/26/go-fuck-yourself/</link>
+      <link>http://partiallyattended.com/2012/06/26/go-fuck-yourself/</link>
       <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/06/26/go-fuck-yourself/</guid>
+      <guid>http://partiallyattended.com/2012/06/26/go-fuck-yourself/</guid>
       <description>So this morning I had a scan with a consultant and he has diagnosed me with Dupuytren&amp;rsquo;s Contracture. I&amp;rsquo;ve been a climber since the summer of 1990, nearly 22 years now. It&amp;rsquo;s been amazing, I&amp;rsquo;ve gotten into some pretty special situations, and I&amp;rsquo;ve gotten pretty fit. There is some evidence that there is a higher incedence of Dupuytren&amp;rsquo;s Contracture amongst climbers. There is a great write up about a climbers experience of this condition on ukclimbing.</description>
     </item>
     
     <item>
       <title>Some Thoughts on Peer Review and Altmetrics</title>
-      <link>https://partiallyattended.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</link>
+      <link>http://partiallyattended.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</guid>
+      <guid>http://partiallyattended.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</guid>
       <description>The upcoming altmetrics meeting, and a submitted abstract by Kelli Barr prompted me to note down some of my own thoughts on peer review and altmetrics. I would love to make it over to the meeting, but with just a few days now before my first child is born, it ain&amp;rsquo;t gonna happen.
 I&amp;rsquo;ve not read Kelly&amp;rsquo;s paper, but after reading the abstract my take home message from it would be something along the lines of &amp;ldquo;don&amp;rsquo;t replace peer review with altmetrics because you will just replace one bias with another, and at least with peer review the bias is contained within the academic community&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Augmented Peer Review</title>
-      <link>https://partiallyattended.com/2012/06/17/proposal-on-peer-review/</link>
+      <link>http://partiallyattended.com/2012/06/17/proposal-on-peer-review/</link>
       <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/06/17/proposal-on-peer-review/</guid>
+      <guid>http://partiallyattended.com/2012/06/17/proposal-on-peer-review/</guid>
       <description>Last year I was asked to contribute to a special issue on the evolution of peer review. I got quite excited about doing this, but then realised that I really didn&amp;rsquo;t have the time to write a paper. I&amp;rsquo;m not a practicing academic, I build products, and while at Mendeley I really had far too much on my plate to find the time to write up a paper. However the topic does interest me, and I am a strong believer that web scale technologies can help with the scientific communication process though a large number of avenues.</description>
     </item>
     
     <item>
       <title>Leaving Mendeley</title>
-      <link>https://partiallyattended.com/2012/05/05/leaving-mendeley/</link>
+      <link>http://partiallyattended.com/2012/05/05/leaving-mendeley/</link>
       <pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/05/05/leaving-mendeley/</guid>
+      <guid>http://partiallyattended.com/2012/05/05/leaving-mendeley/</guid>
       <description>I&amp;rsquo;m starting to draft this post on the train on the commute to my new job at eLife. After almost two years I&amp;rsquo;ve taken the decision to move on from Mendeley. They were without doubt the two best and most challenging years of my career to date. Working in a start up is an amazing, frustrating, enlightening, energising and rewarding experience.
 No single post can do justice to that time, and each time in the past weeks that I have drafted this post in my head it has had a slightly different timbre, so take this for what it is, a reflection in a moment.</description>
     </item>
     
     <item>
       <title>SOPA and PIPA stink, but the RWA is more dangerous to science.</title>
-      <link>https://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</link>
+      <link>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</link>
       <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</guid>
+      <guid>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</guid>
       <description>There are three bills up for consideration in the US Government which if passed will have a significant negative impact on academic research. These are the Stop Online Piracy Act (SOPA), the Protect IP Act (PIPA), and the Research Works Act (RWA).
 SOPA and PIPA will have a negative impact by putting censorship controls into the hands of the entertainment industry, and permitting legal process to affect the underlying architecture of the web.</description>
     </item>
     
     <item>
       <title>Nature, Whiskey and me</title>
-      <link>https://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</link>
+      <link>http://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</link>
       <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</guid>
+      <guid>http://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</guid>
       <description>In my earlier post on Megajournals I hinted that I felt that there could be a future in which this business model provided sufficient funds to allow a publishing house like NPG to make it&amp;rsquo;s flagship journal Nature an open access journal.
 This topic came up late one evening at coasp and I ended up making a bet with Matias Piipari. I bet that within 10 years Nature would become a fully open access journal.</description>
     </item>
     
     <item>
       <title>Hindawi have an awesome reviewing system.</title>
-      <link>https://partiallyattended.com/2011/10/06/hindawi-reviewing/</link>
+      <link>http://partiallyattended.com/2011/10/06/hindawi-reviewing/</link>
       <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/10/06/hindawi-reviewing/</guid>
+      <guid>http://partiallyattended.com/2011/10/06/hindawi-reviewing/</guid>
       <description>Hindawi publishers is a really interesting outfit. They are an open access only publisher based in Egypt. They combing a fantastic use of technology with the ability to afford a large amount of human curation over the data that they use to streamline their publication and reviewing systems.
 One of their publishing vehicles is called the International Scholarly Research Network and at the recent coasp conference Paul Peters gave an overview of how their peer review system works, I think it&amp;rsquo;s genius.</description>
     </item>
     
     <item>
       <title>Megajournals</title>
-      <link>https://partiallyattended.com/2011/10/03/megajournals/</link>
+      <link>http://partiallyattended.com/2011/10/03/megajournals/</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/10/03/megajournals/</guid>
+      <guid>http://partiallyattended.com/2011/10/03/megajournals/</guid>
       <description>The idea of megajournals had not really formalised in my head before, but at the COASP meeting the talk was all about &amp;ldquo;Megajournals&amp;rdquo;. [PLoSOne][plosone] is the archetype for this kind of journal, and it had not really struck me before as a huge revolution in the publishing industry, but after listening to a couple of days worth of talks on the topic I&amp;rsquo;m convincible.
 Megajournals are so called because they are structured to be able to publish many more articles than has been the normal practice with traditional journals.</description>
     </item>
     
     <item>
       <title>The rude health of Open Access Publishing.</title>
-      <link>https://partiallyattended.com/2011/10/03/coasp-impressions/</link>
+      <link>http://partiallyattended.com/2011/10/03/coasp-impressions/</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/10/03/coasp-impressions/</guid>
+      <guid>http://partiallyattended.com/2011/10/03/coasp-impressions/</guid>
       <description>TL;DR OA publishing is maturing with a scalable business model that all the big publishers are jumping all over. Money will be made (but less than before), and more content will be more open. The poor lamentable nay-sayers who carp on unheard in the darkness will be forgotten, and their Cassandra-like predictions will fade to be recalled as little more than the mutterings of fools (OK, that last bit is probably opinion).</description>
     </item>
     

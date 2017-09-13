@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/programming/</link>
+    <link>http://partiallyattended.com/categories/programming/</link>
     <description>Recent content in Programming on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reverse DOI lookups with Crossref</title>
-      <link>https://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</link>
+      <link>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</guid>
+      <guid>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</guid>
       <description>Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.
 @CrossrefOrg helped out and pointed me to the reverse api endpoint. It workes like this:
 http://api.crossref.org/reverse
@@ -26,10 +26,10 @@ Created a json payload file “citation.json” formatted as follows:
     
     <item>
       <title>If programming is magic, then the old languages are strong</title>
-      <link>https://partiallyattended.com/2008/07/14/if-programming-is-magic-then-the-old-languages-are-strong/</link>
+      <link>http://partiallyattended.com/2008/07/14/if-programming-is-magic-then-the-old-languages-are-strong/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/if-programming-is-magic-then-the-old-languages-are-strong/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/if-programming-is-magic-then-the-old-languages-are-strong/</guid>
       <description>The similarity between magic and programming is never more apparent thanwhen you sit down and watch someone who is truly good on the command line.By virtue of having secret knowledge they can quickly accomplish theapparently impossible. If you start out in the unix world you begin bylearning some simple incantations such as &#39;cd&#39;, &#39;ls&#39; and &#39;top&#39; and &#39;kill&#39;.If you persevere with the art eventually you may master the hidden runesthat bring &#39;sed&#39; and &#39;awk&#39; to life.</description>
     </item>
     

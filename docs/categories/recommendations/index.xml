@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recommendations on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/recommendations/</link>
+    <link>http://partiallyattended.com/categories/recommendations/</link>
     <description>Recent content in Recommendations on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/recommendations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/recommendations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PLOS ALM 13 day 2</title>
-      <link>https://partiallyattended.com/2013/10/17/plos-alm-13-day2/</link>
+      <link>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/10/17/plos-alm-13-day2/</guid>
+      <guid>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</guid>
       <description>Connecting ALM and Literature As I took part in the first session I don&amp;rsquo;t have many notes from it. I&amp;rsquo;ve posted the slides from my talk, and I&amp;rsquo;ll write up some more on those in due course. For me the standout talk of the session, if not the entire meeting, was from Jevin West who talked about using networked ranked data to provide recommendations. The algorithms his group are working on are being tested on [SSRN][ssrn], and will be rolled out to PLOS.</description>
     </item>
     

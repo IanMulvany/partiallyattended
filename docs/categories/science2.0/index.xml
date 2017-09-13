@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science2.0 on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/science2.0/</link>
+    <link>http://partiallyattended.com/categories/science2.0/</link>
     <description>Recent content in Science2.0 on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/science2.0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/science2.0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>open science</title>
-      <link>https://partiallyattended.com/2008/07/14/open-science/</link>
+      <link>http://partiallyattended.com/2008/07/14/open-science/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/open-science/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/open-science/</guid>
       <description>I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
 What is open science and what is the system? Well I am sure that there aremany viewpoints on this, so I am going to just put forward one here.
 At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipation in science. The credit is converted to grant money, thedollars keep the food on the plate.</description>

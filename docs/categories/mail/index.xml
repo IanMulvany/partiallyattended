@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mail on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/mail/</link>
+    <link>http://partiallyattended.com/categories/mail/</link>
     <description>Recent content in Mail on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Oct 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/mail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/mail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>save mailfolder messages to a file using applescript</title>
-      <link>https://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/</link>
+      <link>http://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/</link>
       <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/</guid>
+      <guid>http://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/</guid>
       <description>I&amp;rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.
 This is what I came up with.
 set fileRoot to &amp;quot;Macintosh HD:Users:path:&amp;quot; set messageList to {} tell application &amp;quot;Mail&amp;quot; set messageList to messageList &amp;amp; (messages of mailbox &amp;quot;mailbox name&amp;quot; of account &amp;quot;account&amp;quot; of application &amp;quot;Mail&amp;quot;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp;amp; &amp;quot;mailcontent&amp;quot; &amp;amp; fileNum &amp;amp; &amp;quot;.</description>

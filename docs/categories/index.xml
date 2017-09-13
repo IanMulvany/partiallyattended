@@ -2,3306 +2,3333 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/</link>
+    <link>http://partiallyattended.com/categories/</link>
     <description>Recent content in Categories on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://partiallyattended.com/categories/</link>
+      <link>http://partiallyattended.com/categories/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/</guid>
+      <guid>http://partiallyattended.com/categories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1am</title>
-      <link>https://partiallyattended.com/categories/1am/</link>
+      <link>http://partiallyattended.com/categories/1am/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/1am/</guid>
+      <guid>http://partiallyattended.com/categories/1am/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adobe</title>
-      <link>https://partiallyattended.com/categories/adobe/</link>
+      <link>http://partiallyattended.com/categories/adobe/</link>
       <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/adobe/</guid>
+      <guid>http://partiallyattended.com/categories/adobe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice</title>
+      <link>http://partiallyattended.com/categories/advice/</link>
+      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/advice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agile</title>
-      <link>https://partiallyattended.com/categories/agile/</link>
+      <link>http://partiallyattended.com/categories/agile/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/agile/</guid>
+      <guid>http://partiallyattended.com/categories/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithm</title>
-      <link>https://partiallyattended.com/categories/algorithm/</link>
+      <link>http://partiallyattended.com/categories/algorithm/</link>
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/algorithm/</guid>
+      <guid>http://partiallyattended.com/categories/algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alm</title>
-      <link>https://partiallyattended.com/categories/alm/</link>
+      <link>http://partiallyattended.com/categories/alm/</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/alm/</guid>
+      <guid>http://partiallyattended.com/categories/alm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alms</title>
-      <link>https://partiallyattended.com/categories/alms/</link>
+      <link>http://partiallyattended.com/categories/alms/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/alms/</guid>
+      <guid>http://partiallyattended.com/categories/alms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Altmetrics</title>
-      <link>https://partiallyattended.com/categories/altmetrics/</link>
+      <link>http://partiallyattended.com/categories/altmetrics/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/altmetrics/</guid>
+      <guid>http://partiallyattended.com/categories/altmetrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amazing Times</title>
-      <link>https://partiallyattended.com/categories/amazing-times/</link>
+      <link>http://partiallyattended.com/categories/amazing-times/</link>
       <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/amazing-times/</guid>
+      <guid>http://partiallyattended.com/categories/amazing-times/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amazon</title>
-      <link>https://partiallyattended.com/categories/amazon/</link>
+      <link>http://partiallyattended.com/categories/amazon/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/amazon/</guid>
+      <guid>http://partiallyattended.com/categories/amazon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Annotation</title>
-      <link>https://partiallyattended.com/categories/annotation/</link>
+      <link>http://partiallyattended.com/categories/annotation/</link>
       <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/annotation/</guid>
+      <guid>http://partiallyattended.com/categories/annotation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Api</title>
-      <link>https://partiallyattended.com/categories/api/</link>
+      <link>http://partiallyattended.com/categories/api/</link>
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/api/</guid>
+      <guid>http://partiallyattended.com/categories/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apple</title>
-      <link>https://partiallyattended.com/categories/apple/</link>
+      <link>http://partiallyattended.com/categories/apple/</link>
       <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/apple/</guid>
+      <guid>http://partiallyattended.com/categories/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applescript</title>
-      <link>https://partiallyattended.com/categories/applescript/</link>
+      <link>http://partiallyattended.com/categories/applescript/</link>
       <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/applescript/</guid>
+      <guid>http://partiallyattended.com/categories/applescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aps</title>
-      <link>https://partiallyattended.com/categories/aps/</link>
+      <link>http://partiallyattended.com/categories/aps/</link>
       <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/aps/</guid>
+      <guid>http://partiallyattended.com/categories/aps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arxiv</title>
-      <link>https://partiallyattended.com/categories/arxiv/</link>
+      <link>http://partiallyattended.com/categories/arxiv/</link>
       <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/arxiv/</guid>
+      <guid>http://partiallyattended.com/categories/arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Astronomg</title>
-      <link>https://partiallyattended.com/categories/astronomg/</link>
+      <link>http://partiallyattended.com/categories/astronomg/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/astronomg/</guid>
+      <guid>http://partiallyattended.com/categories/astronomg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Author Mapper</title>
-      <link>https://partiallyattended.com/categories/author-mapper/</link>
+      <link>http://partiallyattended.com/categories/author-mapper/</link>
       <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/author-mapper/</guid>
+      <guid>http://partiallyattended.com/categories/author-mapper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Authoring</title>
-      <link>https://partiallyattended.com/categories/authoring/</link>
+      <link>http://partiallyattended.com/categories/authoring/</link>
       <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/authoring/</guid>
+      <guid>http://partiallyattended.com/categories/authoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Avatar</title>
-      <link>https://partiallyattended.com/categories/avatar/</link>
+      <link>http://partiallyattended.com/categories/avatar/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/avatar/</guid>
+      <guid>http://partiallyattended.com/categories/avatar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Avchd</title>
-      <link>https://partiallyattended.com/categories/avchd/</link>
+      <link>http://partiallyattended.com/categories/avchd/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/avchd/</guid>
+      <guid>http://partiallyattended.com/categories/avchd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aws</title>
-      <link>https://partiallyattended.com/categories/aws/</link>
+      <link>http://partiallyattended.com/categories/aws/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/aws/</guid>
+      <guid>http://partiallyattended.com/categories/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barcamp</title>
-      <link>https://partiallyattended.com/categories/barcamp/</link>
+      <link>http://partiallyattended.com/categories/barcamp/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/barcamp/</guid>
+      <guid>http://partiallyattended.com/categories/barcamp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Behat</title>
-      <link>https://partiallyattended.com/categories/behat/</link>
+      <link>http://partiallyattended.com/categories/behat/</link>
       <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/behat/</guid>
+      <guid>http://partiallyattended.com/categories/behat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond The Pdf</title>
-      <link>https://partiallyattended.com/categories/beyond-the-pdf/</link>
+      <link>http://partiallyattended.com/categories/beyond-the-pdf/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/beyond-the-pdf/</guid>
+      <guid>http://partiallyattended.com/categories/beyond-the-pdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bicep2</title>
-      <link>https://partiallyattended.com/categories/bicep2/</link>
+      <link>http://partiallyattended.com/categories/bicep2/</link>
       <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/bicep2/</guid>
+      <guid>http://partiallyattended.com/categories/bicep2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data</title>
-      <link>https://partiallyattended.com/categories/big-data/</link>
+      <link>http://partiallyattended.com/categories/big-data/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/big-data/</guid>
+      <guid>http://partiallyattended.com/categories/big-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biochemistry</title>
-      <link>https://partiallyattended.com/categories/biochemistry/</link>
+      <link>http://partiallyattended.com/categories/biochemistry/</link>
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/biochemistry/</guid>
+      <guid>http://partiallyattended.com/categories/biochemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://partiallyattended.com/categories/blog/</link>
+      <link>http://partiallyattended.com/categories/blog/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/blog/</guid>
+      <guid>http://partiallyattended.com/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogger</title>
-      <link>https://partiallyattended.com/categories/blogger/</link>
+      <link>http://partiallyattended.com/categories/blogger/</link>
       <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/blogger/</guid>
+      <guid>http://partiallyattended.com/categories/blogger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging</title>
-      <link>https://partiallyattended.com/categories/blogging/</link>
-      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <link>http://partiallyattended.com/categories/blogging/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/blogging/</guid>
+      <guid>http://partiallyattended.com/categories/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boltzmann</title>
-      <link>https://partiallyattended.com/categories/boltzmann/</link>
+      <link>http://partiallyattended.com/categories/boltzmann/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/boltzmann/</guid>
+      <guid>http://partiallyattended.com/categories/boltzmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book</title>
-      <link>https://partiallyattended.com/categories/book/</link>
+      <link>http://partiallyattended.com/categories/book/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/book/</guid>
+      <guid>http://partiallyattended.com/categories/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book Review</title>
-      <link>https://partiallyattended.com/categories/book-review/</link>
+      <link>http://partiallyattended.com/categories/book-review/</link>
       <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/book-review/</guid>
+      <guid>http://partiallyattended.com/categories/book-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>https://partiallyattended.com/categories/books/</link>
+      <link>http://partiallyattended.com/categories/books/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/books/</guid>
+      <guid>http://partiallyattended.com/categories/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bosons</title>
-      <link>https://partiallyattended.com/categories/bosons/</link>
+      <link>http://partiallyattended.com/categories/bosons/</link>
       <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/bosons/</guid>
+      <guid>http://partiallyattended.com/categories/bosons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bouldering</title>
-      <link>https://partiallyattended.com/categories/bouldering/</link>
+      <link>http://partiallyattended.com/categories/bouldering/</link>
       <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/bouldering/</guid>
+      <guid>http://partiallyattended.com/categories/bouldering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brexit</title>
+      <link>http://partiallyattended.com/categories/brexit/</link>
+      <pubDate>Tue, 21 Jun 2016 14:47:22 +0100</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/brexit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Business</title>
-      <link>https://partiallyattended.com/categories/business/</link>
+      <link>http://partiallyattended.com/categories/business/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/business/</guid>
+      <guid>http://partiallyattended.com/categories/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cambridge</title>
-      <link>https://partiallyattended.com/categories/cambridge/</link>
+      <link>http://partiallyattended.com/categories/cambridge/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/cambridge/</guid>
+      <guid>http://partiallyattended.com/categories/cambridge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Camusability</title>
-      <link>https://partiallyattended.com/categories/camusability/</link>
+      <link>http://partiallyattended.com/categories/camusability/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/camusability/</guid>
+      <guid>http://partiallyattended.com/categories/camusability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Career</title>
-      <link>https://partiallyattended.com/categories/career/</link>
+      <link>http://partiallyattended.com/categories/career/</link>
       <pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/career/</guid>
+      <guid>http://partiallyattended.com/categories/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cc By</title>
-      <link>https://partiallyattended.com/categories/cc-by/</link>
+      <link>http://partiallyattended.com/categories/cc-by/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/cc-by/</guid>
+      <guid>http://partiallyattended.com/categories/cc-by/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Centrality</title>
-      <link>https://partiallyattended.com/categories/centrality/</link>
+      <link>http://partiallyattended.com/categories/centrality/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/centrality/</guid>
+      <guid>http://partiallyattended.com/categories/centrality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cheese</title>
-      <link>https://partiallyattended.com/categories/cheese/</link>
+      <link>http://partiallyattended.com/categories/cheese/</link>
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/cheese/</guid>
+      <guid>http://partiallyattended.com/categories/cheese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chef</title>
-      <link>https://partiallyattended.com/categories/chef/</link>
+      <link>http://partiallyattended.com/categories/chef/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/chef/</guid>
+      <guid>http://partiallyattended.com/categories/chef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemistry</title>
-      <link>https://partiallyattended.com/categories/chemistry/</link>
+      <link>http://partiallyattended.com/categories/chemistry/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/chemistry/</guid>
+      <guid>http://partiallyattended.com/categories/chemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Citations</title>
-      <link>https://partiallyattended.com/categories/citations/</link>
+      <link>http://partiallyattended.com/categories/citations/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/citations/</guid>
+      <guid>http://partiallyattended.com/categories/citations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climbing</title>
-      <link>https://partiallyattended.com/categories/climbing/</link>
+      <link>http://partiallyattended.com/categories/climbing/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/climbing/</guid>
+      <guid>http://partiallyattended.com/categories/climbing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coasp</title>
-      <link>https://partiallyattended.com/categories/coasp/</link>
+      <link>http://partiallyattended.com/categories/coasp/</link>
       <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/coasp/</guid>
+      <guid>http://partiallyattended.com/categories/coasp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Command Line</title>
-      <link>https://partiallyattended.com/categories/command-line/</link>
+      <link>http://partiallyattended.com/categories/command-line/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/command-line/</guid>
+      <guid>http://partiallyattended.com/categories/command-line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication</title>
-      <link>https://partiallyattended.com/categories/communication/</link>
+      <link>http://partiallyattended.com/categories/communication/</link>
       <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/communication/</guid>
+      <guid>http://partiallyattended.com/categories/communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Social Science</title>
-      <link>https://partiallyattended.com/categories/computational-social-science/</link>
+      <link>http://partiallyattended.com/categories/computational-social-science/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/computational-social-science/</guid>
+      <guid>http://partiallyattended.com/categories/computational-social-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Socical Science</title>
-      <link>https://partiallyattended.com/categories/computational-socical-science/</link>
+      <link>http://partiallyattended.com/categories/computational-socical-science/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/computational-socical-science/</guid>
+      <guid>http://partiallyattended.com/categories/computational-socical-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference</title>
-      <link>https://partiallyattended.com/categories/conference/</link>
+      <link>http://partiallyattended.com/categories/conference/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/conference/</guid>
+      <guid>http://partiallyattended.com/categories/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connotea</title>
-      <link>https://partiallyattended.com/categories/connotea/</link>
+      <link>http://partiallyattended.com/categories/connotea/</link>
       <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/connotea/</guid>
+      <guid>http://partiallyattended.com/categories/connotea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cool</title>
-      <link>https://partiallyattended.com/categories/cool/</link>
+      <link>http://partiallyattended.com/categories/cool/</link>
       <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/cool/</guid>
+      <guid>http://partiallyattended.com/categories/cool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Copy Editing</title>
-      <link>https://partiallyattended.com/categories/copy-editing/</link>
+      <link>http://partiallyattended.com/categories/copy-editing/</link>
       <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/copy-editing/</guid>
+      <guid>http://partiallyattended.com/categories/copy-editing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Copyright</title>
-      <link>https://partiallyattended.com/categories/copyright/</link>
+      <link>http://partiallyattended.com/categories/copyright/</link>
       <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/copyright/</guid>
+      <guid>http://partiallyattended.com/categories/copyright/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crossref</title>
-      <link>https://partiallyattended.com/categories/crossref/</link>
+      <link>http://partiallyattended.com/categories/crossref/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/crossref/</guid>
+      <guid>http://partiallyattended.com/categories/crossref/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crowd Sourcing</title>
-      <link>https://partiallyattended.com/categories/crowd-sourcing/</link>
+      <link>http://partiallyattended.com/categories/crowd-sourcing/</link>
       <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/crowd-sourcing/</guid>
+      <guid>http://partiallyattended.com/categories/crowd-sourcing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Csl</title>
-      <link>https://partiallyattended.com/categories/csl/</link>
+      <link>http://partiallyattended.com/categories/csl/</link>
       <pubDate>Fri, 24 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/csl/</guid>
+      <guid>http://partiallyattended.com/categories/csl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cug</title>
-      <link>https://partiallyattended.com/categories/cug/</link>
+      <link>http://partiallyattended.com/categories/cug/</link>
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/cug/</guid>
+      <guid>http://partiallyattended.com/categories/cug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>https://partiallyattended.com/categories/data/</link>
+      <link>http://partiallyattended.com/categories/data/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/data/</guid>
+      <guid>http://partiallyattended.com/categories/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Management</title>
-      <link>https://partiallyattended.com/categories/data-management/</link>
+      <link>http://partiallyattended.com/categories/data-management/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/data-management/</guid>
+      <guid>http://partiallyattended.com/categories/data-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://partiallyattended.com/categories/data-science/</link>
+      <link>http://partiallyattended.com/categories/data-science/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/data-science/</guid>
+      <guid>http://partiallyattended.com/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data.Gov</title>
-      <link>https://partiallyattended.com/categories/data.gov/</link>
+      <link>http://partiallyattended.com/categories/data.gov/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/data.gov/</guid>
+      <guid>http://partiallyattended.com/categories/data.gov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Database</title>
-      <link>https://partiallyattended.com/categories/database/</link>
+      <link>http://partiallyattended.com/categories/database/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/database/</guid>
+      <guid>http://partiallyattended.com/categories/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Death</title>
-      <link>https://partiallyattended.com/categories/death/</link>
+      <link>http://partiallyattended.com/categories/death/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/death/</guid>
+      <guid>http://partiallyattended.com/categories/death/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>https://partiallyattended.com/categories/design/</link>
+      <link>http://partiallyattended.com/categories/design/</link>
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/design/</guid>
+      <guid>http://partiallyattended.com/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://partiallyattended.com/categories/development/</link>
+      <link>http://partiallyattended.com/categories/development/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/development/</guid>
+      <guid>http://partiallyattended.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Directed Weighted Graphs</title>
-      <link>https://partiallyattended.com/categories/directed-weighted-graphs/</link>
+      <link>http://partiallyattended.com/categories/directed-weighted-graphs/</link>
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/directed-weighted-graphs/</guid>
+      <guid>http://partiallyattended.com/categories/directed-weighted-graphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disclaimer</title>
-      <link>https://partiallyattended.com/categories/disclaimer/</link>
+      <link>http://partiallyattended.com/categories/disclaimer/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/disclaimer/</guid>
+      <guid>http://partiallyattended.com/categories/disclaimer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovery</title>
-      <link>https://partiallyattended.com/categories/discovery/</link>
+      <link>http://partiallyattended.com/categories/discovery/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/discovery/</guid>
+      <guid>http://partiallyattended.com/categories/discovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diskworld</title>
-      <link>https://partiallyattended.com/categories/diskworld/</link>
+      <link>http://partiallyattended.com/categories/diskworld/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/diskworld/</guid>
+      <guid>http://partiallyattended.com/categories/diskworld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Django</title>
-      <link>https://partiallyattended.com/categories/django/</link>
+      <link>http://partiallyattended.com/categories/django/</link>
       <pubDate>Mon, 19 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/django/</guid>
+      <guid>http://partiallyattended.com/categories/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dlf2010</title>
-      <link>https://partiallyattended.com/categories/dlf2010/</link>
+      <link>http://partiallyattended.com/categories/dlf2010/</link>
       <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/dlf2010/</guid>
+      <guid>http://partiallyattended.com/categories/dlf2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dog In Manger</title>
-      <link>https://partiallyattended.com/categories/dog-in-manger/</link>
+      <link>http://partiallyattended.com/categories/dog-in-manger/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/dog-in-manger/</guid>
+      <guid>http://partiallyattended.com/categories/dog-in-manger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Doi</title>
-      <link>https://partiallyattended.com/categories/doi/</link>
+      <link>http://partiallyattended.com/categories/doi/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/doi/</guid>
+      <guid>http://partiallyattended.com/categories/doi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drinks</title>
-      <link>https://partiallyattended.com/categories/drinks/</link>
+      <link>http://partiallyattended.com/categories/drinks/</link>
       <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/drinks/</guid>
+      <guid>http://partiallyattended.com/categories/drinks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dupuytrens Contracture</title>
-      <link>https://partiallyattended.com/categories/dupuytrens-contracture/</link>
+      <link>http://partiallyattended.com/categories/dupuytrens-contracture/</link>
       <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/dupuytrens-contracture/</guid>
+      <guid>http://partiallyattended.com/categories/dupuytrens-contracture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ebi</title>
-      <link>https://partiallyattended.com/categories/ebi/</link>
+      <link>http://partiallyattended.com/categories/ebi/</link>
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ebi/</guid>
+      <guid>http://partiallyattended.com/categories/ebi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economics</title>
-      <link>https://partiallyattended.com/categories/economics/</link>
+      <link>http://partiallyattended.com/categories/economics/</link>
       <pubDate>Mon, 26 Jun 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/economics/</guid>
+      <guid>http://partiallyattended.com/categories/economics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://partiallyattended.com/categories/education/</link>
+      <link>http://partiallyattended.com/categories/education/</link>
       <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/education/</guid>
+      <guid>http://partiallyattended.com/categories/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Einstein</title>
-      <link>https://partiallyattended.com/categories/einstein/</link>
+      <link>http://partiallyattended.com/categories/einstein/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/einstein/</guid>
+      <guid>http://partiallyattended.com/categories/einstein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elife</title>
-      <link>https://partiallyattended.com/categories/elife/</link>
+      <link>http://partiallyattended.com/categories/elife/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/elife/</guid>
+      <guid>http://partiallyattended.com/categories/elife/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elife Bot</title>
-      <link>https://partiallyattended.com/categories/elife-bot/</link>
+      <link>http://partiallyattended.com/categories/elife-bot/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/elife-bot/</guid>
+      <guid>http://partiallyattended.com/categories/elife-bot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elife Lens</title>
-      <link>https://partiallyattended.com/categories/elife-lens/</link>
+      <link>http://partiallyattended.com/categories/elife-lens/</link>
       <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/elife-lens/</guid>
+      <guid>http://partiallyattended.com/categories/elife-lens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Email</title>
-      <link>https://partiallyattended.com/categories/email/</link>
+      <link>http://partiallyattended.com/categories/email/</link>
       <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/email/</guid>
+      <guid>http://partiallyattended.com/categories/email/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Encode</title>
-      <link>https://partiallyattended.com/categories/encode/</link>
+      <link>http://partiallyattended.com/categories/encode/</link>
       <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/encode/</guid>
+      <guid>http://partiallyattended.com/categories/encode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epistimology</title>
-      <link>https://partiallyattended.com/categories/epistimology/</link>
+      <link>http://partiallyattended.com/categories/epistimology/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/epistimology/</guid>
+      <guid>http://partiallyattended.com/categories/epistimology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equation</title>
-      <link>https://partiallyattended.com/categories/equation/</link>
+      <link>http://partiallyattended.com/categories/equation/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/equation/</guid>
+      <guid>http://partiallyattended.com/categories/equation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erc</title>
-      <link>https://partiallyattended.com/categories/erc/</link>
+      <link>http://partiallyattended.com/categories/erc/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/erc/</guid>
+      <guid>http://partiallyattended.com/categories/erc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethics</title>
-      <link>https://partiallyattended.com/categories/ethics/</link>
+      <link>http://partiallyattended.com/categories/ethics/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ethics/</guid>
+      <guid>http://partiallyattended.com/categories/ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eu</title>
-      <link>https://partiallyattended.com/categories/eu/</link>
-      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      <link>http://partiallyattended.com/categories/eu/</link>
+      <pubDate>Tue, 21 Jun 2016 14:47:22 +0100</pubDate>
       
-      <guid>https://partiallyattended.com/categories/eu/</guid>
+      <guid>http://partiallyattended.com/categories/eu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Union</title>
+      <link>http://partiallyattended.com/categories/european-union/</link>
+      <pubDate>Tue, 21 Jun 2016 14:47:22 +0100</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/european-union/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Every Day Matters</title>
-      <link>https://partiallyattended.com/categories/every-day-matters/</link>
+      <link>http://partiallyattended.com/categories/every-day-matters/</link>
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/every-day-matters/</guid>
+      <guid>http://partiallyattended.com/categories/every-day-matters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exif</title>
-      <link>https://partiallyattended.com/categories/exif/</link>
+      <link>http://partiallyattended.com/categories/exif/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/exif/</guid>
+      <guid>http://partiallyattended.com/categories/exif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Family</title>
-      <link>https://partiallyattended.com/categories/family/</link>
+      <link>http://partiallyattended.com/categories/family/</link>
       <pubDate>Mon, 02 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/family/</guid>
+      <guid>http://partiallyattended.com/categories/family/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filter Failure</title>
-      <link>https://partiallyattended.com/categories/filter-failure/</link>
+      <link>http://partiallyattended.com/categories/filter-failure/</link>
       <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/filter-failure/</guid>
+      <guid>http://partiallyattended.com/categories/filter-failure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flickr</title>
-      <link>https://partiallyattended.com/categories/flickr/</link>
+      <link>http://partiallyattended.com/categories/flickr/</link>
       <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/flickr/</guid>
+      <guid>http://partiallyattended.com/categories/flickr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluidinfo</title>
-      <link>https://partiallyattended.com/categories/fluidinfo/</link>
+      <link>http://partiallyattended.com/categories/fluidinfo/</link>
       <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/fluidinfo/</guid>
+      <guid>http://partiallyattended.com/categories/fluidinfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Focus</title>
-      <link>https://partiallyattended.com/categories/focus/</link>
+      <link>http://partiallyattended.com/categories/focus/</link>
       <pubDate>Sun, 06 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/focus/</guid>
+      <guid>http://partiallyattended.com/categories/focus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Font</title>
-      <link>https://partiallyattended.com/categories/font/</link>
+      <link>http://partiallyattended.com/categories/font/</link>
       <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/font/</guid>
+      <guid>http://partiallyattended.com/categories/font/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fontainbleau</title>
-      <link>https://partiallyattended.com/categories/fontainbleau/</link>
+      <link>http://partiallyattended.com/categories/fontainbleau/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/fontainbleau/</guid>
+      <guid>http://partiallyattended.com/categories/fontainbleau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://partiallyattended.com/categories/food/</link>
+      <link>http://partiallyattended.com/categories/food/</link>
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/food/</guid>
+      <guid>http://partiallyattended.com/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Force2015</title>
-      <link>https://partiallyattended.com/categories/force2015/</link>
+      <link>http://partiallyattended.com/categories/force2015/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/force2015/</guid>
+      <guid>http://partiallyattended.com/categories/force2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Friction</title>
-      <link>https://partiallyattended.com/categories/friction/</link>
+      <link>http://partiallyattended.com/categories/friction/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/friction/</guid>
+      <guid>http://partiallyattended.com/categories/friction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fuckers</title>
-      <link>https://partiallyattended.com/categories/fuckers/</link>
+      <link>http://partiallyattended.com/categories/fuckers/</link>
       <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/fuckers/</guid>
+      <guid>http://partiallyattended.com/categories/fuckers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Funding</title>
-      <link>https://partiallyattended.com/categories/funding/</link>
+      <link>http://partiallyattended.com/categories/funding/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/funding/</guid>
+      <guid>http://partiallyattended.com/categories/funding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Futurepub</title>
-      <link>https://partiallyattended.com/categories/futurepub/</link>
+      <link>http://partiallyattended.com/categories/futurepub/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/futurepub/</guid>
+      <guid>http://partiallyattended.com/categories/futurepub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Futurepub10</title>
-      <link>https://partiallyattended.com/categories/futurepub10/</link>
+      <link>http://partiallyattended.com/categories/futurepub10/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/futurepub10/</guid>
+      <guid>http://partiallyattended.com/categories/futurepub10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gadget</title>
-      <link>https://partiallyattended.com/categories/gadget/</link>
+      <link>http://partiallyattended.com/categories/gadget/</link>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/gadget/</guid>
+      <guid>http://partiallyattended.com/categories/gadget/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gdocs</title>
-      <link>https://partiallyattended.com/categories/gdocs/</link>
+      <link>http://partiallyattended.com/categories/gdocs/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/gdocs/</guid>
+      <guid>http://partiallyattended.com/categories/gdocs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gdrive</title>
-      <link>https://partiallyattended.com/categories/gdrive/</link>
+      <link>http://partiallyattended.com/categories/gdrive/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/gdrive/</guid>
+      <guid>http://partiallyattended.com/categories/gdrive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geek</title>
-      <link>https://partiallyattended.com/categories/geek/</link>
+      <link>http://partiallyattended.com/categories/geek/</link>
       <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/geek/</guid>
+      <guid>http://partiallyattended.com/categories/geek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Germany</title>
-      <link>https://partiallyattended.com/categories/germany/</link>
+      <link>http://partiallyattended.com/categories/germany/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/germany/</guid>
+      <guid>http://partiallyattended.com/categories/germany/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gf1</title>
-      <link>https://partiallyattended.com/categories/gf1/</link>
+      <link>http://partiallyattended.com/categories/gf1/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/gf1/</guid>
+      <guid>http://partiallyattended.com/categories/gf1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gherkin</title>
-      <link>https://partiallyattended.com/categories/gherkin/</link>
+      <link>http://partiallyattended.com/categories/gherkin/</link>
       <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/gherkin/</guid>
+      <guid>http://partiallyattended.com/categories/gherkin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://partiallyattended.com/categories/git/</link>
+      <link>http://partiallyattended.com/categories/git/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/git/</guid>
+      <guid>http://partiallyattended.com/categories/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>https://partiallyattended.com/categories/github/</link>
+      <link>http://partiallyattended.com/categories/github/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/github/</guid>
+      <guid>http://partiallyattended.com/categories/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github Pages</title>
-      <link>https://partiallyattended.com/categories/github-pages/</link>
+      <link>http://partiallyattended.com/categories/github-pages/</link>
       <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/github-pages/</guid>
+      <guid>http://partiallyattended.com/categories/github-pages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Goals</title>
-      <link>https://partiallyattended.com/categories/goals/</link>
+      <link>http://partiallyattended.com/categories/goals/</link>
       <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/goals/</guid>
+      <guid>http://partiallyattended.com/categories/goals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gold</title>
-      <link>https://partiallyattended.com/categories/gold/</link>
+      <link>http://partiallyattended.com/categories/gold/</link>
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/gold/</guid>
+      <guid>http://partiallyattended.com/categories/gold/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google</title>
-      <link>https://partiallyattended.com/categories/google/</link>
+      <link>http://partiallyattended.com/categories/google/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/google/</guid>
+      <guid>http://partiallyattended.com/categories/google/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google App Engine</title>
-      <link>https://partiallyattended.com/categories/google-app-engine/</link>
+      <link>http://partiallyattended.com/categories/google-app-engine/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/google-app-engine/</guid>
+      <guid>http://partiallyattended.com/categories/google-app-engine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Scholar</title>
-      <link>https://partiallyattended.com/categories/google-scholar/</link>
+      <link>http://partiallyattended.com/categories/google-scholar/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/google-scholar/</guid>
+      <guid>http://partiallyattended.com/categories/google-scholar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Wave</title>
-      <link>https://partiallyattended.com/categories/google-wave/</link>
+      <link>http://partiallyattended.com/categories/google-wave/</link>
       <pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/google-wave/</guid>
+      <guid>http://partiallyattended.com/categories/google-wave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Theory</title>
-      <link>https://partiallyattended.com/categories/graph-theory/</link>
+      <link>http://partiallyattended.com/categories/graph-theory/</link>
       <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/graph-theory/</guid>
+      <guid>http://partiallyattended.com/categories/graph-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphs</title>
-      <link>https://partiallyattended.com/categories/graphs/</link>
+      <link>http://partiallyattended.com/categories/graphs/</link>
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/graphs/</guid>
+      <guid>http://partiallyattended.com/categories/graphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Green</title>
-      <link>https://partiallyattended.com/categories/green/</link>
+      <link>http://partiallyattended.com/categories/green/</link>
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/green/</guid>
+      <guid>http://partiallyattended.com/categories/green/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackathon</title>
-      <link>https://partiallyattended.com/categories/hackathon/</link>
+      <link>http://partiallyattended.com/categories/hackathon/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/hackathon/</guid>
+      <guid>http://partiallyattended.com/categories/hackathon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hacking</title>
-      <link>https://partiallyattended.com/categories/hacking/</link>
+      <link>http://partiallyattended.com/categories/hacking/</link>
       <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/hacking/</guid>
+      <guid>http://partiallyattended.com/categories/hacking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackney</title>
-      <link>https://partiallyattended.com/categories/hackney/</link>
+      <link>http://partiallyattended.com/categories/hackney/</link>
       <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/hackney/</guid>
+      <guid>http://partiallyattended.com/categories/hackney/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Handbrake</title>
-      <link>https://partiallyattended.com/categories/handbrake/</link>
+      <link>http://partiallyattended.com/categories/handbrake/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/handbrake/</guid>
+      <guid>http://partiallyattended.com/categories/handbrake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Happyness</title>
-      <link>https://partiallyattended.com/categories/happyness/</link>
+      <link>http://partiallyattended.com/categories/happyness/</link>
       <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/happyness/</guid>
+      <guid>http://partiallyattended.com/categories/happyness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harry Potter</title>
-      <link>https://partiallyattended.com/categories/harry-potter/</link>
+      <link>http://partiallyattended.com/categories/harry-potter/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/harry-potter/</guid>
+      <guid>http://partiallyattended.com/categories/harry-potter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heros</title>
-      <link>https://partiallyattended.com/categories/heros/</link>
+      <link>http://partiallyattended.com/categories/heros/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/heros/</guid>
+      <guid>http://partiallyattended.com/categories/heros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Higgs</title>
-      <link>https://partiallyattended.com/categories/higgs/</link>
+      <link>http://partiallyattended.com/categories/higgs/</link>
       <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/higgs/</guid>
+      <guid>http://partiallyattended.com/categories/higgs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hilighting</title>
-      <link>https://partiallyattended.com/categories/hilighting/</link>
+      <link>http://partiallyattended.com/categories/hilighting/</link>
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/hilighting/</guid>
+      <guid>http://partiallyattended.com/categories/hilighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hiring</title>
-      <link>https://partiallyattended.com/categories/hiring/</link>
+      <link>http://partiallyattended.com/categories/hiring/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/hiring/</guid>
+      <guid>http://partiallyattended.com/categories/hiring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Horizon 2020</title>
-      <link>https://partiallyattended.com/categories/horizon-2020/</link>
+      <link>http://partiallyattended.com/categories/horizon-2020/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/horizon-2020/</guid>
+      <guid>http://partiallyattended.com/categories/horizon-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horror</title>
+      <link>http://partiallyattended.com/categories/horror/</link>
+      <pubDate>Tue, 21 Jun 2016 14:47:22 +0100</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/horror/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hoto</title>
-      <link>https://partiallyattended.com/categories/hoto/</link>
+      <link>http://partiallyattended.com/categories/hoto/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/hoto/</guid>
+      <guid>http://partiallyattended.com/categories/hoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://partiallyattended.com/categories/hugo/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ia</title>
-      <link>https://partiallyattended.com/categories/ia/</link>
+      <link>http://partiallyattended.com/categories/ia/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ia/</guid>
+      <guid>http://partiallyattended.com/categories/ia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iannotate</title>
-      <link>https://partiallyattended.com/categories/iannotate/</link>
+      <link>http://partiallyattended.com/categories/iannotate/</link>
       <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/iannotate/</guid>
+      <guid>http://partiallyattended.com/categories/iannotate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ic12s2</title>
-      <link>https://partiallyattended.com/categories/ic12s2/</link>
+      <link>http://partiallyattended.com/categories/ic12s2/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ic12s2/</guid>
+      <guid>http://partiallyattended.com/categories/ic12s2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ic2s2</title>
-      <link>https://partiallyattended.com/categories/ic2s2/</link>
+      <link>http://partiallyattended.com/categories/ic2s2/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ic2s2/</guid>
+      <guid>http://partiallyattended.com/categories/ic2s2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://partiallyattended.com/categories/image/</link>
+      <link>http://partiallyattended.com/categories/image/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/image/</guid>
+      <guid>http://partiallyattended.com/categories/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>https://partiallyattended.com/categories/images/</link>
+      <link>http://partiallyattended.com/categories/images/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/images/</guid>
+      <guid>http://partiallyattended.com/categories/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imovie</title>
-      <link>https://partiallyattended.com/categories/imovie/</link>
+      <link>http://partiallyattended.com/categories/imovie/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/imovie/</guid>
+      <guid>http://partiallyattended.com/categories/imovie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Industry</title>
-      <link>https://partiallyattended.com/categories/industry/</link>
+      <link>http://partiallyattended.com/categories/industry/</link>
       <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/industry/</guid>
+      <guid>http://partiallyattended.com/categories/industry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Injuries</title>
-      <link>https://partiallyattended.com/categories/injuries/</link>
+      <link>http://partiallyattended.com/categories/injuries/</link>
       <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/injuries/</guid>
+      <guid>http://partiallyattended.com/categories/injuries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Injury</title>
-      <link>https://partiallyattended.com/categories/injury/</link>
+      <link>http://partiallyattended.com/categories/injury/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/injury/</guid>
+      <guid>http://partiallyattended.com/categories/injury/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Innovation</title>
-      <link>https://partiallyattended.com/categories/innovation/</link>
+      <link>http://partiallyattended.com/categories/innovation/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/innovation/</guid>
+      <guid>http://partiallyattended.com/categories/innovation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inspirational</title>
-      <link>https://partiallyattended.com/categories/inspirational/</link>
+      <link>http://partiallyattended.com/categories/inspirational/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/inspirational/</guid>
+      <guid>http://partiallyattended.com/categories/inspirational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interesting</title>
-      <link>https://partiallyattended.com/categories/interesting/</link>
+      <link>http://partiallyattended.com/categories/interesting/</link>
       <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/interesting/</guid>
+      <guid>http://partiallyattended.com/categories/interesting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>https://partiallyattended.com/categories/internet/</link>
+      <link>http://partiallyattended.com/categories/internet/</link>
       <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/internet/</guid>
+      <guid>http://partiallyattended.com/categories/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipython</title>
-      <link>https://partiallyattended.com/categories/ipython/</link>
+      <link>http://partiallyattended.com/categories/ipython/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ipython/</guid>
+      <guid>http://partiallyattended.com/categories/ipython/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipython Notebook</title>
-      <link>https://partiallyattended.com/categories/ipython-notebook/</link>
+      <link>http://partiallyattended.com/categories/ipython-notebook/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ipython-notebook/</guid>
+      <guid>http://partiallyattended.com/categories/ipython-notebook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ireland</title>
-      <link>https://partiallyattended.com/categories/ireland/</link>
+      <link>http://partiallyattended.com/categories/ireland/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ireland/</guid>
+      <guid>http://partiallyattended.com/categories/ireland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://partiallyattended.com/categories/javascript/</link>
+      <link>http://partiallyattended.com/categories/javascript/</link>
       <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/javascript/</guid>
+      <guid>http://partiallyattended.com/categories/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>https://partiallyattended.com/categories/jekyll/</link>
-      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <link>http://partiallyattended.com/categories/jekyll/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/jekyll/</guid>
+      <guid>http://partiallyattended.com/categories/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jisc</title>
-      <link>https://partiallyattended.com/categories/jisc/</link>
+      <link>http://partiallyattended.com/categories/jisc/</link>
       <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/jisc/</guid>
+      <guid>http://partiallyattended.com/categories/jisc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keynote</title>
-      <link>https://partiallyattended.com/categories/keynote/</link>
+      <link>http://partiallyattended.com/categories/keynote/</link>
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/keynote/</guid>
+      <guid>http://partiallyattended.com/categories/keynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Köln</title>
-      <link>https://partiallyattended.com/categories/k%C3%B6ln/</link>
+      <link>http://partiallyattended.com/categories/k%C3%B6ln/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/k%C3%B6ln/</guid>
+      <guid>http://partiallyattended.com/categories/k%C3%B6ln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Language Models</title>
-      <link>https://partiallyattended.com/categories/language-models/</link>
+      <link>http://partiallyattended.com/categories/language-models/</link>
       <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/language-models/</guid>
+      <guid>http://partiallyattended.com/categories/language-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latex</title>
-      <link>https://partiallyattended.com/categories/latex/</link>
+      <link>http://partiallyattended.com/categories/latex/</link>
       <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/latex/</guid>
+      <guid>http://partiallyattended.com/categories/latex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leadership</title>
-      <link>https://partiallyattended.com/categories/leadership/</link>
+      <link>http://partiallyattended.com/categories/leadership/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/leadership/</guid>
+      <guid>http://partiallyattended.com/categories/leadership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lean</title>
-      <link>https://partiallyattended.com/categories/lean/</link>
+      <link>http://partiallyattended.com/categories/lean/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/lean/</guid>
+      <guid>http://partiallyattended.com/categories/lean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lean Value Tree</title>
-      <link>https://partiallyattended.com/categories/lean-value-tree/</link>
+      <link>http://partiallyattended.com/categories/lean-value-tree/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/lean-value-tree/</guid>
+      <guid>http://partiallyattended.com/categories/lean-value-tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leap</title>
-      <link>https://partiallyattended.com/categories/leap/</link>
+      <link>http://partiallyattended.com/categories/leap/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/leap/</guid>
+      <guid>http://partiallyattended.com/categories/leap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lens</title>
-      <link>https://partiallyattended.com/categories/lens/</link>
+      <link>http://partiallyattended.com/categories/lens/</link>
       <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/lens/</guid>
+      <guid>http://partiallyattended.com/categories/lens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lessons</title>
-      <link>https://partiallyattended.com/categories/lessons/</link>
+      <link>http://partiallyattended.com/categories/lessons/</link>
       <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/lessons/</guid>
+      <guid>http://partiallyattended.com/categories/lessons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Librarian</title>
-      <link>https://partiallyattended.com/categories/librarian/</link>
+      <link>http://partiallyattended.com/categories/librarian/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/librarian/</guid>
+      <guid>http://partiallyattended.com/categories/librarian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://partiallyattended.com/categories/life/</link>
+      <link>http://partiallyattended.com/categories/life/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/life/</guid>
+      <guid>http://partiallyattended.com/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lifehack</title>
-      <link>https://partiallyattended.com/categories/lifehack/</link>
+      <link>http://partiallyattended.com/categories/lifehack/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/lifehack/</guid>
+      <guid>http://partiallyattended.com/categories/lifehack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightroom</title>
-      <link>https://partiallyattended.com/categories/lightroom/</link>
+      <link>http://partiallyattended.com/categories/lightroom/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/lightroom/</guid>
+      <guid>http://partiallyattended.com/categories/lightroom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linked Data</title>
-      <link>https://partiallyattended.com/categories/linked-data/</link>
+      <link>http://partiallyattended.com/categories/linked-data/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/linked-data/</guid>
+      <guid>http://partiallyattended.com/categories/linked-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquid</title>
-      <link>https://partiallyattended.com/categories/liquid/</link>
+      <link>http://partiallyattended.com/categories/liquid/</link>
       <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/liquid/</guid>
+      <guid>http://partiallyattended.com/categories/liquid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Literature</title>
-      <link>https://partiallyattended.com/categories/literature/</link>
+      <link>http://partiallyattended.com/categories/literature/</link>
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/literature/</guid>
+      <guid>http://partiallyattended.com/categories/literature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>London</title>
-      <link>https://partiallyattended.com/categories/london/</link>
+      <link>http://partiallyattended.com/categories/london/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/london/</guid>
+      <guid>http://partiallyattended.com/categories/london/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lou</title>
-      <link>https://partiallyattended.com/categories/lou/</link>
+      <link>http://partiallyattended.com/categories/lou/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/lou/</guid>
+      <guid>http://partiallyattended.com/categories/lou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lunch</title>
-      <link>https://partiallyattended.com/categories/lunch/</link>
+      <link>http://partiallyattended.com/categories/lunch/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/lunch/</guid>
+      <guid>http://partiallyattended.com/categories/lunch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mac</title>
-      <link>https://partiallyattended.com/categories/mac/</link>
+      <link>http://partiallyattended.com/categories/mac/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/mac/</guid>
+      <guid>http://partiallyattended.com/categories/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://partiallyattended.com/categories/machine-learning/</link>
+      <link>http://partiallyattended.com/categories/machine-learning/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/machine-learning/</guid>
+      <guid>http://partiallyattended.com/categories/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magic</title>
-      <link>https://partiallyattended.com/categories/magic/</link>
+      <link>http://partiallyattended.com/categories/magic/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/magic/</guid>
+      <guid>http://partiallyattended.com/categories/magic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mail</title>
-      <link>https://partiallyattended.com/categories/mail/</link>
+      <link>http://partiallyattended.com/categories/mail/</link>
       <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/mail/</guid>
+      <guid>http://partiallyattended.com/categories/mail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Management</title>
-      <link>https://partiallyattended.com/categories/management/</link>
+      <link>http://partiallyattended.com/categories/management/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/management/</guid>
+      <guid>http://partiallyattended.com/categories/management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathjax</title>
-      <link>https://partiallyattended.com/categories/mathjax/</link>
+      <link>http://partiallyattended.com/categories/mathjax/</link>
       <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/mathjax/</guid>
+      <guid>http://partiallyattended.com/categories/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mavericks</title>
-      <link>https://partiallyattended.com/categories/mavericks/</link>
+      <link>http://partiallyattended.com/categories/mavericks/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/mavericks/</guid>
+      <guid>http://partiallyattended.com/categories/mavericks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Megajournals</title>
-      <link>https://partiallyattended.com/categories/megajournals/</link>
+      <link>http://partiallyattended.com/categories/megajournals/</link>
       <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/megajournals/</guid>
+      <guid>http://partiallyattended.com/categories/megajournals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memory</title>
-      <link>https://partiallyattended.com/categories/memory/</link>
+      <link>http://partiallyattended.com/categories/memory/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/memory/</guid>
+      <guid>http://partiallyattended.com/categories/memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mendeley</title>
-      <link>https://partiallyattended.com/categories/mendeley/</link>
+      <link>http://partiallyattended.com/categories/mendeley/</link>
       <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/mendeley/</guid>
+      <guid>http://partiallyattended.com/categories/mendeley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metadata</title>
-      <link>https://partiallyattended.com/categories/metadata/</link>
+      <link>http://partiallyattended.com/categories/metadata/</link>
       <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/metadata/</guid>
+      <guid>http://partiallyattended.com/categories/metadata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metaphor</title>
-      <link>https://partiallyattended.com/categories/metaphor/</link>
+      <link>http://partiallyattended.com/categories/metaphor/</link>
       <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/metaphor/</guid>
+      <guid>http://partiallyattended.com/categories/metaphor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moblog</title>
-      <link>https://partiallyattended.com/categories/moblog/</link>
+      <link>http://partiallyattended.com/categories/moblog/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/moblog/</guid>
+      <guid>http://partiallyattended.com/categories/moblog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modules</title>
-      <link>https://partiallyattended.com/categories/modules/</link>
+      <link>http://partiallyattended.com/categories/modules/</link>
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/modules/</guid>
+      <guid>http://partiallyattended.com/categories/modules/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mov</title>
-      <link>https://partiallyattended.com/categories/mov/</link>
+      <link>http://partiallyattended.com/categories/mov/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/mov/</guid>
+      <guid>http://partiallyattended.com/categories/mov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mp4</title>
-      <link>https://partiallyattended.com/categories/mp4/</link>
+      <link>http://partiallyattended.com/categories/mp4/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/mp4/</guid>
+      <guid>http://partiallyattended.com/categories/mp4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mulvany.Net</title>
-      <link>https://partiallyattended.com/categories/mulvany.net/</link>
+      <link>http://partiallyattended.com/categories/mulvany.net/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/mulvany.net/</guid>
+      <guid>http://partiallyattended.com/categories/mulvany.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Munich</title>
-      <link>https://partiallyattended.com/categories/munich/</link>
+      <link>http://partiallyattended.com/categories/munich/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/munich/</guid>
+      <guid>http://partiallyattended.com/categories/munich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://partiallyattended.com/categories/music/</link>
+      <link>http://partiallyattended.com/categories/music/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/music/</guid>
+      <guid>http://partiallyattended.com/categories/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>https://partiallyattended.com/categories/nature/</link>
+      <link>http://partiallyattended.com/categories/nature/</link>
       <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/nature/</guid>
+      <guid>http://partiallyattended.com/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network</title>
-      <link>https://partiallyattended.com/categories/network/</link>
+      <link>http://partiallyattended.com/categories/network/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/network/</guid>
+      <guid>http://partiallyattended.com/categories/network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Science</title>
-      <link>https://partiallyattended.com/categories/network-science/</link>
+      <link>http://partiallyattended.com/categories/network-science/</link>
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/network-science/</guid>
+      <guid>http://partiallyattended.com/categories/network-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks</title>
-      <link>https://partiallyattended.com/categories/networks/</link>
+      <link>http://partiallyattended.com/categories/networks/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/networks/</guid>
+      <guid>http://partiallyattended.com/categories/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New York</title>
-      <link>https://partiallyattended.com/categories/new-york/</link>
+      <link>http://partiallyattended.com/categories/new-york/</link>
       <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/new-york/</guid>
+      <guid>http://partiallyattended.com/categories/new-york/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Niso</title>
-      <link>https://partiallyattended.com/categories/niso/</link>
+      <link>http://partiallyattended.com/categories/niso/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/niso/</guid>
+      <guid>http://partiallyattended.com/categories/niso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nyc</title>
-      <link>https://partiallyattended.com/categories/nyc/</link>
+      <link>http://partiallyattended.com/categories/nyc/</link>
       <pubDate>Sun, 06 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/nyc/</guid>
+      <guid>http://partiallyattended.com/categories/nyc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oa</title>
-      <link>https://partiallyattended.com/categories/oa/</link>
+      <link>http://partiallyattended.com/categories/oa/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/oa/</guid>
+      <guid>http://partiallyattended.com/categories/oa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Odi</title>
-      <link>https://partiallyattended.com/categories/odi/</link>
+      <link>http://partiallyattended.com/categories/odi/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/odi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One</title>
-      <link>https://partiallyattended.com/categories/one/</link>
-      <pubDate>Tue, 12 Sep 2017 14:47:22 +0100</pubDate>
-      
-      <guid>https://partiallyattended.com/categories/one/</guid>
+      <guid>http://partiallyattended.com/categories/odi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online</title>
-      <link>https://partiallyattended.com/categories/online/</link>
+      <link>http://partiallyattended.com/categories/online/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/online/</guid>
+      <guid>http://partiallyattended.com/categories/online/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Access</title>
-      <link>https://partiallyattended.com/categories/open-access/</link>
+      <link>http://partiallyattended.com/categories/open-access/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/open-access/</guid>
+      <guid>http://partiallyattended.com/categories/open-access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Annotation</title>
-      <link>https://partiallyattended.com/categories/open-annotation/</link>
+      <link>http://partiallyattended.com/categories/open-annotation/</link>
       <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/open-annotation/</guid>
+      <guid>http://partiallyattended.com/categories/open-annotation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Data</title>
-      <link>https://partiallyattended.com/categories/open-data/</link>
+      <link>http://partiallyattended.com/categories/open-data/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/open-data/</guid>
+      <guid>http://partiallyattended.com/categories/open-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Peer Review</title>
-      <link>https://partiallyattended.com/categories/open-peer-review/</link>
+      <link>http://partiallyattended.com/categories/open-peer-review/</link>
       <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/open-peer-review/</guid>
+      <guid>http://partiallyattended.com/categories/open-peer-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Science</title>
-      <link>https://partiallyattended.com/categories/open-science/</link>
+      <link>http://partiallyattended.com/categories/open-science/</link>
       <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/open-science/</guid>
+      <guid>http://partiallyattended.com/categories/open-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>https://partiallyattended.com/categories/open-source/</link>
+      <link>http://partiallyattended.com/categories/open-source/</link>
       <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/open-source/</guid>
+      <guid>http://partiallyattended.com/categories/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Openaccess</title>
-      <link>https://partiallyattended.com/categories/openaccess/</link>
+      <link>http://partiallyattended.com/categories/openaccess/</link>
       <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/openaccess/</guid>
+      <guid>http://partiallyattended.com/categories/openaccess/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opensocial</title>
-      <link>https://partiallyattended.com/categories/opensocial/</link>
+      <link>http://partiallyattended.com/categories/opensocial/</link>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/opensocial/</guid>
+      <guid>http://partiallyattended.com/categories/opensocial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opensocial Jquery</title>
-      <link>https://partiallyattended.com/categories/opensocial-jquery/</link>
+      <link>http://partiallyattended.com/categories/opensocial-jquery/</link>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/opensocial-jquery/</guid>
+      <guid>http://partiallyattended.com/categories/opensocial-jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Osx</title>
-      <link>https://partiallyattended.com/categories/osx/</link>
+      <link>http://partiallyattended.com/categories/osx/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/osx/</guid>
+      <guid>http://partiallyattended.com/categories/osx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxford</title>
-      <link>https://partiallyattended.com/categories/oxford/</link>
+      <link>http://partiallyattended.com/categories/oxford/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/oxford/</guid>
+      <guid>http://partiallyattended.com/categories/oxford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper</title>
-      <link>https://partiallyattended.com/categories/paper/</link>
+      <link>http://partiallyattended.com/categories/paper/</link>
       <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/paper/</guid>
+      <guid>http://partiallyattended.com/categories/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Papers</title>
-      <link>https://partiallyattended.com/categories/papers/</link>
+      <link>http://partiallyattended.com/categories/papers/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/papers/</guid>
+      <guid>http://partiallyattended.com/categories/papers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patents</title>
-      <link>https://partiallyattended.com/categories/patents/</link>
+      <link>http://partiallyattended.com/categories/patents/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/patents/</guid>
+      <guid>http://partiallyattended.com/categories/patents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pdf</title>
-      <link>https://partiallyattended.com/categories/pdf/</link>
+      <link>http://partiallyattended.com/categories/pdf/</link>
       <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/pdf/</guid>
+      <guid>http://partiallyattended.com/categories/pdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer</title>
-      <link>https://partiallyattended.com/categories/peer/</link>
+      <link>http://partiallyattended.com/categories/peer/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/peer/</guid>
+      <guid>http://partiallyattended.com/categories/peer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer Review</title>
-      <link>https://partiallyattended.com/categories/peer-review/</link>
+      <link>http://partiallyattended.com/categories/peer-review/</link>
       <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/peer-review/</guid>
+      <guid>http://partiallyattended.com/categories/peer-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perl</title>
-      <link>https://partiallyattended.com/categories/perl/</link>
+      <link>http://partiallyattended.com/categories/perl/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/perl/</guid>
+      <guid>http://partiallyattended.com/categories/perl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://partiallyattended.com/categories/philosophy/</link>
+      <link>http://partiallyattended.com/categories/philosophy/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/philosophy/</guid>
+      <guid>http://partiallyattended.com/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://partiallyattended.com/categories/photography/</link>
+      <link>http://partiallyattended.com/categories/photography/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/photography/</guid>
+      <guid>http://partiallyattended.com/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Php</title>
-      <link>https://partiallyattended.com/categories/php/</link>
+      <link>http://partiallyattended.com/categories/php/</link>
       <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/php/</guid>
+      <guid>http://partiallyattended.com/categories/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physics</title>
-      <link>https://partiallyattended.com/categories/physics/</link>
+      <link>http://partiallyattended.com/categories/physics/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/physics/</guid>
+      <guid>http://partiallyattended.com/categories/physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Picasa</title>
-      <link>https://partiallyattended.com/categories/picasa/</link>
+      <link>http://partiallyattended.com/categories/picasa/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/picasa/</guid>
+      <guid>http://partiallyattended.com/categories/picasa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Picture</title>
-      <link>https://partiallyattended.com/categories/picture/</link>
+      <link>http://partiallyattended.com/categories/picture/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/picture/</guid>
+      <guid>http://partiallyattended.com/categories/picture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plos</title>
-      <link>https://partiallyattended.com/categories/plos/</link>
+      <link>http://partiallyattended.com/categories/plos/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/plos/</guid>
+      <guid>http://partiallyattended.com/categories/plos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poem</title>
-      <link>https://partiallyattended.com/categories/poem/</link>
+      <link>http://partiallyattended.com/categories/poem/</link>
       <pubDate>Tue, 04 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/poem/</guid>
+      <guid>http://partiallyattended.com/categories/poem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pool Party</title>
-      <link>https://partiallyattended.com/categories/pool-party/</link>
+      <link>http://partiallyattended.com/categories/pool-party/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/pool-party/</guid>
+      <guid>http://partiallyattended.com/categories/pool-party/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postcode Paper</title>
-      <link>https://partiallyattended.com/categories/postcode-paper/</link>
+      <link>http://partiallyattended.com/categories/postcode-paper/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/postcode-paper/</guid>
+      <guid>http://partiallyattended.com/categories/postcode-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preprints</title>
-      <link>https://partiallyattended.com/categories/preprints/</link>
+      <link>http://partiallyattended.com/categories/preprints/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/preprints/</guid>
+      <guid>http://partiallyattended.com/categories/preprints/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation</title>
-      <link>https://partiallyattended.com/categories/presentation/</link>
+      <link>http://partiallyattended.com/categories/presentation/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/presentation/</guid>
+      <guid>http://partiallyattended.com/categories/presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probability</title>
-      <link>https://partiallyattended.com/categories/probability/</link>
+      <link>http://partiallyattended.com/categories/probability/</link>
       <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/probability/</guid>
+      <guid>http://partiallyattended.com/categories/probability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Product Development</title>
-      <link>https://partiallyattended.com/categories/product-development/</link>
+      <link>http://partiallyattended.com/categories/product-development/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/product-development/</guid>
+      <guid>http://partiallyattended.com/categories/product-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Product Developmet</title>
-      <link>https://partiallyattended.com/categories/product-developmet/</link>
+      <link>http://partiallyattended.com/categories/product-developmet/</link>
       <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/product-developmet/</guid>
+      <guid>http://partiallyattended.com/categories/product-developmet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Product Management</title>
-      <link>https://partiallyattended.com/categories/product-management/</link>
+      <link>http://partiallyattended.com/categories/product-management/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/product-management/</guid>
+      <guid>http://partiallyattended.com/categories/product-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Product Tank</title>
-      <link>https://partiallyattended.com/categories/product-tank/</link>
+      <link>http://partiallyattended.com/categories/product-tank/</link>
       <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/product-tank/</guid>
+      <guid>http://partiallyattended.com/categories/product-tank/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>https://partiallyattended.com/categories/productivity/</link>
+      <link>http://partiallyattended.com/categories/productivity/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/productivity/</guid>
+      <guid>http://partiallyattended.com/categories/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://partiallyattended.com/categories/programming/</link>
+      <link>http://partiallyattended.com/categories/programming/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/programming/</guid>
+      <guid>http://partiallyattended.com/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Sector</title>
-      <link>https://partiallyattended.com/categories/public-sector/</link>
+      <link>http://partiallyattended.com/categories/public-sector/</link>
       <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/public-sector/</guid>
+      <guid>http://partiallyattended.com/categories/public-sector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>https://partiallyattended.com/categories/publication/</link>
+      <link>http://partiallyattended.com/categories/publication/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/publication/</guid>
+      <guid>http://partiallyattended.com/categories/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publishing</title>
-      <link>https://partiallyattended.com/categories/publishing/</link>
+      <link>http://partiallyattended.com/categories/publishing/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/publishing/</guid>
+      <guid>http://partiallyattended.com/categories/publishing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publishinig</title>
-      <link>https://partiallyattended.com/categories/publishinig/</link>
+      <link>http://partiallyattended.com/categories/publishinig/</link>
       <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/publishinig/</guid>
+      <guid>http://partiallyattended.com/categories/publishinig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://partiallyattended.com/categories/python/</link>
-      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      <link>http://partiallyattended.com/categories/python/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/python/</guid>
+      <guid>http://partiallyattended.com/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum Mechanics</title>
-      <link>https://partiallyattended.com/categories/quantum-mechanics/</link>
+      <link>http://partiallyattended.com/categories/quantum-mechanics/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/quantum-mechanics/</guid>
+      <guid>http://partiallyattended.com/categories/quantum-mechanics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rat Rock</title>
-      <link>https://partiallyattended.com/categories/rat-rock/</link>
+      <link>http://partiallyattended.com/categories/rat-rock/</link>
       <pubDate>Sun, 06 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/rat-rock/</guid>
+      <guid>http://partiallyattended.com/categories/rat-rock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raw</title>
-      <link>https://partiallyattended.com/categories/raw/</link>
+      <link>http://partiallyattended.com/categories/raw/</link>
       <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/raw/</guid>
+      <guid>http://partiallyattended.com/categories/raw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rdf</title>
-      <link>https://partiallyattended.com/categories/rdf/</link>
+      <link>http://partiallyattended.com/categories/rdf/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/rdf/</guid>
+      <guid>http://partiallyattended.com/categories/rdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rdfa</title>
-      <link>https://partiallyattended.com/categories/rdfa/</link>
+      <link>http://partiallyattended.com/categories/rdfa/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/rdfa/</guid>
+      <guid>http://partiallyattended.com/categories/rdfa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Readwriteweb</title>
-      <link>https://partiallyattended.com/categories/readwriteweb/</link>
+      <link>http://partiallyattended.com/categories/readwriteweb/</link>
       <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/readwriteweb/</guid>
+      <guid>http://partiallyattended.com/categories/readwriteweb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommendations</title>
-      <link>https://partiallyattended.com/categories/recommendations/</link>
+      <link>http://partiallyattended.com/categories/recommendations/</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/recommendations/</guid>
+      <guid>http://partiallyattended.com/categories/recommendations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Religion</title>
-      <link>https://partiallyattended.com/categories/religion/</link>
+      <link>http://partiallyattended.com/categories/religion/</link>
       <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/religion/</guid>
+      <guid>http://partiallyattended.com/categories/religion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Replicator</title>
-      <link>https://partiallyattended.com/categories/replicator/</link>
+      <link>http://partiallyattended.com/categories/replicator/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/replicator/</guid>
+      <guid>http://partiallyattended.com/categories/replicator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Report</title>
-      <link>https://partiallyattended.com/categories/report/</link>
+      <link>http://partiallyattended.com/categories/report/</link>
       <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/report/</guid>
+      <guid>http://partiallyattended.com/categories/report/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://partiallyattended.com/categories/research/</link>
+      <link>http://partiallyattended.com/categories/research/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/research/</guid>
+      <guid>http://partiallyattended.com/categories/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resolutions</title>
-      <link>https://partiallyattended.com/categories/resolutions/</link>
+      <link>http://partiallyattended.com/categories/resolutions/</link>
       <pubDate>Sun, 08 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/resolutions/</guid>
+      <guid>http://partiallyattended.com/categories/resolutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restaurant</title>
-      <link>https://partiallyattended.com/categories/restaurant/</link>
+      <link>http://partiallyattended.com/categories/restaurant/</link>
       <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/restaurant/</guid>
+      <guid>http://partiallyattended.com/categories/restaurant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retraction</title>
-      <link>https://partiallyattended.com/categories/retraction/</link>
+      <link>http://partiallyattended.com/categories/retraction/</link>
       <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/retraction/</guid>
+      <guid>http://partiallyattended.com/categories/retraction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reveal.Js</title>
-      <link>https://partiallyattended.com/categories/reveal.js/</link>
+      <link>http://partiallyattended.com/categories/reveal.js/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/reveal.js/</guid>
+      <guid>http://partiallyattended.com/categories/reveal.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review</title>
-      <link>https://partiallyattended.com/categories/review/</link>
+      <link>http://partiallyattended.com/categories/review/</link>
       <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/review/</guid>
+      <guid>http://partiallyattended.com/categories/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rhetoric</title>
-      <link>https://partiallyattended.com/categories/rhetoric/</link>
+      <link>http://partiallyattended.com/categories/rhetoric/</link>
       <pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/rhetoric/</guid>
+      <guid>http://partiallyattended.com/categories/rhetoric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Royal Statistics Society</title>
-      <link>https://partiallyattended.com/categories/royal-statistics-society/</link>
+      <link>http://partiallyattended.com/categories/royal-statistics-society/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/royal-statistics-society/</guid>
+      <guid>http://partiallyattended.com/categories/royal-statistics-society/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rss</title>
-      <link>https://partiallyattended.com/categories/rss/</link>
+      <link>http://partiallyattended.com/categories/rss/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/rss/</guid>
+      <guid>http://partiallyattended.com/categories/rss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ruby</title>
-      <link>https://partiallyattended.com/categories/ruby/</link>
+      <link>http://partiallyattended.com/categories/ruby/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ruby/</guid>
+      <guid>http://partiallyattended.com/categories/ruby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rvm</title>
-      <link>https://partiallyattended.com/categories/rvm/</link>
+      <link>http://partiallyattended.com/categories/rvm/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/rvm/</guid>
+      <guid>http://partiallyattended.com/categories/rvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sadness</title>
-      <link>https://partiallyattended.com/categories/sadness/</link>
+      <link>http://partiallyattended.com/categories/sadness/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/sadness/</guid>
+      <guid>http://partiallyattended.com/categories/sadness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sage</title>
-      <link>https://partiallyattended.com/categories/sage/</link>
+      <link>http://partiallyattended.com/categories/sage/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/sage/</guid>
+      <guid>http://partiallyattended.com/categories/sage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sameas</title>
-      <link>https://partiallyattended.com/categories/sameas/</link>
+      <link>http://partiallyattended.com/categories/sameas/</link>
       <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/sameas/</guid>
+      <guid>http://partiallyattended.com/categories/sameas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sankey Diagrams</title>
-      <link>https://partiallyattended.com/categories/sankey-diagrams/</link>
+      <link>http://partiallyattended.com/categories/sankey-diagrams/</link>
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/sankey-diagrams/</guid>
+      <guid>http://partiallyattended.com/categories/sankey-diagrams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science</title>
-      <link>https://partiallyattended.com/categories/science/</link>
+      <link>http://partiallyattended.com/categories/science/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/science/</guid>
+      <guid>http://partiallyattended.com/categories/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science Communication</title>
-      <link>https://partiallyattended.com/categories/science-communication/</link>
+      <link>http://partiallyattended.com/categories/science-communication/</link>
       <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/science-communication/</guid>
+      <guid>http://partiallyattended.com/categories/science-communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science Hack Day</title>
-      <link>https://partiallyattended.com/categories/science-hack-day/</link>
+      <link>http://partiallyattended.com/categories/science-hack-day/</link>
       <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/science-hack-day/</guid>
+      <guid>http://partiallyattended.com/categories/science-hack-day/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science Online</title>
-      <link>https://partiallyattended.com/categories/science-online/</link>
+      <link>http://partiallyattended.com/categories/science-online/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/science-online/</guid>
+      <guid>http://partiallyattended.com/categories/science-online/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science2.0</title>
-      <link>https://partiallyattended.com/categories/science2.0/</link>
+      <link>http://partiallyattended.com/categories/science2.0/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/science2.0/</guid>
+      <guid>http://partiallyattended.com/categories/science2.0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scientology</title>
-      <link>https://partiallyattended.com/categories/scientology/</link>
+      <link>http://partiallyattended.com/categories/scientology/</link>
       <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/scientology/</guid>
+      <guid>http://partiallyattended.com/categories/scientology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scripting</title>
-      <link>https://partiallyattended.com/categories/scripting/</link>
-      <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
+      <link>http://partiallyattended.com/categories/scripting/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/scripting/</guid>
+      <guid>http://partiallyattended.com/categories/scripting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seabald</title>
-      <link>https://partiallyattended.com/categories/seabald/</link>
+      <link>http://partiallyattended.com/categories/seabald/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/seabald/</guid>
+      <guid>http://partiallyattended.com/categories/seabald/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://partiallyattended.com/categories/search/</link>
+      <link>http://partiallyattended.com/categories/search/</link>
       <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/search/</guid>
+      <guid>http://partiallyattended.com/categories/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Web</title>
-      <link>https://partiallyattended.com/categories/semantic-web/</link>
+      <link>http://partiallyattended.com/categories/semantic-web/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/semantic-web/</guid>
+      <guid>http://partiallyattended.com/categories/semantic-web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serendipity</title>
-      <link>https://partiallyattended.com/categories/serendipity/</link>
+      <link>http://partiallyattended.com/categories/serendipity/</link>
       <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/serendipity/</guid>
+      <guid>http://partiallyattended.com/categories/serendipity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shit Sandwich</title>
-      <link>https://partiallyattended.com/categories/shit-sandwich/</link>
+      <link>http://partiallyattended.com/categories/shit-sandwich/</link>
       <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/shit-sandwich/</guid>
+      <guid>http://partiallyattended.com/categories/shit-sandwich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shoreditch</title>
-      <link>https://partiallyattended.com/categories/shoreditch/</link>
+      <link>http://partiallyattended.com/categories/shoreditch/</link>
       <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/shoreditch/</guid>
+      <guid>http://partiallyattended.com/categories/shoreditch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shoreditch Boulder</title>
-      <link>https://partiallyattended.com/categories/shoreditch-boulder/</link>
+      <link>http://partiallyattended.com/categories/shoreditch-boulder/</link>
       <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/shoreditch-boulder/</guid>
+      <guid>http://partiallyattended.com/categories/shoreditch-boulder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simpsons</title>
-      <link>https://partiallyattended.com/categories/simpsons/</link>
+      <link>http://partiallyattended.com/categories/simpsons/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/simpsons/</guid>
+      <guid>http://partiallyattended.com/categories/simpsons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sits</title>
-      <link>https://partiallyattended.com/categories/sits/</link>
+      <link>http://partiallyattended.com/categories/sits/</link>
       <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/sits/</guid>
+      <guid>http://partiallyattended.com/categories/sits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skos</title>
-      <link>https://partiallyattended.com/categories/skos/</link>
+      <link>http://partiallyattended.com/categories/skos/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/skos/</guid>
+      <guid>http://partiallyattended.com/categories/skos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://partiallyattended.com/categories/slides/</link>
+      <link>http://partiallyattended.com/categories/slides/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/slides/</guid>
+      <guid>http://partiallyattended.com/categories/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slowness</title>
-      <link>https://partiallyattended.com/categories/slowness/</link>
+      <link>http://partiallyattended.com/categories/slowness/</link>
       <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/slowness/</guid>
+      <guid>http://partiallyattended.com/categories/slowness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Science</title>
-      <link>https://partiallyattended.com/categories/social-science/</link>
+      <link>http://partiallyattended.com/categories/social-science/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/social-science/</guid>
+      <guid>http://partiallyattended.com/categories/social-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://partiallyattended.com/categories/software/</link>
+      <link>http://partiallyattended.com/categories/software/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/software/</guid>
+      <guid>http://partiallyattended.com/categories/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Carpentry</title>
-      <link>https://partiallyattended.com/categories/software-carpentry/</link>
+      <link>http://partiallyattended.com/categories/software-carpentry/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/software-carpentry/</guid>
+      <guid>http://partiallyattended.com/categories/software-carpentry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solo</title>
-      <link>https://partiallyattended.com/categories/solo/</link>
+      <link>http://partiallyattended.com/categories/solo/</link>
       <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/solo/</guid>
+      <guid>http://partiallyattended.com/categories/solo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solo10</title>
-      <link>https://partiallyattended.com/categories/solo10/</link>
+      <link>http://partiallyattended.com/categories/solo10/</link>
       <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/solo10/</guid>
+      <guid>http://partiallyattended.com/categories/solo10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solo11</title>
-      <link>https://partiallyattended.com/categories/solo11/</link>
+      <link>http://partiallyattended.com/categories/solo11/</link>
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/solo11/</guid>
+      <guid>http://partiallyattended.com/categories/solo11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solo12</title>
-      <link>https://partiallyattended.com/categories/solo12/</link>
+      <link>http://partiallyattended.com/categories/solo12/</link>
       <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/solo12/</guid>
+      <guid>http://partiallyattended.com/categories/solo12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solo13</title>
-      <link>https://partiallyattended.com/categories/solo13/</link>
+      <link>http://partiallyattended.com/categories/solo13/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/solo13/</guid>
+      <guid>http://partiallyattended.com/categories/solo13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spain</title>
-      <link>https://partiallyattended.com/categories/spain/</link>
+      <link>http://partiallyattended.com/categories/spain/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/spain/</guid>
+      <guid>http://partiallyattended.com/categories/spain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spoton</title>
-      <link>https://partiallyattended.com/categories/spoton/</link>
+      <link>http://partiallyattended.com/categories/spoton/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/spoton/</guid>
+      <guid>http://partiallyattended.com/categories/spoton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Springer</title>
-      <link>https://partiallyattended.com/categories/springer/</link>
+      <link>http://partiallyattended.com/categories/springer/</link>
       <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/springer/</guid>
+      <guid>http://partiallyattended.com/categories/springer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sqlite</title>
-      <link>https://partiallyattended.com/categories/sqlite/</link>
+      <link>http://partiallyattended.com/categories/sqlite/</link>
       <pubDate>Mon, 19 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/sqlite/</guid>
+      <guid>http://partiallyattended.com/categories/sqlite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Standards</title>
-      <link>https://partiallyattended.com/categories/standards/</link>
+      <link>http://partiallyattended.com/categories/standards/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/standards/</guid>
+      <guid>http://partiallyattended.com/categories/standards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>https://partiallyattended.com/categories/statistics/</link>
+      <link>http://partiallyattended.com/categories/statistics/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/statistics/</guid>
+      <guid>http://partiallyattended.com/categories/statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stm</title>
-      <link>https://partiallyattended.com/categories/stm/</link>
+      <link>http://partiallyattended.com/categories/stm/</link>
       <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/stm/</guid>
+      <guid>http://partiallyattended.com/categories/stm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Storage</title>
-      <link>https://partiallyattended.com/categories/storage/</link>
+      <link>http://partiallyattended.com/categories/storage/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/storage/</guid>
+      <guid>http://partiallyattended.com/categories/storage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sys Ops</title>
-      <link>https://partiallyattended.com/categories/sys-ops/</link>
+      <link>http://partiallyattended.com/categories/sys-ops/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/sys-ops/</guid>
+      <guid>http://partiallyattended.com/categories/sys-ops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sysops</title>
-      <link>https://partiallyattended.com/categories/sysops/</link>
+      <link>http://partiallyattended.com/categories/sysops/</link>
       <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/sysops/</guid>
+      <guid>http://partiallyattended.com/categories/sysops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag Cloud</title>
-      <link>https://partiallyattended.com/categories/tag-cloud/</link>
+      <link>http://partiallyattended.com/categories/tag-cloud/</link>
       <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/tag-cloud/</guid>
+      <guid>http://partiallyattended.com/categories/tag-cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://partiallyattended.com/categories/tags/</link>
+      <link>http://partiallyattended.com/categories/tags/</link>
       <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/tags/</guid>
+      <guid>http://partiallyattended.com/categories/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk</title>
-      <link>https://partiallyattended.com/categories/talk/</link>
+      <link>http://partiallyattended.com/categories/talk/</link>
       <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/talk/</guid>
+      <guid>http://partiallyattended.com/categories/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talkfest</title>
-      <link>https://partiallyattended.com/categories/talkfest/</link>
+      <link>http://partiallyattended.com/categories/talkfest/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/talkfest/</guid>
+      <guid>http://partiallyattended.com/categories/talkfest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://partiallyattended.com/categories/talks/</link>
+      <link>http://partiallyattended.com/categories/talks/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/talks/</guid>
+      <guid>http://partiallyattended.com/categories/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://partiallyattended.com/categories/tech/</link>
+      <link>http://partiallyattended.com/categories/tech/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/tech/</guid>
+      <guid>http://partiallyattended.com/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical Debt</title>
-      <link>https://partiallyattended.com/categories/technical-debt/</link>
+      <link>http://partiallyattended.com/categories/technical-debt/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/technical-debt/</guid>
+      <guid>http://partiallyattended.com/categories/technical-debt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templating</title>
-      <link>https://partiallyattended.com/categories/templating/</link>
+      <link>http://partiallyattended.com/categories/templating/</link>
       <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/templating/</guid>
+      <guid>http://partiallyattended.com/categories/templating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://partiallyattended.com/categories/test/</link>
+      <link>http://partiallyattended.com/categories/test/</link>
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/test/</guid>
+      <guid>http://partiallyattended.com/categories/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing</title>
-      <link>https://partiallyattended.com/categories/testing/</link>
+      <link>http://partiallyattended.com/categories/testing/</link>
       <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/testing/</guid>
+      <guid>http://partiallyattended.com/categories/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text Analysis</title>
-      <link>https://partiallyattended.com/categories/text-analysis/</link>
+      <link>http://partiallyattended.com/categories/text-analysis/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/text-analysis/</guid>
+      <guid>http://partiallyattended.com/categories/text-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Future Is Coming</title>
-      <link>https://partiallyattended.com/categories/the-future-is-coming/</link>
+      <link>http://partiallyattended.com/categories/the-future-is-coming/</link>
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/the-future-is-coming/</guid>
+      <guid>http://partiallyattended.com/categories/the-future-is-coming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Threaded Publications</title>
-      <link>https://partiallyattended.com/categories/threaded-publications/</link>
+      <link>http://partiallyattended.com/categories/threaded-publications/</link>
       <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/threaded-publications/</guid>
+      <guid>http://partiallyattended.com/categories/threaded-publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Threads</title>
-      <link>https://partiallyattended.com/categories/threads/</link>
+      <link>http://partiallyattended.com/categories/threads/</link>
       <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/threads/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three</title>
-      <link>https://partiallyattended.com/categories/three/</link>
-      <pubDate>Tue, 12 Sep 2017 14:47:22 +0100</pubDate>
-      
-      <guid>https://partiallyattended.com/categories/three/</guid>
+      <guid>http://partiallyattended.com/categories/threads/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time</title>
-      <link>https://partiallyattended.com/categories/time/</link>
+      <link>http://partiallyattended.com/categories/time/</link>
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/time/</guid>
+      <guid>http://partiallyattended.com/categories/time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tolstoy</title>
-      <link>https://partiallyattended.com/categories/tolstoy/</link>
+      <link>http://partiallyattended.com/categories/tolstoy/</link>
       <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/tolstoy/</guid>
+      <guid>http://partiallyattended.com/categories/tolstoy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toolbox</title>
-      <link>https://partiallyattended.com/categories/toolbox/</link>
+      <link>http://partiallyattended.com/categories/toolbox/</link>
       <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/toolbox/</guid>
+      <guid>http://partiallyattended.com/categories/toolbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tools</title>
-      <link>https://partiallyattended.com/categories/tools/</link>
+      <link>http://partiallyattended.com/categories/tools/</link>
       <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/tools/</guid>
+      <guid>http://partiallyattended.com/categories/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training</title>
-      <link>https://partiallyattended.com/categories/training/</link>
+      <link>http://partiallyattended.com/categories/training/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/training/</guid>
+      <guid>http://partiallyattended.com/categories/training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transparency</title>
-      <link>https://partiallyattended.com/categories/transparency/</link>
+      <link>http://partiallyattended.com/categories/transparency/</link>
       <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/transparency/</guid>
+      <guid>http://partiallyattended.com/categories/transparency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>https://partiallyattended.com/categories/travel/</link>
+      <link>http://partiallyattended.com/categories/travel/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/travel/</guid>
+      <guid>http://partiallyattended.com/categories/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trends</title>
-      <link>https://partiallyattended.com/categories/trends/</link>
+      <link>http://partiallyattended.com/categories/trends/</link>
       <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/trends/</guid>
+      <guid>http://partiallyattended.com/categories/trends/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trust</title>
-      <link>https://partiallyattended.com/categories/trust/</link>
+      <link>http://partiallyattended.com/categories/trust/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/trust/</guid>
+      <guid>http://partiallyattended.com/categories/trust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tumblog</title>
-      <link>https://partiallyattended.com/categories/tumblog/</link>
+      <link>http://partiallyattended.com/categories/tumblog/</link>
       <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/tumblog/</guid>
+      <guid>http://partiallyattended.com/categories/tumblog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://partiallyattended.com/categories/tutorial/</link>
+      <link>http://partiallyattended.com/categories/tutorial/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/tutorial/</guid>
+      <guid>http://partiallyattended.com/categories/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tv</title>
-      <link>https://partiallyattended.com/categories/tv/</link>
+      <link>http://partiallyattended.com/categories/tv/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/tv/</guid>
+      <guid>http://partiallyattended.com/categories/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twitter</title>
-      <link>https://partiallyattended.com/categories/twitter/</link>
+      <link>http://partiallyattended.com/categories/twitter/</link>
       <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two</title>
-      <link>https://partiallyattended.com/categories/two/</link>
-      <pubDate>Tue, 12 Sep 2017 14:47:22 +0100</pubDate>
-      
-      <guid>https://partiallyattended.com/categories/two/</guid>
+      <guid>http://partiallyattended.com/categories/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Txt</title>
-      <link>https://partiallyattended.com/categories/txt/</link>
+      <link>http://partiallyattended.com/categories/txt/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/txt/</guid>
+      <guid>http://partiallyattended.com/categories/txt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uk</title>
+      <link>http://partiallyattended.com/categories/uk/</link>
+      <pubDate>Tue, 21 Jun 2016 14:47:22 +0100</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/uk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unix</title>
-      <link>https://partiallyattended.com/categories/unix/</link>
+      <link>http://partiallyattended.com/categories/unix/</link>
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/unix/</guid>
+      <guid>http://partiallyattended.com/categories/unix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User Experience</title>
-      <link>https://partiallyattended.com/categories/user-experience/</link>
+      <link>http://partiallyattended.com/categories/user-experience/</link>
       <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/user-experience/</guid>
+      <guid>http://partiallyattended.com/categories/user-experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ux</title>
-      <link>https://partiallyattended.com/categories/ux/</link>
+      <link>http://partiallyattended.com/categories/ux/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/ux/</guid>
+      <guid>http://partiallyattended.com/categories/ux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vagrant</title>
-      <link>https://partiallyattended.com/categories/vagrant/</link>
+      <link>http://partiallyattended.com/categories/vagrant/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/vagrant/</guid>
+      <guid>http://partiallyattended.com/categories/vagrant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video</title>
-      <link>https://partiallyattended.com/categories/video/</link>
+      <link>http://partiallyattended.com/categories/video/</link>
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/video/</guid>
+      <guid>http://partiallyattended.com/categories/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>War</title>
-      <link>https://partiallyattended.com/categories/war/</link>
+      <link>http://partiallyattended.com/categories/war/</link>
       <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/war/</guid>
+      <guid>http://partiallyattended.com/categories/war/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://partiallyattended.com/categories/web/</link>
-      <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
+      <link>http://partiallyattended.com/categories/web/</link>
+      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/web/</guid>
+      <guid>http://partiallyattended.com/categories/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wedding</title>
-      <link>https://partiallyattended.com/categories/wedding/</link>
+      <link>http://partiallyattended.com/categories/wedding/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/wedding/</guid>
+      <guid>http://partiallyattended.com/categories/wedding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weight</title>
-      <link>https://partiallyattended.com/categories/weight/</link>
+      <link>http://partiallyattended.com/categories/weight/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/weight/</guid>
+      <guid>http://partiallyattended.com/categories/weight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whiskey</title>
-      <link>https://partiallyattended.com/categories/whiskey/</link>
+      <link>http://partiallyattended.com/categories/whiskey/</link>
       <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/whiskey/</guid>
+      <guid>http://partiallyattended.com/categories/whiskey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Widget</title>
-      <link>https://partiallyattended.com/categories/widget/</link>
+      <link>http://partiallyattended.com/categories/widget/</link>
       <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/widget/</guid>
+      <guid>http://partiallyattended.com/categories/widget/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wikimania</title>
-      <link>https://partiallyattended.com/categories/wikimania/</link>
+      <link>http://partiallyattended.com/categories/wikimania/</link>
       <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/wikimania/</guid>
+      <guid>http://partiallyattended.com/categories/wikimania/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wikimania2014</title>
-      <link>https://partiallyattended.com/categories/wikimania2014/</link>
+      <link>http://partiallyattended.com/categories/wikimania2014/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/wikimania2014/</guid>
+      <guid>http://partiallyattended.com/categories/wikimania2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wittgenstein</title>
-      <link>https://partiallyattended.com/categories/wittgenstein/</link>
+      <link>http://partiallyattended.com/categories/wittgenstein/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/wittgenstein/</guid>
+      <guid>http://partiallyattended.com/categories/wittgenstein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>https://partiallyattended.com/categories/work/</link>
+      <link>http://partiallyattended.com/categories/work/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/work/</guid>
+      <guid>http://partiallyattended.com/categories/work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshops</title>
-      <link>https://partiallyattended.com/categories/workshops/</link>
+      <link>http://partiallyattended.com/categories/workshops/</link>
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/workshops/</guid>
+      <guid>http://partiallyattended.com/categories/workshops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writelatex</title>
-      <link>https://partiallyattended.com/categories/writelatex/</link>
+      <link>http://partiallyattended.com/categories/writelatex/</link>
       <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/writelatex/</guid>
+      <guid>http://partiallyattended.com/categories/writelatex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xmp</title>
-      <link>https://partiallyattended.com/categories/xmp/</link>
+      <link>http://partiallyattended.com/categories/xmp/</link>
       <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/xmp/</guid>
+      <guid>http://partiallyattended.com/categories/xmp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yenow</title>
-      <link>https://partiallyattended.com/categories/yenow/</link>
+      <link>http://partiallyattended.com/categories/yenow/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/yenow/</guid>
+      <guid>http://partiallyattended.com/categories/yenow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yql</title>
-      <link>https://partiallyattended.com/categories/yql/</link>
+      <link>http://partiallyattended.com/categories/yql/</link>
       <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/yql/</guid>
+      <guid>http://partiallyattended.com/categories/yql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zanran</title>
-      <link>https://partiallyattended.com/categories/zanran/</link>
+      <link>http://partiallyattended.com/categories/zanran/</link>
       <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/categories/zanran/</guid>
+      <guid>http://partiallyattended.com/categories/zanran/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sankey Diagrams on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/sankey-diagrams/</link>
+    <link>http://partiallyattended.com/categories/sankey-diagrams/</link>
     <description>Recent content in Sankey Diagrams on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Apr 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/sankey-diagrams/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/sankey-diagrams/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neat blog on Sankey diagrams.</title>
-      <link>https://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</link>
+      <link>http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</link>
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</guid>
+      <guid>http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</guid>
       <description>I just noticed a very nice blog dedicated to Sankey diagrams. As Phineas mentions in one post: Sankey diagrams are directed graphs.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hoto on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/hoto/</link>
+    <link>http://partiallyattended.com/categories/hoto/</link>
     <description>Recent content in Hoto on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/hoto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/hoto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>pythonic is a way of thinking</title>
-      <link>https://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</link>
+      <link>http://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</guid>
       <description> Thistutorial delves into pythonic ways of coding. I&#39;m learning from it.
 tags: python, hoto, tutorial
  </description>

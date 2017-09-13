@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latex on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/latex/</link>
+    <link>http://partiallyattended.com/categories/latex/</link>
     <description>Recent content in Latex on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jan 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/latex/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/latex/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WriteLateX/Overleaf launch event at the British Library</title>
-      <link>https://partiallyattended.com/2014/01/18/writelatex-overleaf-launch/</link>
+      <link>http://partiallyattended.com/2014/01/18/writelatex-overleaf-launch/</link>
       <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/01/18/writelatex-overleaf-launch/</guid>
+      <guid>http://partiallyattended.com/2014/01/18/writelatex-overleaf-launch/</guid>
       <description>Last Thursday I attended the launch event for OverLeaf. The event was composed of a set of very short talks, followed by a good chance to chat to people. It was a pretty nice evening.
 Dr Bibiana Campos Seijo - MRSC - magazines publisher and editor of chemistry world. Science is changing, publising is changing, a lot of this is being driven by technology. There is information overlaod. Publishers need to try to provide solutions to these issues.</description>
     </item>
     
     <item>
       <title>Update on MathJax</title>
-      <link>https://partiallyattended.com/2011/11/20/update-on-mathjax/</link>
+      <link>http://partiallyattended.com/2011/11/20/update-on-mathjax/</link>
       <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/11/20/update-on-mathjax/</guid>
+      <guid>http://partiallyattended.com/2011/11/20/update-on-mathjax/</guid>
       <description>MathJax has come a long way since I last looked at it. There is now a CDN hosting the js files, which makes calling it really really easy. It&amp;rsquo;s being adopted by GiHub for their wiki engine.
 Using it with markdown can cause a few bumps, but there seems to be a bunch of ways around this:
  [mathjax in markdown][mim] using some mathjax configuration and custom css amazing implimentation in a notetaking app php, mathjax and wordpress  Writing a block of %%\LaTeX%% like this  $$ \begin{aligned} \dot{x} &amp;amp; = \sigma(y-x) \dot{y} &amp;amp; = \rho x - y - xz \dot{z} &amp;amp; = -\beta z + xy \end{aligned} $$</description>
@@ -34,10 +34,10 @@ Using it with markdown can cause a few bumps, but there seems to be a bunch of w
     
     <item>
       <title>A mini rant about LaTeX</title>
-      <link>https://partiallyattended.com/2010/04/29/a-mini-rant-about-latex/</link>
+      <link>http://partiallyattended.com/2010/04/29/a-mini-rant-about-latex/</link>
       <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2010/04/29/a-mini-rant-about-latex/</guid>
+      <guid>http://partiallyattended.com/2010/04/29/a-mini-rant-about-latex/</guid>
       <description>Here is a comment I&#39;ve just posted to a comment thread about LaTeX over here: http://blogs.nature.com/farhat/2010/04/16/collaborative-editing-with-latex. One of the commenters asked &#34;Why not just use a word processor&#34;
 
 Just using a word processor simply does not cut it when it comes to expressing complex mathematical ideas. LaTeX, and it&#39;s precursor TeX, have evolved to be the only tools that can currently express the richness of the ideas within advanced mathematics.</description>
@@ -45,10 +45,10 @@ Just using a word processor simply does not cut it when it comes to expressing c
     
     <item>
       <title>Directed Graph blog setup.</title>
-      <link>https://partiallyattended.com/2009/04/13/directed-graph-blog-setup/</link>
+      <link>http://partiallyattended.com/2009/04/13/directed-graph-blog-setup/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2009/04/13/directed-graph-blog-setup/</guid>
+      <guid>http://partiallyattended.com/2009/04/13/directed-graph-blog-setup/</guid>
       <description>I&#39;ve decided to use syntaxhiligher2 to do syntax hi-lighting and a call to Yourequations.com for rendering latex on the blog. Bot Cyborg has a good description of how to get this to work on blogger.
 The main advantage of this approach is that the pseudo code is written in the blog posts in plain encased in a pre statement, and the equations are also just vanilla latex in a pre statement.</description>
     </item>

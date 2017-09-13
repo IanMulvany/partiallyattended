@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Behat on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/behat/</link>
+    <link>http://partiallyattended.com/categories/behat/</link>
     <description>Recent content in Behat on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/behat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/behat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Php user group March 2013 - BeHat.</title>
-      <link>https://partiallyattended.com/2014/04/08/behat-php-cambridge-meetup/</link>
+      <link>http://partiallyattended.com/2014/04/08/behat-php-cambridge-meetup/</link>
       <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/04/08/behat-php-cambridge-meetup/</guid>
+      <guid>http://partiallyattended.com/2014/04/08/behat-php-cambridge-meetup/</guid>
       <description>Background. On Monday the 31st of March I attended the Cambridge PHP Meetup, the topic was BeHat testing. Johnathan Gough gave the talk.
 This is something we are getting started with in eLife. We have a few small tests in place, we have a few regressions on the site that we want to tackle, and we are looking to use it as a way of pinning down requirements from the company for new features that we want to roll out.</description>
     </item>

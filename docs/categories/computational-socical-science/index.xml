@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational Socical Science on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/computational-socical-science/</link>
+    <link>http://partiallyattended.com/categories/computational-socical-science/</link>
     <description>Recent content in Computational Socical Science on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/computational-socical-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/computational-socical-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IC2s2 Tuesday Afternoon Keynotes</title>
-      <link>https://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</link>
+      <link>http://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</guid>
+      <guid>http://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</guid>
       <description>IC2s2 Tuesday afternoon Dashun Wang - Predictive Signals Behind Success Dashun starts by talking about weather predictions, natural phenomena can be observed, modelled and predicted. Can success be measured modelled and predicted? Obviously Dashun thinks so, and we are gong to be looking at the result of a number of studies in this talk.
 Science of Science Aim is to build on top of the work of others, but add to it the massive data that we now have access to, along with the tools that we have developed.</description>
     </item>

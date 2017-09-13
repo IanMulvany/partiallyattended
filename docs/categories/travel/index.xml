@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/travel/</link>
+    <link>http://partiallyattended.com/categories/travel/</link>
     <description>Recent content in Travel on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
       <description>what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
@@ -30,20 +30,20 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     
     <item>
       <title>Why do all of the science fiction authors have all of the really good ideas already?</title>
-      <link>https://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</link>
+      <link>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</guid>
       <description>My friend Gavin has been increasingly interested in the singularity, wherebythe quiddity of humanness is uploaded into a computer, to reside there. Ithink the definition of the singularity has something to do reaching themoment where the boundary between a human individual entity and thetechnology that surrounds them becomes transparent, or disappearsaltogether.
 It struck me this weekend that if you can upload an intelligence , a person,a being, a soul, into a peice of technology, then you would probably beliving at a moment when technology was advanced enough to be able to build abody from the amino acid&#39;s up.</description>
     </item>
     
     <item>
       <title>getting started</title>
-      <link>https://partiallyattended.com/2008/07/14/getting-started/</link>
+      <link>http://partiallyattended.com/2008/07/14/getting-started/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/getting-started/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/getting-started/</guid>
       <description> Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
  </description>
     </item>

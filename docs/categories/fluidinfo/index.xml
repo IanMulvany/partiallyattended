@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fluidinfo on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/fluidinfo/</link>
+    <link>http://partiallyattended.com/categories/fluidinfo/</link>
     <description>Recent content in Fluidinfo on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Jun 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/fluidinfo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/fluidinfo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Super quick start guide to fluidinfo</title>
-      <link>https://partiallyattended.com/2012/06/17/getting-started-with-fish/</link>
+      <link>http://partiallyattended.com/2012/06/17/getting-started-with-fish/</link>
       <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/06/17/getting-started-with-fish/</guid>
+      <guid>http://partiallyattended.com/2012/06/17/getting-started-with-fish/</guid>
       <description>This is a quick and dirty guide to getting started with fish, the command line tool for fulidinfo. I did it by setting up a virtualenv, as I find it a lot easier to manage python dependancies that way.
 Setup a virtualenv:
 % mkvirtual env fi  Open the virtual env session:

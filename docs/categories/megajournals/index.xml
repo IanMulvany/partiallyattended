@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megajournals on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/megajournals/</link>
+    <link>http://partiallyattended.com/categories/megajournals/</link>
     <description>Recent content in Megajournals on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Oct 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/megajournals/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/megajournals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The journal is dead, long live the journal - abstract.</title>
-      <link>https://partiallyattended.com/2012/10/28/jidlltj-abstract/</link>
+      <link>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</link>
       <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/10/28/jidlltj-abstract/</guid>
+      <guid>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</guid>
       <description>With Anna Sharman and Bob O&amp;rsquo;Hara, I&amp;rsquo;ll be hosting a session on the future of academic journals at SpotOnLondon (formerly ScienceOnline London). You can check out the session details here. They have posted the short version of the abstract on the site, I&amp;rsquo;m posting the longer version here, and you can also see our google planning document. We will update with details on the panel very soon.
 Abstract Today&amp;rsquo;s online articles and journals remain mostly an online mirror of print products.</description>
     </item>
     
     <item>
       <title>Megajournals</title>
-      <link>https://partiallyattended.com/2011/10/03/megajournals/</link>
+      <link>http://partiallyattended.com/2011/10/03/megajournals/</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/10/03/megajournals/</guid>
+      <guid>http://partiallyattended.com/2011/10/03/megajournals/</guid>
       <description>The idea of megajournals had not really formalised in my head before, but at the COASP meeting the talk was all about &amp;ldquo;Megajournals&amp;rdquo;. [PLoSOne][plosone] is the archetype for this kind of journal, and it had not really struck me before as a huge revolution in the publishing industry, but after listening to a couple of days worth of talks on the topic I&amp;rsquo;m convincible.
 Megajournals are so called because they are structured to be able to publish many more articles than has been the normal practice with traditional journals.</description>
     </item>

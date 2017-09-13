@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Encode on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/encode/</link>
+    <link>http://partiallyattended.com/categories/encode/</link>
     <description>Recent content in Encode on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jan 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/encode/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/encode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ENCODE - an example of open publication and data integration.</title>
-      <link>https://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</link>
+      <link>http://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</link>
       <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</guid>
+      <guid>http://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</guid>
       <description>On Monday the 14th of January we met at the PLOS offices in Cambridge to hear a talk from Euan Birney on lessons learned from publishing data rich publications though the encode project.
 This was the first time that Euan was far less worried about the print, and far more worried about how well the online version was going to work.
 Dimensions of the project  5 TeraBases 1715 times the size of the Human Genome 3k experiments 410 authors on the main paper 6 high profile papers ~35 companion papers  The output should not be thought of as papers, but as the raw data.</description>

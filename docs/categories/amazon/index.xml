@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amazon on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/amazon/</link>
+    <link>http://partiallyattended.com/categories/amazon/</link>
     <description>Recent content in Amazon on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Apr 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/amazon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/amazon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>aws london summit notes</title>
-      <link>https://partiallyattended.com/2015/04/16/aws-london-summit-notes/</link>
+      <link>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2015/04/16/aws-london-summit-notes/</guid>
+      <guid>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</guid>
       <description>Amazon Web Summit London 2015 ## Keynote
 There were about three thousand people at the summit. I chatted to a few people throughout the day. Their experience with AWS ranged from moderate use through to just being at the evaluation stage.
 The keynote highlighted AWS&amp;rsquo;s approach of wanting to put the customer in control, and to remove all unnecessary work from the customer in terms of managing IT.

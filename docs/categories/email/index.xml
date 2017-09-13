@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Email on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/email/</link>
+    <link>http://partiallyattended.com/categories/email/</link>
     <description>Recent content in Email on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jul 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/email/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/email/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Read mail in intervals on OS X</title>
-      <link>https://partiallyattended.com/2010/07/05/checking-mail-infrequently/</link>
+      <link>http://partiallyattended.com/2010/07/05/checking-mail-infrequently/</link>
       <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2010/07/05/checking-mail-infrequently/</guid>
+      <guid>http://partiallyattended.com/2010/07/05/checking-mail-infrequently/</guid>
       <description>In order to check mail less frequently than the options available, following a hint from macosxhints:
  set up an applescript to tell mail to check for mail. put that script under a launchd deamon with an interval use lingon to setup the deamon  so far it seems to be working, yay!
 http://www.macosxhints.com/article.php?story=20010427022452992

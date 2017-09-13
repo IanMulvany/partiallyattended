@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Carpentry on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/software-carpentry/</link>
+    <link>http://partiallyattended.com/categories/software-carpentry/</link>
     <description>Recent content in Software Carpentry on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/software-carpentry/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/software-carpentry/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>advice on publishing research online</title>
-      <link>https://partiallyattended.com/2014/01/08/advice-on-publishing-online/</link>
+      <link>http://partiallyattended.com/2014/01/08/advice-on-publishing-online/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/01/08/advice-on-publishing-online/</guid>
+      <guid>http://partiallyattended.com/2014/01/08/advice-on-publishing-online/</guid>
       <description>I have posted this post as a comment on the thread over at software carpentry in answer to the question What do we teach about writing/publishing papers in a webby world?
 I ended up writing a bit more than I expected, so here are the main peices of advice:
 tl;dr:

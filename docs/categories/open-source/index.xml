@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/open-source/</link>
+    <link>http://partiallyattended.com/categories/open-source/</link>
     <description>Recent content in Open Source on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>April digital strategy forum</title>
-      <link>https://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</link>
+      <link>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</link>
       <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</guid>
+      <guid>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</guid>
       <description>On the 1st of April I had the pleasure of being invited to a digital strategy forum event hosted by the Wellcome Trust. People involved in digital and online projects from across a number of not for profit organisations gathered to hear some short talks about using, and contributing to, open source, agile project development and responsive design.
 Open Source development. Open Sourcing Wellcome Library Player – Tom Crane, Digirati agency The player can be embedded in other sites.</description>
     </item>

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ux on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/ux/</link>
+    <link>http://partiallyattended.com/categories/ux/</link>
     <description>Recent content in Ux on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 May 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/ux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/ux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Designing better UX deliverables - Anna Dahlström</title>
-      <link>https://partiallyattended.com/2014/05/30/designing-better-ux-deliverables/</link>
+      <link>http://partiallyattended.com/2014/05/30/designing-better-ux-deliverables/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/05/30/designing-better-ux-deliverables/</guid>
+      <guid>http://partiallyattended.com/2014/05/30/designing-better-ux-deliverables/</guid>
       <description>This talk happened a few weeks ago now, but the topic is timeless, so there is no harm in getting my notes up a bit late. Anna Dahlstrom(@annadahlstrom) came up to Cambridge to give a talk on how to design better UX deliverables, but more broadly the talk had many lessons about how to present results to different stakeholders, not just for UX.
 A litte bit about Anna Anna had gone from only working with HMRC to working agency side - multiple clients, multiple project, different industries.</description>
     </item>
     
     <item>
       <title>Cambridge usability group - UX and agile</title>
-      <link>https://partiallyattended.com/2013/09/30/cug-agile-ux/</link>
+      <link>http://partiallyattended.com/2013/09/30/cug-agile-ux/</link>
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/09/30/cug-agile-ux/</guid>
+      <guid>http://partiallyattended.com/2013/09/30/cug-agile-ux/</guid>
       <description>Sophie Freiermuth(@wickedgeekie)) from Baguette UX gave tonight&amp;rsquo;s talk on how lessons learnt from operating as a UXer within an agile environment. I thought it was a great talk. When at Mendeley we always faced the problem of trying to square the challenge to fitting an inherently creative process into the systems that emerged while we attempted to adopt agile processes, in my time there we learnt a lot, we had some success and some areas where we obviously needed to learn more, so I was delighted to hear a very thoughtful presentation from the perspective of someone who it seems has worked with quite a few teams implementing agile in a variety of flavours.</description>
     </item>
     
     <item>
       <title>Cambridge usability group - UX and agile</title>
-      <link>https://partiallyattended.com/2013/09/30/cux-agile-ux/</link>
+      <link>http://partiallyattended.com/2013/09/30/cux-agile-ux/</link>
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/09/30/cux-agile-ux/</guid>
+      <guid>http://partiallyattended.com/2013/09/30/cux-agile-ux/</guid>
       <description>Sophie Freiermuth(@wickedgeekie)) from Baguette UX gave tonight&amp;rsquo;s talk on how lessons learnt from operating as a UXer within an agile environment. I thought it was a great talk. When at Mendeley we always faced the problem of trying to square the challenge to fitting an inherently creative process into the systems that emerged while we attempted to adopt agile processes, in my time there we learnt a lot, we had some success and some areas where we obviously needed to learn more, so I was delighted to hear a very thoughtful presentation from the perspective of someone who it seems has worked with quite a few teams implementing agile in a variety of flavours.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preprints on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/preprints/</link>
+    <link>http://partiallyattended.com/categories/preprints/</link>
     <description>Recent content in Preprints on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/preprints/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/preprints/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What we mean when we talk about preprints</title>
-      <link>https://partiallyattended.com/2016/12/13/when-we-talk-about-preprints/</link>
+      <link>http://partiallyattended.com/2016/12/13/when-we-talk-about-preprints/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2016/12/13/when-we-talk-about-preprints/</guid>
+      <guid>http://partiallyattended.com/2016/12/13/when-we-talk-about-preprints/</guid>
       <description>Cameron Neylon, Damian Pattinson, Geoffrey Bilder, and Jennifer Lin have just posted a cracker of a preprint onto biorxiv.
 On the origin of nonequivalent states: how we can talk about preprints
  Increasingly, preprints are at the center of conversations across the research ecosystem. But disagreements remain about the role they play. Do they &amp;ldquo;count&amp;rdquo; for research assessment? Is it ok to post preprints in more than one place? In this paper, we argue that these discussions often conflate two separate issues, the history of the manuscript and the status granted it by different communities.</description>

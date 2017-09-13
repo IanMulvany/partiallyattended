@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Scholar on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/google-scholar/</link>
+    <link>http://partiallyattended.com/categories/google-scholar/</link>
     <description>Recent content in Google Scholar on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/google-scholar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/google-scholar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>academic ghost towns, Google scholar and Mendeley</title>
-      <link>https://partiallyattended.com/2012/07/17/academic-ghost-towns/</link>
+      <link>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/07/17/academic-ghost-towns/</guid>
+      <guid>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</guid>
       <description>I&amp;rsquo;m on a mission to clear out my instapapper backlocg, so I&amp;rsquo;m going to be blogging olds rather than news. There was a nice piece in the Atlantic last month talking about how Google could provide a better social experience by activating it&amp;rsquo;s latent networks, rather than mimicking facebook.
  But think about Scholar as a latent social network. Each paper contains its own social network that Google already crawls. Every bibliography is filled with other social networks.</description>
     </item>

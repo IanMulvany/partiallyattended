@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Django on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/django/</link>
+    <link>http://partiallyattended.com/categories/django/</link>
     <description>Recent content in Django on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/django/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/django/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Django models vs. Pickling objects for object persistence.</title>
-      <link>https://partiallyattended.com/2009/10/19/django-models-vs.-pickling-objects-for-object-persistence./</link>
+      <link>http://partiallyattended.com/2009/10/19/django-models-vs.-pickling-objects-for-object-persistence./</link>
       <pubDate>Mon, 19 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2009/10/19/django-models-vs.-pickling-objects-for-object-persistence./</guid>
+      <guid>http://partiallyattended.com/2009/10/19/django-models-vs.-pickling-objects-for-object-persistence./</guid>
       <description>I do a bit of code hacking and I often find myself putting objects into pickle files, and reading and writing them in order to fake object persistence. It&#39;s easy, but messy and it begins to leave lot&#39;s of pickle files sitting around in your path. I&#39;ve decided to finally make the switch towards using a more grown up persistent object solution. I&#39;ve decided to try out Django + SQLite.</description>
     </item>
     

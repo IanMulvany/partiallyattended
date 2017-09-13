@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/conference/</link>
+    <link>http://partiallyattended.com/categories/conference/</link>
     <description>Recent content in Conference on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ic2s2 - Thursday, closing keynotes</title>
-      <link>https://partiallyattended.com/2017/07/13/ic2s2-thursday-closing-keynotes/</link>
+      <link>http://partiallyattended.com/2017/07/13/ic2s2-thursday-closing-keynotes/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/07/13/ic2s2-thursday-closing-keynotes/</guid>
+      <guid>http://partiallyattended.com/2017/07/13/ic2s2-thursday-closing-keynotes/</guid>
       <description>ic2s2 - Thursday, closing keynotes Economic AI - Matt Taddy Economic AI breaks complex systemic questions into simple sets of prediction tasks, that can be attacked with off the shelf ML techniques.
 Today economists are being asked to answer basic economic questions but at a ridiculous scale (within companies like Microsoft or Amazon). There are just not enough economists out there to do all the work being asked of them.</description>
     </item>
     
     <item>
       <title>ic2s2 Thursday morning keynotes</title>
-      <link>https://partiallyattended.com/2017/07/13/ic2s2-thursday-morning-keynotes/</link>
+      <link>http://partiallyattended.com/2017/07/13/ic2s2-thursday-morning-keynotes/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/07/13/ic2s2-thursday-morning-keynotes/</guid>
+      <guid>http://partiallyattended.com/2017/07/13/ic2s2-thursday-morning-keynotes/</guid>
       <description>ic2s2 Thursday morning keynotes Daniel Romero - Examining the Effects of Exogenous Shocks on Social Networks and Collaborative Crowds We are looking at the dynamics of social networks. The dynamics of networks are becoming increasingly well understood, but the question here is what happens to a network when there is a big external shock to the system?
 One example that they looked at came from a hedge fund, the data included full IM communication amongst about 182 people, about 22M items.</description>
     </item>
     
     <item>
       <title>IC2s2 Wikipedia track, Wednesday</title>
-      <link>https://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
+      <link>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
+      <guid>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
       <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
 TokTrack - data is available on Zenodo, 13.5B tokens. There is a wikiwho API. This is an accurate dataset of all provennced changes in English wikipedia.
 They can look at survival rates for edits. If an edit survives for 48 hours, then it’s probably safe and will live on in wikipedia.</description>
@@ -44,10 +44,10 @@ They can look at survival rates for edits. If an edit survives for 48 hours, the
     
     <item>
       <title>ic2s2 Wednesday morning keynotes</title>
-      <link>https://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</link>
+      <link>http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</guid>
+      <guid>http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</guid>
       <description>IC2s2 Wednesday Morning Keynotes Cecliia Mascolo - human behaviour studies through the lens of mobile sensing and complex networks She has been involved for many years in making and deploying sensors. The talk today will look at work they have been doing on foursquare data.
 In London they have data of about 0.5M check-ins over nine months over about 40k users.
 They also have social network data for these people, so they can connect their social network with the geo-spatial behaviour of these people.</description>
@@ -55,29 +55,29 @@ They also have social network data for these people, so they can connect their s
     
     <item>
       <title>IC2s2 - Tuesday Morning</title>
-      <link>https://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</link>
+      <link>http://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</guid>
+      <guid>http://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</guid>
       <description>IC2s2 - Tuesday Morning Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science  opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,  also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
     </item>
     
     <item>
       <title>IC2s2 Tuesday Afternoon Keynotes</title>
-      <link>https://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</link>
+      <link>http://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</guid>
+      <guid>http://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</guid>
       <description>IC2s2 Tuesday afternoon Dashun Wang - Predictive Signals Behind Success Dashun starts by talking about weather predictions, natural phenomena can be observed, modelled and predicted. Can success be measured modelled and predicted? Obviously Dashun thinks so, and we are gong to be looking at the result of a number of studies in this talk.
 Science of Science Aim is to build on top of the work of others, but add to it the massive data that we now have access to, along with the tools that we have developed.</description>
     </item>
     
     <item>
       <title>IC2s2 2017, conference preview</title>
-      <link>https://partiallyattended.com/2017/07/10/ic2s2-preview/</link>
+      <link>http://partiallyattended.com/2017/07/10/ic2s2-preview/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2017/07/10/ic2s2-preview/</guid>
+      <guid>http://partiallyattended.com/2017/07/10/ic2s2-preview/</guid>
       <description>I&amp;rsquo;m about to head to Köln for the International Conference on Computational Social Science (IC2S2) and I&amp;rsquo;m pretty excited for a whole bunch of reasons.
 I&amp;rsquo;ve been fascinated by network science, and the potential application of techniques from that science to the rest of research, for quite a while, but generally this has been an interest that I have entertained from a distance.
 I had the pleasure of attending an early instance of the NetSci conference series back in 2008, and even contributed to a working paper looking at the implications of the intersection between social data and network algorithms (Mining for Social Serendipity), however the academic track has not been my track at all, and with one thing or another this was a community that my career moved me away from for some time.</description>
@@ -85,10 +85,10 @@ I had the pleasure of attending an early instance of the NetSci conference serie
     
     <item>
       <title>aws london summit notes</title>
-      <link>https://partiallyattended.com/2015/04/16/aws-london-summit-notes/</link>
+      <link>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2015/04/16/aws-london-summit-notes/</guid>
+      <guid>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</guid>
       <description>Amazon Web Summit London 2015 ## Keynote
 There were about three thousand people at the summit. I chatted to a few people throughout the day. Their experience with AWS ranged from moderate use through to just being at the evaluation stage.
 The keynote highlighted AWS&amp;rsquo;s approach of wanting to put the customer in control, and to remove all unnecessary work from the customer in terms of managing IT.
@@ -97,28 +97,28 @@ AWS has grown enormously, they are estimated to have five times the compute powe
     
     <item>
       <title>Some thoughts on FORCE2015, science trust and ethics.</title>
-      <link>https://partiallyattended.com/2015/01/19/force2015-thoughts/</link>
+      <link>http://partiallyattended.com/2015/01/19/force2015-thoughts/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2015/01/19/force2015-thoughts/</guid>
+      <guid>http://partiallyattended.com/2015/01/19/force2015-thoughts/</guid>
       <description>Last week I was at the FORCE2015 conference. I enjoyed it greatly. This was the 2015 instance of the FORCE11/Beyond the pdf conference. I&amp;rsquo;d been aware of these meetings since the first one was announced back in 2011, but this was my first chance to attend one. (If I recall, I&amp;rsquo;d even been invited to the DagStuhl workshop, but had been unable to attend. I&amp;rsquo;d been to one DagStuhl workshop on science and social networks many years ago, and that had been one of the best short meetings that I&amp;rsquo;d ever attended, so I&amp;rsquo;d been sad not to be able to go to the Beyond the PDF meeting).</description>
     </item>
     
     <item>
       <title>PLOS ALM 13 day 2</title>
-      <link>https://partiallyattended.com/2013/10/17/plos-alm-13-day2/</link>
+      <link>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/10/17/plos-alm-13-day2/</guid>
+      <guid>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</guid>
       <description>Connecting ALM and Literature As I took part in the first session I don&amp;rsquo;t have many notes from it. I&amp;rsquo;ve posted the slides from my talk, and I&amp;rsquo;ll write up some more on those in due course. For me the standout talk of the session, if not the entire meeting, was from Jevin West who talked about using networked ranked data to provide recommendations. The algorithms his group are working on are being tested on [SSRN][ssrn], and will be rolled out to PLOS.</description>
     </item>
     
     <item>
       <title>PLOS ALM 13, day1</title>
-      <link>https://partiallyattended.com/2013/10/16/plos-aml-13-day1/</link>
+      <link>http://partiallyattended.com/2013/10/16/plos-aml-13-day1/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/10/16/plos-aml-13-day1/</guid>
+      <guid>http://partiallyattended.com/2013/10/16/plos-aml-13-day1/</guid>
       <description>## Cameron Neylon - Introduction &amp;amp; Welcome
 Interesting - this is the first PLOS ALM meeting that is a &amp;ldquo;normal&amp;rdquo; scheduled presentation. Time is going to be tight.
 Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch.</description>
@@ -126,10 +126,10 @@ Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not sel
     
     <item>
       <title>SpotOn day 2.</title>
-      <link>https://partiallyattended.com/2012/11/12/spoton-solo12-day2/</link>
+      <link>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</link>
       <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
+      <guid>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
       <description>Yesterday was awesome, let&amp;rsquo;s see how today goes. I was watching from afar, as my wife attended, and now I&amp;rsquo;m here for the afternoon sessions.
 sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?  now on to the sessions!
 [Incentivising Open Access][ioa]. (top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.</description>
@@ -137,10 +137,10 @@ sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?
     
     <item>
       <title>SpotOn day 1.</title>
-      <link>https://partiallyattended.com/2012/11/11/spoton-solo12-day1/</link>
+      <link>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</link>
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
+      <guid>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
       <description>I&amp;rsquo;ll keep a partial, live-idsh blog going during the day. I&amp;rsquo;ve been going to these things, I think, since about 2008. I really like these meetings. I&amp;rsquo;m going to probably keep these notes pretty lightweight.
 sessions:  Ben Goldacre Kamila  Session on whether science journalism will be replaced Altmetric track  now on to the sessions!
 Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
@@ -148,47 +148,47 @@ Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues
     
     <item>
       <title>Last minute changes to our solo12journals line up.</title>
-      <link>https://partiallyattended.com/2012/11/10/last-minute-changes/</link>
+      <link>http://partiallyattended.com/2012/11/10/last-minute-changes/</link>
       <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2012/11/10/last-minute-changes/</guid>
+      <guid>http://partiallyattended.com/2012/11/10/last-minute-changes/</guid>
       <description>* {margin:0; padding:0} body {font:11px/1.5 Verdana, Arial, Helvetica, sans-serif; background:#FFF} #text {margin:50px auto; width:500px} .hotspot {color:#900; padding-bottom:1px; border-bottom:1px dotted #900; cursor:pointer} #tt {position:absolute; display:block; background:url(images/tt_left.gif) top left no-repeat} #tttop {display:block; height:5px; margin-left:5px; background:url(images/tt_top.gif) top right no-repeat; overflow:hidden} #ttcont {display:block; padding:2px 12px 3px 7px; margin-left:5px; background:#666; color:#FFF} #ttbot {display:block; height:5px; margin-left:5px; background:url(images/tt_bottom.gif) top right no-repeat; overflow:hidden}  I&#39;m really excited about the session that we will be running at SpotOn London in just two days time!</description>
     </item>
     
     <item>
       <title>The rude health of Open Access Publishing.</title>
-      <link>https://partiallyattended.com/2011/10/03/coasp-impressions/</link>
+      <link>http://partiallyattended.com/2011/10/03/coasp-impressions/</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/10/03/coasp-impressions/</guid>
+      <guid>http://partiallyattended.com/2011/10/03/coasp-impressions/</guid>
       <description>TL;DR OA publishing is maturing with a scalable business model that all the big publishers are jumping all over. Money will be made (but less than before), and more content will be more open. The poor lamentable nay-sayers who carp on unheard in the darkness will be forgotten, and their Cassandra-like predictions will fade to be recalled as little more than the mutterings of fools (OK, that last bit is probably opinion).</description>
     </item>
     
     <item>
       <title>Science Online London Keynote, Michael Nielson on Open Sciecne</title>
-      <link>https://partiallyattended.com/2011/09/02/solo11-day1-keynote/</link>
+      <link>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</link>
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2011/09/02/solo11-day1-keynote/</guid>
+      <guid>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</guid>
       <description>Michael Nielson Keynote on Open Science He rightly points out that he is probably going to be talking to the converted, so his talk is aimed at looking for resources that can help us to find answers about how to make open science works. He starts talking about an example of failure in open science. his example is an open notebook science from Tobias J Osbourne. He built up a readership of about 100 readers on a highly technical field, but he was not getting much participation, and very little feedback.</description>
     </item>
     
     <item>
       <title>The Future of Knowledge Organisation on the Web, a one day conference.</title>
-      <link>https://partiallyattended.com/2010/09/14/linked-data-london-meeting/</link>
+      <link>http://partiallyattended.com/2010/09/14/linked-data-london-meeting/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2010/09/14/linked-data-london-meeting/</guid>
+      <guid>http://partiallyattended.com/2010/09/14/linked-data-london-meeting/</guid>
       <description>I&amp;rsquo;m attending this event today, and I&amp;rsquo;m going to keep some notes as the day progresses. There are a couple of oddities about the event:
  No Coffee. That&amp;rsquo;s a bit of a pity No power outlets in the conference room. Not many conferences have that, but one would think that it is a no brainer, especially for any meeting about the web, and in particular linked data. To add to that, there also seems to be no public wifi.</description>
     </item>
     
     <item>
       <title>Notes from JISC activity streams workshop</title>
-      <link>https://partiallyattended.com/2010/07/14/raw-notes-jiscad/</link>
+      <link>http://partiallyattended.com/2010/07/14/raw-notes-jiscad/</link>
       <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2010/07/14/raw-notes-jiscad/</guid>
+      <guid>http://partiallyattended.com/2010/07/14/raw-notes-jiscad/</guid>
       <description>Dave Jennings giving the opening talk, http://www.slideshare.net/davidjennings abundance of content without structure is not to be feared, example comes from music. uses a Medneley slide to talk about the lastfm &amp;ndash; Medneley bridge. talks about the amazon collaborative filter mentions how this can lead to a dystopia, Googlezon, the big brother of recommender system. talks about the future of pervasive recommender systems, and brain matching to content matching. john cage - my favourite music the music I haven&amp;rsquo;t heard yet.</description>
     </item>
     

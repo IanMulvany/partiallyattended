@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Csl on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/csl/</link>
+    <link>http://partiallyattended.com/categories/csl/</link>
     <description>Recent content in Csl on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Sep 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/csl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/csl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Citation Style Language</title>
-      <link>https://partiallyattended.com/2010/09/24/csl/</link>
+      <link>http://partiallyattended.com/2010/09/24/csl/</link>
       <pubDate>Fri, 24 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2010/09/24/csl/</guid>
+      <guid>http://partiallyattended.com/2010/09/24/csl/</guid>
       <description>Martin Fenner asked me to comment on Mendeley&amp;rsquo;s relationship with the Citation Style Language, so I thought I would pop up my thoughts on the blog too. Martin&amp;rsquo;s post below is the original message that I sent over to him.
 Hi Martin, thanks for getting in touch and asking about Mendeley&amp;rsquo;s relationship with CSL. There are basically three aspects of citation styling that I&amp;rsquo;d like to discuss, the first is about Mendeley&amp;rsquo;s involvement, the second is about the use of citation styling in the community, and amongst publishers, and the third is about how we identify things in academia, and how we format those identifiers.</description>
     </item>

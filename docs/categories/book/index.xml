@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/book/</link>
+    <link>http://partiallyattended.com/categories/book/</link>
     <description>Recent content in Book on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/book/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/book/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Today at lunch duplicators and instantiators</title>
-      <link>https://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
+      <link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
       <description>I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last time I can recall having somany interesting discussions over lunch and breaks was way back when I wasin my first undergraduate degree, but the topics of conversation that tendto come up at my current place of employment are really worth trying torecord.
 Today we started off having a couple of split conversation, Euan describingchatting to Martha at Sci-Foo and Euan and I talking about Euler, as you do.</description>
     </item>
     
     <item>
       <title>live blogging from BarCamp Cambridge, Matt&#39;s discussion</title>
-      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</link>
+      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</guid>
       <description>  discussionQ Gridle is raised along with RDFa if you don&#39;t like the way that the xslt is workin you can make your own.however most domain exprts can&#39;t write xslt
 if you just let the domain experts create microformats you may leave theontologicaldefinitions to people who are creating the xslt
 AG says that there may be two different problems, address to addressbookfrom page vs data harvesting
@@ -35,10 +35,10 @@ AG says that there may be two different problems, address to addressbookfrom pag
     
     <item>
       <title>restaurant BAYOU Berlin</title>
-      <link>https://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</link>
+      <link>http://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</guid>
       <description>I got the email below a few days ago:
 Hello to you all,Please forgive the bulk email! We hope all is well with you.We will be opening our new restaurant on December 1st. Please visit our newwebsite at www.bayou-berlin.com You are able to book hotel reservations onour site using our corporate discount rate. We hope to see you sometimesoon,All the best,Steve and Brandon
 Earlier this year I was on holiday in Nerja in the south of Spain.</description>

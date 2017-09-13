@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cc By on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/cc-by/</link>
+    <link>http://partiallyattended.com/categories/cc-by/</link>
     <description>Recent content in Cc By on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Apr 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/cc-by/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/cc-by/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Some thoughts on the Taylor and Francis Survey.</title>
-      <link>https://partiallyattended.com/2013/04/27/tf-survey/</link>
+      <link>http://partiallyattended.com/2013/04/27/tf-survey/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2013/04/27/tf-survey/</guid>
+      <guid>http://partiallyattended.com/2013/04/27/tf-survey/</guid>
       <description>I took a look at the T&amp;amp;F survey with interest. I&amp;rsquo;m also very aware of the concerns and confusions that exist around licensing. I&amp;rsquo;m also aware of the &amp;ldquo;one size doesn&amp;rsquo;t fit all&amp;rdquo; argument.
 I&amp;rsquo;ll address the T&amp;amp;F survey first, and then I&amp;rsquo;ll briefly discuss CC-BY pros and cons, purely from the point of view of my own understanding of these issues - I might be very wrong on this.</description>
     </item>

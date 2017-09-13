@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/git/</link>
+    <link>http://partiallyattended.com/categories/git/</link>
     <description>Recent content in Git on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Aug 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>shortcuts that I use for the git command line</title>
-      <link>https://partiallyattended.com/2014/08/09/git-command-line-shortcuts/</link>
+      <link>http://partiallyattended.com/2014/08/09/git-command-line-shortcuts/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2014/08/09/git-command-line-shortcuts/</guid>
+      <guid>http://partiallyattended.com/2014/08/09/git-command-line-shortcuts/</guid>
       <description>I use git a lot, it&amp;rsquo;s pretty complicated, and it has a lot of command line optoins that I can never remember. I&amp;rsquo;ve copied a couple of shortcuts from the web, and here are two that I use a lot. These are presented in the form of fish shell scripts.
  function gl git log &amp;ndash;graph &amp;ndash;abbrev-commit &amp;ndash;decorate &amp;ndash;date=relative &amp;ndash;format=format:&amp;lsquo;%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)&amp;rsquo; &amp;ndash;all end</description>
     </item>
     
     <item>
       <title>my first post</title>
-      <link>https://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</link>
+      <link>http://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</link>
       <pubDate>Sat, 03 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</guid>
+      <guid>http://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</guid>
       <description>I&amp;rsquo;m trying to understand jekyll here It seems to be quite nice, let&amp;rsquo;s see how we get on!</description>
     </item>
     
     <item>
       <title>Volvox</title>
-      <link>https://partiallyattended.com/2006/06/29/volvox/</link>
+      <link>http://partiallyattended.com/2006/06/29/volvox/</link>
       <pubDate>Thu, 29 Jun 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2006/06/29/volvox/</guid>
+      <guid>http://partiallyattended.com/2006/06/29/volvox/</guid>
       <description>&amp;ldquo;Volvox&amp;rdquo;:img:img:http://www.mulvany.net/photo/blogPics/volvox
 The very first thing to die on it&amp;rsquo;s own, without the intervention of an outside agent, was an organism called Volvox. The first life that we know of whose cells perish from old age, rather than misfortune. Before humble Volvox all other living things would go on forever, the immortal bacteria, the barely describable virus. Volvox introduced death by natural causes to the world, and all living things that came after that were as complex, or more so, followed suit, and found programmed within them some pace maker, set to expire after they had done their duty on the earth.</description>
     </item>

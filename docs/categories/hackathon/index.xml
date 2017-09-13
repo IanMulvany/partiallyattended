@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hackathon on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/hackathon/</link>
+    <link>http://partiallyattended.com/categories/hackathon/</link>
     <description>Recent content in Hackathon on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Social Humanities DataHack event</title>
-      <link>https://partiallyattended.com/2016/12/09/interesting-meeting-in-january/</link>
+      <link>http://partiallyattended.com/2016/12/09/interesting-meeting-in-january/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2016/12/09/interesting-meeting-in-january/</guid>
+      <guid>http://partiallyattended.com/2016/12/09/interesting-meeting-in-january/</guid>
       <description>How do people represent themselves on social media, and how are they represented by others? Which qualities and virtues are emphasized (or ignored)? How polarised are these (re)presentations?
  There is a workshop looking at this very question happening in Oxford in early January. The morning will be a series of workshops on tools for tackling a question like the above (I&amp;rsquo;m thinking of attending the Wikipedia and Topic Modelling workshop), and the afternoon will be a hackathon looking at some data sets.</description>
     </item>

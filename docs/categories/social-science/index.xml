@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Science on Partially Attended</title>
-    <link>https://partiallyattended.com/categories/social-science/</link>
+    <link>http://partiallyattended.com/categories/social-science/</link>
     <description>Recent content in Social Science on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://partiallyattended.com/categories/social-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/social-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What do we mean when we talk about Big Data?</title>
-      <link>https://partiallyattended.com/2016/12/15/what-is-big-data/</link>
+      <link>http://partiallyattended.com/2016/12/15/what-is-big-data/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
+      <guid>http://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
       <description>What do we mean when we talk about Big Data?
 The following blog post about this article provides the following definition of big data:
  “High volume data that frequently combines highly structured administrative data actively collected by public sector organisations with continuously and automatically collected structured and unstructured real-time data that are often passively created by public and private entities through their internet.”
