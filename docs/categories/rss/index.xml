@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rss on My New Hugo Site</title>
-    <link>/categories/rss/</link>
-    <description>Recent content in Rss on My New Hugo Site</description>
+    <title>Rss on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/rss/</link>
+    <description>Recent content in Rss on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/rss/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/rss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
-      <link>/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</guid>
       <description>Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
 the idea was to have an open source human genome
 companies would have to do some work before they could make money off ofsequences.
@@ -26,10 +26,10 @@ there is enemble codeand there is the data</description>
     
     <item>
       <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
       <description>what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
@@ -43,10 +43,10 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     
     <item>
       <title>sometimes, just sometimes a piece of news makes me smile</title>
-      <link>/2008/07/14/sometimes-just-sometimes-a-piece-of-news-makes-me-smile/</link>
+      <link>https://partiallyattended.com/2008/07/14/sometimes-just-sometimes-a-piece-of-news-makes-me-smile/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/sometimes-just-sometimes-a-piece-of-news-makes-me-smile/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/sometimes-just-sometimes-a-piece-of-news-makes-me-smile/</guid>
       <description> From the Guardian today, a group of ultra-right wing MEP&#39;s were unable toform a group within the European Parliament owing to internal xenophobia.
 http://www.guardian.co.uk/farright/story/0,,2211167,00.html?gusrc=rss&amp;amp;feed=12
  </description>

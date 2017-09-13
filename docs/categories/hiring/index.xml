@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hiring on My New Hugo Site</title>
-    <link>/categories/hiring/</link>
-    <description>Recent content in Hiring on My New Hugo Site</description>
+    <title>Hiring on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/hiring/</link>
+    <description>Recent content in Hiring on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/hiring/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/hiring/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I&#39;m hiring a product manager</title>
-      <link>/2017/07/20/im-hiring/</link>
+      <link>https://partiallyattended.com/2017/07/20/im-hiring/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/20/im-hiring/</guid>
+      <guid>https://partiallyattended.com/2017/07/20/im-hiring/</guid>
       <description>So, I&amp;rsquo;m hiring a product manager. We are working on developing new green field products. We have a small, really fun team, and we are using a lot of lean tools to try to get to product-market fit with relativly low risk.
 To apply submit a CV using our [hiring portal](https://uk.sagepub.com/en-gb/eur/sage-vacancies].
 Here are some more details about the role:

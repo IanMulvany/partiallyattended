@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solo on My New Hugo Site</title>
-    <link>/categories/solo/</link>
-    <description>Recent content in Solo on My New Hugo Site</description>
+    <title>Solo on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/solo/</link>
+    <description>Recent content in Solo on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Nov 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/solo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/solo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SpotOn day 2.</title>
-      <link>/2012/11/12/spoton-solo12-day2/</link>
+      <link>https://partiallyattended.com/2012/11/12/spoton-solo12-day2/</link>
       <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/11/12/spoton-solo12-day2/</guid>
+      <guid>https://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
       <description>Yesterday was awesome, let&amp;rsquo;s see how today goes. I was watching from afar, as my wife attended, and now I&amp;rsquo;m here for the afternoon sessions.
 sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?  now on to the sessions!
 [Incentivising Open Access][ioa]. (top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.</description>
@@ -24,10 +24,10 @@ sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?
     
     <item>
       <title>SpotOn day 1.</title>
-      <link>/2012/11/11/spoton-solo12-day1/</link>
+      <link>https://partiallyattended.com/2012/11/11/spoton-solo12-day1/</link>
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/11/11/spoton-solo12-day1/</guid>
+      <guid>https://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
       <description>I&amp;rsquo;ll keep a partial, live-idsh blog going during the day. I&amp;rsquo;ve been going to these things, I think, since about 2008. I really like these meetings. I&amp;rsquo;m going to probably keep these notes pretty lightweight.
 sessions:  Ben Goldacre Kamila  Session on whether science journalism will be replaced Altmetric track  now on to the sessions!
 Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
@@ -35,10 +35,10 @@ Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues
     
     <item>
       <title>Last minute changes to our solo12journals line up.</title>
-      <link>/2012/11/10/last-minute-changes/</link>
+      <link>https://partiallyattended.com/2012/11/10/last-minute-changes/</link>
       <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/11/10/last-minute-changes/</guid>
+      <guid>https://partiallyattended.com/2012/11/10/last-minute-changes/</guid>
       <description>* {margin:0; padding:0} body {font:11px/1.5 Verdana, Arial, Helvetica, sans-serif; background:#FFF} #text {margin:50px auto; width:500px} .hotspot {color:#900; padding-bottom:1px; border-bottom:1px dotted #900; cursor:pointer} #tt {position:absolute; display:block; background:url(images/tt_left.gif) top left no-repeat} #tttop {display:block; height:5px; margin-left:5px; background:url(images/tt_top.gif) top right no-repeat; overflow:hidden} #ttcont {display:block; padding:2px 12px 3px 7px; margin-left:5px; background:#666; color:#FFF} #ttbot {display:block; height:5px; margin-left:5px; background:url(images/tt_bottom.gif) top right no-repeat; overflow:hidden}  I&#39;m really excited about the session that we will be running at SpotOn London in just two days time!</description>
     </item>
     

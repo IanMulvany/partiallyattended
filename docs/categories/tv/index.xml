@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tv on My New Hugo Site</title>
-    <link>/categories/tv/</link>
-    <description>Recent content in Tv on My New Hugo Site</description>
+    <title>Tv on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/tv/</link>
+    <description>Recent content in Tv on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/tv/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/tv/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Potter prediction</title>
-      <link>/2008/07/14/potter-prediction/</link>
+      <link>https://partiallyattended.com/2008/07/14/potter-prediction/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/potter-prediction/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/potter-prediction/</guid>
       <description> I wonder how long it&#39;s going to be before we see a children&#39;s TV series setat Hogwarts. I predict within the next 5 years.
 tags: Harry Potter, TV
  </description>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Openaccess on My New Hugo Site</title>
-    <link>/categories/openaccess/</link>
-    <description>Recent content in Openaccess on My New Hugo Site</description>
+    <title>Openaccess on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/openaccess/</link>
+    <description>Recent content in Openaccess on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Jul 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/openaccess/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/openaccess/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The cost of production</title>
-      <link>/2012/07/12/the-cost-of-production/</link>
+      <link>https://partiallyattended.com/2012/07/12/the-cost-of-production/</link>
       <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/07/12/the-cost-of-production/</guid>
+      <guid>https://partiallyattended.com/2012/07/12/the-cost-of-production/</guid>
       <description>Last week an interesting discussion on the cost of copy editing popped up over on Stephen Curry&amp;rsquo;s blog. In addition the comment thread at the recent Science editorial seems to make this post somewhat timely. I used to manage the copy editing of a good portion of physical science related content from Springer from 2002 &amp;ndash; 2005. I&amp;rsquo;m also currently in the process of setting up a new online-only journal.</description>
     </item>
     

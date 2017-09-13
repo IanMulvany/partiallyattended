@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Altmetrics on My New Hugo Site</title>
-    <link>/categories/altmetrics/</link>
-    <description>Recent content in Altmetrics on My New Hugo Site</description>
+    <title>Altmetrics on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/altmetrics/</link>
+    <description>Recent content in Altmetrics on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/altmetrics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/altmetrics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>synthesis of breakout session from day 1 - institutions and metrics</title>
-      <link>/2014/09/26/1am-session-synthasis-institutes-and-metrics/</link>
+      <link>https://partiallyattended.com/2014/09/26/1am-session-synthasis-institutes-and-metrics/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/2014/09/26/1am-session-synthasis-institutes-and-metrics/</guid>
+      <guid>https://partiallyattended.com/2014/09/26/1am-session-synthasis-institutes-and-metrics/</guid>
       <description>Thanks to &amp;ndash; Kevin Dolby, Martijn Roelandse, Mike Taylor and Andrea Michalek for taking the notes from each of the breakout sessions, I have synthesised them here.
 Altmetrics could be used as a way to indicate the pathway of impact
 Institutions should define their game plan, what do we want to achieve, what metrics can help get us there they could give guidance to researchers on what platforms to adopt (the landscape is cluttered, but at the same time Institutions probably don&amp;rsquo;t know), that said funders are behind the principle that universities drive what metrics they want to collect, and the set of standards, instead of prescribing metrics (don&amp;rsquo;t get led by what gets measured, define the change you want to affect first).</description>
@@ -24,38 +24,38 @@ Institutions should define their game plan, what do we want to achieve, what met
     
     <item>
       <title>FuturePub - future of publishing event, hosted by NESTA and WriteLaTeX</title>
-      <link>/2014/05/30/future-pub2/</link>
+      <link>https://partiallyattended.com/2014/05/30/future-pub2/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>/2014/05/30/future-pub2/</guid>
+      <guid>https://partiallyattended.com/2014/05/30/future-pub2/</guid>
       <description>This is the second #futurepub event that I&amp;rsquo;ve been to. I also attended the last one
 The event was hosted by Nesta. Nesta have just launched the &amp;ldquo;new longitude&amp;rdquo; prize - which looks pretty interesting. There were six rapid fire talks, and I found the presentation format to be excellent. As with the previous event, this one was organised by the WriteLaTeX guys, and I&amp;rsquo;d just like to extend a big thanks to them for again putting on a great little event.</description>
     </item>
     
     <item>
       <title>PLOS ALM 13 day 2</title>
-      <link>/2013/10/17/plos-alm-13-day2/</link>
+      <link>https://partiallyattended.com/2013/10/17/plos-alm-13-day2/</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/10/17/plos-alm-13-day2/</guid>
+      <guid>https://partiallyattended.com/2013/10/17/plos-alm-13-day2/</guid>
       <description>Connecting ALM and Literature As I took part in the first session I don&amp;rsquo;t have many notes from it. I&amp;rsquo;ve posted the slides from my talk, and I&amp;rsquo;ll write up some more on those in due course. For me the standout talk of the session, if not the entire meeting, was from Jevin West who talked about using networked ranked data to provide recommendations. The algorithms his group are working on are being tested on [SSRN][ssrn], and will be rolled out to PLOS.</description>
     </item>
     
     <item>
       <title>NISO ALM standardization workshop</title>
-      <link>/2013/10/16/niso-alm-standardisation/</link>
+      <link>https://partiallyattended.com/2013/10/16/niso-alm-standardisation/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/10/16/niso-alm-standardisation/</guid>
+      <guid>https://partiallyattended.com/2013/10/16/niso-alm-standardisation/</guid>
       <description>This was a one day workshop discuss the creation of standards around Article Level Metrics. NISO has a grant from the Sloan foundation to look into this, and this event was the first of three planned information gathering events. My own opinion on this topic has changed over the past year, evolving from being strongly opposed, to broadly supporting the idea of building some kind of standard or best practice for the field.</description>
     </item>
     
     <item>
       <title>PLOS ALM 13, day1</title>
-      <link>/2013/10/16/plos-aml-13-day1/</link>
+      <link>https://partiallyattended.com/2013/10/16/plos-aml-13-day1/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/10/16/plos-aml-13-day1/</guid>
+      <guid>https://partiallyattended.com/2013/10/16/plos-aml-13-day1/</guid>
       <description>## Cameron Neylon - Introduction &amp;amp; Welcome
 Interesting - this is the first PLOS ALM meeting that is a &amp;ldquo;normal&amp;rdquo; scheduled presentation. Time is going to be tight.
 Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch.</description>
@@ -63,20 +63,20 @@ Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not sel
     
     <item>
       <title>Some Thoughts on Peer Review and Altmetrics</title>
-      <link>/2012/06/18/some-thought-on-peerreview-and-altmetrics/</link>
+      <link>https://partiallyattended.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/06/18/some-thought-on-peerreview-and-altmetrics/</guid>
+      <guid>https://partiallyattended.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</guid>
       <description>The upcoming altmetrics meeting, and a submitted abstract by Kelli Barr prompted me to note down some of my own thoughts on peer review and altmetrics. I would love to make it over to the meeting, but with just a few days now before my first child is born, it ain&amp;rsquo;t gonna happen.
 I&amp;rsquo;ve not read Kelly&amp;rsquo;s paper, but after reading the abstract my take home message from it would be something along the lines of &amp;ldquo;don&amp;rsquo;t replace peer review with altmetrics because you will just replace one bias with another, and at least with peer review the bias is contained within the academic community&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Augmented Peer Review</title>
-      <link>/2012/06/17/proposal-on-peer-review/</link>
+      <link>https://partiallyattended.com/2012/06/17/proposal-on-peer-review/</link>
       <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/06/17/proposal-on-peer-review/</guid>
+      <guid>https://partiallyattended.com/2012/06/17/proposal-on-peer-review/</guid>
       <description>Last year I was asked to contribute to a special issue on the evolution of peer review. I got quite excited about doing this, but then realised that I really didn&amp;rsquo;t have the time to write a paper. I&amp;rsquo;m not a practicing academic, I build products, and while at Mendeley I really had far too much on my plate to find the time to write up a paper. However the topic does interest me, and I am a strong believer that web scale technologies can help with the scientific communication process though a large number of avenues.</description>
     </item>
     

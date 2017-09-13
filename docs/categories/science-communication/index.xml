@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Science Communication on My New Hugo Site</title>
-    <link>/categories/science-communication/</link>
-    <description>Recent content in Science Communication on My New Hugo Site</description>
+    <title>Science Communication on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/science-communication/</link>
+    <description>Recent content in Science Communication on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jul 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/science-communication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/science-communication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What use metaphor?</title>
-      <link>/2012/07/08/what-use-metaphor/</link>
+      <link>https://partiallyattended.com/2012/07/08/what-use-metaphor/</link>
       <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/07/08/what-use-metaphor/</guid>
+      <guid>https://partiallyattended.com/2012/07/08/what-use-metaphor/</guid>
       <description>I watched a little of the q&amp;amp;a at CERN this week. One question stood out. A journalist, who didn&amp;rsquo;t want to be named, asked the panel a question along the following lines: &amp;ldquo;what were the panel&amp;rsquo;s favourite and least favourite metaphor for the Higgs boson, and what were their thoughts on the god-particle expression.&amp;rdquo; He pointed out that given such a complex story many who will b e explaining it to the general public will need to reach for metaphor, and when it comes to the god particle term, as much as some may not like it, it has to be recognised that it has entered public consciousness.</description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Review on My New Hugo Site</title>
-    <link>/categories/review/</link>
-    <description>Recent content in Review on My New Hugo Site</description>
+    <title>Review on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/review/</link>
+    <description>Recent content in Review on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Aug 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/review/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ArXiV at 20, a brief review.</title>
-      <link>/2011/08/30/arxiv-20-years-on-review/</link>
+      <link>https://partiallyattended.com/2011/08/30/arxiv-20-years-on-review/</link>
       <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/08/30/arxiv-20-years-on-review/</guid>
+      <guid>https://partiallyattended.com/2011/08/30/arxiv-20-years-on-review/</guid>
       <description>I just read the brief article by Paul Ginsparg about 20 years of the ArXiV. I think the article is a must read for anyone who is thinking about scientific communication. It&amp;rsquo;s short, and very readable.
 The things that stand out for me from this article are the following:
 There are real costs associated with running services on the web. Ginsparg originally imagined that the service that he created could run automatically and that he would be able to get back to his research projects very quickly.</description>

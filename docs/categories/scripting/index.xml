@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scripting on My New Hugo Site</title>
-    <link>/categories/scripting/</link>
-    <description>Recent content in Scripting on My New Hugo Site</description>
+    <title>Scripting on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/scripting/</link>
+    <description>Recent content in Scripting on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Sep 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/scripting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/scripting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>science scraping with YQL</title>
-      <link>/2010/09/06/science-scraping-with-yql/</link>
+      <link>https://partiallyattended.com/2010/09/06/science-scraping-with-yql/</link>
       <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>/2010/09/06/science-scraping-with-yql/</guid>
+      <guid>https://partiallyattended.com/2010/09/06/science-scraping-with-yql/</guid>
       <description>Last Saturday at Science Online London I gave a quick tutorial on YQL, and how it might be used to mash up scientific data sets. Below I list some of the sample queries that I was playing with. Before you get started with the console have a look through the documentation. I got a lot of milage out of the part about filters and joins. The blog post by Paul Hogan on using YQL for library maships was also very helpful.</description>
     </item>
     

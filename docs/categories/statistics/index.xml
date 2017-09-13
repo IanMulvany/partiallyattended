@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statistics on My New Hugo Site</title>
-    <link>/categories/statistics/</link>
-    <description>Recent content in Statistics on My New Hugo Site</description>
+    <title>Statistics on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/statistics/</link>
+    <description>Recent content in Statistics on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 May 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>data science vs statistics talk at the RSS</title>
-      <link>/2015/05/11/rss-data-science-talk/</link>
+      <link>https://partiallyattended.com/2015/05/11/rss-data-science-talk/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/05/11/rss-data-science-talk/</guid>
+      <guid>https://partiallyattended.com/2015/05/11/rss-data-science-talk/</guid>
       <description>Tonight I attend a debate held at the Royal Statistics Society. It was en entertaining, and wide ranging discussion with a great panel, and fairly intelligent questions from the floor.
 Two fun facts:
  One of the founding members of the society was Charles Babbage

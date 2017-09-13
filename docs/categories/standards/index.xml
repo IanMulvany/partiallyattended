@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Standards on My New Hugo Site</title>
-    <link>/categories/standards/</link>
-    <description>Recent content in Standards on My New Hugo Site</description>
+    <title>Standards on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/standards/</link>
+    <description>Recent content in Standards on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Oct 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/standards/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/standards/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NISO ALM standardization workshop</title>
-      <link>/2013/10/16/niso-alm-standardisation/</link>
+      <link>https://partiallyattended.com/2013/10/16/niso-alm-standardisation/</link>
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/10/16/niso-alm-standardisation/</guid>
+      <guid>https://partiallyattended.com/2013/10/16/niso-alm-standardisation/</guid>
       <description>This was a one day workshop discuss the creation of standards around Article Level Metrics. NISO has a grant from the Sloan foundation to look into this, and this event was the first of three planned information gathering events. My own opinion on this topic has changed over the past year, evolving from being strongly opposed, to broadly supporting the idea of building some kind of standard or best practice for the field.</description>
     </item>
     

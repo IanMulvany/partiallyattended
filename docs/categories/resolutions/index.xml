@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resolutions on My New Hugo Site</title>
-    <link>/categories/resolutions/</link>
-    <description>Recent content in Resolutions on My New Hugo Site</description>
+    <title>Resolutions on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/resolutions/</link>
+    <description>Recent content in Resolutions on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jan 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/resolutions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/resolutions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Climbing Goals 2012, review 2011</title>
-      <link>/2012/01/08/climbing-goals-2012/</link>
+      <link>https://partiallyattended.com/2012/01/08/climbing-goals-2012/</link>
       <pubDate>Sun, 08 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/01/08/climbing-goals-2012/</guid>
+      <guid>https://partiallyattended.com/2012/01/08/climbing-goals-2012/</guid>
       <description>Well, it&amp;rsquo;s been a while since I wrote up my climbing goals for 2010, and I totally missed doing this for last year, so as we ease our way into 2012 it&amp;rsquo;s high time that I do the same again.
 The key goals for 2010 were:
  redpoint fr 7a boulder V5 trad E1 some trips to do some trad climbing  Well, since then I achieved the following:</description>

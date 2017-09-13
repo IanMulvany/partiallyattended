@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Data on My New Hugo Site</title>
-    <link>/categories/open-data/</link>
-    <description>Recent content in Open Data on My New Hugo Site</description>
+    <title>Open Data on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/open-data/</link>
+    <description>Recent content in Open Data on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/open-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/open-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FuturePub3 - September 2014 event</title>
-      <link>/2014/09/24/futurepub3/</link>
+      <link>https://partiallyattended.com/2014/09/24/futurepub3/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/2014/09/24/futurepub3/</guid>
+      <guid>https://partiallyattended.com/2014/09/24/futurepub3/</guid>
       <description>Welcome back for the next installment of FuturePub. There are tons of people at the meeting tonight, pizza and beers care of WriteLaTeX!!
 # Sumika Sakanishi - Product Manager - ODI
 They aim to encourage organisations to unlock data. They also work with individuals to help them unlock the value of open data.
@@ -26,29 +26,29 @@ The open data instutute have created the open data certificate, an online tool t
     
     <item>
       <title>EC consultation on Open Data - a report.</title>
-      <link>/2013/07/02/ec-open-data-consultation-report/</link>
+      <link>https://partiallyattended.com/2013/07/02/ec-open-data-consultation-report/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/07/02/ec-open-data-consultation-report/</guid>
+      <guid>https://partiallyattended.com/2013/07/02/ec-open-data-consultation-report/</guid>
       <description>This is a report on todays consultation on open data that was help by the EC. The notes are long, so I have put my conclusions and general comments at the start.
 General comments There was not much disagreement throughout the day. There were repeated calls for the need to incentivise researchers to engage in data sharing, but not too many concrete proposals on how to do this. It does seem from my perspective that libraries could do an amazing job here, but that will depend on to which extent these libraries have deep technical expertise.</description>
     </item>
     
     <item>
       <title>EC consultation on Open Data - my presentation.</title>
-      <link>/2013/07/02/ec-open-data-consultation-our-view/</link>
+      <link>https://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/07/02/ec-open-data-consultation-our-view/</guid>
+      <guid>https://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
       <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
     </item>
     
     <item>
       <title>Product Tank 6, big data</title>
-      <link>/2013/01/23/product-tank-jan-2013/</link>
+      <link>https://partiallyattended.com/2013/01/23/product-tank-jan-2013/</link>
       <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/01/23/product-tank-jan-2013/</guid>
+      <guid>https://partiallyattended.com/2013/01/23/product-tank-jan-2013/</guid>
       <description>I&amp;rsquo;m at PridcutTank 6. Todays topic is big data.
 Hether Savory - Open Data User Group She is the chair of the open data user group. She is using a recipe analogy for the use of data in the creation of products - data is an ingredient, but you have to get the ingredients right. (There are a number of people in the audience who work with public sector data, and more people who work with open data, but most people know about this, but they don&amp;rsquo;t use it).</description>
     </item>

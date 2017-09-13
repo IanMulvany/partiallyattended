@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github Pages on My New Hugo Site</title>
-    <link>/categories/github-pages/</link>
-    <description>Recent content in Github Pages on My New Hugo Site</description>
+    <title>Github Pages on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/github-pages/</link>
+    <description>Recent content in Github Pages on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Nov 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/github-pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/github-pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Update on MathJax</title>
-      <link>/2011/11/20/update-on-mathjax/</link>
+      <link>https://partiallyattended.com/2011/11/20/update-on-mathjax/</link>
       <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/11/20/update-on-mathjax/</guid>
+      <guid>https://partiallyattended.com/2011/11/20/update-on-mathjax/</guid>
       <description>MathJax has come a long way since I last looked at it. There is now a CDN hosting the js files, which makes calling it really really easy. It&amp;rsquo;s being adopted by GiHub for their wiki engine.
 Using it with markdown can cause a few bumps, but there seems to be a bunch of ways around this:
  [mathjax in markdown][mim] using some mathjax configuration and custom css amazing implimentation in a notetaking app php, mathjax and wordpress  Writing a block of %%\LaTeX%% like this  $$ \begin{aligned} \dot{x} &amp;amp; = \sigma(y-x) \dot{y} &amp;amp; = \rho x - y - xz \dot{z} &amp;amp; = -\beta z + xy \end{aligned} $$</description>

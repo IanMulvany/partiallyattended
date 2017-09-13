@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peer on My New Hugo Site</title>
-    <link>/categories/peer/</link>
-    <description>Recent content in Peer on My New Hugo Site</description>
+    <title>Peer on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/peer/</link>
+    <description>Recent content in Peer on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/peer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/peer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Open Reviewing</title>
-      <link>/2008/07/14/open-reviewing/</link>
+      <link>https://partiallyattended.com/2008/07/14/open-reviewing/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/open-reviewing/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/open-reviewing/</guid>
       <description>Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a description here about theconsortium and a list ofparticipating journals. I have no doubt that this is the future of peerreview. At the moment the peer review system is horribly inefficient forpapers that get rejected. Rejection from a journal can occur because a paperis crap, but often it happens for many other reasons, because the journalhas already met it&#39;s pagequota, the journal is publishing a set of special issues on another topic,the editors of the journal are interested in shifting the focus of thejournal, the topic of the paper is slightly away from the main interests ofthe editorial board, the paper is good, but just gets edged out by a set ofbetter papers that come in.</description>
     </item>
     

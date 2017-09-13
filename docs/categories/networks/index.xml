@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Networks on My New Hugo Site</title>
-    <link>/categories/networks/</link>
-    <description>Recent content in Networks on My New Hugo Site</description>
+    <title>Networks on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/networks/</link>
+    <description>Recent content in Networks on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/networks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Futurepub10</title>
-      <link>/2017/03/16/future-pub-10/</link>
+      <link>https://partiallyattended.com/2017/03/16/future-pub-10/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/03/16/future-pub-10/</guid>
+      <guid>https://partiallyattended.com/2017/03/16/future-pub-10/</guid>
       <description>This week I attended futurepub10, I love these events, I&amp;rsquo;ve been to a bunch, and the format of short talks, and lots of time to catchup with people is just great.
 # A new Cartography of Collaboration - Daniel Hook, CEO Digital Science (work with Ian Calvert).
 Digital science have produced a report on collaboration, and this talk was covering one of chapters from that.

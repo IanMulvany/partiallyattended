@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Köln on My New Hugo Site</title>
-    <link>/categories/k%C3%B6ln/</link>
-    <description>Recent content in Köln on My New Hugo Site</description>
+    <title>Köln on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/k%C3%B6ln/</link>
+    <description>Recent content in Köln on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/k%C3%B6ln/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/k%C3%B6ln/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IC2s2 2017, conference preview</title>
-      <link>/2017/07/10/ic2s2-preview/</link>
+      <link>https://partiallyattended.com/2017/07/10/ic2s2-preview/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/10/ic2s2-preview/</guid>
+      <guid>https://partiallyattended.com/2017/07/10/ic2s2-preview/</guid>
       <description>I&amp;rsquo;m about to head to Köln for the International Conference on Computational Social Science (IC2S2) and I&amp;rsquo;m pretty excited for a whole bunch of reasons.
 I&amp;rsquo;ve been fascinated by network science, and the potential application of techniques from that science to the rest of research, for quite a while, but generally this has been an interest that I have entertained from a distance.
 I had the pleasure of attending an early instance of the NetSci conference series back in 2008, and even contributed to a working paper looking at the implications of the intersection between social data and network algorithms (Mining for Social Serendipity), however the academic track has not been my track at all, and with one thing or another this was a community that my career moved me away from for some time.</description>

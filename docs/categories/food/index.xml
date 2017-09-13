@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Food on My New Hugo Site</title>
-    <link>/categories/food/</link>
-    <description>Recent content in Food on My New Hugo Site</description>
+    <title>Food on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/food/</link>
+    <description>Recent content in Food on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Nov 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/food/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/food/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The new food.</title>
-      <link>/2012/11/11/cheese-not-jectpacks/</link>
+      <link>https://partiallyattended.com/2012/11/11/cheese-not-jectpacks/</link>
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/11/11/cheese-not-jectpacks/</guid>
+      <guid>https://partiallyattended.com/2012/11/11/cheese-not-jectpacks/</guid>
       <description>I got to spend a really fun forty minutes or so this morning with Pat Brown, down at the home of Lyrical Foods, the new project that he is involved in. They are aiming to replace the dairy and cattle industry by producing food from plant derived products that is indistinguisable from the original products. They have already created artisinal cheeses that are indistingushable from milk-based cheeses, and I understand that they are currently working on fake blood, that has the same response profile to cooking, as real blood does.</description>
     </item>
     
     <item>
       <title>Great places to hang out in Den Haag</title>
-      <link>/2008/07/14/great-places-to-hang-out-in-den-haag/</link>
+      <link>https://partiallyattended.com/2008/07/14/great-places-to-hang-out-in-den-haag/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/great-places-to-hang-out-in-den-haag/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/great-places-to-hang-out-in-den-haag/</guid>
       <description>I have a good friend who lives in Den Haag and passed on the followingadvice about places to go and eat if you have a small child. This is reallygreat advice so I thought I should post it here:
 Hi Victoria,
 Very sad to hear your friend has such a lousy experience in my country. AsIan can confirm, it&#39;s not a very easy place for &#39;outsiders&#39;... The upside isthat if you are not at fancy free and footloose as my friend Ian is- andwith a little boy that age she will have moderated her dancing ambitions-The Hague can be quite a nice place to hang out.</description>
@@ -33,10 +33,10 @@ Very sad to hear your friend has such a lousy experience in my country. AsIan ca
     
     <item>
       <title>open science</title>
-      <link>/2008/07/14/open-science/</link>
+      <link>https://partiallyattended.com/2008/07/14/open-science/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/open-science/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/open-science/</guid>
       <description>I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
 What is open science and what is the system? Well I am sure that there aremany viewpoints on this, so I am going to just put forward one here.
 At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipation in science. The credit is converted to grant money, thedollars keep the food on the plate.</description>
@@ -44,10 +44,10 @@ At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipa
     
     <item>
       <title>restaurant BAYOU Berlin</title>
-      <link>/2008/07/14/restaurant-bayou-berlin/</link>
+      <link>https://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/restaurant-bayou-berlin/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</guid>
       <description>I got the email below a few days ago:
 Hello to you all,Please forgive the bulk email! We hope all is well with you.We will be opening our new restaurant on December 1st. Please visit our newwebsite at www.bayou-berlin.com You are able to book hotel reservations onour site using our corporate discount rate. We hope to see you sometimesoon,All the best,Steve and Brandon
 Earlier this year I was on holiday in Nerja in the south of Spain.</description>

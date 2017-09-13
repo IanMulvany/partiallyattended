@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spain on My New Hugo Site</title>
-    <link>/categories/spain/</link>
-    <description>Recent content in Spain on My New Hugo Site</description>
+    <title>Spain on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/spain/</link>
+    <description>Recent content in Spain on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Feb 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/spain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/spain/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Climbing outlook for 2015</title>
-      <link>/2015/02/11/climbing-update-2015/</link>
+      <link>https://partiallyattended.com/2015/02/11/climbing-update-2015/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/02/11/climbing-update-2015/</guid>
+      <guid>https://partiallyattended.com/2015/02/11/climbing-update-2015/</guid>
       <description>Last year I hit on the best way to set climbing goals (this was after many years of failing to hit my goals). The best way to do it was to set very short term goals, not ones for the end of the year, but rather quarter by quarter, and modify and update those goals as I went. In addition, I found that focussing not on outcomes, but on process, also helped a lot.</description>
     </item>
     

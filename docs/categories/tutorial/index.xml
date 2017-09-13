@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial on My New Hugo Site</title>
-    <link>/categories/tutorial/</link>
-    <description>Recent content in Tutorial on My New Hugo Site</description>
+    <title>Tutorial on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Nov 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
-      <link>/2013/11/19/osx-mavericks-vagrant-librarian/</link>
+      <link>https://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
+      <guid>https://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
       <description>I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I&amp;rsquo;m working on OSX Mavericks, and I want to get as clean an install as possible. For the most part I am also using the fish shell. This is what I&amp;rsquo;ve just run through over the last 20 minutes.
  Install command line tools from the terminal
 $ xcode-select --install  Next we are going to install homebrew, with homebrew we will install rvm and with rvm we will install ruby.</description>
@@ -24,10 +24,10 @@ $ xcode-select --install  Next we are going to install homebrew, with homebrew w
     
     <item>
       <title>pythonic is a way of thinking</title>
-      <link>/2008/07/14/pythonic-is-a-way-of-thinking/</link>
+      <link>https://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/pythonic-is-a-way-of-thinking/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</guid>
       <description> Thistutorial delves into pythonic ways of coding. I&#39;m learning from it.
 tags: python, hoto, tutorial
  </description>

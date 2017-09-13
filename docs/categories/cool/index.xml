@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cool on My New Hugo Site</title>
-    <link>/categories/cool/</link>
-    <description>Recent content in Cool on My New Hugo Site</description>
+    <title>Cool on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/cool/</link>
+    <description>Recent content in Cool on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Sep 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/cool/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/cool/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>science scraping with YQL</title>
-      <link>/2010/09/06/science-scraping-with-yql/</link>
+      <link>https://partiallyattended.com/2010/09/06/science-scraping-with-yql/</link>
       <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>/2010/09/06/science-scraping-with-yql/</guid>
+      <guid>https://partiallyattended.com/2010/09/06/science-scraping-with-yql/</guid>
       <description>Last Saturday at Science Online London I gave a quick tutorial on YQL, and how it might be used to mash up scientific data sets. Below I list some of the sample queries that I was playing with. Before you get started with the console have a look through the documentation. I got a lot of milage out of the part about filters and joins. The blog post by Paul Hogan on using YQL for library maships was also very helpful.</description>
     </item>
     
     <item>
       <title>An idea for an interface for picture search</title>
-      <link>/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+      <link>https://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
       <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
     </item>
     
     <item>
       <title>BarCamp Cambridge, ARM microcontroler</title>
-      <link>/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
       <description>ARM microcontroler dev guy.
 hard to use these processors, whanted to make something like this availableto normal peoplewant internet bluetooth connected devices
 so they built something
@@ -46,10 +46,10 @@ the other cool thing is that there is a compiler on a websiteso you can talk abo
     
     <item>
       <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
       <description>what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
@@ -63,10 +63,10 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     
     <item>
       <title>Tips for switching from Windows to Mac</title>
-      <link>/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
+      <link>https://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
       <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
 -- Where is the right mouse button?
 This is the biggest obvious first difference.</description>
@@ -74,29 +74,29 @@ This is the biggest obvious first difference.</description>
     
     <item>
       <title>comment on climbing goals</title>
-      <link>/2008/07/14/comment-on-climbing-goals/</link>
+      <link>https://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/comment-on-climbing-goals/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</guid>
       <description>I find that having a cool trip planned every now and again is key forkeeping me motivated. I&#39;ve been doing a lot of job and country hopping overthe past 10 years, and this has had a signifigant detrimental impact on theamount of climbing that I could do, but hey, I&#39;m doing a job that I love,and those are the rolls we choose to take.
 One thing that has kept me motivated to get of my arse and actually try abit harder when I am down in the gym is having a few cool trips planned inthe year.</description>
     </item>
     
     <item>
       <title>friends of mine of TV</title>
-      <link>/2008/07/14/friends-of-mine-of-tv/</link>
+      <link>https://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/friends-of-mine-of-tv/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
       <description>A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ais for the first couple of years,but it is looking like things are really working out for her now. She wasrecently featured on TV in Ireland, and she has posted a link to the clipfrom her blog. For a really inspirational view on managing business withchildcare have a loot at the vid:</description>
     </item>
     
     <item>
       <title>live blogging from BarCamp Cambridge,</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
       <description> I am at Bar Camp Cambridge,
 We have had the three word introductions and are just running through themorning talks now. It&#39;s pretty cool.
 The coffee is good, and cookies are great.
@@ -106,10 +106,10 @@ Let&#39;s see how the day goes.
     
     <item>
       <title>live blogging from BarCamp Cambridge, Laura James</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
       <description>Laura JamesAlert Me.Com
 might get too corporate.
 trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping

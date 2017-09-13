@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amazing Times on My New Hugo Site</title>
-    <link>/categories/amazing-times/</link>
-    <description>Recent content in Amazing Times on My New Hugo Site</description>
+    <title>Amazing Times on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/amazing-times/</link>
+    <description>Recent content in Amazing Times on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jun 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/amazing-times/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/amazing-times/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Goodbye eLife!</title>
-      <link>/2016/06/15/goodbye-elife/</link>
+      <link>https://partiallyattended.com/2016/06/15/goodbye-elife/</link>
       <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/06/15/goodbye-elife/</guid>
+      <guid>https://partiallyattended.com/2016/06/15/goodbye-elife/</guid>
       <description># Goodbye eLife!
 So after nearly four and a half years I am moving on from eLife. I&amp;rsquo;ve had an amazing time, worked with some amazing people, and we have gotten a few really nice things done.
 First off, we are hiring a replacement for my role, this is an amazing opportunity to effect real change in scholarly publishing. eLife has just announced follow on funding of £25M to sustain us through to 2022.</description>

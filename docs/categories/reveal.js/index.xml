@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reveal.Js on My New Hugo Site</title>
-    <link>/categories/reveal.js/</link>
-    <description>Recent content in Reveal.Js on My New Hugo Site</description>
+    <title>Reveal.Js on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/reveal.js/</link>
+    <description>Recent content in Reveal.Js on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Aug 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/reveal.js/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/reveal.js/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Some pittfalls in using iPython to generate talk slides</title>
-      <link>/2014/08/11/pitfalls-of-ipython-for-talk-slides/</link>
+      <link>https://partiallyattended.com/2014/08/11/pitfalls-of-ipython-for-talk-slides/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/2014/08/11/pitfalls-of-ipython-for-talk-slides/</guid>
+      <guid>https://partiallyattended.com/2014/08/11/pitfalls-of-ipython-for-talk-slides/</guid>
       <description>Yesterday I gave a talk using iPython notebook to generate the talk slides. You can get the notebook on github, and you can see a live version of the slides.
 It succeeded in generating an artefact that was somewhat literate, in that the code and documentation are nicely woven together, so anyone who has the time can get to exactly the same point that I got to, with this repo, however there were also a couple of problems that I ran into that make me feel that this is not yet ready for mainstream use, specifically:</description>
     </item>

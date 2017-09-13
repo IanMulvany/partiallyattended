@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Career on My New Hugo Site</title>
-    <link>/categories/career/</link>
-    <description>Recent content in Career on My New Hugo Site</description>
+    <title>Career on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/career/</link>
+    <description>Recent content in Career on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 May 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/career/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/career/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Leaving Mendeley</title>
-      <link>/2012/05/05/leaving-mendeley/</link>
+      <link>https://partiallyattended.com/2012/05/05/leaving-mendeley/</link>
       <pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/05/05/leaving-mendeley/</guid>
+      <guid>https://partiallyattended.com/2012/05/05/leaving-mendeley/</guid>
       <description>I&amp;rsquo;m starting to draft this post on the train on the commute to my new job at eLife. After almost two years I&amp;rsquo;ve taken the decision to move on from Mendeley. They were without doubt the two best and most challenging years of my career to date. Working in a start up is an amazing, frustrating, enlightening, energising and rewarding experience.
 No single post can do justice to that time, and each time in the past weeks that I have drafted this post in my head it has had a slightly different timbre, so take this for what it is, a reflection in a moment.</description>
     </item>

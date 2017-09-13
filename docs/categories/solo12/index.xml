@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solo12 on My New Hugo Site</title>
-    <link>/categories/solo12/</link>
-    <description>Recent content in Solo12 on My New Hugo Site</description>
+    <title>Solo12 on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/solo12/</link>
+    <description>Recent content in Solo12 on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Oct 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/solo12/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/solo12/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The journal is dead, long live the journal - abstract.</title>
-      <link>/2012/10/28/jidlltj-abstract/</link>
+      <link>https://partiallyattended.com/2012/10/28/jidlltj-abstract/</link>
       <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/10/28/jidlltj-abstract/</guid>
+      <guid>https://partiallyattended.com/2012/10/28/jidlltj-abstract/</guid>
       <description>With Anna Sharman and Bob O&amp;rsquo;Hara, I&amp;rsquo;ll be hosting a session on the future of academic journals at SpotOnLondon (formerly ScienceOnline London). You can check out the session details here. They have posted the short version of the abstract on the site, I&amp;rsquo;m posting the longer version here, and you can also see our google planning document. We will update with details on the panel very soon.
 Abstract Today&amp;rsquo;s online articles and journals remain mostly an online mirror of print products.</description>
     </item>

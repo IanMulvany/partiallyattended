@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Google on My New Hugo Site</title>
-    <link>/categories/google/</link>
-    <description>Recent content in Google on My New Hugo Site</description>
+    <title>Google on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/google/</link>
+    <description>Recent content in Google on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/google/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/google/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>academic ghost towns, Google scholar and Mendeley</title>
-      <link>/2012/07/17/academic-ghost-towns/</link>
+      <link>https://partiallyattended.com/2012/07/17/academic-ghost-towns/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/07/17/academic-ghost-towns/</guid>
+      <guid>https://partiallyattended.com/2012/07/17/academic-ghost-towns/</guid>
       <description>I&amp;rsquo;m on a mission to clear out my instapapper backlocg, so I&amp;rsquo;m going to be blogging olds rather than news. There was a nice piece in the Atlantic last month talking about how Google could provide a better social experience by activating it&amp;rsquo;s latent networks, rather than mimicking facebook.
  But think about Scholar as a latent social network. Each paper contains its own social network that Google already crawls. Every bibliography is filled with other social networks.</description>
     </item>
     
     <item>
       <title>sharing documents with google apps for your domain</title>
-      <link>/2012/07/17/docs-and-apps-for-your-domain/</link>
+      <link>https://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/07/17/docs-and-apps-for-your-domain/</guid>
+      <guid>https://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</guid>
       <description>I&amp;rsquo;ve just rolled out google apps for your domain for eLife. At about the same time google rolled out gdrive. We were having difficulty figuring out how to share documents across the domain without having to invite people individually to the document. The document sharing options provide the ability to make documents findable by other members of the domain, but when we tried to search for these documents, we were not finding them.</description>
     </item>
     
     <item>
       <title>mini-review of &#34;Measuring the User Experience on a Large Scale&#34;</title>
-      <link>/2011/03/29/measuring_ux/</link>
+      <link>https://partiallyattended.com/2011/03/29/measuring_ux/</link>
       <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/03/29/measuring_ux/</guid>
+      <guid>https://partiallyattended.com/2011/03/29/measuring_ux/</guid>
       <description>Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications by Kerry Rodden, Hilary Hutchinson, and Xin Fu
 Rodden, Hutchinson and Fu describe a framework for measuring the user experience of web apps through mining server logs. Since they are based at Google one assumes that the framework that they are describing has been battle tested.
 They focus on metrics that measure user centric aspects of the online experience, in contrast to business centric (such as PULSE metrics: Page-views, Uptime, Latency, Seven day actives, Earnings).</description>
@@ -43,10 +43,10 @@ They focus on metrics that measure user centric aspects of the online experience
     
     <item>
       <title>Notes from the Google Wave London roadshow</title>
-      <link>/2009/10/31/notes-from-the-google-wave-london-roadshow/</link>
+      <link>https://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</link>
       <pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>/2009/10/31/notes-from-the-google-wave-london-roadshow/</guid>
+      <guid>https://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</guid>
       <description>Gtug blog post
 On Monday I was at the London Google wave roadshow presented by Lars and Stephanie. The previous Friday I had helped to run a hack day for science applications in wave, so with that experience fresh in my mind I was particularly interested to see what they would say about a few particular topics.
 We had a few problems in the hack day which could be summarised as follows:</description>
@@ -54,10 +54,10 @@ We had a few problems in the hack day which could be summarised as follows:</des
     
     <item>
       <title>Moving over to the googleverse</title>
-      <link>/2009/04/13/moving-over-to-the-googleverse/</link>
+      <link>https://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/2009/04/13/moving-over-to-the-googleverse/</guid>
+      <guid>https://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</guid>
       <description>Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal domain to google app engine with email being managed by google apps for my domain. http://www.mulvany.net is now a google app engine site. At the moment there is not much content there, but the google app engine tool allows me to run a perfect cop of my site off line, and to edit locally and then push live.</description>
     </item>
     

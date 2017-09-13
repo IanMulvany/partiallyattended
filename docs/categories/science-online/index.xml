@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Science Online on My New Hugo Site</title>
-    <link>/categories/science-online/</link>
-    <description>Recent content in Science Online on My New Hugo Site</description>
+    <title>Science Online on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/science-online/</link>
+    <description>Recent content in Science Online on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Nov 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/science-online/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/science-online/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spoton13</title>
-      <link>/2013/11/10/solo13-friday/</link>
+      <link>https://partiallyattended.com/2013/11/10/solo13-friday/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>/2013/11/10/solo13-friday/</guid>
+      <guid>https://partiallyattended.com/2013/11/10/solo13-friday/</guid>
       <description>I managed to squeeze in a few hours on Friday attending the spoton conference in London. I&amp;rsquo;ve been at each one since 2008, and have had the good fortune to present something at most of them. This time I had been asked to sit in on a panel to talk about elife&amp;rsquo;s policy around media relations, but as I was flying in that morning from an editorial board meeting held in Washington it was not clear to me that I would make it in time, so the fantastic @sciencescoops (Jennifer Mitchell) represented for eLife in my place.</description>
     </item>
     
     <item>
       <title>SOLO11, day1, morning sessions.</title>
-      <link>/2011/09/02/solo11-day1-morning-sessions/</link>
+      <link>https://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</link>
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/09/02/solo11-day1-morning-sessions/</guid>
+      <guid>https://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</guid>
       <description>Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points that arose during the discussion:
  discussions with the public needs to happen where the public is being half assed about engaging the public discourse around papers, and then hiding behind peer review when you run into criticism is really bad, as for example what happened with the arsenic story nasa and science the public needs to be educated that peer review is not binary peer review comments should be made public (not everyone agrees) where we have representations of papers we should look to link to conversations about those papers (trackbacks and so forth)  There is a very interesting comment in the Q&amp;amp;A from [Martin Fenner][mf] about peer review in clinical medicine.</description>
     </item>
     
     <item>
       <title>Talkfest, science and community</title>
-      <link>/2011/09/01/solo11-talkfest/</link>
+      <link>https://partiallyattended.com/2011/09/01/solo11-talkfest/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/09/01/solo11-talkfest/</guid>
+      <guid>https://partiallyattended.com/2011/09/01/solo11-talkfest/</guid>
       <description>Introduction So this is a short TalkFest event looking at the public, communities and online science. I&amp;rsquo;m sure there will be plenty of online discussion around this topic, below are some very rough notes that I took during the event. It was very enjoyable.
 The people on the panel are D. Amy Sanders from the Welcome Trust, Rob Simpson, (a.k.a OrbitingFrog), Linda Davies and Stephen Cury. The panel was convened by Alice Bell</description>
     </item>
     
     <item>
       <title>Connecting Scientific Resources, Slides</title>
-      <link>/2010/09/07/solo10-presentation-slides/</link>
+      <link>https://partiallyattended.com/2010/09/07/solo10-presentation-slides/</link>
       <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>/2010/09/07/solo10-presentation-slides/</guid>
+      <guid>https://partiallyattended.com/2010/09/07/solo10-presentation-slides/</guid>
       <description> On Friday I hosted a session at Science Online London. Michael Habibi, Richard Wallis and Chris Taylor all gave great presentations. Michael&amp;rsquo;s presentation and Richards&amp;rsquo;s presentation are both online, and when the organisers post the other talks I&amp;rsquo;ll link to Chris&amp;rsquo;s presentation too.
 Michael, taking us through his talk Richard has a rapt audience Chris, getting passionate </description>
     </item>
     
     <item>
       <title>Connecting Scientific Resources</title>
-      <link>/2010/08/27/connecting-scientific-data/</link>
+      <link>https://partiallyattended.com/2010/08/27/connecting-scientific-data/</link>
       <pubDate>Fri, 27 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>/2010/08/27/connecting-scientific-data/</guid>
+      <guid>https://partiallyattended.com/2010/08/27/connecting-scientific-data/</guid>
       <description>I&amp;rsquo;m going to be hosting a session at science online London next weekend, I&amp;rsquo;m excited. I&amp;rsquo;ve been interested in the issues of connecting scientific data for a long time. In the last six months I&amp;rsquo;ve become particularly excited about the potential of web based tool like Yahoo Query Language. I was hoping to talk a little about that, but I&amp;rsquo;ve been lucky to get some amazing people to come and share their experiences about linking data, so I&amp;rsquo;m going to cede the floor to them.</description>
     </item>
     

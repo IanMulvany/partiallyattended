@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ebi on My New Hugo Site</title>
-    <link>/categories/ebi/</link>
-    <description>Recent content in Ebi on My New Hugo Site</description>
+    <title>Ebi on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/ebi/</link>
+    <description>Recent content in Ebi on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Oct 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/ebi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/ebi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data literature integration workshop.</title>
-      <link>/2012/10/11/literature-data-integration/</link>
+      <link>https://partiallyattended.com/2012/10/11/literature-data-integration/</link>
       <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/10/11/literature-data-integration/</guid>
+      <guid>https://partiallyattended.com/2012/10/11/literature-data-integration/</guid>
       <description>Literature Data integration workshop 2012-10-10 There are many people attending today. I&amp;rsquo;m not sure whether the attendee list will be released. I&amp;rsquo;ve taken notes, but rather rapidly. I may have ended up mis appropriating comments, missed comments, or inserted comments that didn&amp;rsquo;t happen, so take the below with the appropriate health warnings. I still need to check on the links, and pull together a link list at the bottom, but I wanted to get the write up out while it was still in front of me.</description>
     </item>
     

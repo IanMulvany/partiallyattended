@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peer Review on My New Hugo Site</title>
-    <link>/categories/peer-review/</link>
-    <description>Recent content in Peer Review on My New Hugo Site</description>
+    <title>Peer Review on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/peer-review/</link>
+    <description>Recent content in Peer Review on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/peer-review/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/peer-review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A(peeling) Peer Review, a proposal.</title>
-      <link>/2015/05/17/peer-review-idea/</link>
+      <link>https://partiallyattended.com/2015/05/17/peer-review-idea/</link>
       <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/05/17/peer-review-idea/</guid>
+      <guid>https://partiallyattended.com/2015/05/17/peer-review-idea/</guid>
       <description>eLife&amp;rsquo;s peer review process is really good. One of the key attributes of this is that reviewers are not blind to one another, and they have to consult with one another. This largely removes the third reviewer problem. We also publish the decision letters and the author responses to the decision letter.
 Reviewers have the option of revealing themselves to authors. As with most review systms our reviewers know who the authors are.</description>
     </item>
     
     <item>
       <title>Some Thoughts on Peer Review and Altmetrics</title>
-      <link>/2012/06/18/some-thought-on-peerreview-and-altmetrics/</link>
+      <link>https://partiallyattended.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/06/18/some-thought-on-peerreview-and-altmetrics/</guid>
+      <guid>https://partiallyattended.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</guid>
       <description>The upcoming altmetrics meeting, and a submitted abstract by Kelli Barr prompted me to note down some of my own thoughts on peer review and altmetrics. I would love to make it over to the meeting, but with just a few days now before my first child is born, it ain&amp;rsquo;t gonna happen.
 I&amp;rsquo;ve not read Kelly&amp;rsquo;s paper, but after reading the abstract my take home message from it would be something along the lines of &amp;ldquo;don&amp;rsquo;t replace peer review with altmetrics because you will just replace one bias with another, and at least with peer review the bias is contained within the academic community&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Augmented Peer Review</title>
-      <link>/2012/06/17/proposal-on-peer-review/</link>
+      <link>https://partiallyattended.com/2012/06/17/proposal-on-peer-review/</link>
       <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/06/17/proposal-on-peer-review/</guid>
+      <guid>https://partiallyattended.com/2012/06/17/proposal-on-peer-review/</guid>
       <description>Last year I was asked to contribute to a special issue on the evolution of peer review. I got quite excited about doing this, but then realised that I really didn&amp;rsquo;t have the time to write a paper. I&amp;rsquo;m not a practicing academic, I build products, and while at Mendeley I really had far too much on my plate to find the time to write up a paper. However the topic does interest me, and I am a strong believer that web scale technologies can help with the scientific communication process though a large number of avenues.</description>
     </item>
     
     <item>
       <title>Megajournals</title>
-      <link>/2011/10/03/megajournals/</link>
+      <link>https://partiallyattended.com/2011/10/03/megajournals/</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/10/03/megajournals/</guid>
+      <guid>https://partiallyattended.com/2011/10/03/megajournals/</guid>
       <description>The idea of megajournals had not really formalised in my head before, but at the COASP meeting the talk was all about &amp;ldquo;Megajournals&amp;rdquo;. [PLoSOne][plosone] is the archetype for this kind of journal, and it had not really struck me before as a huge revolution in the publishing industry, but after listening to a couple of days worth of talks on the topic I&amp;rsquo;m convincible.
 Megajournals are so called because they are structured to be able to publish many more articles than has been the normal practice with traditional journals.</description>
     </item>
     
     <item>
       <title>SOLO11, day1, morning sessions.</title>
-      <link>/2011/09/02/solo11-day1-morning-sessions/</link>
+      <link>https://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</link>
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/09/02/solo11-day1-morning-sessions/</guid>
+      <guid>https://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</guid>
       <description>Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points that arose during the discussion:
  discussions with the public needs to happen where the public is being half assed about engaging the public discourse around papers, and then hiding behind peer review when you run into criticism is really bad, as for example what happened with the arsenic story nasa and science the public needs to be educated that peer review is not binary peer review comments should be made public (not everyone agrees) where we have representations of papers we should look to link to conversations about those papers (trackbacks and so forth)  There is a very interesting comment in the Q&amp;amp;A from [Martin Fenner][mf] about peer review in clinical medicine.</description>
     </item>
     
     <item>
       <title>Turning the Physics ArXiV into an Open Peer Review System.</title>
-      <link>/2011/01/04/arxiv.org-open-peer-review-proposal/</link>
+      <link>https://partiallyattended.com/2011/01/04/arxiv.org-open-peer-review-proposal/</link>
       <pubDate>Tue, 04 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/01/04/arxiv.org-open-peer-review-proposal/</guid>
+      <guid>https://partiallyattended.com/2011/01/04/arxiv.org-open-peer-review-proposal/</guid>
       <description>Axel Boldt posted an interesting short paper discussing how to turn the physics ArXiV into an open peer review system. It&amp;rsquo;s a short read, about three pages, but if you are familiar with the problems around peer review then you can just jump to part three of the paper which is a little under a page.
 The solution proposed is to create a new role of editor on the ArXiV, and allow anyone to propose their paper for review.</description>
     </item>
     
     <item>
       <title>Patents and Peer Review, kissing cousins?</title>
-      <link>/2008/07/14/patents-and-peer-review/</link>
+      <link>https://partiallyattended.com/2008/07/14/patents-and-peer-review/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/patents-and-peer-review/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/patents-and-peer-review/</guid>
       <description>Below follows a long comment that I posted to an article on O&#39;Reilly Radar about patents.
 The original blog post is here
 There is an interesting compliment to the patent system in the domain of assigning credit to ideas, which is the academic peer-review system.

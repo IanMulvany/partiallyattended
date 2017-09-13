@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mulvany.Net on My New Hugo Site</title>
-    <link>/categories/mulvany.net/</link>
-    <description>Recent content in Mulvany.Net on My New Hugo Site</description>
+    <title>Mulvany.Net on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/mulvany.net/</link>
+    <description>Recent content in Mulvany.Net on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Apr 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/mulvany.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/mulvany.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Moving over to the googleverse</title>
-      <link>/2009/04/13/moving-over-to-the-googleverse/</link>
+      <link>https://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/2009/04/13/moving-over-to-the-googleverse/</guid>
+      <guid>https://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</guid>
       <description>Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal domain to google app engine with email being managed by google apps for my domain. http://www.mulvany.net is now a google app engine site. At the moment there is not much content there, but the google app engine tool allows me to run a perfect cop of my site off line, and to edit locally and then push live.</description>
     </item>
     

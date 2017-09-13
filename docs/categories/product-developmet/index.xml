@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Product Developmet on My New Hugo Site</title>
-    <link>/categories/product-developmet/</link>
-    <description>Recent content in Product Developmet on My New Hugo Site</description>
+    <title>Product Developmet on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/product-developmet/</link>
+    <description>Recent content in Product Developmet on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Oct 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/product-developmet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/product-developmet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mind the product 2012, notes.</title>
-      <link>/2012/10/03/mtpcon/</link>
+      <link>https://partiallyattended.com/2012/10/03/mtpcon/</link>
       <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/10/03/mtpcon/</guid>
+      <guid>https://partiallyattended.com/2012/10/03/mtpcon/</guid>
       <description>Last Friday I attended the amazing Mind the product conference in London. It was really inspirational. There were about 500 attendees, and having so many people with a concern for the same aspect of the product development process in one room led to a real buzz. The speakers were excellent, sadly I had to leave a little after lunch. The videos will be posted, keep an eye on the mind the product main site.</description>
     </item>
     

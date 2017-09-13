@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Barcamp on My New Hugo Site</title>
-    <link>/categories/barcamp/</link>
-    <description>Recent content in Barcamp on My New Hugo Site</description>
+    <title>Barcamp on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/barcamp/</link>
+    <description>Recent content in Barcamp on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/barcamp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/barcamp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
-      <link>/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</guid>
       <description>Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
 the idea was to have an open source human genome
 companies would have to do some work before they could make money off ofsequences.
@@ -26,10 +26,10 @@ there is enemble codeand there is the data</description>
     
     <item>
       <title>BarCamp Cambridge - James talking about HTML5</title>
-      <link>/2008/07/14/barcamp-cambridge---james-talking-about-html5/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge---james-talking-about-html5/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge---james-talking-about-html5/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge---james-talking-about-html5/</guid>
       <description>James is just an interested bysander on the HTML 5 mailing list, hey, it&#39;s abarcamp
 html5 is th enew verison of html
 applemozillaoperaanyone who joins the mailing list
@@ -42,10 +42,10 @@ lots of information is locked up in HTML, not XML, not SVGL</description>
     
     <item>
       <title>BarCamp Cambridge - teacking computers to understand text, Peter Corbett</title>
-      <link>/2008/07/14/barcamp-cambridge---teacking-computers-to-understand-text-peter-corbett/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge---teacking-computers-to-understand-text-peter-corbett/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge---teacking-computers-to-understand-text-peter-corbett/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge---teacking-computers-to-understand-text-peter-corbett/</guid>
       <description>a desk at the computer lab and at the chemistry lab.
 computationl lingustic chemistryauto-detect language in chemistry papers to try to recognics chemical andmarkup.
 suppliment the mark-up from publishers.
@@ -57,10 +57,10 @@ this is the core technology, you can do things like search for alkloids inyour p
     
     <item>
       <title>BarCamp Cambridge Jeff Fates, Drupal</title>
-      <link>/2008/07/14/barcamp-cambridge-jeff-fates-drupal/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-jeff-fates-drupal/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge-jeff-fates-drupal/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-jeff-fates-drupal/</guid>
       <description>OS CMS systems beat the crap out of the free ones for what you get for your money, including support.
 If you have a budget then you can get in touch with the authors of the OS systems easily
 the only thing they sometimes don&#39;t win on is polish
@@ -70,10 +70,10 @@ Drupal is free, It upgrades about twice&amp;#160; a year, one major one minor</d
     
     <item>
       <title>BarCamp Cambridge, ARM microcontroler</title>
-      <link>/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
       <description>ARM microcontroler dev guy.
 hard to use these processors, whanted to make something like this availableto normal peoplewant internet bluetooth connected devices
 so they built something
@@ -85,10 +85,10 @@ the other cool thing is that there is a compiler on a websiteso you can talk abo
     
     <item>
       <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
       <description>what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
@@ -102,10 +102,10 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     
     <item>
       <title>live blogging from BarCamp Cambridge,</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
       <description> I am at Bar Camp Cambridge,
 We have had the three word introductions and are just running through themorning talks now. It&#39;s pretty cool.
 The coffee is good, and cookies are great.
@@ -115,10 +115,10 @@ Let&#39;s see how the day goes.
     
     <item>
       <title>live blogging from BarCamp Cambridge, Laura James</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
       <description>Laura JamesAlert Me.Com
 might get too corporate.
 trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
@@ -128,10 +128,10 @@ using a mesh network that connect to a hub using a &#39;zigby&#39;output can be 
     
     <item>
       <title>live blogging from BarCamp Cambridge, Matt&#39;s discussion</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</guid>
       <description>  discussionQ Gridle is raised along with RDFa if you don&#39;t like the way that the xslt is workin you can make your own.however most domain exprts can&#39;t write xslt
 if you just let the domain experts create microformats you may leave theontologicaldefinitions to people who are creating the xslt
 AG says that there may be two different problems, address to addressbookfrom page vs data harvesting
@@ -140,10 +140,10 @@ AG says that there may be two different problems, address to addressbookfrom pag
     
     <item>
       <title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
       <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
 we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
 Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding

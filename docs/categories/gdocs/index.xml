@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gdocs on My New Hugo Site</title>
-    <link>/categories/gdocs/</link>
-    <description>Recent content in Gdocs on My New Hugo Site</description>
+    <title>Gdocs on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/gdocs/</link>
+    <description>Recent content in Gdocs on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/gdocs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/gdocs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>sharing documents with google apps for your domain</title>
-      <link>/2012/07/17/docs-and-apps-for-your-domain/</link>
+      <link>https://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/07/17/docs-and-apps-for-your-domain/</guid>
+      <guid>https://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</guid>
       <description>I&amp;rsquo;ve just rolled out google apps for your domain for eLife. At about the same time google rolled out gdrive. We were having difficulty figuring out how to share documents across the domain without having to invite people individually to the document. The document sharing options provide the ability to make documents findable by other members of the domain, but when we tried to search for these documents, we were not finding them.</description>
     </item>
     

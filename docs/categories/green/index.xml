@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Green on My New Hugo Site</title>
-    <link>/categories/green/</link>
-    <description>Recent content in Green on My New Hugo Site</description>
+    <title>Green on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/green/</link>
+    <description>Recent content in Green on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Oct 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/green/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/green/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Going for gold, open access debate.</title>
-      <link>/2012/10/02/icoa-going-for-gold/</link>
+      <link>https://partiallyattended.com/2012/10/02/icoa-going-for-gold/</link>
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>/2012/10/02/icoa-going-for-gold/</guid>
+      <guid>https://partiallyattended.com/2012/10/02/icoa-going-for-gold/</guid>
       <description>Update, audio of the meeting is now available on figshare
 Last Thursday I attended the SciCommForum debate &amp;ldquo;Open access: going for gold?&amp;rdquo; held at Imperial College. Below are my notes from the event. The notes are fairly raw, and not comprehensive.
 The debate is going to be looking at open access in the context of the RCUK policy, it is being hosted by Richard Van Noorden (RVN), Mark Thorley (MT) from RCUK, and Stephen Curry (SC).</description>

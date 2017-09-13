@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on My New Hugo Site</title>
-    <link>/categories/blog/</link>
-    <description>Recent content in Blog on My New Hugo Site</description>
+    <title>Blog on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/blog/</link>
+    <description>Recent content in Blog on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Apr 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Directed Graph blog setup.</title>
-      <link>/2009/04/13/directed-graph-blog-setup/</link>
+      <link>https://partiallyattended.com/2009/04/13/directed-graph-blog-setup/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/2009/04/13/directed-graph-blog-setup/</guid>
+      <guid>https://partiallyattended.com/2009/04/13/directed-graph-blog-setup/</guid>
       <description>I&#39;ve decided to use syntaxhiligher2 to do syntax hi-lighting and a call to Yourequations.com for rendering latex on the blog. Bot Cyborg has a good description of how to get this to work on blogger.
 The main advantage of this approach is that the pseudo code is written in the blog posts in plain encased in a pre statement, and the equations are also just vanilla latex in a pre statement.</description>
     </item>
     
     <item>
       <title>Moving over to the googleverse</title>
-      <link>/2009/04/13/moving-over-to-the-googleverse/</link>
+      <link>https://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/2009/04/13/moving-over-to-the-googleverse/</guid>
+      <guid>https://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</guid>
       <description>Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal domain to google app engine with email being managed by google apps for my domain. http://www.mulvany.net is now a google app engine site. At the moment there is not much content there, but the google app engine tool allows me to run a perfect cop of my site off line, and to edit locally and then push live.</description>
     </item>
     
     <item>
       <title>Are Academics Prostitutes</title>
-      <link>/2008/07/14/are-academics-prostitutes/</link>
+      <link>https://partiallyattended.com/2008/07/14/are-academics-prostitutes/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/are-academics-prostitutes/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/are-academics-prostitutes/</guid>
       <description>A blog post from AcademicProductivity trundled across my reader this morning in which the blogpoints to a paper in which the author claims that academicsare prostitutes because they modify their papers in response to thedemands of reviewers. I got a sense frisson when I read the blog post andsome of the text that is quoted there from the paper, but then I read thecomments to the blog post, and they are very good at, if you like, pointingout that the paper is a bit weak in it&#39;s premise.</description>
     </item>
     
     <item>
       <title>BarCamp Cambridge Jeff Fates, Drupal</title>
-      <link>/2008/07/14/barcamp-cambridge-jeff-fates-drupal/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-jeff-fates-drupal/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge-jeff-fates-drupal/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-jeff-fates-drupal/</guid>
       <description>OS CMS systems beat the crap out of the free ones for what you get for your money, including support.
 If you have a budget then you can get in touch with the authors of the OS systems easily
 the only thing they sometimes don&#39;t win on is polish
@@ -54,10 +54,10 @@ Drupal is free, It upgrades about twice&amp;#160; a year, one major one minor</d
     
     <item>
       <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+      <link>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
       <description>what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
@@ -71,19 +71,19 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     
     <item>
       <title>Open Reviewing</title>
-      <link>/2008/07/14/open-reviewing/</link>
+      <link>https://partiallyattended.com/2008/07/14/open-reviewing/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/open-reviewing/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/open-reviewing/</guid>
       <description>Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a description here about theconsortium and a list ofparticipating journals. I have no doubt that this is the future of peerreview. At the moment the peer review system is horribly inefficient forpapers that get rejected. Rejection from a journal can occur because a paperis crap, but often it happens for many other reasons, because the journalhas already met it&#39;s pagequota, the journal is publishing a set of special issues on another topic,the editors of the journal are interested in shifting the focus of thejournal, the topic of the paper is slightly away from the main interests ofthe editorial board, the paper is good, but just gets edged out by a set ofbetter papers that come in.</description>
     </item>
     
     <item>
       <title>Patents and Peer Review, kissing cousins?</title>
-      <link>/2008/07/14/patents-and-peer-review/</link>
+      <link>https://partiallyattended.com/2008/07/14/patents-and-peer-review/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/patents-and-peer-review/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/patents-and-peer-review/</guid>
       <description>Below follows a long comment that I posted to an article on O&#39;Reilly Radar about patents.
 The original blog post is here
 There is an interesting compliment to the patent system in the domain of assigning credit to ideas, which is the academic peer-review system.
@@ -92,10 +92,10 @@ The inventor of the idea in the case of academia is the author. The equivalent t
     
     <item>
       <title>The Laboratory Website and Video Awards</title>
-      <link>/2008/07/14/the-laboratory-website-and-video-awards/</link>
+      <link>https://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/the-laboratory-website-and-video-awards/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</guid>
       <description> Attila Csordas sent along links about these awards, looks nice,
 http://www.the-scientist.com/lawva/
 and a blog link about them:
@@ -107,39 +107,39 @@ tags: science
     
     <item>
       <title>and while we are at it here are the references from that article</title>
-      <link>/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
+      <link>https://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
       <description>References
  - &amp;quot;Python Objects&amp;quot;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &amp;quot;How to think like a Pythonista&amp;quot;, Mark Hammond, http://python.net/crew/mwh/hacks/objectthink.html - &amp;quot;Python main() functions&amp;quot;, Guido van Rossum, http://www.artima.com/weblogs/viewpost.jsp?thread=4829 - &amp;quot;Python Idioms and Efficiency&amp;quot;, http://jaynes.colorado.edu/PythonIdioms.html - &amp;quot;Python track: python idioms&amp;quot;, http://www.cs.caltech.edu/courses/cs11/material/python/misc/python_idioms.html - &amp;quot;Be Pythonic&amp;quot;, Shalabh Chaturvedi, http://shalabh.infogami.com/Be_Pythonic2 - &amp;quot;Python Is Not Java&amp;quot;, Phillip J. Eby, http://dirtsimple.org/2004/12/python-is-not-java.html - &amp;quot;What is Pythonic?&amp;quot;, Martijn Faassen, http://faassen.n--tree.net/blog/view/weblog/2005/08/06/0 - &amp;quot;Sorting Mini-HOWTO&amp;quot;, Andrew Dalke, http://wiki.python.org/moin/HowTo/Sorting - &amp;quot;Python Idioms&amp;quot;, http://www.</description>
     </item>
     
     <item>
       <title>friends of mine of TV</title>
-      <link>/2008/07/14/friends-of-mine-of-tv/</link>
+      <link>https://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/friends-of-mine-of-tv/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
       <description>A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ais for the first couple of years,but it is looking like things are really working out for her now. She wasrecently featured on TV in Ireland, and she has posted a link to the clipfrom her blog. For a really inspirational view on managing business withchildcare have a loot at the vid:</description>
     </item>
     
     <item>
       <title>getting started</title>
-      <link>/2008/07/14/getting-started/</link>
+      <link>https://partiallyattended.com/2008/07/14/getting-started/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/getting-started/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/getting-started/</guid>
       <description> Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
  </description>
     </item>
     
     <item>
       <title>live blogging from BarCamp Cambridge,</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
       <description> I am at Bar Camp Cambridge,
 We have had the three word introductions and are just running through themorning talks now. It&#39;s pretty cool.
 The coffee is good, and cookies are great.
@@ -149,10 +149,10 @@ Let&#39;s see how the day goes.
     
     <item>
       <title>live blogging from BarCamp Cambridge, Laura James</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
       <description>Laura JamesAlert Me.Com
 might get too corporate.
 trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
@@ -162,10 +162,10 @@ using a mesh network that connect to a hub using a &#39;zigby&#39;output can be 
     
     <item>
       <title>live blogging from BarCamp Cambridge, Matt&#39;s discussion</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</guid>
       <description>  discussionQ Gridle is raised along with RDFa if you don&#39;t like the way that the xslt is workin you can make your own.however most domain exprts can&#39;t write xslt
 if you just let the domain experts create microformats you may leave theontologicaldefinitions to people who are creating the xslt
 AG says that there may be two different problems, address to addressbookfrom page vs data harvesting
@@ -174,10 +174,10 @@ AG says that there may be two different problems, address to addressbookfrom pag
     
     <item>
       <title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
-      <link>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
+      <link>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
       <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
 we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
 Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding
@@ -186,10 +186,10 @@ should consider semantic web, rather than Semantic Web,</description>
     
     <item>
       <title>open science</title>
-      <link>/2008/07/14/open-science/</link>
+      <link>https://partiallyattended.com/2008/07/14/open-science/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/open-science/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/open-science/</guid>
       <description>I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
 What is open science and what is the system? Well I am sure that there aremany viewpoints on this, so I am going to just put forward one here.
 At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipation in science. The credit is converted to grant money, thedollars keep the food on the plate.</description>
@@ -197,10 +197,10 @@ At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipa
     
     <item>
       <title>spreading of meme&#39;s behavior driven transmission of an idea</title>
-      <link>/2008/07/14/spreading-of-memes-behavior-driven-transmission-of-an-idea/</link>
+      <link>https://partiallyattended.com/2008/07/14/spreading-of-memes-behavior-driven-transmission-of-an-idea/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/spreading-of-memes-behavior-driven-transmission-of-an-idea/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/spreading-of-memes-behavior-driven-transmission-of-an-idea/</guid>
       <description> Thistech blog article is a charming description of how human behaviour seemsto have spread the name of a particular wireless node across america. Ithink it is a lovely example of the spread of an idea driven by simpleself-interest.
  </description>
     </item>

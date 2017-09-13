@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational Social Science on My New Hugo Site</title>
-    <link>/categories/computational-social-science/</link>
-    <description>Recent content in Computational Social Science on My New Hugo Site</description>
+    <title>Computational Social Science on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/computational-social-science/</link>
+    <description>Recent content in Computational Social Science on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/computational-social-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/computational-social-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I&#39;m hiring a product manager</title>
-      <link>/2017/07/20/im-hiring/</link>
+      <link>https://partiallyattended.com/2017/07/20/im-hiring/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/20/im-hiring/</guid>
+      <guid>https://partiallyattended.com/2017/07/20/im-hiring/</guid>
       <description>So, I&amp;rsquo;m hiring a product manager. We are working on developing new green field products. We have a small, really fun team, and we are using a lot of lean tools to try to get to product-market fit with relativly low risk.
 To apply submit a CV using our [hiring portal](https://uk.sagepub.com/en-gb/eur/sage-vacancies].
 Here are some more details about the role:
@@ -25,20 +25,20 @@ What we are doing SAGE is innovating around how we might support social science 
     
     <item>
       <title>ic2s2 Thursday morning keynotes</title>
-      <link>/2017/07/13/ic2s2-thursday-morning-keynotes/</link>
+      <link>https://partiallyattended.com/2017/07/13/ic2s2-thursday-morning-keynotes/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/13/ic2s2-thursday-morning-keynotes/</guid>
+      <guid>https://partiallyattended.com/2017/07/13/ic2s2-thursday-morning-keynotes/</guid>
       <description>ic2s2 Thursday morning keynotes Daniel Romero - Examining the Effects of Exogenous Shocks on Social Networks and Collaborative Crowds We are looking at the dynamics of social networks. The dynamics of networks are becoming increasingly well understood, but the question here is what happens to a network when there is a big external shock to the system?
 One example that they looked at came from a hedge fund, the data included full IM communication amongst about 182 people, about 22M items.</description>
     </item>
     
     <item>
       <title>IC2s2 Wikipedia track, Wednesday</title>
-      <link>/2017/07/12/ic2s2_wikipedia_track/</link>
+      <link>https://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/12/ic2s2_wikipedia_track/</guid>
+      <guid>https://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
       <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
 TokTrack - data is available on Zenodo, 13.5B tokens. There is a wikiwho API. This is an accurate dataset of all provennced changes in English wikipedia.
 They can look at survival rates for edits. If an edit survives for 48 hours, then it’s probably safe and will live on in wikipedia.</description>
@@ -46,10 +46,10 @@ They can look at survival rates for edits. If an edit survives for 48 hours, the
     
     <item>
       <title>ic2s2 Wednesday morning keynotes</title>
-      <link>/2017/07/12/ic2s2-wed-keynotes/</link>
+      <link>https://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/12/ic2s2-wed-keynotes/</guid>
+      <guid>https://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</guid>
       <description>IC2s2 Wednesday Morning Keynotes Cecliia Mascolo - human behaviour studies through the lens of mobile sensing and complex networks She has been involved for many years in making and deploying sensors. The talk today will look at work they have been doing on foursquare data.
 In London they have data of about 0.5M check-ins over nine months over about 40k users.
 They also have social network data for these people, so they can connect their social network with the geo-spatial behaviour of these people.</description>
@@ -57,19 +57,19 @@ They also have social network data for these people, so they can connect their s
     
     <item>
       <title>IC2s2 - Tuesday Morning</title>
-      <link>/2017/07/11/ic2s2_2017_tuesday_morning/</link>
+      <link>https://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/11/ic2s2_2017_tuesday_morning/</guid>
+      <guid>https://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</guid>
       <description>IC2s2 - Tuesday Morning Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science  opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,  also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
     </item>
     
     <item>
       <title>IC2s2 2017, conference preview</title>
-      <link>/2017/07/10/ic2s2-preview/</link>
+      <link>https://partiallyattended.com/2017/07/10/ic2s2-preview/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/10/ic2s2-preview/</guid>
+      <guid>https://partiallyattended.com/2017/07/10/ic2s2-preview/</guid>
       <description>I&amp;rsquo;m about to head to Köln for the International Conference on Computational Social Science (IC2S2) and I&amp;rsquo;m pretty excited for a whole bunch of reasons.
 I&amp;rsquo;ve been fascinated by network science, and the potential application of techniques from that science to the rest of research, for quite a while, but generally this has been an interest that I have entertained from a distance.
 I had the pleasure of attending an early instance of the NetSci conference series back in 2008, and even contributed to a working paper looking at the implications of the intersection between social data and network algorithms (Mining for Social Serendipity), however the academic track has not been my track at all, and with one thing or another this was a community that my career moved me away from for some time.</description>
@@ -77,20 +77,20 @@ I had the pleasure of attending an early instance of the NetSci conference serie
     
     <item>
       <title>Hello SAGE!</title>
-      <link>/2016/12/15/hello-sage/</link>
+      <link>https://partiallyattended.com/2016/12/15/hello-sage/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/15/hello-sage/</guid>
+      <guid>https://partiallyattended.com/2016/12/15/hello-sage/</guid>
       <description>Hello SAGE! I joined SAGE at the start of September. Hello SAGE!! Here I outline some of my initial impressions.
 First up, I&amp;rsquo;ve been really delighted to meet so many great people at SAGE. I&amp;rsquo;ve received great support from everyone in the company. I generally find publishing folk to be very friendly. This is a friendly industry, working on the fabric of knowledge, knowing that your work can help to make a difference, trying to make the work of academics a bit easier.</description>
     </item>
     
     <item>
       <title>What do we mean when we talk about Big Data?</title>
-      <link>/2016/12/15/what-is-big-data/</link>
+      <link>https://partiallyattended.com/2016/12/15/what-is-big-data/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/15/what-is-big-data/</guid>
+      <guid>https://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
       <description>What do we mean when we talk about Big Data?
 The following blog post about this article provides the following definition of big data:
  “High volume data that frequently combines highly structured administrative data actively collected by public sector organisations with continuously and automatically collected structured and unstructured real-time data that are often passively created by public and private entities through their internet.”
@@ -99,20 +99,20 @@ The following blog post about this article provides the following definition of 
     
     <item>
       <title>Social Humanities DataHack event</title>
-      <link>/2016/12/09/interesting-meeting-in-january/</link>
+      <link>https://partiallyattended.com/2016/12/09/interesting-meeting-in-january/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/09/interesting-meeting-in-january/</guid>
+      <guid>https://partiallyattended.com/2016/12/09/interesting-meeting-in-january/</guid>
       <description>How do people represent themselves on social media, and how are they represented by others? Which qualities and virtues are emphasized (or ignored)? How polarised are these (re)presentations?
  There is a workshop looking at this very question happening in Oxford in early January. The morning will be a series of workshops on tools for tackling a question like the above (I&amp;rsquo;m thinking of attending the Wikipedia and Topic Modelling workshop), and the afternoon will be a hackathon looking at some data sets.</description>
     </item>
     
     <item>
       <title>Textometrica, a tool review</title>
-      <link>/2016/12/09/textometrica-quick-review/</link>
+      <link>https://partiallyattended.com/2016/12/09/textometrica-quick-review/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/09/textometrica-quick-review/</guid>
+      <guid>https://partiallyattended.com/2016/12/09/textometrica-quick-review/</guid>
       <description>A quick spin with Textometrica Yesterday I had a good conversation with Simon Lindgren, the creator of textometrica. I decided to try out the tool before chatting to him.
 Textometrica encapsulates a process for understanding the relationship and distribution of the occurrence of concepts in a body of plain text. It provides a multi-step online tool for the analysis.
 The advantage of using this tool is that you don&amp;rsquo;t need to be able to do any coding to get to a point where you have some quite interesting analysis of your corpus.</description>

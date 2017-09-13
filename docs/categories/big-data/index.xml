@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Big Data on My New Hugo Site</title>
-    <link>/categories/big-data/</link>
-    <description>Recent content in Big Data on My New Hugo Site</description>
+    <title>Big Data on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/big-data/</link>
+    <description>Recent content in Big Data on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What do we mean when we talk about Big Data?</title>
-      <link>/2016/12/15/what-is-big-data/</link>
+      <link>https://partiallyattended.com/2016/12/15/what-is-big-data/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/15/what-is-big-data/</guid>
+      <guid>https://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
       <description>What do we mean when we talk about Big Data?
 The following blog post about this article provides the following definition of big data:
  “High volume data that frequently combines highly structured administrative data actively collected by public sector organisations with continuously and automatically collected structured and unstructured real-time data that are often passively created by public and private entities through their internet.”
@@ -25,10 +25,10 @@ The following blog post about this article provides the following definition of 
     
     <item>
       <title>Textometrica, a tool review</title>
-      <link>/2016/12/09/textometrica-quick-review/</link>
+      <link>https://partiallyattended.com/2016/12/09/textometrica-quick-review/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/09/textometrica-quick-review/</guid>
+      <guid>https://partiallyattended.com/2016/12/09/textometrica-quick-review/</guid>
       <description>A quick spin with Textometrica Yesterday I had a good conversation with Simon Lindgren, the creator of textometrica. I decided to try out the tool before chatting to him.
 Textometrica encapsulates a process for understanding the relationship and distribution of the occurrence of concepts in a body of plain text. It provides a multi-step online tool for the analysis.
 The advantage of using this tool is that you don&amp;rsquo;t need to be able to do any coding to get to a point where you have some quite interesting analysis of your corpus.</description>

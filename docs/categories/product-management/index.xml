@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Product Management on My New Hugo Site</title>
-    <link>/categories/product-management/</link>
-    <description>Recent content in Product Management on My New Hugo Site</description>
+    <title>Product Management on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/product-management/</link>
+    <description>Recent content in Product Management on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I&#39;m hiring a product manager</title>
-      <link>/2017/07/20/im-hiring/</link>
+      <link>https://partiallyattended.com/2017/07/20/im-hiring/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/20/im-hiring/</guid>
+      <guid>https://partiallyattended.com/2017/07/20/im-hiring/</guid>
       <description>So, I&amp;rsquo;m hiring a product manager. We are working on developing new green field products. We have a small, really fun team, and we are using a lot of lean tools to try to get to product-market fit with relativly low risk.
 To apply submit a CV using our [hiring portal](https://uk.sagepub.com/en-gb/eur/sage-vacancies].
 Here are some more details about the role:
@@ -25,10 +25,10 @@ What we are doing SAGE is innovating around how we might support social science 
     
     <item>
       <title>Some thoughts about product management</title>
-      <link>/2015/03/05/thoughts-on-product-management/</link>
+      <link>https://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
       <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/03/05/thoughts-on-product-management/</guid>
+      <guid>https://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
       <description>I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I&amp;rsquo;ve been learning on the job. There are a huge number of resources out there, great lectures, books, conferences, blog posts. In this short post I just want to reflect a bit on what I&amp;rsquo;ve learned on this topic through direct personal experience. I continue to learn, and my thinking continues to evolve, so this post is more of a look back, than a look to the future.</description>
     </item>
     

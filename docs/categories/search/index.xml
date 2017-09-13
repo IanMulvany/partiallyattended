@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Search on My New Hugo Site</title>
-    <link>/categories/search/</link>
-    <description>Recent content in Search on My New Hugo Site</description>
+    <title>Search on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/search/</link>
+    <description>Recent content in Search on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Nov 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/search/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example title</title>
-      <link>/2011/11/21/zanran-google-for-data/</link>
+      <link>https://partiallyattended.com/2011/11/21/zanran-google-for-data/</link>
       <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/11/21/zanran-google-for-data/</guid>
+      <guid>https://partiallyattended.com/2011/11/21/zanran-google-for-data/</guid>
       <description>Back in 2010 I was pointed at zanran, a search engine that looks for data in graphs.
 I&amp;rsquo;ve been playing around with some sample searches, and decided to try drowning deaths swimming pool. Incidentally all of the results that came back were figures for young children. I guess this is because that is the group where there is the most concern, and so there is more published data about this group.</description>
     </item>
     
     <item>
       <title>An idea for an interface for picture search</title>
-      <link>/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+      <link>https://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
       <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
     </item>
     

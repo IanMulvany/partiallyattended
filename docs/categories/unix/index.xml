@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unix on My New Hugo Site</title>
-    <link>/categories/unix/</link>
-    <description>Recent content in Unix on My New Hugo Site</description>
+    <title>Unix on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/unix/</link>
+    <description>Recent content in Unix on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Oct 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/unix/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/unix/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Converting between dates and unix time in Python</title>
-      <link>/2011/10/13/managing-unix-time-in-python/</link>
+      <link>https://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</link>
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/10/13/managing-unix-time-in-python/</guid>
+      <guid>https://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
       <description> Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0  Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;quot;1284101485&amp;quot;)).strftime(&amp;#39;%Y-%m-%d %H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39;  </description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Online on My New Hugo Site</title>
-    <link>/categories/online/</link>
-    <description>Recent content in Online on My New Hugo Site</description>
+    <title>Online on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/online/</link>
+    <description>Recent content in Online on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/online/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/online/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Talkfest, science and community</title>
-      <link>/2011/09/01/solo11-talkfest/</link>
+      <link>https://partiallyattended.com/2011/09/01/solo11-talkfest/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>/2011/09/01/solo11-talkfest/</guid>
+      <guid>https://partiallyattended.com/2011/09/01/solo11-talkfest/</guid>
       <description>Introduction So this is a short TalkFest event looking at the public, communities and online science. I&amp;rsquo;m sure there will be plenty of online discussion around this topic, below are some very rough notes that I took during the event. It was very enjoyable.
 The people on the panel are D. Amy Sanders from the Welcome Trust, Rob Simpson, (a.k.a OrbitingFrog), Linda Davies and Stephen Cury. The panel was convened by Alice Bell</description>
     </item>

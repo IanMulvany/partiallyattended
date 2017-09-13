@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elife Lens on My New Hugo Site</title>
-    <link>/categories/elife-lens/</link>
-    <description>Recent content in Elife Lens on My New Hugo Site</description>
+    <title>Elife Lens on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/elife-lens/</link>
+    <description>Recent content in Elife Lens on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/elife-lens/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/elife-lens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FuturePub Jan 2015 - Lens Next</title>
-      <link>/2015/01/28/futurepub4-lens-next/</link>
+      <link>https://partiallyattended.com/2015/01/28/futurepub4-lens-next/</link>
       <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/01/28/futurepub4-lens-next/</guid>
+      <guid>https://partiallyattended.com/2015/01/28/futurepub4-lens-next/</guid>
       <description>On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick update on where the Lens viewer for research articles is heading. Lens is a great platform for experimentation, and we have been iterating on some ideas towards the end of 2014 that have now made it into the 2.0 release.
 The main update is that Lens can now be configured to accept information from a 3rd party source and display that information in the right hand resources pane.</description>
     </item>

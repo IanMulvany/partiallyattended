@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on My New Hugo Site</title>
-    <link>/categories/tech/</link>
-    <description>Recent content in Tech on My New Hugo Site</description>
+    <title>Tech on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/tech/</link>
+    <description>Recent content in Tech on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An idea for an interface for picture search</title>
-      <link>/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+      <link>https://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+      <guid>https://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
       <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Doi on My New Hugo Site</title>
-    <link>/categories/doi/</link>
-    <description>Recent content in Doi on My New Hugo Site</description>
+    <title>Doi on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/doi/</link>
+    <description>Recent content in Doi on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/doi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/doi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reverse DOI lookups with Crossref</title>
-      <link>/2017/01/10/crossref-reverse-lookups/</link>
+      <link>https://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/01/10/crossref-reverse-lookups/</guid>
+      <guid>https://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</guid>
       <description>Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.
 @CrossrefOrg helped out and pointed me to the reverse api endpoint. It workes like this:
 http://api.crossref.org/reverse

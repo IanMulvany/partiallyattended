@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Peer Review on My New Hugo Site</title>
-    <link>/categories/open-peer-review/</link>
-    <description>Recent content in Open Peer Review on My New Hugo Site</description>
+    <title>Open Peer Review on Partially Attended</title>
+    <link>https://partiallyattended.com/categories/open-peer-review/</link>
+    <description>Recent content in Open Peer Review on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/open-peer-review/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://partiallyattended.com/categories/open-peer-review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Trial by public, open peer review and the power of attention.</title>
-      <link>/2014/04/16/a-new-model-of-peer-review-maybe/</link>
+      <link>https://partiallyattended.com/2014/04/16/a-new-model-of-peer-review-maybe/</link>
       <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/2014/04/16/a-new-model-of-peer-review-maybe/</guid>
+      <guid>https://partiallyattended.com/2014/04/16/a-new-model-of-peer-review-maybe/</guid>
       <description>There are two very interesting recent examples of review by community on highly exciting results. They both share one very important characteristic, but stand in stark contrast to one another in almost every other regard.
 The first is the [paper on making STAP cells via use of an acid bath] lemon juice. If confirmed, the result is transformative. The result was published after peer review to tremendous fanfare in Nature. Very quickly the community tried to replicate the result with no confirming replication happening.</description>
     </item>
