@@ -1,4 +1,5 @@
-baseUrl = "partiallyattended.com"
+baseUrl = "https://partiallyattended.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Partially Attended"
 publishDir = "docs"
+theme = "ian"
