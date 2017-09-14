@@ -462,6 +462,15 @@
     </item>
     
     <item>
+      <title>Cloud</title>
+      <link>http://partiallyattended.com/categories/cloud/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Coasp</title>
       <link>http://partiallyattended.com/categories/coasp/</link>
       <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
@@ -521,6 +530,15 @@
       <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/connotea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>http://partiallyattended.com/categories/containers/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/containers/</guid>
       <description></description>
     </item>
     
@@ -710,6 +728,15 @@
       <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/dlf2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://partiallyattended.com/categories/docker/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/docker/</guid>
       <description></description>
     </item>
     
@@ -1398,6 +1425,15 @@
     </item>
     
     <item>
+      <title>Infrastructure</title>
+      <link>http://partiallyattended.com/categories/infrastructure/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Injuries</title>
       <link>http://partiallyattended.com/categories/injuries/</link>
       <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
@@ -1511,6 +1547,15 @@
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>http://partiallyattended.com/categories/kubernetes/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/kubernetes/</guid>
       <description></description>
     </item>
     

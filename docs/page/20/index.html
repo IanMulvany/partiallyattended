@@ -24,6 +24,46 @@
             
             
               <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/21/wrapping-c-code-for-python-using-swig-on-mac-os-x/">
+      <h1 class="post-title">wrapping c code for python using swig on Mac OS X</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+                                            Posted on January 21, 2009
+  </p>
+
+  <div class="post-entry">
+                <p>
+                    from john d cook
+http://www.johndcook.com/blog/2009/01/20/using-swig-to-expose-c-code-to-python/
+from http://www.penzilla.net/tutorials/python/swig/
+and combining the two I came up with a way to get this to work on Mac OS X
+bash$ cat erf.i
+%module erf
+#include
+double erf(double);
+bash$ swig -o erf_wrap.c -python erf.i
+bash$ gcc -o erf_wrap.os -c -fPIC -I/usr/include/python2.4 erf_wrap.c
+bash$ gcc -o _erf.so -shared erf_wrap.os
+bash$ python
+ from erf import erf
+ erf(1)
+0.84270079294971489
+                    <a href="http://partiallyattended.com/2009/01/21/wrapping-c-code-for-python-using-swig-on-mac-os-x/" class="post-read-more">... (more)</a>
+                </p>
+
+          <div class="post-entry-tags">
+              Posted In:
+              
+          </div>
+  </div>
+
+ </article>
+
+            
+              <article class="post-preview">
   <a href="http://partiallyattended.com/2009/01/17/weekly-training-report-week-2/">
       <h1 class="post-title">Weekly training report, week 2</h1>
 
@@ -294,40 +334,6 @@ strong defenders of evolution. One can then make a graph of the links
 between the groups and intra-groups based on citation and co-citation.
 Now one area of social science that is pretty interesting in this debate
                     <a href="http://partiallyattended.com/2008/12/21/creationism-as-science/" class="post-read-more">... (more)</a>
-                </p>
-
-          <div class="post-entry-tags">
-              Posted In:
-              
-          </div>
-  </div>
-
- </article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/efficient-name-disambiguation-for-large-scale-databases/">
-      <h1 class="post-title">Efficient Name Disambiguation for Large-Scale Databases</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-                                            Posted on December 21, 2008
-  </p>
-
-  <div class="post-entry">
-                <p>
-                    I've been interested for a while now in entity disambiguation,
-particularly where the e
-ntities are the names of authors in academic journals.
-Jian Huang, Seyda Ertekin and C Lee Giles have a paper from 2006 in
-which they describe
-the method that they used to diambiguate the CiteSeer data set of
-over 700,000 article
-s. The paper is &quot;Efficient Name Disambiguation for Large-Scale Databases&quot;.
-They were able to use this algorithim to disambiguate this data set
-                    <a href="http://partiallyattended.com/2008/12/21/efficient-name-disambiguation-for-large-scale-databases/" class="post-read-more">... (more)</a>
                 </p>
 
           <div class="post-entry-tags">

@@ -24,6 +24,33 @@
             
             
               <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/02/18/training-diary-catchup/">
+      <h1 class="post-title">Training Diary Catchup</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+                                            Posted on February 18, 2009
+  </p>
+
+  <div class="post-entry">
+                <p>
+                    OK, so, I've fallen off the wagon in terms of climbing training, or in fact training of any kind.
+Last weekend was interesting. I did the introductory PADI course, but the week leading up to the weekend was swamped with work, and all of the nights of this week have filled up too. I think in order to get my running done I am going to have to transition to a morning run a few times a week.
+                    <a href="http://partiallyattended.com/2009/02/18/training-diary-catchup/" class="post-read-more">... (more)</a>
+                </p>
+
+          <div class="post-entry-tags">
+              Posted In:
+              
+          </div>
+  </div>
+
+ </article>
+
+            
+              <article class="post-preview">
   <a href="http://partiallyattended.com/2009/02/18/unnamed/">
       <h1 class="post-title">unknown post</h1>
 
@@ -285,46 +312,6 @@ for(var j = 0, brLength = brs.length; j
 
  
                     <a href="http://partiallyattended.com/2009/01/21/unnamed/" class="post-read-more">... (more)</a>
-                </p>
-
-          <div class="post-entry-tags">
-              Posted In:
-              
-          </div>
-  </div>
-
- </article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/01/21/wrapping-c-code-for-python-using-swig-on-mac-os-x/">
-      <h1 class="post-title">wrapping c code for python using swig on Mac OS X</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-                                            Posted on January 21, 2009
-  </p>
-
-  <div class="post-entry">
-                <p>
-                    from john d cook
-http://www.johndcook.com/blog/2009/01/20/using-swig-to-expose-c-code-to-python/
-from http://www.penzilla.net/tutorials/python/swig/
-and combining the two I came up with a way to get this to work on Mac OS X
-bash$ cat erf.i
-%module erf
-#include
-double erf(double);
-bash$ swig -o erf_wrap.c -python erf.i
-bash$ gcc -o erf_wrap.os -c -fPIC -I/usr/include/python2.4 erf_wrap.c
-bash$ gcc -o _erf.so -shared erf_wrap.os
-bash$ python
- from erf import erf
- erf(1)
-0.84270079294971489
-                    <a href="http://partiallyattended.com/2009/01/21/wrapping-c-code-for-python-using-swig-on-mac-os-x/" class="post-read-more">... (more)</a>
                 </p>
 
           <div class="post-entry-tags">
