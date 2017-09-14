@@ -270,7 +270,7 @@ Do you want to continue (Y/n)?  Y
 
 So far in this guide we have looked at deploying a docker conatiner for redis that is alredy in the helm registry. How do you deploy your own software that you have built locally? You need to dockerise it. There is a tool called Draft that lets you get started with that, but I've not tried it out. You can have a look at a guide here:
 
-[http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html]()
+http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html
 
 ### Cheatsheet
 
