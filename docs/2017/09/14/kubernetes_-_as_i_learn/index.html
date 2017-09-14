@@ -20,7 +20,7 @@
 
 <section>
       <h4 id="date"> Thu Sep 14, 2017 </h4>
-      <h5 id="wordcount"> 1575 Words </h5>
+      <h5 id="wordcount"> 1649 Words </h5>
 </section>
 
 <div class="post-entry-tags">
@@ -32,7 +32,7 @@
        <article id="content">
           
 
-<p>I&rsquo;m currently working on supporting a JupyterHub installation for a series of online courses that we are launching at SAGE. Along the way I&rsquo;ve had to get my head around deploying the software using kubernetes. This is a stack that I&rsquo;ve been aware of for quite a while, but I&rsquo;ve not worked with it before. In order to help with debugging my installation I&rsquo;m writing up a guide on some of the kubernetes commands that I found useful.</p>
+<p>I&rsquo;m currently working on supporting a JupyterHub installation for a series of online courses that we are launching at SAGE. Along the way I&rsquo;ve had to get my head around deploying the software using kubernetes. This is a stack that I&rsquo;ve been aware of for quite a while, but I&rsquo;ve not worked with it before. In order to help with debugging my installation I&rsquo;m writing up a guide on some of the kubernetes commands that I found useful when deploying a service onto google cloud.</p>
 
 <h3 id="how-do-we-get-our-container-onto-our-cluster">How do we get our container onto our cluster?</h3>
 
@@ -85,8 +85,8 @@
 
 <ul>
 <li><code>nodes</code> - a worker machine, can be physical or virtual. In AWS land this might be an EC2 instance. Some systems call these minions. Where you have a collection of nodes I believe one of them will act as the master node. I&rsquo;m assuming that in the event of the master node dying, the cluster will re-assign master status to some other node in the cluster, but I&rsquo;m not sure about this.</li>
-<li><code>pods</code> This is a group of one or more containers. At the simplest level if you are deplploying only one container, that will comprise a pod, but you might have an architecture of connected containers and volumes, and these will be abstracted to the pod level in Kubernetes land. Pods are specific, running on nodes, and they can fall over and die. This is where the next level of abstraction comes in</li>
-<li><code>services</code> are abstract descriptions wich define sets of pods. Kubernetes should take care to keep your service running but spinning up new pods to provide the work of the service if the existing pod falls over. Other abstractions in the cluster are also described as services, in particuarl how we manage access in to the cluster via ingress files.</li>
+<li><code>pods</code> This is a group of one or more containers. At the simplest level if you are deploying only one container, that will comprise a pod, but you might have an architecture of connected containers and volumes, and these will be abstracted to the pod level in Kubernetes land. Pods are specific, running on nodes, and they can fall over and die. This is where the next level of abstraction comes in</li>
+<li><code>services</code> are abstract descriptions which define sets of pods. Kubernetes should take care to keep your service running but spinning up new pods to provide the work of the service if the existing pod falls over. Other abstractions in the cluster are also described as services, in particular how we manage access in to the cluster via ingress files.</li>
 </ul>
 
 <h3 id="creating-a-cluster">Creating a cluster</h3>
@@ -189,7 +189,7 @@ gke-test-us-default-pool-1ee9e215-xtx2   Ready     18h       v1.6.7
 
 <p>Great!</p>
 
-<p>Now let&rsquo;s look at the pods that are runnig on this cluster.</p>
+<p>Now let&rsquo;s look at the pods that are running on this cluster.</p>
 
 <pre><code>$ kubectl --namespace=test-us get pods
 No resources found.
@@ -241,9 +241,9 @@ $ kubectl describe pod jumpy-shrimp-redis-client-2779061195-xjww7
 
 <h5 id="using-the-kubernetes-dashboard">Using the Kubernetes dashboard</h5>
 
-<p>Kuberetes probably comes with a dasboard isntalled, out of the box.</p>
+<p>Kuberetes probably comes with a dashboard installed, out of the box.</p>
 
-<p>So far we have been looking at the pods related to redis, but there are a bunch of other pods that get insalled by defualt. You can have a look at them with:</p>
+<p>So far we have been looking at the pods related to redis, but there are a bunch of other pods that get installed by default. You can have a look at them with:</p>
 
 <pre><code>$ kubectl get pods --all-namespaces
 NAMESPACE     NAME                                                READY     STATUS    RESTARTS   AGE
@@ -283,7 +283,9 @@ Do you want to continue (Y/n)?  Y
 
 <h3 id="how-do-we-deploy-our-own-local-software">How do we deploy our own local software?</h3>
 
-<p><a href="http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html">http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html</a></p>
+<p>So far in this guide we have looked at deploying a docker conatiner for redis that is alredy in the helm registry. How do you deploy your own software that you have built locally? You need to dockerise it. There is a tool called Draft that lets you get started with that, but I&rsquo;ve not tried it out. You can have a look at a guide here:</p>
+
+<p>[<a href="http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html](">http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html](</a>)</p>
 
 <p>### Cheatsheet</p>
 
@@ -292,7 +294,7 @@ Do you want to continue (Y/n)?  Y
 
 <h3 id="other-commands-i-have-found-useful">Other commands I have found useful</h3>
 
-<p>There are a bynch of other commands that I found useful, but didn&rsquo;t get the time to writeup here.</p>
+<p>There are a bunch of other commands that I found useful, but didn&rsquo;t get the time to writeup here.</p>
 
 <pre><code class="language-bash">kubectl config current-context  
 kubectl describe --namespace=hub-no-auth pod hub-deployment-3311999561-w53zz  
