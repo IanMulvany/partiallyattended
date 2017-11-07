@@ -1,4 +1,4 @@
-baseUrl = "https://partiallyattended.com"
+baseUrl = "http://partiallyattended.com"
 languageCode = "en-us"
 title = "Partially Attended"
 publishDir = "docs"
