@@ -1,19 +1,47 @@
 @import 'https://fonts.googleapis.com/css?family=Lobster|Quicksand|Cutive+Mono';
 
 body {
-  width: 600px;
+  width: 95%;
   margin: 0 auto;
-  font-size: 18px;
-  font-weight: 400;
+  font-size: 22px;
+  font-weight: 300;
   font-family: 'Quicksand', sans-serif;
 }
 
-@media(max-width: 600px) {
+@media(max-width: 500px) {
   body {
     width: 100%;
+    font-size: 10px;
     box-sizing: border-box;
     padding: 0 20px;
   }
+}
+
+article {
+    padding: 0 0 100 0;
+}
+
+article h1 {
+  font-size: 2em;
+  text-align: left;
+  font-weight: 500;
+  //font-family: 'Lobster', cursive;
+  margin: 0 0 -25 0;
+}
+
+article div.post-date {
+  font-size: 12px;
+  margin: 0 0 -25 10;  
+}
+
+article div.post-entry-tags {
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0 0 0 0;  
+}
+
+div#post-date {
+   font-size: 10px; 
 }
 
 a {
@@ -30,8 +58,8 @@ a:hover {
 }
 
 p {
-  line-height: 1.4;
-  text-align: justify;
+  line-height: 1.2;
+  //text-align: justify;
 }
 
 section#header {
@@ -39,11 +67,10 @@ section#header {
 }
 
 section#header h1 {
-  font-size: 2em;
+  font-size: 12em;
   text-align: center;
   font-family: 'Lobster', cursive;
-  font-size: 2em;
-  margin: 0 0 9px 0;
+  margin: 0 0 90px 0;
 }
 
 section#header h2 {
@@ -81,7 +108,7 @@ section h2 a {
 section time {
   margin: 0 0 0 2px;
   font-size: 0.7em;
-  font-weight: 600;
+  font-weight: 200;
 }
 
 section article {
