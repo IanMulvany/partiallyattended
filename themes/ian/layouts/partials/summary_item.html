@@ -10,10 +10,8 @@
   </a>
 
   <p class="post-meta">
-                                            Posted on {{ .Date.Format "January 2, 2006" }}
-  </p>
+    <div class="post-date">{{ .Date.Format "January 2, 2006" }}</div>
 
-  <div class="post-entry">
                 <p>
                     {{ .Summary }}
                     <a href="{{ .Permalink }}" class="post-read-more">... (more)</a>
