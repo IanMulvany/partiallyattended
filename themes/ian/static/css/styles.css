@@ -8,9 +8,10 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
-@media(max-width: 600px) {
+@media(max-width: 500px) {
   body {
     width: 100%;
+    font-size: 10px;
     box-sizing: border-box;
     padding: 0 20px;
   }
