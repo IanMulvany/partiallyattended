@@ -1,10 +1,10 @@
 @import 'https://fonts.googleapis.com/css?family=Lobster|Quicksand|Cutive+Mono';
 
 body {
-  width: 600px;
+  width: 95%;
   margin: 0 auto;
-  font-size: 18px;
-  font-weight: 400;
+  font-size: 22px;
+  font-weight: 300;
   font-family: 'Quicksand', sans-serif;
 }
 
