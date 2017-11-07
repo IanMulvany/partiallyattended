@@ -17,6 +17,11 @@ body {
   }
 }
 
+
+div#post-date {
+   font-size: 10px; 
+}
+
 a {
   text-decoration: none;
   color: #138613;
