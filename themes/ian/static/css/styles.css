@@ -21,6 +21,14 @@ article {
     padding: 0 0 100 0;
 }
 
+article h1 {
+  font-size: 2em;
+  text-align: left;
+  font-weight: 500;
+  //font-family: 'Lobster', cursive;
+  margin: 0 0 -25 0;
+}
+
 
 div#post-date {
    font-size: 10px; 
