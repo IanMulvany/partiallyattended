@@ -17,6 +17,10 @@ body {
   }
 }
 
+article {
+    padding: 0 0 100 0;
+}
+
 
 div#post-date {
    font-size: 10px; 
