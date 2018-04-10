@@ -1,6 +1,8 @@
 {{ partial "header.html" . }}
 
-<h1 id="title">{{ .Title }}</h1>
+<article id="content">
+
+<h1 class="post-title">{{ .Title }}</h1>
 
 <section>
       <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
@@ -8,14 +10,15 @@
 </section>
 
 <div class="post-entry-tags">
-                          Posted In:
+                          Tags:
                           {{ range $i, $e := .Params.categories }}{{ if $i }},{{ end }} <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
 </div>
 
 <div>
-       <article id="content">
           {{ .Content }}
-       </article>
  </div>
+ </article>
+
+
 
 {{ partial "footer.html" . }}
