@@ -1,0 +1,54 @@
+
+@media (max-width: 1684px) {
+  body {
+    width: 700px;
+  }
+
+  article .post-title {
+    font-size: 4.5rem;
+    line-height: 1.4;
+  }
+
+  article .post-date {
+    font-size: 3.0rem;
+    font-style: italic;
+    /* line-height: 1.4; */
+    position: 'relative';
+    margin-top:-4.0rem;
+    margin-bottom:-2.0rem;
+  }
+}
+
+@media (max-width: 900px) {
+  body {
+    width: 70%;
+  }
+
+  article .post-title {
+    font-size: 2.5rem;
+    line-height: 1.4;
+  }
+
+  article .post-date {
+    font-size: 2.5rem;
+    font-style: italic;
+    /* line-height: 1.4; */
+    position: 'relative';
+    margin-top:-2.0rem;
+    margin-bottom:-2.0rem;
+  }
+}
+
+@media (max-width: 500px) {
+  body {
+    width: 90%;
+  }
+  article .post-date {
+    font-size: 2.5rem;
+    font-style: italic;
+    /* line-height: 1.4; */
+    position: 'relative';
+    margin-top:-1.0rem;
+    margin-bottom:-2.0rem;
+  }
+}

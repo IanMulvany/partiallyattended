@@ -16,7 +16,9 @@
 <hr/>
 
 
-<h1 id="title">Kubernetes - As I Learn</h1>
+<article id="content">
+
+<h1 class="post-title">Kubernetes - As I Learn</h1>
 
 <section>
       <h4 id="date"> Thu Sep 14, 2017 </h4>
@@ -24,12 +26,11 @@
 </section>
 
 <div class="post-entry-tags">
-                          Posted In:
+                          Tags:
                            <a href="/categories/kubernetes">kubernetes</a>, <a href="/categories/infrastructure">infrastructure</a>, <a href="/categories/docker">docker</a>, <a href="/categories/containers">containers</a>, <a href="/categories/cloud">cloud</a>
 </div>
 
 <div>
-       <article id="content">
           
 
 <p>I&rsquo;m currently working on supporting a JupyterHub installation for a series of online courses that we are launching at SAGE. Along the way I&rsquo;ve had to get my head around deploying the software using kubernetes. This is a stack that I&rsquo;ve been aware of for quite a while, but I&rsquo;ve not worked with it before. In order to help with debugging my installation I&rsquo;m writing up a guide on some of the kubernetes commands that I found useful when deploying a service onto google cloud.</p>
@@ -313,8 +314,10 @@ helm list
 kubectl --namespace=testhub get pod -o yaml | grep &quot;hub&quot;
 </code></pre>
 
-       </article>
  </div>
+ </article>
+
+
 
 </body>
 </html>

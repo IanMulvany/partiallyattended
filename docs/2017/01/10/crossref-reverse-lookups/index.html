@@ -16,7 +16,9 @@
 <hr/>
 
 
-<h1 id="title">Reverse DOI lookups with Crossref</h1>
+<article id="content">
+
+<h1 class="post-title">Reverse DOI lookups with Crossref</h1>
 
 <section>
       <h4 id="date"> Tue Jan 10, 2017 </h4>
@@ -24,12 +26,11 @@
 </section>
 
 <div class="post-entry-tags">
-                          Posted In:
+                          Tags:
                            <a href="/categories/publishing">publishing</a>, <a href="/categories/citations">citations</a>, <a href="/categories/doi">doi</a>, <a href="/categories/programming">programming</a>, <a href="/categories/crossref">crossref</a>
 </div>
 
 <div>
-       <article id="content">
           <p>Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.</p>
 
 <p><a href="https://twitter.com/crossreforg">@CrossrefOrg</a> helped out and pointed me to the <code>reverse</code> api endpoint. It workes like this:</p>
@@ -63,8 +64,10 @@ http:\/\/dx.doi.org\/10.1111\/j.1525-1497.2001.00333.x</p>
 
 <p>This directs us the the following <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1525-1497.2001.00333.x/abstract;jsessionid=12FD9F17A25B963F3E7D03C42AB137A7.f03t03?systemMessage=Wiley+Online+Library+Journal+subscribe+and+renew+pages+for+some+journals+will+be+unavailable+on+Wednesday+11th+January+2017+from+06%3A00-12%3A00+GMT+%2F+01%3A00-07%3A00+EST+%2F+14%3A00-20%3A00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience">article</a>, which does seem to be the one that we are interested in.</p>
 
-       </article>
  </div>
+ </article>
+
+
 
 </body>
 </html>

@@ -16,7 +16,9 @@
 <hr/>
 
 
-<h1 id="title">Django models vs. Pickling objects for object persistence.</h1>
+<article id="content">
+
+<h1 class="post-title">Django models vs. Pickling objects for object persistence.</h1>
 
 <section>
       <h4 id="date"> Mon Oct 19, 2009 </h4>
@@ -24,16 +26,17 @@
 </section>
 
 <div class="post-entry-tags">
-                          Posted In:
+                          Tags:
                            <a href="/categories/python">python</a>, <a href="/categories/django">Django</a>, <a href="/categories/sqlite">SQLite</a>
 </div>
 
 <div>
-       <article id="content">
           <p><br />I do a bit of code hacking and I often find myself putting objects into pickle files, and reading and writing them in order to fake object persistence. It's easy, but messy and it begins to leave lot's of pickle files sitting around in your path. I've decided to finally make the switch towards using a more grown up persistent object solution. I've decided to try out Django + SQLite. The former because I code in python, and <a href="http://simonwillison.net/">Simon Willison</a> uses it. The latter because I want to keep my system MySQL install pristine for another application that I am playing around with. I'm hoping that Django will hide the DB interface well away from me.<br /></p><br /><p><br />One of the key benefits that I hope to get out of this approach is to force myself into rigorously  using Class based representations of model data, rather than naive python objects. I hope this will lead to cleaner and better documented code on my part. I also hope that a quick by-product will be to allow me to quickly prototype ideas onto the web via Google app engine.</p><p> We shall see.</p>
 
-       </article>
  </div>
+ </article>
+
+
 
 </body>
 </html>

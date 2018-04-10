@@ -16,7 +16,9 @@
 <hr/>
 
 
-<h1 id="title">science scraping with YQL</h1>
+<article id="content">
+
+<h1 class="post-title">science scraping with YQL</h1>
 
 <section>
       <h4 id="date"> Mon Sep 6, 2010 </h4>
@@ -24,12 +26,11 @@
 </section>
 
 <div class="post-entry-tags">
-                          Posted In:
+                          Tags:
                            <a href="/categories/yql">yql</a>, <a href="/categories/science">science</a>, <a href="/categories/scripting">scripting</a>, <a href="/categories/hacking">hacking</a>, <a href="/categories/cool">cool</a>, <a href="/categories/solo10">solo10</a>
 </div>
 
 <div>
-       <article id="content">
           <p>Last Saturday at Science Online London I gave a quick tutorial on <a href="http://developer.yahoo.com/yql/">YQL</a>, and how it might be used to mash up scientific data sets.  Below I list some of the sample queries that I was playing with.  Before you get started with the <a href="http://developer.yahoo.com/yql/console/">console</a> have a look through the documentation.  I got a lot of milage out of the part about <a href="http://developer.yahoo.com/yql/guide/filters.html">filters</a> and <a href="http://developer.yahoo.com/yql/guide/joins.html">joins</a>.  The blog post by Paul Hogan on <a href="http://www.paulhagon.com/blog/2009/12/09/yql-mashups-for-libraries/">using YQL for library maships</a> was also very helpful.</p>
 
 <p>In my presentation I was originally looking at extracing data from a <a href="http://sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi?date=2010-07-13&amp;pest=soybean_rust&amp;host=All%20Legumes/Kudzu">report on soy bean rust spread</a>.</p>
@@ -84,8 +85,10 @@ For this query I copied the table onto my own server and added some basic proto-
 
 With this query I converted the table into a csv file.  This demonstrates YQL&rsquo;s ability to query against csv files.  <a href="http://developer.yahoo.com/yql/console/#h=select%20*%20from%20csv%20WHERE%0Aurl%3D%22http%3A//www.mulvany.net/files/ipmpipe.csv%22%0Aand%20columns%3D%27date%2Cplace%2Cstatus%27%0Aand%20status%3D%27Confirmed%27">Open in console</a>.</p>
 
-       </article>
  </div>
+ </article>
+
+
 
 </body>
 </html>

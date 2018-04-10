@@ -16,7 +16,9 @@
 <hr/>
 
 
-<h1 id="title">Probabilistic language models, auto-correction tools and scientific discovery.</h1>
+<article id="content">
+
+<h1 class="post-title">Probabilistic language models, auto-correction tools and scientific discovery.</h1>
 
 <section>
       <h4 id="date"> Wed Feb 10, 2010 </h4>
@@ -24,15 +26,16 @@
 </section>
 
 <div class="post-entry-tags">
-                          Posted In:
+                          Tags:
                            <a href="/categories/copy-editing">copy editing</a>, <a href="/categories/probability">probability</a>, <a href="/categories/science">science</a>, <a href="/categories/language-models">language models</a>
 </div>
 
 <div>
-       <article id="content">
           Probabilistic language models, auto-correction tools and scientific discovery.<br /><br />"Durgesh Kumar Dwivedi":http://network.nature.com/people/U56CB3E51/profile over on Nature Network just asked "Does anyone have any software or web address which corrects English grammar, preposition, edit and shortened the paragraphs?". This question brought to mind and idea that I had a few years ago.<br /><br />The idea is simple enough, use a large corpus of pre-vetted grammatically correct text as a training tool to compare sentences against. If you have enough example sentences, then every occurrence of every word in a given sentence will have a certain likelihood of occurring. Errors, and new word formulations will have low probabilities of occurring. Compare a manuscript that is being prepared for submission against the corpus and the machine should be able to point out the parts that may be either wrong or novel. Some kind of a Bayseian model would seem to be appropriate.<br /><br />Now for natural language it is probably the case that there are not enough overlaps of complete sentences (though there may well be of phrases). However if you look at the academic literature then the scope of language used is very much reduced. The scientific literature in particular adopts an inbred subset of the English language, it's very own ghetto. One could image, for instance, taking all of the content of all articles published by Nature over the past 30 years, and use this as the control corpus. The person submitting a manuscript would get, on return of submission, a markup of where in their text there may be errors, with in addition perhaps, the most common forms of sentences that are found in their place. <br /><br />I don't imagine that such a service would come into existence any time soon, but I think it would be cool. One could also use something like this to automatically recommend references or related papers. The "Journal Author Name Estimator":http://www.biosemantics.org/jane/ already does something like this for abstracts. <br /><br />There is a wealth of research on probabilistic language models (see below), but I don't think anyone has tried out the idea proposed here.<br /><br />It came to me after a few years working in a copy editing department of a scientific publisher. Again and again we would see the same kinds of corrections happening, and it just seems like an area ripe for automation. <br /><br />"Using a probabilistic translation model for cross-language information retrieval":http://eprints.kfupm.edu.sa/74398/<br /><br />"Language Analysis and Understanding":http://cslu.cse.ogi.edu/HLTsurvey/ch3node2.html<br /><br />"A Parallel Training Algorithm for Hierarchical Pitman-Yor Process Language Models":http://www.cstr.ed.ac.uk/downloads/publications/2009/sh_interspeech09.pdf<br /><br />A Bayesian network coding scheme for annotating biomedical information presented to genetic counseling clients "doi:10.1016/j.jbi.2004.10.001":http://dx.doi.org/10.1016/j.jbi.2004.10.001<br /><br />"Phrase-Based Statistical Language Modeling from Bilingual Parallel Corpus":http://www.springerlink.com/content/b4ujx41571p47082/<br /><br />"Bayesian Modeling of Dependency Trees Using Hierarchical Pitman-Yor Priors":http://videolectures.net/icml08_wallach_bmd/<br /><br />"Using language models for tracking events of interest over time":http://boston.lti.cs.cmu.edu/callan/Workshops/lmir01/WorkshopProcs/Papers/mspitters.pdf
-       </article>
  </div>
+ </article>
+
+
 
 </body>
 </html>

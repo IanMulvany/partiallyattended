@@ -16,7 +16,9 @@
 <hr/>
 
 
-<h1 id="title">Cron, python and Google Wave</h1>
+<article id="content">
+
+<h1 class="post-title">Cron, python and Google Wave</h1>
 
 <section>
       <h4 id="date"> Mon Aug 17, 2009 </h4>
@@ -24,16 +26,17 @@
 </section>
 
 <div class="post-entry-tags">
-                          Posted In:
+                          Tags:
                           
 </div>
 
 <div>
-       <article id="content">
           Documentation on getting a google wave robot written in python working with the Cron functionality is still a little sparse. <br /><br /><br />Getting a cron job into the capabilities.xml file. <br /><br />Add the following directive to the main function of your python program:<br /><br />    myRobot.RegisterCronJob('/path',60)<br /><br />When you look at you capabilities.xml file you should now see a new node in the file:<br /><br /><w:crons> <br />  <w:cron path="/path" timerinseconds="60"/> <br /></w:crons> <br /><br /><br /><br />
 
-       </article>
  </div>
+ </article>
+
+
 
 </body>
 </html>
