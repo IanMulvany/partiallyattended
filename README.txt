@@ -3,13 +3,7 @@
 This is my blog
 
 # TODO
-- commit new css to make the text more readable on mobile
-- tighten up the spacing after titles
-- give more space between posts on the homepage 
 - set media queries for ipad, and desktop
-- reduce font size of the date
-- reduce the font size, and increase font weight of tags
-- fix the issue of pre block going to full width on some posts
 - make code examples go to full width in narrow views
 - fix the broken homepage link
 - add CC-BY licencing on the site again
@@ -20,3 +14,11 @@ This is my blog
 - add better metadata
 - add better structured markup
 - get _base working
+
+# DONE
+- fix the issue of pre block going to full width on some posts
+- reduce the font size, and increase font weight of tags
+- reduce font size of the date
+- give more space between posts on the homepage
+- tighten up the spacing after titles
+- commit new css to make the text more readable on mobile
