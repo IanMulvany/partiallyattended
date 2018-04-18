@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draft on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/draft/</link>
+    <description>Recent content in Draft on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://partiallyattended.com/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>scholarly comms product meetup - V2 - announcement</title>
+      <link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement/</guid>
+      <description>Back in November we ran the first scholarly comms meetup with a focus on product management. There are lots of great meet ups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies.
+By focussing on product management we hoped that we could get people together to chat about war stories, share experiences, and in a way help each other get better at</description>
+    </item>
+    
+  </channel>
+</rss>
