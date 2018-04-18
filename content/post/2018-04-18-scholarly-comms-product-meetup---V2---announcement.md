@@ -11,6 +11,8 @@ categories:
 ---
 
 
+This is a new thing
+
 Back in November we ran the first scholarly comms meetup with a focus on product management. There are lots of great meet ups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies.
 
 By focussing on product management we hoped that we could get people together to chat about war stories, share experiences, and in a way help each other get better at
@@ -21,6 +23,5 @@ We it’s back, and this time we have a focussed topic; GDPR and it’s implicat
 
 If you are in London please join us on the x of May. The event is super informal, a few speakers cover some topic of interest, and then we hang out with pizza and beer. We are space limited, so you can get a ticket by signing up at xxx, I look forward to seeing you there!
 
-This is some more filler and I'll try to commit this.
 
 - Ian
