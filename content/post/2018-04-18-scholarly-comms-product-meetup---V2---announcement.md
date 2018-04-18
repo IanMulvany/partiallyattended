@@ -1,6 +1,7 @@
 ---
 title: scholarly comms product meetup - V2 - announcement 
 url: 2018/04/18/scholarly_comms_product_meetup_-_V2_-_announcement_/
+date: 2018-04-18T00:00:00Z
 categories:
 - scholarly-comms
 - product-development

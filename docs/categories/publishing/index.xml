@@ -6,10 +6,19 @@
     <description>Recent content in Publishing on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/publishing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>scholarly comms product meetup - V2 - announcement</title>
+      <link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
+      <description>Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots of great meetups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies, but solely on the product management work that is required to develop these kinds of tools.</description>
+    </item>
     
     <item>
       <title>The robots are coming, the promise and perils of AI - questions</title>
@@ -396,15 +405,6 @@ Megajournals are so called because they are structured to be able to publish man
       <guid>http://partiallyattended.com/2011/01/04/arxiv.org-open-peer-review-proposal/</guid>
       <description>Axel Boldt posted an interesting short paper discussing how to turn the physics ArXiV into an open peer review system. It&amp;rsquo;s a short read, about three pages, but if you are familiar with the problems around peer review then you can just jump to part three of the paper which is a little under a page.
 The solution proposed is to create a new role of editor on the ArXiV, and allow anyone to propose their paper for review.</description>
-    </item>
-    
-    <item>
-      <title>scholarly comms product meetup - V2 - announcement</title>
-      <link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
-      <description>Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots of great meetups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies, but solely on the product management work that is required to develop these kinds of tools.</description>
     </item>
     
   </channel>

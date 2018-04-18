@@ -6,10 +6,19 @@
     <description>Recent content in Product Development on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/product-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>scholarly comms product meetup - V2 - announcement</title>
+      <link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
+      <description>Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots of great meetups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies, but solely on the product management work that is required to develop these kinds of tools.</description>
+    </item>
     
     <item>
       <title>Three posts about product development</title>
@@ -39,15 +48,6 @@ When thinking about what people do with your product, also think about what they
       <guid>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</guid>
       <description>On the 1st of April I had the pleasure of being invited to a digital strategy forum event hosted by the Wellcome Trust. People involved in digital and online projects from across a number of not for profit organisations gathered to hear some short talks about using, and contributing to, open source, agile project development and responsive design.
 Open Source development. Open Sourcing Wellcome Library Player – Tom Crane, Digirati agency The player can be embedded in other sites.</description>
-    </item>
-    
-    <item>
-      <title>scholarly comms product meetup - V2 - announcement</title>
-      <link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
-      <description>Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots of great meetups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies, but solely on the product management work that is required to develop these kinds of tools.</description>
     </item>
     
   </channel>
