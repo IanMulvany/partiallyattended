@@ -11,7 +11,7 @@ categories:
 ---
 
 
-This is a new thing
+How can I ensure that changes are reflected in the Atom editor? 
 
 Back in November we ran the first scholarly comms meetup with a focus on product management. There are lots of great meet ups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies.
 
