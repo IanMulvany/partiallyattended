@@ -2011,11 +2011,6 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/categories/draft/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://partiallyattended.com/categories/drinks/</loc>
     <lastmod>2010-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2724,6 +2719,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/meetup/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/megajournals/</loc>
     <lastmod>2012-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2822,11 +2822,6 @@
   <url>
     <loc>http://partiallyattended.com/categories/new-york/</loc>
     <lastmod>2009-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/newtag/</loc>
     <priority>0</priority>
   </url>
   
@@ -3271,6 +3266,11 @@
   <url>
     <loc>http://partiallyattended.com/categories/sankey-diagrams/</loc>
     <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/scholarly-comms/</loc>
     <priority>0</priority>
   </url>
   
