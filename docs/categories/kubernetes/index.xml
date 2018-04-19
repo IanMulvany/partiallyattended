@@ -6,10 +6,21 @@
     <description>Recent content in Kubernetes on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Where should you host your Kubernetes solution?</title>
+      <link>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</guid>
+      <description>I previously Kicked the tyres on kubernetes, with an example of how to deploy it onto Google’s infrastructure, but if you want to scale out and start dong some real work with this piece of infrastructure where should you go to have a hosted Kubernetes solution?
+I honestly don’t have an answer to that. The Kubernetes site provides a large list of providers.
+A friend of mine has been considering between https://stackpoint.</description>
+    </item>
     
     <item>
       <title>Kubernetes - As I Learn</title>

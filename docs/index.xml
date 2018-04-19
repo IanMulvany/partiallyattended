@@ -22,6 +22,17 @@ Things I liked  writing was responsive pressure sensitivity worked well two peop
     </item>
     
     <item>
+      <title>Where should you host your Kubernetes solution?</title>
+      <link>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</guid>
+      <description>I previously Kicked the tyres on kubernetes, with an example of how to deploy it onto Google’s infrastructure, but if you want to scale out and start dong some real work with this piece of infrastructure where should you go to have a hosted Kubernetes solution?
+I honestly don’t have an answer to that. The Kubernetes site provides a large list of providers.
+A friend of mine has been considering between https://stackpoint.</description>
+    </item>
+    
+    <item>
       <title>scholarly comms product meetup - V2 - announcement</title>
       <link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
