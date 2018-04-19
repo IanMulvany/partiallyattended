@@ -21,6 +21,31 @@
  
   
     <article class="post-preview">
+  <a href="http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/">
+      <h1 class="post-title">python - running commands from within a directory</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 19, 2018</div>
+
+<div class="post-entry">
+    <p>
+        A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
+from subprocess import Popen, PIPE import os import sys class cd: &quot;&quot;&quot;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &quot;&quot;&quot; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&quot;~/blog/partiallyattended&quot;): title = new_post.title process = subprocess.
+        <a href="http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+       <a href="/categories/asilearn">asilearn</a>, <a href="/categories/python">python</a>
+  </div>
+
+</article>
+
+  
+    <article class="post-preview">
   <a href="http://partiallyattended.com/2017/09/13/moving_from_jekyll_to_hugo_-_urls/">
       <h1 class="post-title">Moving from Jekyll to Hugo - urls</h1>
 

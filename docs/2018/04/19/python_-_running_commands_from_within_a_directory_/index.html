@@ -1,0 +1,66 @@
+<htlml>
+<head>
+  <base href='http://partiallyattended.com'>
+  
+  <link rel='canonical' href='http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='Partially Attended' />
+  <link rel='stylesheet' href="http://partiallyattended.com/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="http://partiallyattended.com">home</a> |
+  <a href="http://partiallyattended.com/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+<article id="content">
+
+<h1 class="post-title">python - running commands from within a directory</h1>
+
+<section>
+      <h4 id="date"> Thu Apr 19, 2018 </h4>
+      <h5 id="wordcount"> 76 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Tags:
+                           <a href="/categories/asilearn">asilearn</a>, <a href="/categories/python">python</a>
+</div>
+
+<div>
+          <p>A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by <a href="https://stackoverflow.com/users/19212/brian-m-hunt">Brian Hunt.</a></p>
+
+<pre><code class="language-python">from subprocess import Popen, PIPE
+import os
+import sys
+
+class cd:
+&quot;&quot;&quot;Context manager for changing the current working directory
+see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python
+&quot;&quot;&quot;
+def __init__(self, newPath):
+self.newPath = os.path.expanduser(newPath)
+
+def __enter__(self):
+self.savedPath = os.getcwd()
+os.chdir(self.newPath)
+
+def __exit__(self, etype, value, traceback):
+os.chdir(self.savedPath)
+
+with cd(&quot;~/blog/partiallyattended&quot;):
+title = new_post.title
+process = subprocess.call([&quot;git&quot;, &quot;commit&quot;, &quot;-m&quot;,&quot;`new post: `&quot;+title], stdout=subprocess.PIPE)
+</code></pre>
+
+ </div>
+ </article>
+
+
+
+</body>
+</html>
+

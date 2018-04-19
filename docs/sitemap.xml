@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -3149,7 +3154,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/python/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3538,13 +3543,13 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/tags/</loc>
+    <loc>http://partiallyattended.com/categories/tags/</loc>
+    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/categories/tags/</loc>
-    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
+    <loc>http://partiallyattended.com/tags/</loc>
     <priority>0</priority>
   </url>
   
