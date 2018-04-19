@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2018/04/19/microsoft_surface_hub_-_very_first_impressions/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -1830,6 +1835,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/collaboration/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/command-line/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2760,6 +2771,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/microsoft/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/moblog/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2941,7 +2958,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3037,7 +3054,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3612,7 +3629,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/tools/</loc>
-    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
