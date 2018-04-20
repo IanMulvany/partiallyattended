@@ -3,6 +3,7 @@
 This is my blog
 
 # TODO
+- fix formatting for code examples,see https://github.com/IanMulvany/Hugo-blog-tools/issues/1 
 - set media queries for ipad, and desktop
 - make code examples go to full width in narrow views
 - fix the broken homepage link
