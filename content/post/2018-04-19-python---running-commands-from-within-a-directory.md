@@ -1,5 +1,5 @@
 ---
-title: python - running commands from within a directory 
+title: python - running commands from within a directory
 url: 2018/04/19/python_-_running_commands_from_within_a_directory_/
 date: 2018-04-19T00:00:00Z
 categories:
@@ -15,21 +15,21 @@ import os
 import sys
 
 class cd:
-"""Context manager for changing the current working directory
-see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python
-"""
-def __init__(self, newPath):
-self.newPath = os.path.expanduser(newPath)
+  """Context manager for changing the current working directory
+  see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python
+  """
+  def __init__(self, newPath):
+    self.newPath = os.path.expanduser(newPath)
 
-def __enter__(self):
-self.savedPath = os.getcwd()
-os.chdir(self.newPath)
+  def __enter__(self):
+  self.savedPath = os.getcwd()
+    os.chdir(self.newPath)
 
-def __exit__(self, etype, value, traceback):
-os.chdir(self.savedPath)
+  def __exit__(self, etype, value, traceback):
+    os.chdir(self.savedPath)
 
 with cd("~/blog/partiallyattended"):
-title = new_post.title
-process = subprocess.call(["git", "commit", "-m","`new post: `"+title], stdout=subprocess.PIPE)
+  title = new_post.title
+  process = subprocess.call(["git", "commit", "-m","`new post: `"+title], \
+  stdout=subprocess.PIPE)
 ```
-
