@@ -296,23 +296,22 @@ Do you want to continue (Y/n)?  Y
 <h3 id="other-commands-i-have-found-useful">Other commands I have found useful</h3>
 
 <p>There are a bunch of other commands that I found useful, but didn&rsquo;t get the time to writeup here.</p>
-
-<pre><code class="language-bash">kubectl config current-context  
-kubectl describe --namespace=hub-no-auth pod hub-deployment-3311999561-w53zz  
-kubectl --namespace=jupyterhub-noauth get svc proxy-public  
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span>kubectl config current-context  
+kubectl describe --namespace<span style="color: #f92672">=</span>hub-no-auth pod hub-deployment-3311999561-w53zz  
+kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-noauth get svc proxy-public  
 kubectl get nodes --show-labels  
-kubectl --namespace=jupyterhub-test edit deployment  
-kubectl --namespace=jupyterhub-test describe all  
-kubectl --namespace=jupyterhub-test describe  
-kubectl --namespace=jupyterhub-test get values  
-kubectl get pods -l purpose=demonstrate-envars  
+kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-test edit deployment  
+kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-test describe all  
+kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-test describe  
+kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-test get values  
+kubectl get pods -l <span style="color: #f8f8f2">purpose</span><span style="color: #f92672">=</span>demonstrate-envars  
 kubectl get pods -l  
-kubectl --namespace=testhub exec -it hub-deployment-1369850868-c4bv6  /bin/bash  
-kubectl --namespace=testhub get pod -o yaml | grep &quot;image&quot;  
-kubectl --namespace=testhub delete deployment hub-deployment
+kubectl --namespace<span style="color: #f92672">=</span>testhub <span style="color: #f8f8f2">exec</span> -it hub-deployment-1369850868-c4bv6  /bin/bash  
+kubectl --namespace<span style="color: #f92672">=</span>testhub get pod -o yaml <span style="color: #f8f8f2">|</span> grep <span style="color: #e6db74">&quot;image&quot;</span>  
+kubectl --namespace<span style="color: #f92672">=</span>testhub delete deployment hub-deployment
 helm list  
-kubectl --namespace=testhub get pod -o yaml | grep &quot;hub&quot;
-</code></pre>
+kubectl --namespace<span style="color: #f92672">=</span>testhub get pod -o yaml <span style="color: #f8f8f2">|</span> grep <span style="color: #e6db74">&quot;hub&quot;</span>
+</pre></div>
 
  </div>
  </article>
