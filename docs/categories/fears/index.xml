@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Future on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/future/</link>
-    <description>Recent content in Future on Partially Attended</description>
+    <title>Fears on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/fears/</link>
+    <description>Recent content in Fears on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://partiallyattended.com/categories/future/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/fears/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,21 +19,6 @@
       <guid>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</guid>
       <description>I’m reading through Anil Dash’s great blog post looking back at the way the web used to be in terms of how we thought of it, and how it was implemented. (As an aside, I’m deeply fascinated by Glitch, but have not had the time to date to spend on it that I would have wished).
 In addition to his comment about how websites are now assembled, component by component, there is another aspect to modern development that I’ve strongly noticed, and that is of specialisation.</description>
-    </item>
-    
-    <item>
-      <title>The robots are coming, the promise and perils of AI - questions</title>
-      <link>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</link>
-      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</guid>
-      <description>I&amp;rsquo;m at the Charleston conference, my first time, and we had a panel discussion this morning talking about AI.
-On the panel were:
-Heather Staines Director of Partnerships, Hypothes.is
-Peter Brantley Director of Online Strategy, UC Davis
-Elizabeth Caley Chief of Staff, Meta, Chan Zuckerberg Initiative
-Ruth Pickering Co-founder and Chief Strategy Officer, Yewno
-and myself. It was a pleasure to be on a panel with these amazing people.</description>
     </item>
     
   </channel>
