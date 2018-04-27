@@ -6,10 +6,23 @@
     <description>Recent content in Discovery on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/discovery/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI and discovery tools</title>
+      <link>http://partiallyattended.com/2018/04/27/ai_and_discovery_tools/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/04/27/ai_and_discovery_tools/</guid>
+      <description>I got asked to contribute an answer to an upcoming feature looking at trends in scholarly discovery.
+There are four questions and I’ve been asked to think about an answer to the last of these four.
+ In a sentence or two, please tell us what you understand is meant by &amp;lsquo;discovery&amp;rsquo;?
+For a researcher, how has the discovery experience developed in recent years?
+How can researchers decide which tools are going to do the right job for them?</description>
+    </item>
     
     <item>
       <title>Futurepub10</title>
