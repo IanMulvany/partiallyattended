@@ -4,6 +4,8 @@ html {
   font-size: 7px;
 }
 
+
+
 body {
   width: 70%;
   margin: 0 auto;
@@ -13,6 +15,7 @@ body {
 article {
   font-size: 3.5rem;
 }
+
 
 article .post-title {
   font-size: 4.5rem;

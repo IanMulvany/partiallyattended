@@ -32,7 +32,7 @@ What I think is changing now is the power and availability of AI tools as a serv
 
 With all of the above in mind I have two predictions for how AI will affect search and discovery over the coming two years. 
 
-We will see more new start-ups, or new tools like Yewnow and https://www.sparrho.com come to market as the barrier to creating AI driven proofs of concept come down, however over that timeframe it will be hard to determine whether any of these new entrants will have real immediate impact on researcher behaviours. I would be shocked if some of these new tools don’t have a chatbot like interface. 
+We will see more new start-ups, or new tools like [Yewno](https://about.yewno.com) and https://www.sparrho.com come to market as the barrier to creating AI driven proofs of concept come down, however over that timeframe it will be hard to determine whether any of these new entrants will have real immediate impact on researcher behaviours. I would be shocked if some of these new tools don’t have a chatbot like interface. 
 
 On the other hand, existing tools and discovery providers will continue to improve their algorithms, and refine the quality of their search results. Google scholar is already doing this with it’s “related search“ feature and Europe PMC just announced a collaboration with Unpaywall [a collaboraiton with Unpayall](http://blog.europepmc.org/2018/04/unlocking-open-europe-pmc-integrates.html). This latter is not directly an AI service — yet, but I predict that such classes of service will benefit from machine learning algorithms to help identify types of content. 
 
