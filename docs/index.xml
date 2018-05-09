@@ -6,10 +6,20 @@
     <description>Recent content on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Some initial thoughts on the Google Duplex demo</title>
+      <link>http://partiallyattended.com/2018/05/09/some_initial_thoughts_on_the_google_duplex_demo/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/05/09/some_initial_thoughts_on_the_google_duplex_demo/</guid>
+      <description>The Verge also covered this well: www.theverge.com/2018/5/9/17334658/google-ai-phone-call-assistant-duplex-ethical-social-implications and they have a quote from Joanna Bryson, who talked at SAGE just before Christmas. Her quote is finished out with the following.
+ There are no obvious answers to these questions, but as Bryson points out, Google is at least doing the world a service by bringing attention to this technology. It’s not the only company developing these services, and it certainly won’t be the only one to use them.</description>
+    </item>
     
     <item>
       <title>choice magazine podcast Questions</title>
