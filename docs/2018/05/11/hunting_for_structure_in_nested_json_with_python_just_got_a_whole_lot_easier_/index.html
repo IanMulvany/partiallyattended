@@ -1,0 +1,59 @@
+<htlml>
+<head>
+  <base href='http://partiallyattended.com'>
+  
+  <link rel='canonical' href='http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='Partially Attended' />
+  <link rel='stylesheet' href="http://partiallyattended.com/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="http://partiallyattended.com">home</a> |
+  <a href="http://partiallyattended.com/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+<article id="content">
+
+<h1 class="post-title">Hunting for structure in nested JSON with python just got a whole lot easier</h1>
+
+<section>
+      <h4 id="date"> Fri May 11, 2018 </h4>
+      <h5 id="wordcount"> 274 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Tags:
+                           <a href="/categories/asilearn">asilearn</a>, <a href="/categories/python">python</a>, <a href="/categories/python">python</a>, <a href="/categories/glom">glom</a>, <a href="/categories/json">json</a>, <a href="/categories/programming">programming</a>, <a href="/categories/tips">tips</a>
+</div>
+
+<div>
+          <p>A very common python task that I find myself stumbling over repeatedly is trying to get the syntax right to address or retrieve a specific value to a key in a dented JSON document, in particular if that key is some way down the tree.</p>
+
+<p>I’ve just found the library <a href="https://github.com/mahmoud/glom">https://github.com/mahmoud/glom</a> which is written up really nicely here:  <a href="https://sedimental.org/glom_restructured_data.html">https://sedimental.org/glom_restructured_data.html</a></p>
+
+<p>Before looking at this modele in detail I had thought that I could pass a reference to a key to glom without specifying its location fully in the structure of the input file, but after looking at this for a moment it became clear that this is not what it does, but rather is good at helping to remap nested data structures into new structures, and accessing the data you want via path like queries.</p>
+
+<p>I immediately thought about jmsepath, and I was wondering what the different is between the two. Just as I got to that thought  <a href="https://sedimental.org/glom_restructured_data.html">https://sedimental.org/glom_restructured_data.html</a>
+Answered my question</p>
+
+<blockquote>
+<p>With glom, you have full access to Python at any given moment. Pass values to functions, whether built-in, imported, or defined inline with lambda. But glom doesn&rsquo;t stop there</p>
+</blockquote>
+
+<p>It seems the key idea is that you can include native python expressions in your query, giving you a more powerful query language, than jmsepath or jq.</p>
+
+<p>From reading the above doc I didn’t quite get an example of this working, so I don’t fully understand it, but I <em>think</em> it looks promising. If I have any heavy lifting JSON or JSON transformations to do in the future from within python I will try to remember to come back and give this a go.</p>
+
+ </div>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+
+ </article>
+
+</body>
+</html>
+

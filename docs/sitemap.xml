@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/05/09/some_initial_thoughts_on_the_google_duplex_demo/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
   </url>
@@ -1644,7 +1649,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/asilearn/</loc>
-    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2351,6 +2356,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/glom/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/goals/</loc>
     <lastmod>2014-03-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2617,6 +2628,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/jisc/</loc>
     <lastmod>2011-03-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/json/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3018,7 +3035,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3114,7 +3131,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3168,7 +3185,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/programming/</loc>
-    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3198,7 +3215,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/python/</loc>
-    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3672,6 +3689,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/time/</loc>
     <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/tips/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

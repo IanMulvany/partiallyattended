@@ -194,7 +194,7 @@
     <item>
       <title>Asilearn</title>
       <link>http://partiallyattended.com/categories/asilearn/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/asilearn/</guid>
       <description></description>
@@ -1245,6 +1245,15 @@
     </item>
     
     <item>
+      <title>Glom</title>
+      <link>http://partiallyattended.com/categories/glom/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/glom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Goals</title>
       <link>http://partiallyattended.com/categories/goals/</link>
       <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
@@ -1646,6 +1655,15 @@
       <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/jisc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>http://partiallyattended.com/categories/json/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/json/</guid>
       <description></description>
     </item>
     
@@ -2453,7 +2471,7 @@
     <item>
       <title>Programming</title>
       <link>http://partiallyattended.com/categories/programming/</link>
-      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/programming/</guid>
       <description></description>
@@ -2498,7 +2516,7 @@
     <item>
       <title>Python</title>
       <link>http://partiallyattended.com/categories/python/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/python/</guid>
       <description></description>
@@ -3203,6 +3221,15 @@
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>http://partiallyattended.com/categories/tips/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/tips/</guid>
       <description></description>
     </item>
     

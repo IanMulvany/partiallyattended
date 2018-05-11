@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glom on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/glom/</link>
+    <description>Recent content in Glom on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/glom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hunting for structure in nested JSON with python just got a whole lot easier</title>
+      <link>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</guid>
+      <description>A very common python task that I find myself stumbling over repeatedly is trying to get the syntax right to address or retrieve a specific value to a key in a dented JSON document, in particular if that key is some way down the tree.
+I’ve just found the library https://github.com/mahmoud/glom which is written up really nicely here: https://sedimental.org/glom_restructured_data.html
+Before looking at this modele in detail I had thought that I could pass a reference to a key to glom without specifying its location fully in the structure of the input file, but after looking at this for a moment it became clear that this is not what it does, but rather is good at helping to remap nested data structures into new structures, and accessing the data you want via path like queries.</description>
+    </item>
+    
+  </channel>
+</rss>
