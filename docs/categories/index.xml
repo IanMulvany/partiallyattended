@@ -680,9 +680,18 @@
     <item>
       <title>Data</title>
       <link>http://partiallyattended.com/categories/data/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Citation</title>
+      <link>http://partiallyattended.com/categories/data-citation/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/data-citation/</guid>
       <description></description>
     </item>
     
@@ -1106,6 +1115,15 @@
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Force11</title>
+      <link>http://partiallyattended.com/categories/force11/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/force11/</guid>
       <description></description>
     </item>
     
