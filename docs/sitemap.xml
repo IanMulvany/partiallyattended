@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/05/16/us_phone_companies_are_selling_your_real_time_location_data._/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
@@ -1665,6 +1670,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/architecture/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/arxiv/</loc>
     <lastmod>2011-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2080,7 +2091,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/docker/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3525,7 +3536,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/software/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
