@@ -24,6 +24,31 @@
             
             
               <article class="post-preview">
+  <a href="http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/">
+      <h1 class="post-title">python - running commands from within a directory</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 19, 2018</div>
+
+<div class="post-entry">
+    <p>
+        A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
+from subprocess import Popen, PIPE import os import sys class cd: &quot;&quot;&quot;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &quot;&quot;&quot; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&quot;~/blog/partiallyattended&quot;): title = new_post.title process = subprocess.
+        <a href="http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+       <a href="/categories/asilearn">asilearn</a>, <a href="/categories/python">python</a>
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
   <a href="http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/">
       <h1 class="post-title">scholarly comms product meetup - V2 - announcement</h1>
 
@@ -250,32 +275,6 @@ They can look at survival rates for edits. If an edit survives for 48 hours, the
   <div class="post-entry-tags">
       Tags: 
        <a href="/categories/ic12s2">ic12s2</a>, <a href="/categories/computational-social-science">computational social science</a>, <a href="/categories/conference">conference</a>
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/">
-      <h1 class="post-title">ic2s2 Wednesday morning keynotes</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">July 12, 2017</div>
-
-<div class="post-entry">
-    <p>
-        IC2s2 Wednesday Morning Keynotes Cecliia Mascolo - human behaviour studies through the lens of mobile sensing and complex networks She has been involved for many years in making and deploying sensors. The talk today will look at work they have been doing on foursquare data.
-In London they have data of about 0.5M check-ins over nine months over about 40k users.
-They also have social network data for these people, so they can connect their social network with the geo-spatial behaviour of these people.
-        <a href="http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-       <a href="/categories/ic2s2">ic2s2</a>, <a href="/categories/computational-social-science">computational social science</a>, <a href="/categories/conference">conference</a>
   </div>
 
 </article>
