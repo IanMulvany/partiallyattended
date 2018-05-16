@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2018/05/16/google_employees_resigning_in_protest_at_potential_militarisation_of_ai_/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</loc>
     <lastmod>2018-05-11T00:00:00+00:00</lastmod>
   </url>
@@ -1534,6 +1539,14 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/projects/2010-medeley/</loc>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/projects/2012-fluidinfo/</loc>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/1am/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2171,7 +2184,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/ethics/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2375,7 +2388,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/google/</loc>
-    <lastmod>2012-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3035,7 +3048,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3131,7 +3144,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3186,6 +3199,11 @@
   <url>
     <loc>http://partiallyattended.com/categories/programming/</loc>
     <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/projects/</loc>
     <priority>0</priority>
   </url>
   
