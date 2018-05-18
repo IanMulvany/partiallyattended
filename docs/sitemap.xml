@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/05/16/a_new_new_way_to_make_biological_data_more_easily_citable_/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
@@ -1902,6 +1907,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/citizen-science/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/climbing/</loc>
     <lastmod>2015-02-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1969,7 +1980,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/cool/</loc>
-    <lastmod>2010-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2179,7 +2190,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/elife/</loc>
-    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2479,7 +2490,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/hackathon/</loc>
-    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2934,6 +2945,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/mozilla/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/mp4/</loc>
     <lastmod>2010-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3043,7 +3060,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/open-science/</loc>
-    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3097,7 +3114,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3193,7 +3210,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
