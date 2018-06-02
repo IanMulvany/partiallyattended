@@ -1,5 +1,5 @@
 ---
-title: The Guardian view on digitising culture: make manuscripts more illuminating | Editorial | Opinion | The Guardian
+title: The Guardian view on digitising culture - make manuscripts more illuminating
 url: 2018/06/02/The_Guardian_view_on_digitising_culture
 date: 2018-06-02T00:00:00Z
 categories:
