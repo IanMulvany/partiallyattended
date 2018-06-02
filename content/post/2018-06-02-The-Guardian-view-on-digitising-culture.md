@@ -8,6 +8,6 @@ categories:
 - data
 - images
 ---
-a nice description of IIF from the guardian. 
+a nice description of IIIF from the guardian. 
 
 <a href=https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating>https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating</a>
