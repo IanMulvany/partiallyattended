@@ -113,7 +113,7 @@
     <item>
       <title>Altmetrics</title>
       <link>http://partiallyattended.com/categories/altmetrics/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/altmetrics/</guid>
       <description></description>
@@ -320,7 +320,7 @@
     <item>
       <title>Blog</title>
       <link>http://partiallyattended.com/categories/blog/</link>
-      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/blog/</guid>
       <description></description>
@@ -516,6 +516,15 @@
     </item>
     
     <item>
+      <title>Citizenscience</title>
+      <link>http://partiallyattended.com/categories/citizenscience/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/citizenscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Climbing</title>
       <link>http://partiallyattended.com/categories/climbing/</link>
       <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
@@ -617,7 +626,7 @@
     <item>
       <title>Cool</title>
       <link>http://partiallyattended.com/categories/cool/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/cool/</guid>
       <description></description>
@@ -689,7 +698,7 @@
     <item>
       <title>Data</title>
       <link>http://partiallyattended.com/categories/data/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/data/</guid>
       <description></description>
@@ -737,6 +746,15 @@
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datascience</title>
+      <link>http://partiallyattended.com/categories/datascience/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/datascience/</guid>
       <description></description>
     </item>
     
@@ -1551,6 +1569,15 @@
     </item>
     
     <item>
+      <title>Iiif</title>
+      <link>http://partiallyattended.com/categories/iiif/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/iiif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Image</title>
       <link>http://partiallyattended.com/categories/image/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -1562,7 +1589,7 @@
     <item>
       <title>Images</title>
       <link>http://partiallyattended.com/categories/images/</link>
-      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/images/</guid>
       <description></description>
@@ -2145,6 +2172,15 @@
     </item>
     
     <item>
+      <title>Neuroscience</title>
+      <link>http://partiallyattended.com/categories/neuroscience/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New York</title>
       <link>http://partiallyattended.com/categories/new-york/</link>
       <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
@@ -2258,6 +2294,15 @@
       <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/openaccess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openscience</title>
+      <link>http://partiallyattended.com/categories/openscience/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/openscience/</guid>
       <description></description>
     </item>
     
@@ -2462,7 +2507,7 @@
     <item>
       <title>Presentation</title>
       <link>http://partiallyattended.com/categories/presentation/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/presentation/</guid>
       <description></description>
@@ -2525,7 +2570,7 @@
     <item>
       <title>Programming</title>
       <link>http://partiallyattended.com/categories/programming/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/programming/</guid>
       <description></description>
@@ -2570,7 +2615,7 @@
     <item>
       <title>Python</title>
       <link>http://partiallyattended.com/categories/python/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/python/</guid>
       <description></description>
@@ -2813,7 +2858,7 @@
     <item>
       <title>Science</title>
       <link>http://partiallyattended.com/categories/science/</link>
-      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/science/</guid>
       <description></description>
@@ -2852,6 +2897,15 @@
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/science2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scienceontheweb</title>
+      <link>http://partiallyattended.com/categories/scienceontheweb/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/scienceontheweb/</guid>
       <description></description>
     </item>
     
@@ -2906,6 +2960,15 @@
       <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/serendipity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>http://partiallyattended.com/categories/shell/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/shell/</guid>
       <description></description>
     </item>
     
@@ -3122,6 +3185,15 @@
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strata</title>
+      <link>http://partiallyattended.com/categories/strata/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/strata/</guid>
       <description></description>
     </item>
     
@@ -3432,6 +3504,15 @@
     </item>
     
     <item>
+      <title>Utilities</title>
+      <link>http://partiallyattended.com/categories/utilities/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/utilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ux</title>
       <link>http://partiallyattended.com/categories/ux/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
@@ -3473,6 +3554,15 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://partiallyattended.com/categories/web-development/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/web-development/</guid>
       <description></description>
     </item>
     

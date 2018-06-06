@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scienceontheweb on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/scienceontheweb/</link>
+    <description>Recent content in Scienceontheweb on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/scienceontheweb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Backyard Brains</title>
+      <link>http://partiallyattended.com/2018/06/06/about_backyard_brains/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/about_backyard_brains/</guid>
+      <description>https://backyardbrains.com/about/</description>
+    </item>
+    
+    <item>
+      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
+      <link>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
+https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+    </item>
+    
+    <item>
+      <title>About Backyard Brains</title>
+      <link>http://partiallyattended.com/2018/06/02/about_backyard_brains/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/about_backyard_brains/</guid>
+      <description>https://backyardbrains.com/about/</description>
+    </item>
+    
+    <item>
+      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
+      <link>http://partiallyattended.com/2018/06/02/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
+https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+    </item>
+    
+  </channel>
+</rss>

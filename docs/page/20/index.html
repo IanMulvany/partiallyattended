@@ -24,43 +24,19 @@
             
             
               <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/04/12/adding-a-tag-cloud-to-blogger/">
-      <h1 class="post-title">Adding a tag cloud to blogger</h1>
+  <a href="http://partiallyattended.com/2009/07/29/swine-flu-t-shirts/">
+      <h1 class="post-title">Swine flu t-shirts</h1>
 
       
   </a>
 
   <p class="post-meta">
-    <div class="post-date">April 12, 2009</div>
+    <div class="post-date">July 29, 2009</div>
 
 <div class="post-entry">
     <p>
-        I've been thinking about neat ways to make blogs approach research articles; about how to make some of the core features of a journal be more apparent in a blog, which has led me to think about blogger widgets. That led me to the Phydeaux3 blog where there is a kick ass implementation of a widget to display a tag cloud for blogger. Hopefully you can see that it works pretty well.
-        <a href="http://partiallyattended.com/2009/04/12/adding-a-tag-cloud-to-blogger/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-       <a href="/categories/tags">tags</a>, <a href="/categories/blogger">blogger</a>, <a href="/categories/tag-cloud">tag cloud</a>, <a href="/categories/widget">widget</a>
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/04/12/getting-listed-on-nature-blogs/">
-      <h1 class="post-title">Getting listed on nature blogs</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">April 12, 2009</div>
-
-<div class="post-entry">
-    <p>
-        I'm gittin meself listed on nature blogs. I better whup this blog back into shape first though.
-        <a href="http://partiallyattended.com/2009/04/12/getting-listed-on-nature-blogs/" class="post-read-more">... (more)</a>
+        I&#39;m sitting at home in London with a head cold. For the dew minutes it took me to check my temperature (37 thank you very much) I was wondering whether it might be the old swine flu, but no, just a normal head cold.Made me think, someone should make a t-shirt with a biometric sensor that checks on true wearers&#39; temperature. No fever and it would say &quot;don&#39;t worry it&#39;s only a cold&quot;.
+        <a href="http://partiallyattended.com/2009/07/29/swine-flu-t-shirts/" class="post-read-more">... (more)</a>
     </p>
 </div>
   <div class="post-entry-tags">
@@ -72,45 +48,24 @@
 
             
               <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/04/12/testing-latex-and-syntax-hilighting-on-blogger/">
-      <h1 class="post-title">testing latex and syntax hilighting on blogger</h1>
+  <a href="http://partiallyattended.com/2009/06/11/fluid-dynamics-in-the-browser/">
+      <h1 class="post-title">Fluid Dynamics in the Browser</h1>
 
       
   </a>
 
   <p class="post-meta">
-    <div class="post-date">April 12, 2009</div>
+    <div class="post-date">June 11, 2009</div>
 
 <div class="post-entry">
     <p>
-        Some python code some links http://www.ramymostafa.com/?p=99
-http://alexgorbatchev.com/wiki/SyntaxHighlighter
-http://www.botcyb.org/2008/10/rendering-latex-in-blogger.html
-http://blog.yourequations.com/
-Syntaxhiligher2 (unreliable)
-def AuthenticateSession(username,password):
-blogger_service = service.GDataService(username,password)
-blogger_service.source = 'mulvanynet-BloggerTagger-1.0'
-blogger_service.service = 'blogger'
-blogger_service.server = 'www.blogger.com'
-blogger_service.ProgrammaticLogin()
-return blogger_service
-def PrintUserBlogInfo(blogger_service):
-query = service.Query()
-query.feed = '/feeds/default/blogs'
-feed = blogger_service.Get(query.ToUri())
-blog_id = feed.entry[0].GetSelfLink().href.split("/")[-1]
-print feed.title.text
-print blog_id
-for entry in feed.entry:
-print "\t" + entry.title.text,
-print entry.GetSelfLink().href.split("/")[-1]
-def GetBlogFeed(blogger_service):
-query = service.Query()
-query.feed = "/feeds/default/blogs"
-feed = blogger_service.Get(query.ToUri())
-return feed
-        <a href="http://partiallyattended.com/2009/04/12/testing-latex-and-syntax-hilighting-on-blogger/" class="post-read-more">... (more)</a>
+        The Navier-Stokes equations:
+\frac{\partial \mathbf{v}}{\partial t} + ( \mathbf{v}\cdot\nabla ) \mathbf{v} = -\nabla p + \nu\Delta \mathbf{v} +\mathbf{f}(\boldsymbol{x},t)
+
+\frac{\partial \mathbf{v}}{\partial t} + ( \mathbf{v}\cdot\nabla ) \mathbf{v} = -\nabla p + \nu\Delta \mathbf{v} +\mathbf{f}(\boldsymbol{x},t)
+
+Describe the flow of an incompressible fluid. The equations are non-linear and are notoriously difficult to solve. I've always found them to be very beautiful and the fact that Sr George Stokes was an Irishman probably had some effect on my taking to the subject when I was an undergrad.
+        <a href="http://partiallyattended.com/2009/06/11/fluid-dynamics-in-the-browser/" class="post-read-more">... (more)</a>
     </p>
 </div>
   <div class="post-entry-tags">
@@ -122,186 +77,193 @@ return feed
 
             
               <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/03/10/i-woke-up-today-and-git-svn-was-broken./">
-      <h1 class="post-title">I woke up today and git-svn was broken.</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">March 10, 2009</div>
-
-<div class="post-entry">
-    <p>
-        Odd, it was working last time I used it. Today I got the following error
-git svn
-IO object version 1.22 does not match bootstrap parameter 1.23 at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/XSLoader.pm line 94.
-Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Handle.pm line 263.
-BEGIN failed--compilation aborted at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Handle.pm line 263.
-Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Seekable.pm line 101.
-BEGIN failed--compilation aborted at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Seekable.pm line 101.
-Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/File.pm line 133.
-BEGIN failed--compilation aborted at /System/Library/Perl/5.
-        <a href="http://partiallyattended.com/2009/03/10/i-woke-up-today-and-git-svn-was-broken./" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/03/09/rail-in-the-uk-is-really-pretty-shitty/">
-      <h1 class="post-title">Rail in the UK is really pretty shitty</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">March 9, 2009</div>
-
-<div class="post-entry">
-    <p>
-        Last month I bought some rail tickets online, and got to London Bridge only to be told that I had to go to Liverpool Street in order to print out the tickets. Five minutes before my train was due to depart. I had to buy a new set of tickets for that days journey, and get up extra early the next day to make it to Liverpool street to print out my tickets.
-        <a href="http://partiallyattended.com/2009/03/09/rail-in-the-uk-is-really-pretty-shitty/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/03/02/five-places-to-eat-in-new-york-mmmmm/">
-      <h1 class="post-title">Five places to eat in New York, mmmmm</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">March 2, 2009</div>
-
-<div class="post-entry">
-    <p>
-        Five places to eat in New York,
-I used to live in New York a good few years ago, and now when friends ofmine are about to go there they sometimes ask me about what to do there. Ikeep trying to think of great places to go in the city, so here is a shortlist of five of my favorite places to eat in New York. Not fancy, notexhaustive, just five places that I remember fondly now that I look back onmy time there.
-        <a href="http://partiallyattended.com/2009/03/02/five-places-to-eat-in-new-york-mmmmm/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-       <a href="/categories/new-york">New York</a>, <a href="/categories/flickr">flickr</a>, <a href="/categories/restaurant">restaurant</a>
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/03/02/other-tips-for-new-york/">
-      <h1 class="post-title">other tips for new york</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">March 2, 2009</div>
-
-<div class="post-entry">
-    <p>
-        Also Mona's bar on 13th and b (a bit of a dive, but all the better for it)
-The east village/alphabet street areas have great bars, there used to be one called the drugstore.
-Best Bagel: H&H on 75thish and broadway
-Ah, sure, it's not a bad wee city.
-Oh, the museums, they are pretty good too.
-The Metropolitan (it's free)
-The Frick Collection
-- Guggenheim (depending what's on)
-        <a href="http://partiallyattended.com/2009/03/02/other-tips-for-new-york/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/02/18/not-a-smart-way-to-do-this./">
-      <h1 class="post-title">Not a smart way to do this.</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">February 18, 2009</div>
-
-<div class="post-entry">
-    <p>
-        I wanted to find out what all of the
-        <a href="http://partiallyattended.com/2009/02/18/not-a-smart-way-to-do-this./" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/02/18/training-diary-catchup/">
-      <h1 class="post-title">Training Diary Catchup</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">February 18, 2009</div>
-
-<div class="post-entry">
-    <p>
-        OK, so, I've fallen off the wagon in terms of climbing training, or in fact training of any kind.
-Last weekend was interesting. I did the introductory PADI course, but the week leading up to the weekend was swamped with work, and all of the nights of this week have filled up too. I think in order to get my running done I am going to have to transition to a morning run a few times a week.
-        <a href="http://partiallyattended.com/2009/02/18/training-diary-catchup/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2009/02/18/unnamed/">
+  <a href="http://partiallyattended.com/2009/05/20/unnamed/">
       <h1 class="post-title">unknown post</h1>
 
       
   </a>
 
   <p class="post-meta">
-    <div class="post-date">February 18, 2009</div>
+    <div class="post-date">May 20, 2009</div>
 
 <div class="post-entry">
     <p>
-        I want to find out what all of the ISSN's are for the publications that are printed by Nature Publishing Group. They list all of their publications on the following page http://www.nature.com/siteindex/index.html.
-awk '{print "curl http://www.nature.com"$1"index.html | grep ISSN"}' nature-journal-links.txt 
-        <a href="http://partiallyattended.com/2009/02/18/unnamed/" class="post-read-more">... (more)</a>
+        In February 2009 a mac security update broke my perl installation. You can read more about that on this Slashdot article (http://hivelogic.com/articles/view/top-10-programming-fonts) , ulimatly forcing me to reinstall my entire system. One of the main reasons for this is that I had a hevily customized perl setup as part of installing Connotea and I based this on top of the system perl. This was a bad idea, but was the quickest way to get Connotea up and running on my local machine at the time.
+        <a href="http://partiallyattended.com/2009/05/20/unnamed/" class="post-read-more">... (more)</a>
     </p>
 </div>
   <div class="post-entry-tags">
       Tags: 
       
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/04/16/another-great-example-of-how-being-lazy-can-reap-great-rewards/">
+      <h1 class="post-title">Another great example of how being lazy can reap great rewards</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 16, 2009</div>
+
+<div class="post-entry">
+    <p>
+        Last year I got really obsessed with the idea of making my google email contacts list, my phone list and my desktop address book all sync together. I couldn&#39;t find a simple to use free application that would do all of this for me. For a while I was using Spanning Sync to keep calendars in sync. I had a Nokia N95, my desktop machine is a mac and my online life is mediated by Google.
+        <a href="http://partiallyattended.com/2009/04/16/another-great-example-of-how-being-lazy-can-reap-great-rewards/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/">
+      <h1 class="post-title">Neat blog on Sankey diagrams.</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 14, 2009</div>
+
+<div class="post-entry">
+    <p>
+        I just noticed a very nice blog dedicated to Sankey diagrams. As Phineas mentions in one post: Sankey diagrams are directed graphs.
+        <a href="http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+       <a href="/categories/graphs">graphs</a>, <a href="/categories/directed-weighted-graphs">directed weighted graphs</a>, <a href="/categories/sankey-diagrams">sankey diagrams</a>
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/">
+      <h1 class="post-title">Why measure scientists and their work?</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 14, 2009</div>
+
+<div class="post-entry">
+    <p>
+        I'm interested in using graph theory to develop tools to improve science (whether I manage to do this is a moot point, I believe that someone will, and that such tools will be useful). One of the questions raised by any effort to introduce new systems that may be used to compare and contrast the work of scientists is whether such systems can have any net benefit when weighed against the potential pressure that they may place on working scientists.
+        <a href="http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/">
+      <h1 class="post-title">notes on &#34;Classes of complex networks deﬁned by role-to-role connectivity proﬁles&#34;</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 14, 2009</div>
+
+<div class="post-entry">
+    <p>
+        Looking for algorithms to do community detection (there are a bunch from the famous Girvan-Newman algorithm doi:10.1073/pnas.122653799 which seems to have gained popularity through being very simple, effiencet and usually pretty powerfull, through to a method doi:10.1103/PhysRevE.71.046117 by Ziv, Middendorf and Wiggins. I have to admit I don't understand that paper yet, but hope to come back to it.) I was pointed to a paper by Guimera, Sales-Pardo and Amaral. In looking for the paper the first one that I found was Classes of complex networks deﬁned by role-to-role connectivity proﬁles on DOI:10.
+        <a href="http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+       <a href="/categories/graphs">graphs</a>, <a href="/categories/network-science">network science</a>, <a href="/categories/modules">modules</a>, <a href="/categories/algorithm">algorithm</a>
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/04/13/directed-graph-blog-setup/">
+      <h1 class="post-title">Directed Graph blog setup.</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 13, 2009</div>
+
+<div class="post-entry">
+    <p>
+        I've decided to use syntaxhiligher2 to do syntax hi-lighting and a call to Yourequations.com for rendering latex on the blog. Bot Cyborg has a good description of how to get this to work on blogger.
+The main advantage of this approach is that the pseudo code is written in the blog posts in plain encased in a pre statement, and the equations are also just vanilla latex in a pre statement.
+        <a href="http://partiallyattended.com/2009/04/13/directed-graph-blog-setup/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+       <a href="/categories/latex">latex</a>, <a href="/categories/centrality">centrality</a>, <a href="/categories/blog">blog</a>, <a href="/categories/equation">equation</a>
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/04/13/grave-of-the-reverend-thomas-bayes/">
+      <h1 class="post-title">Grave of the reverend Thomas Bayes</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 13, 2009</div>
+
+<div class="post-entry">
+    <p>
+        I visited bunhill fields at the weekend. It&#39;s a non conformist graveyard just off of moorgate in London. Over the course of it&#39;s active life over 120,000 people were buried there, in a space a little under four acres. Notable residents include Daniel Defoe and William Blake, but the occupant I was most intrigued to see was Thomas Bayes, the founder of Bayseian statistics. The large tomb contains thebesmains of many members of the Bayes family.
+        <a href="http://partiallyattended.com/2009/04/13/grave-of-the-reverend-thomas-bayes/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/">
+      <h1 class="post-title">Moving over to the googleverse</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">April 13, 2009</div>
+
+<div class="post-entry">
+    <p>
+        Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal domain to google app engine with email being managed by google apps for my domain. http://www.mulvany.net is now a google app engine site. At the moment there is not much content there, but the google app engine tool allows me to run a perfect cop of my site off line, and to edit locally and then push live.
+        <a href="http://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+       <a href="/categories/blog">blog</a>, <a href="/categories/mulvany.net">mulvany.net</a>, <a href="/categories/google">google</a>, <a href="/categories/google-app-engine">google app engine</a>
   </div>
 
 </article>

@@ -6,10 +6,116 @@
     <description>Recent content on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Backyard Brains</title>
+      <link>http://partiallyattended.com/2018/06/06/about_backyard_brains/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/about_backyard_brains/</guid>
+      <description>https://backyardbrains.com/about/</description>
+    </item>
+    
+    <item>
+      <title>Cool slide deck about the advantages of using the shell for data science.</title>
+      <link>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</guid>
+      <description>I love this short presentation on using the shell for data science. Many of the things hat are described in the presentation are just plain useful anyway, searching over csv files, finding things, renaming things.
+https://cdn.oreillystatic.com/en/assets/1/event/267/50%20reasons%20to%20learn%20the%20shell%20for%20doing%20data%20science%20Presentation.pdf</description>
+    </item>
+    
+    <item>
+      <title>How to Visualize an XML Sitemap Using Python - Ayima</title>
+      <link>http://partiallyattended.com/2018/06/06/how_to_visualize_an_xml_sitemap_using_python_-_ayima/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/how_to_visualize_an_xml_sitemap_using_python_-_ayima/</guid>
+      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.
+https://www.ayima.com/blog/how-to-visualize-an-xml-sitemap-using-python.html</description>
+    </item>
+    
+    <item>
+      <title>Impact of Social Sciences – The academic papers researchers regard as significant are not those that are highly cited</title>
+      <link>http://partiallyattended.com/2018/06/06/impact_of_social_sciences__the_academic_papers_researchers_regard_as_significant_are_not_those_that_are_highly_cited/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/impact_of_social_sciences__the_academic_papers_researchers_regard_as_significant_are_not_those_that_are_highly_cited/</guid>
+      <description>http://blogs.lse.ac.uk/impactofsocialsciences/2018/05/14/the-academic-papers-researchers-regard-as-significant-are-not-those-that-are-highly-cited/</description>
+    </item>
+    
+    <item>
+      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
+      <link>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
+https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+    </item>
+    
+    <item>
+      <title>The Guardian view on digitising culture make manuscripts more illuminating | Editorial | Opinion | The Guardian</title>
+      <link>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</guid>
+      <description>a nice description of IIF from the guardian.
+https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating</description>
+    </item>
+    
+    <item>
+      <title>About Backyard Brains</title>
+      <link>http://partiallyattended.com/2018/06/02/about_backyard_brains/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/about_backyard_brains/</guid>
+      <description>https://backyardbrains.com/about/</description>
+    </item>
+    
+    <item>
+      <title>Cool slide deck about the advantages of using the shell for data science.</title>
+      <link>http://partiallyattended.com/2018/06/02/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</guid>
+      <description>I love this short presentation on using the shell for data science. Many of the things hat are described in the presentation are just plain useful anyway, searching over csv files, finding things, renaming things.
+https://cdn.oreillystatic.com/en/assets/1/event/267/50%20reasons%20to%20learn%20the%20shell%20for%20doing%20data%20science%20Presentation.pdf</description>
+    </item>
+    
+    <item>
+      <title>Impact of Social Sciences – The academic papers researchers regard as significant are not those that are highly cited</title>
+      <link>http://partiallyattended.com/2018/06/02/impact_of_social_sciences__the_academic_papers_researchers_regard_as_significant_are_not_those_that_are_highly_cited/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/impact_of_social_sciences__the_academic_papers_researchers_regard_as_significant_are_not_those_that_are_highly_cited/</guid>
+      <description>http://blogs.lse.ac.uk/impactofsocialsciences/2018/05/14/the-academic-papers-researchers-regard-as-significant-are-not-those-that-are-highly-cited/</description>
+    </item>
+    
+    <item>
+      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
+      <link>http://partiallyattended.com/2018/06/02/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
+https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+    </item>
+    
+    <item>
+      <title>The Guardian view on digitising culture - make manuscripts more illuminating</title>
+      <link>http://partiallyattended.com/2018/06/02/the_guardian_view_on_digitising_culture/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/the_guardian_view_on_digitising_culture/</guid>
+      <description>a nice description of IIIF from the guardian.
+https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating</description>
+    </item>
     
     <item>
       <title>eLife Innovation Sprint - appstract.pub</title>

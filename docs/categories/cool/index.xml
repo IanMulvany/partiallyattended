@@ -6,10 +6,50 @@
     <description>Recent content in Cool on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/cool/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
+      <link>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
+https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+    </item>
+    
+    <item>
+      <title>The Guardian view on digitising culture make manuscripts more illuminating | Editorial | Opinion | The Guardian</title>
+      <link>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</guid>
+      <description>a nice description of IIF from the guardian.
+https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating</description>
+    </item>
+    
+    <item>
+      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
+      <link>http://partiallyattended.com/2018/06/02/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
+https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+    </item>
+    
+    <item>
+      <title>The Guardian view on digitising culture - make manuscripts more illuminating</title>
+      <link>http://partiallyattended.com/2018/06/02/the_guardian_view_on_digitising_culture/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/02/the_guardian_view_on_digitising_culture/</guid>
+      <description>a nice description of IIIF from the guardian.
+https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating</description>
+    </item>
     
     <item>
       <title>eLife Innovation Sprint - appstract.pub</title>
