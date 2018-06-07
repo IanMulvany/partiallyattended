@@ -6,10 +6,19 @@
     <description>Recent content in Scienceontheweb on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/scienceontheweb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Knowledge Maps - social science map</title>
+      <link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
+      <description>Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for some time now (originally built on top of Mendeley data). I ran into them again this week as we start to think about how to visualise the relationship between different aspects of research. The one linked to here is for social science and here is one for &amp;ldquo;computational social science&amp;rdquo;: https://openknowledgemaps.org/map/70627a849484345cdfd04c914de0a2e2. Their news pages shows that the project and team are still active, which is great.</description>
+    </item>
     
     <item>
       <title>About Backyard Brains</title>
@@ -26,25 +35,6 @@
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
-      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
-https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
-    </item>
-    
-    <item>
-      <title>About Backyard Brains</title>
-      <link>http://partiallyattended.com/2018/06/02/about_backyard_brains/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/02/about_backyard_brains/</guid>
-      <description>https://backyardbrains.com/about/</description>
-    </item>
-    
-    <item>
-      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
-      <link>http://partiallyattended.com/2018/06/02/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/02/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
       <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
 https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
     </item>

@@ -626,7 +626,7 @@
     <item>
       <title>Cool</title>
       <link>http://partiallyattended.com/categories/cool/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/cool/</guid>
       <description></description>
@@ -1983,6 +1983,15 @@
     </item>
     
     <item>
+      <title>Maps</title>
+      <link>http://partiallyattended.com/categories/maps/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mathjax</title>
       <link>http://partiallyattended.com/categories/mathjax/</link>
       <pubDate>Sun, 20 Nov 2011 00:00:00 +0000</pubDate>
@@ -2903,7 +2912,7 @@
     <item>
       <title>Scienceontheweb</title>
       <link>http://partiallyattended.com/categories/scienceontheweb/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/scienceontheweb/</guid>
       <description></description>
@@ -3047,7 +3056,7 @@
     <item>
       <title>Social Science</title>
       <link>http://partiallyattended.com/categories/social-science/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/social-science/</guid>
       <description></description>
@@ -3536,6 +3545,15 @@
       <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>http://partiallyattended.com/categories/visualisation/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/visualisation/</guid>
       <description></description>
     </item>
     
