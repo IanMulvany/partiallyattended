@@ -12,12 +12,91 @@
     
     
     <item>
+      <title>Adequate statistical power in clinical trials is associated with the combination of a male first author and a female last author.</title>
+      <link>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</guid>
+      <description>So if your last author is female the quality of the science is statistically better. I don&amp;rsquo;t know exactly what to make of this. We also have to understand a bit about the role of last authorship. In life sciences this is usually the corresponding author. I would not be surprised (given the study looks over a 40 year period) that what we are seeing is that women just produce more carful better science, but are being restricted from first authorship positions because of bias.</description>
+    </item>
+    
+    <item>
+      <title>Advanced computing with IPython</title>
+      <link>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
+      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.
+https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
+    </item>
+    
+    <item>
+      <title>After 5 years and $3M, here&#39;s everything we&#39;ve learned from building Ghost</title>
+      <link>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</guid>
+      <description>This is a great overview of how a not for profit open source technology company built a working business providing publishing tools. It speaks to how bad the landscape for publishing tools on the web is.
+Their product was originally created on kickstarter, and I remember when it launched, and being impressed with it back then. They have now pivoted away from trying to server small content individuals and are making money serving needs in the enterprise.</description>
+    </item>
+    
+    <item>
+      <title>Digital Radar - STM landscape</title>
+      <link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
+      <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
+https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zQPRcn76XHKxex7ytdmTKC9nXMPPK0Tv0-hMlSY6xVU%2Fpubhtml</description>
+    </item>
+    
+    <item>
+      <title>Internet Archive, Code for Science and Society, and California Digital Library to Partner on a Data Sharing and Preservation Pilot Project</title>
+      <link>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</guid>
+      <description>Some major players are getting together to trial decentralised data sharing using the Dat protocol - https://datproject.org. Dat for me is one of the dark horses of the infrastructure landscape. It has great power, some amazing developers, has already created some great value, and is still not known by many people yet.
+Also, this is not blockchain based, and yet manages to be decentralised. Those of you who know me will know why that pleases me.</description>
+    </item>
+    
+    <item>
       <title>Open Knowledge Maps - social science map</title>
       <link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
       <description>Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for some time now (originally built on top of Mendeley data). I ran into them again this week as we start to think about how to visualise the relationship between different aspects of research. The one linked to here is for social science and here is one for &amp;ldquo;computational social science&amp;rdquo;: https://openknowledgemaps.org/map/70627a849484345cdfd04c914de0a2e2. Their news pages shows that the project and team are still active, which is great.</description>
+    </item>
+    
+    <item>
+      <title>Strategy in a Lean Enterprise - lean value tree.</title>
+      <link>http://partiallyattended.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</guid>
+      <description>I&amp;rsquo;ve been working with lean value tree as a framework for some time now, but there are few online resources about this. The linked presentation does a great job of giving an overview of the tool. In particular I like how they call out the need to describe the promise of value to the customer, something that we could definitely do more of.
+Another presentation on the same topic is this one: https://www.</description>
+    </item>
+    
+    <item>
+      <title>The Cost of Developers – by Ben Thompson</title>
+      <link>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</guid>
+      <description>This is a fascinating post on what dynamics are in place between large companies and developers. The bottom line is that Microsoft has had to pay a large sum (&amp;gt;$7B) to acquire a developer friendly platform because they currently don&amp;rsquo;t really have one. In contrast Apple has a lot of leverage over developers on iOS, but not on other platforms.
+I&amp;rsquo;m not sure if there is a connection to researchers in the STM space, but some journals certainly have a lot of leverage over researchers.</description>
+    </item>
+    
+    <item>
+      <title>VIPER - The Visual Project Explorer</title>
+      <link>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
+      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.
+https://openknowledgemaps.org/viper/</description>
     </item>
     
     <item>

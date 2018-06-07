@@ -6,10 +6,29 @@
     <description>Recent content in Interesting on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/interesting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adequate statistical power in clinical trials is associated with the combination of a male first author and a female last author.</title>
+      <link>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</guid>
+      <description>So if your last author is female the quality of the science is statistically better. I don&amp;rsquo;t know exactly what to make of this. We also have to understand a bit about the role of last authorship. In life sciences this is usually the corresponding author. I would not be surprised (given the study looks over a 40 year period) that what we are seeing is that women just produce more carful better science, but are being restricted from first authorship positions because of bias.</description>
+    </item>
+    
+    <item>
+      <title>The Cost of Developers – by Ben Thompson</title>
+      <link>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</guid>
+      <description>This is a fascinating post on what dynamics are in place between large companies and developers. The bottom line is that Microsoft has had to pay a large sum (&amp;gt;$7B) to acquire a developer friendly platform because they currently don&amp;rsquo;t really have one. In contrast Apple has a lot of leverage over developers on iOS, but not on other platforms.
+I&amp;rsquo;m not sure if there is a connection to researchers in the STM space, but some journals certainly have a lot of leverage over researchers.</description>
+    </item>
     
     <item>
       <title>STM brainstorming session - 2013</title>

@@ -50,7 +50,7 @@
     <item>
       <title>Agile</title>
       <link>http://partiallyattended.com/categories/agile/</link>
-      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/agile/</guid>
       <description></description>
@@ -410,7 +410,7 @@
     <item>
       <title>Business</title>
       <link>http://partiallyattended.com/categories/business/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/business/</guid>
       <description></description>
@@ -449,6 +449,15 @@
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/cc-by/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cdl</title>
+      <link>http://partiallyattended.com/categories/cdl/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/cdl/</guid>
       <description></description>
     </item>
     
@@ -597,6 +606,15 @@
     </item>
     
     <item>
+      <title>Computing</title>
+      <link>http://partiallyattended.com/categories/computing/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Conference</title>
       <link>http://partiallyattended.com/categories/conference/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
@@ -689,7 +707,7 @@
     <item>
       <title>Dat</title>
       <link>http://partiallyattended.com/categories/dat/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/dat/</guid>
       <description></description>
@@ -698,7 +716,7 @@
     <item>
       <title>Data</title>
       <link>http://partiallyattended.com/categories/data/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/data/</guid>
       <description></description>
@@ -773,6 +791,15 @@
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developers</title>
+      <link>http://partiallyattended.com/categories/developers/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/developers/</guid>
       <description></description>
     </item>
     
@@ -926,6 +953,15 @@
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosystems</title>
+      <link>http://partiallyattended.com/categories/ecosystems/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/ecosystems/</guid>
       <description></description>
     </item>
     
@@ -1184,7 +1220,7 @@
     <item>
       <title>Funding</title>
       <link>http://partiallyattended.com/categories/funding/</link>
-      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/funding/</guid>
       <description></description>
@@ -1254,6 +1290,15 @@
     </item>
     
     <item>
+      <title>Gender</title>
+      <link>http://partiallyattended.com/categories/gender/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Germany</title>
       <link>http://partiallyattended.com/categories/germany/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -1292,7 +1337,7 @@
     <item>
       <title>Github</title>
       <link>http://partiallyattended.com/categories/github/</link>
-      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/github/</guid>
       <description></description>
@@ -1661,7 +1706,7 @@
     <item>
       <title>Interesting</title>
       <link>http://partiallyattended.com/categories/interesting/</link>
-      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/interesting/</guid>
       <description></description>
@@ -1679,7 +1724,7 @@
     <item>
       <title>Ipython</title>
       <link>http://partiallyattended.com/categories/ipython/</link>
-      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/ipython/</guid>
       <description></description>
@@ -1796,7 +1841,7 @@
     <item>
       <title>Lean</title>
       <link>http://partiallyattended.com/categories/lean/</link>
-      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/lean/</guid>
       <description></description>
@@ -1938,6 +1983,15 @@
     </item>
     
     <item>
+      <title>Lvt</title>
+      <link>http://partiallyattended.com/categories/lvt/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/lvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mac</title>
       <link>http://partiallyattended.com/categories/mac/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
@@ -2066,7 +2120,7 @@
     <item>
       <title>Microsoft</title>
       <link>http://partiallyattended.com/categories/microsoft/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/microsoft/</guid>
       <description></description>
@@ -2208,6 +2262,15 @@
     </item>
     
     <item>
+      <title>Not Blockchain</title>
+      <link>http://partiallyattended.com/categories/not-blockchain/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/not-blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nyc</title>
       <link>http://partiallyattended.com/categories/nyc/</link>
       <pubDate>Sun, 06 Feb 2011 00:00:00 +0000</pubDate>
@@ -2291,7 +2354,7 @@
     <item>
       <title>Open Source</title>
       <link>http://partiallyattended.com/categories/open-source/</link>
-      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/open-source/</guid>
       <description></description>
@@ -2469,6 +2532,15 @@
     </item>
     
     <item>
+      <title>Platforms</title>
+      <link>http://partiallyattended.com/categories/platforms/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/platforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plos</title>
       <link>http://partiallyattended.com/categories/plos/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
@@ -2552,7 +2624,7 @@
     <item>
       <title>Product Management</title>
       <link>http://partiallyattended.com/categories/product-management/</link>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/product-management/</guid>
       <description></description>
@@ -2606,7 +2678,7 @@
     <item>
       <title>Publishing</title>
       <link>http://partiallyattended.com/categories/publishing/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/publishing/</guid>
       <description></description>
@@ -2624,7 +2696,7 @@
     <item>
       <title>Python</title>
       <link>http://partiallyattended.com/categories/python/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/python/</guid>
       <description></description>
@@ -2867,7 +2939,7 @@
     <item>
       <title>Science</title>
       <link>http://partiallyattended.com/categories/science/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/science/</guid>
       <description></description>
@@ -3173,7 +3245,7 @@
     <item>
       <title>Statistics</title>
       <link>http://partiallyattended.com/categories/statistics/</link>
-      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/statistics/</guid>
       <description></description>
@@ -3182,7 +3254,7 @@
     <item>
       <title>Stm</title>
       <link>http://partiallyattended.com/categories/stm/</link>
-      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/stm/</guid>
       <description></description>
@@ -3203,6 +3275,15 @@
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/strata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>http://partiallyattended.com/categories/strategy/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/strategy/</guid>
       <description></description>
     </item>
     
@@ -3284,6 +3365,15 @@
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/technical-debt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://partiallyattended.com/categories/technology/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/technology/</guid>
       <description></description>
     </item>
     

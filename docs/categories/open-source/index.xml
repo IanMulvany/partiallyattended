@@ -6,10 +6,20 @@
     <description>Recent content in Open Source on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>After 5 years and $3M, here&#39;s everything we&#39;ve learned from building Ghost</title>
+      <link>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</guid>
+      <description>This is a great overview of how a not for profit open source technology company built a working business providing publishing tools. It speaks to how bad the landscape for publishing tools on the web is.
+Their product was originally created on kickstarter, and I remember when it launched, and being impressed with it back then. They have now pivoted away from trying to server small content individuals and are making money serving needs in the enterprise.</description>
+    </item>
     
     <item>
       <title>April digital strategy forum</title>

@@ -12,12 +12,52 @@
     
     
     <item>
+      <title>Advanced computing with IPython</title>
+      <link>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
+      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.
+https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
+    </item>
+    
+    <item>
+      <title>Digital Radar - STM landscape</title>
+      <link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
+      <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
+https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zQPRcn76XHKxex7ytdmTKC9nXMPPK0Tv0-hMlSY6xVU%2Fpubhtml</description>
+    </item>
+    
+    <item>
+      <title>Internet Archive, Code for Science and Society, and California Digital Library to Partner on a Data Sharing and Preservation Pilot Project</title>
+      <link>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</guid>
+      <description>Some major players are getting together to trial decentralised data sharing using the Dat protocol - https://datproject.org. Dat for me is one of the dark horses of the infrastructure landscape. It has great power, some amazing developers, has already created some great value, and is still not known by many people yet.
+Also, this is not blockchain based, and yet manages to be decentralised. Those of you who know me will know why that pleases me.</description>
+    </item>
+    
+    <item>
       <title>Open Knowledge Maps - social science map</title>
       <link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
       <description>Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for some time now (originally built on top of Mendeley data). I ran into them again this week as we start to think about how to visualise the relationship between different aspects of research. The one linked to here is for social science and here is one for &amp;ldquo;computational social science&amp;rdquo;: https://openknowledgemaps.org/map/70627a849484345cdfd04c914de0a2e2. Their news pages shows that the project and team are still active, which is great.</description>
+    </item>
+    
+    <item>
+      <title>VIPER - The Visual Project Explorer</title>
+      <link>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
+      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.
+https://openknowledgemaps.org/viper/</description>
     </item>
     
     <item>

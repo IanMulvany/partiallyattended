@@ -6,10 +6,20 @@
     <description>Recent content in Agile on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/agile/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Strategy in a Lean Enterprise - lean value tree.</title>
+      <link>http://partiallyattended.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</guid>
+      <description>I&amp;rsquo;ve been working with lean value tree as a framework for some time now, but there are few online resources about this. The linked presentation does a great job of giving an overview of the tool. In particular I like how they call out the need to describe the promise of value to the customer, something that we could definitely do more of.
+Another presentation on the same topic is this one: https://www.</description>
+    </item>
     
     <item>
       <title>Three posts about product development</title>

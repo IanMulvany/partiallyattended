@@ -6,10 +6,20 @@
     <description>Recent content in Python on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advanced computing with IPython</title>
+      <link>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
+      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.
+https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
+    </item>
     
     <item>
       <title>How to Visualize an XML Sitemap Using Python - Ayima</title>
