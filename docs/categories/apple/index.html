@@ -34,7 +34,7 @@
     <p>
         I&rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.
 This is what I came up with.
-set fileRoot to &quot;Macintosh HD:Users:path:&quot; set messageList to {} tell application &quot;Mail&quot; set messageList to messageList &amp; (messages of mailbox &quot;mailbox name&quot; of account &quot;account&quot; of application &quot;Mail&quot;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp; &quot;mailcontent&quot; &amp; fileNum &amp; &quot;.
+set fileRoot to &#34;Macintosh HD:Users:path:&#34; set messageList to {} tell application &#34;Mail&#34; set messageList to messageList &amp; (messages of mailbox &#34;mailbox name&#34; of account &#34;account&#34; of application &#34;Mail&#34;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp; &#34;mailcontent&#34; &amp; fileNum &amp; &#34;.
         <a href="http://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/" class="post-read-more">... (more)</a>
     </p>
 </div>

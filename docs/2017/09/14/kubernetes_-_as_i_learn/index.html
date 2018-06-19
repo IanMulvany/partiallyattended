@@ -296,23 +296,21 @@ Do you want to continue (Y/n)?  Y
 <h3 id="other-commands-i-have-found-useful">Other commands I have found useful</h3>
 
 <p>There are a bunch of other commands that I found useful, but didn&rsquo;t get the time to writeup here.</p>
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span>kubectl config current-context  
-kubectl describe --namespace<span style="color: #f92672">=</span>hub-no-auth pod hub-deployment-3311999561-w53zz  
-kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-noauth get svc proxy-public  
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">kubectl config current-context  
+kubectl describe --namespace<span style="color:#f92672">=</span>hub-no-auth pod hub-deployment-3311999561-w53zz  
+kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-noauth get svc proxy-public  
 kubectl get nodes --show-labels  
-kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-test edit deployment  
-kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-test describe all  
-kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-test describe  
-kubectl --namespace<span style="color: #f92672">=</span>jupyterhub-test get values  
-kubectl get pods -l <span style="color: #f8f8f2">purpose</span><span style="color: #f92672">=</span>demonstrate-envars  
+kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-test edit deployment  
+kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-test describe all  
+kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-test describe  
+kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-test get values  
+kubectl get pods -l purpose<span style="color:#f92672">=</span>demonstrate-envars  
 kubectl get pods -l  
-kubectl --namespace<span style="color: #f92672">=</span>testhub <span style="color: #f8f8f2">exec</span> -it hub-deployment-1369850868-c4bv6  /bin/bash  
-kubectl --namespace<span style="color: #f92672">=</span>testhub get pod -o yaml <span style="color: #f8f8f2">|</span> grep <span style="color: #e6db74">&quot;image&quot;</span>  
-kubectl --namespace<span style="color: #f92672">=</span>testhub delete deployment hub-deployment
+kubectl --namespace<span style="color:#f92672">=</span>testhub exec -it hub-deployment-1369850868-c4bv6  /bin/bash  
+kubectl --namespace<span style="color:#f92672">=</span>testhub get pod -o yaml | grep <span style="color:#e6db74">&#34;image&#34;</span>  
+kubectl --namespace<span style="color:#f92672">=</span>testhub delete deployment hub-deployment
 helm list  
-kubectl --namespace<span style="color: #f92672">=</span>testhub get pod -o yaml <span style="color: #f8f8f2">|</span> grep <span style="color: #e6db74">&quot;hub&quot;</span>
-</pre></div>
-
+kubectl --namespace<span style="color:#f92672">=</span>testhub get pod -o yaml | grep <span style="color:#e6db74">&#34;hub&#34;</span></code></pre></div>
  </div>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>

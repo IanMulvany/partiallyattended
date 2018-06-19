@@ -17,7 +17,8 @@
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</guid>
-      <description> testing ruby def foo puts &amp;#39;foo&amp;#39; end  testing python for nice in this: print &amp;quot;how interesting&amp;quot;  testing latex \[ \sum_{n=1}^\infty \frac{1}{n}  \text{ is divergent, but }  \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} -\ln n \text{exists.}  \]  </description>
+      <description>testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34;
+testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \]</description>
     </item>
     
   </channel>

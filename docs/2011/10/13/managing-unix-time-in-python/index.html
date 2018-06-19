@@ -22,7 +22,7 @@
 
 <section>
       <h4 id="date"> Thu Oct 13, 2011 </h4>
-      <h5 id="wordcount"> 50 Words </h5>
+      <h5 id="wordcount"> 49 Words </h5>
 </section>
 
 <div class="post-entry-tags">
@@ -35,22 +35,18 @@
 
 <h1 id="going-from-a-date-to-a-unix-time">Going from a date to a unix time:</h1>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">datetime</span> <span style="color: #f92672">import</span> <span style="color: #f8f8f2">date</span>
-<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">time</span> <span style="color: #f92672">import</span> <span style="color: #f8f8f2">mktime</span>
-<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f8f8f2">start</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">date(</span><span style="color: #ae81ff">2011</span><span style="color: #f8f8f2">,</span> <span style="color: #ae81ff">9</span><span style="color: #f8f8f2">,</span> <span style="color: #ae81ff">26</span><span style="color: #f8f8f2">)</span>
-<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f8f8f2">mktime(start</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">timetuple())</span>
-<span style="color: #ae81ff">1316991600.0</span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">from</span> datetime <span style="color:#f92672">import</span> date
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">from</span> time <span style="color:#f92672">import</span> mktime
+<span style="color:#f92672">&gt;&gt;&gt;</span> start <span style="color:#f92672">=</span> date(<span style="color:#ae81ff">2011</span>, <span style="color:#ae81ff">9</span>, <span style="color:#ae81ff">26</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mktime(start<span style="color:#f92672">.</span>timetuple())
+<span style="color:#ae81ff">1316991600.0</span></code></pre></div>
 
 <h1 id="going-from-a-unix-time-to-a-date">Going from a unix time to a date:</h1>
 
-<p><div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">time</span> <span style="color: #f92672">import</span> <span style="color: #f8f8f2">strftime</span>
-<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">datetime</span> <span style="color: #f92672">import</span> <span style="color: #f8f8f2">datetime</span>
-<span style="color: #f92672">&gt;&gt;&gt;</span> <span style="color: #f8f8f2">datetime</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">fromtimestamp(int(</span><span style="color: #e6db74">&quot;1284101485&quot;</span><span style="color: #f8f8f2">))</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">strftime(</span><span style="color: #e6db74">&#39;%Y-%m-%d %H:%M:%S&#39;</span><span style="color: #f8f8f2">)</span>
-<span style="color: #e6db74">&#39;2010-09-10 07:51:25&#39;</span>
-</pre></div>
-</p>
+<p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">from</span> time <span style="color:#f92672">import</span> strftime
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">from</span> datetime <span style="color:#f92672">import</span> datetime
+<span style="color:#f92672">&gt;&gt;&gt;</span> datetime<span style="color:#f92672">.</span>fromtimestamp(int(<span style="color:#e6db74">&#34;1284101485&#34;</span>))<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%Y-%m-</span><span style="color:#e6db74">%d</span><span style="color:#e6db74"> %H:%M:%S&#39;</span>)
+<span style="color:#e6db74">&#39;2010-09-10 07:51:25&#39;</span></code></pre></div></p>
 
  </div>
 

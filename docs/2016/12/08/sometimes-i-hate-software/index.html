@@ -40,9 +40,7 @@
 <p>It&rsquo;s been a while, mind, so the very first thing that I did was go and pull my blog content down from Github and fire up Jekyll.</p>
 
 <p>Jekyll has moved on since I last used it, and I discovered that the mechanism that I was using to create an index page of my tags no longer works. <a href="https://github.com/IanMulvany/partiallyattended/blob/gh-pages/Rakefile#L13">The following line</a> in the rake-file that I was using is deprecated, and throws an error.</p>
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span>	<span style="color: #f8f8f2">site</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">read_posts(</span><span style="color: #e6db74">&#39;&#39;</span><span style="color: #f8f8f2">)</span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ruby" data-lang="ruby">	site<span style="color:#f92672">.</span>read_posts(<span style="color:#e6db74">&#39;&#39;</span>)</code></pre></div>
 <p>I thought, it&rsquo;s one line, how hard can it be to fix? Of course, the dirty little secret is that I don&rsquo;t know ruby, I&rsquo;d just been using Jekyll in the past as a fast way to generate blog content from markdown. I spent several hours this afternoon trying to tack down a short comprehensible workaround, and have come to the conclusion that I won&rsquo;t make progress without actually learning enough ruby to become proficient at writing ruby plugins, and my life is too short to do that.</p>
 
 <p>Writing my markdown in Byword gives me almost instant access to publish to Medium via the publish button, but I want to control my own domain, and I want a git archive of my blog posts too, so what do I do?</p>

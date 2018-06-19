@@ -60,7 +60,7 @@ Before looking at this modele in detail I had thought that I could pass a refere
       
       <guid>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</guid>
       <description>A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
-from subprocess import Popen, PIPE import os import sys class cd: &amp;quot;&amp;quot;&amp;quot;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &amp;quot;&amp;quot;&amp;quot; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&amp;quot;~/blog/partiallyattended&amp;quot;): title = new_post.title process = subprocess.</description>
+from subprocess import Popen, PIPE import os import sys class cd: &amp;#34;&amp;#34;&amp;#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &amp;#34;&amp;#34;&amp;#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&amp;#34;~/blog/partiallyattended&amp;#34;): title = new_post.title process = subprocess.</description>
     </item>
     
     <item>
@@ -101,10 +101,10 @@ Ever since I was managing connotea, one of the biggest pains has been configurat
       <guid>http://partiallyattended.com/2012/06/17/getting-started-with-fish/</guid>
       <description>This is a quick and dirty guide to getting started with fish, the command line tool for fulidinfo. I did it by setting up a virtualenv, as I find it a lot easier to manage python dependancies that way.
 Setup a virtualenv:
-% mkvirtual env fi  Open the virtual env session:
-% workon fi  Install httplib2:
-% pip install httplib2  Install readline:
-% pip install readline  Get fish, you can either get it from github and install from source, last time I checked that was:</description>
+% mkvirtual env fi Open the virtual env session:
+% workon fi Install httplib2:
+% pip install httplib2 Install readline:
+% pip install readline Get fish, you can either get it from github and install from source, last time I checked that was:</description>
     </item>
     
     <item>
@@ -113,7 +113,7 @@ Setup a virtualenv:
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
-      <description> Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0  Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;quot;1284101485&amp;quot;)).strftime(&amp;#39;%Y-%m-%d %H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39;  </description>
+      <description>Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39;</description>
     </item>
     
     <item>

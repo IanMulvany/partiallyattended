@@ -44,14 +44,12 @@ with <a href="https://github.com/applicationsonline/librarian">librarian</a>, <a
 
 <p>If you have already have <a href="http://www.vagrantup.com/">Vagrant</a>, <a href="http://wiki.opscode.com/display/chef/Chef+Solo">chef solo</a> and <a href="https://github.com/applicationsonline/librarian">librarian</a> installed you can have it too by following these steps</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span>   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">git</span> <span style="color: #f8f8f2">clone</span> <span style="color: #e6db74">git</span><span style="color: #f8f8f2">:</span><span style="color: #e6db74">//</span><span style="color: #f8f8f2">github</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">com</span><span style="color: #f92672">/</span><span style="color: #f8f8f2">elifesciences</span><span style="color: #f92672">/</span><span style="color: #f8f8f2">elife</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">template</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">env</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">git</span>
-   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">cd</span> <span style="color: #f8f8f2">elife</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">template</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">env</span>
-   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">librarian</span><span style="color: #f92672">-</span><span style="color: #f8f8f2">chef</span> <span style="color: #f8f8f2">install</span>
-   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">vagrant</span> <span style="color: #f8f8f2">up</span>
-   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">vagrant</span> <span style="color: #f8f8f2">ssh</span>
-   <span style="color: #960050; background-color: #1e0010">$</span> <span style="color: #f8f8f2">ipython</span> <span style="color: #f8f8f2">notebook</span> <span style="color: #f92672">--</span><span style="color: #f8f8f2">ip</span><span style="color: #f92672">=</span><span style="color: #ae81ff">192</span><span style="color: #f92672">.</span><span style="color: #ae81ff">168</span><span style="color: #f92672">.</span><span style="color: #ae81ff">33</span><span style="color: #f92672">.</span><span style="color: #ae81ff">10</span>  
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ruby" data-lang="ruby">   <span style="color:#960050;background-color:#1e0010">$</span> git clone <span style="color:#e6db74">git</span>:<span style="color:#e6db74">//</span>github<span style="color:#f92672">.</span>com<span style="color:#e6db74">/elifesciences/e</span>life<span style="color:#f92672">-</span>template<span style="color:#f92672">-</span>env<span style="color:#f92672">.</span>git
+   <span style="color:#960050;background-color:#1e0010">$</span> cd elife<span style="color:#f92672">-</span>template<span style="color:#f92672">-</span>env
+   <span style="color:#960050;background-color:#1e0010">$</span> librarian<span style="color:#f92672">-</span>chef install
+   <span style="color:#960050;background-color:#1e0010">$</span> vagrant up
+   <span style="color:#960050;background-color:#1e0010">$</span> vagrant ssh
+   <span style="color:#960050;background-color:#1e0010">$</span> ipython notebook <span style="color:#f92672">--</span>ip<span style="color:#f92672">=</span><span style="color:#ae81ff">192</span><span style="color:#f92672">.</span><span style="color:#ae81ff">168</span><span style="color:#f92672">.</span><span style="color:#ae81ff">33</span><span style="color:#f92672">.</span><span style="color:#ae81ff">10</span>  </code></pre></div>
 
 <p>Then in your host browser open <a href="http://192.168.33.10:8888">http://192.168.33.10:8888</a>.</p>
 

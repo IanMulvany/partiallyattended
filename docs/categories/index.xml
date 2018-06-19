@@ -282,7 +282,7 @@
     </item>
     
     <item>
-      <title>Beyond The Pdf</title>
+      <title>Beyond the Pdf</title>
       <link>http://partiallyattended.com/categories/beyond-the-pdf/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -314,6 +314,15 @@
       <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/biochemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://partiallyattended.com/categories/blockchain/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/blockchain/</guid>
       <description></description>
     </item>
     
@@ -750,7 +759,7 @@
     </item>
     
     <item>
-      <title>Data.Gov</title>
+      <title>Data.gov</title>
       <link>http://partiallyattended.com/categories/data.gov/</link>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
@@ -876,7 +885,7 @@
     </item>
     
     <item>
-      <title>Dog In Manger</title>
+      <title>Dog in Manger</title>
       <link>http://partiallyattended.com/categories/dog-in-manger/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
@@ -1578,6 +1587,15 @@
     </item>
     
     <item>
+      <title>Hype Machine</title>
+      <link>http://partiallyattended.com/categories/hype-machine/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/hype-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ia</title>
       <link>http://partiallyattended.com/categories/ia/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
@@ -2172,7 +2190,7 @@
     </item>
     
     <item>
-      <title>Mulvany.Net</title>
+      <title>Mulvany.net</title>
       <link>http://partiallyattended.com/categories/mulvany.net/</link>
       <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
       
@@ -2676,6 +2694,15 @@
     </item>
     
     <item>
+      <title>Publihsing</title>
+      <link>http://partiallyattended.com/categories/publihsing/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/publihsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publishing</title>
       <link>http://partiallyattended.com/categories/publishing/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
@@ -2829,7 +2856,7 @@
     </item>
     
     <item>
-      <title>Reveal.Js</title>
+      <title>Reveal.js</title>
       <link>http://partiallyattended.com/categories/reveal.js/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       

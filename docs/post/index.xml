@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blockchain in STEM - part 1</title>
+      <link>http://partiallyattended.com/2018/06/19/blockchain_in_stem_-_part_1/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/19/blockchain_in_stem_-_part_1/</guid>
+      <description>A lot of people are taking about “blockchain for science” and “blockchain for publishing”, but I’m skeptical. Some of the people taking about this are really smart, so I could be wrong.
+If we think of scholarly publishing as being like the connective tissue of science, and we accept that this idea is gaining purchase within our community that we have to realise that we are looking at a case of</description>
+    </item>
     
     <item>
       <title>Adequate statistical power in clinical trials is associated with the combination of a male first author and a female last author.</title>
@@ -313,7 +323,7 @@ A friend of mine has been considering between https://stackpoint.</description>
       
       <guid>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</guid>
       <description>A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
-from subprocess import Popen, PIPE import os import sys class cd: &amp;quot;&amp;quot;&amp;quot;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &amp;quot;&amp;quot;&amp;quot; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&amp;quot;~/blog/partiallyattended&amp;quot;): title = new_post.title process = subprocess.</description>
+from subprocess import Popen, PIPE import os import sys class cd: &amp;#34;&amp;#34;&amp;#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &amp;#34;&amp;#34;&amp;#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&amp;#34;~/blog/partiallyattended&amp;#34;): title = new_post.title process = subprocess.</description>
     </item>
     
     <item>
@@ -497,7 +507,7 @@ I got to thinking about some of the challenges and opportunities facing PLOS ove
 @CrossrefOrg helped out and pointed me to the reverse api endpoint. It workes like this:
 http://api.crossref.org/reverse
 Created a json payload file “citation.json” formatted as follows:
-[ &amp;quot;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
+[ &amp;#34;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
     </item>
     
     <item>
@@ -1307,10 +1317,10 @@ I&amp;rsquo;ve not read Kelly&amp;rsquo;s paper, but after reading the abstract 
       <guid>http://partiallyattended.com/2012/06/17/getting-started-with-fish/</guid>
       <description>This is a quick and dirty guide to getting started with fish, the command line tool for fulidinfo. I did it by setting up a virtualenv, as I find it a lot easier to manage python dependancies that way.
 Setup a virtualenv:
-% mkvirtual env fi  Open the virtual env session:
-% workon fi  Install httplib2:
-% pip install httplib2  Install readline:
-% pip install readline  Get fish, you can either get it from github and install from source, last time I checked that was:</description>
+% mkvirtual env fi Open the virtual env session:
+% workon fi Install httplib2:
+% pip install httplib2 Install readline:
+% pip install readline Get fish, you can either get it from github and install from source, last time I checked that was:</description>
     </item>
     
     <item>
@@ -1389,7 +1399,7 @@ Using it with markdown can cause a few bumps, but there seems to be a bunch of w
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
-      <description> Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0  Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;quot;1284101485&amp;quot;)).strftime(&amp;#39;%Y-%m-%d %H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39;  </description>
+      <description>Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39;</description>
     </item>
     
     <item>
@@ -1612,7 +1622,7 @@ In an attempt to get over the jet lag, myself and Dave headed over to San Franci
       <guid>http://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/</guid>
       <description>I&amp;rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.
 This is what I came up with.
-set fileRoot to &amp;quot;Macintosh HD:Users:path:&amp;quot; set messageList to {} tell application &amp;quot;Mail&amp;quot; set messageList to messageList &amp;amp; (messages of mailbox &amp;quot;mailbox name&amp;quot; of account &amp;quot;account&amp;quot; of application &amp;quot;Mail&amp;quot;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp;amp; &amp;quot;mailcontent&amp;quot; &amp;amp; fileNum &amp;amp; &amp;quot;.</description>
+set fileRoot to &amp;#34;Macintosh HD:Users:path:&amp;#34; set messageList to {} tell application &amp;#34;Mail&amp;#34; set messageList to messageList &amp;amp; (messages of mailbox &amp;#34;mailbox name&amp;#34; of account &amp;#34;account&amp;#34; of application &amp;#34;Mail&amp;#34;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp;amp; &amp;#34;mailcontent&amp;#34; &amp;amp; fileNum &amp;amp; &amp;#34;.</description>
     </item>
     
     <item>
@@ -1688,7 +1698,8 @@ Michael, taking us through his talk Richard has a rapt audience Chris, getting p
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</guid>
-      <description> testing ruby def foo puts &amp;#39;foo&amp;#39; end  testing python for nice in this: print &amp;quot;how interesting&amp;quot;  testing latex \[ \sum_{n=1}^\infty \frac{1}{n}  \text{ is divergent, but }  \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} -\ln n \text{exists.}  \]  </description>
+      <description>testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34;
+testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \]</description>
     </item>
     
     <item>

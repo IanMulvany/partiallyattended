@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2018/06/19/blockchain_in_stem_-_part_1/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url>
@@ -1850,6 +1855,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/blockchain/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/blog/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2696,6 +2707,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/hype-machine/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/ia/</loc>
     <lastmod>2014-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3267,7 +3284,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3369,7 +3386,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3441,6 +3458,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/publication/</loc>
     <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/publihsing/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

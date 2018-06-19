@@ -42,7 +42,7 @@ Before looking at this modele in detail I had thought that I could pass a refere
 @CrossrefOrg helped out and pointed me to the reverse api endpoint. It workes like this:
 http://api.crossref.org/reverse
 Created a json payload file “citation.json” formatted as follows:
-[ &amp;quot;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
+[ &amp;#34;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
     </item>
     
     <item>

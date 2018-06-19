@@ -35,59 +35,43 @@
 
 <p>Setup a virtualenv:</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">%</span> <span style="color: #f8f8f2">mkvirtual</span> <span style="color: #f8f8f2">env</span> <span style="color: #f8f8f2">fi</span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">%</span> mkvirtual env fi</code></pre></div>
 
 <p>Open the virtual env session:</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">%</span> <span style="color: #f8f8f2">workon</span> <span style="color: #f8f8f2">fi</span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">%</span> workon fi</code></pre></div>
 
 <p>Install httplib2:</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">%</span> <span style="color: #f8f8f2">pip</span> <span style="color: #f8f8f2">install</span> <span style="color: #f8f8f2">httplib2</span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">%</span> pip install httplib2</code></pre></div>
 
 <p>Install readline:</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">%</span> <span style="color: #f8f8f2">pip</span> <span style="color: #f8f8f2">install</span> <span style="color: #f8f8f2">readline</span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">%</span> pip install readline</code></pre></div>
 
 <p>Get fish, you can either get it from github and install from source, last time I checked that was:</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">%</span> <span style="color: #f8f8f2">git</span> <span style="color: #f8f8f2">clone</span> <span style="color: #f8f8f2">https:</span><span style="color: #f92672">//</span><span style="color: #f8f8f2">github</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">com</span><span style="color: #f92672">/</span><span style="color: #f8f8f2">njr0</span><span style="color: #f92672">/</span><span style="color: #f8f8f2">fish</span><span style="color: #e6db74">&quot;  </span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">%</span> git clone https:<span style="color:#f92672">//</span>github<span style="color:#f92672">.</span>com<span style="color:#f92672">/</span>njr0<span style="color:#f92672">/</span>fish<span style="color:#e6db74">&#34;  </span></code></pre></div>
 
 <p><em>or</em> you can just go ahead and:</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">%</span> <span style="color: #f8f8f2">pip</span> <span style="color: #f8f8f2">install</span> <span style="color: #f8f8f2">fish</span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">%</span> pip install fish</code></pre></div>
 
 <p>Create a credentials file:</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">%</span> <span style="color: #f8f8f2">touch</span> <span style="color: #f92672">~/.</span><span style="color: #f8f8f2">fluidinfocredentials</span>
-</pre></div>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">%</span> touch <span style="color:#f92672">~/.</span>fluidinfocredentials</code></pre></div>
 
 <p>Put your credentials in ~/.fluidinfocredentials as a simple two liner, username, then password.
 If you signed in to fluidinfo with your twitter handle then you will need to create a password for your account, you can do this by going to the &ldquo;Set password&rdquo; option under your username in the web interface.</p>
 
 <p>Start fish:</p>
 
-<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f92672">%</span> <span style="color: #f8f8f2">fish</span>
-<span style="color: #f8f8f2">This</span> <span style="color: #f92672">is</span> <span style="color: #f8f8f2">fish</span> <span style="color: #f8f8f2">version</span> <span style="color: #ae81ff">4.34</span><span style="color: #f92672">.</span>
-<span style="color: #f8f8f2">Synchronizing</span> <span style="color: #f92672">.</span> <span style="color: #f92672">.</span> <span style="color: #f92672">.</span> <span style="color: #f8f8f2">Nothing</span> <span style="color: #f8f8f2">to</span> <span style="color: #f8f8f2">sync</span> <span style="color: #f92672">from</span> <span style="color: #f8f8f2">Fluidinfo</span>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">%</span> fish
+This <span style="color:#f92672">is</span> fish version <span style="color:#ae81ff">4.34</span><span style="color:#f92672">.</span>
+Synchronizing <span style="color:#f92672">.</span> <span style="color:#f92672">.</span> <span style="color:#f92672">.</span> Nothing to sync <span style="color:#f92672">from</span> Fluidinfo
 
-<span style="color: #f8f8f2">synchronized</span><span style="color: #f92672">.</span>
-<span style="color: #f92672">&gt;</span> 
-</pre></div>
-
+synchronized<span style="color:#f92672">.</span>
+<span style="color:#f92672">&gt;</span> </code></pre></div>
 
 <p>For further information on using fish have a look at the <a href="http://fluiddb.fluidinfo.com/about/fish/fish/index.html">documentation</a></p>
 
