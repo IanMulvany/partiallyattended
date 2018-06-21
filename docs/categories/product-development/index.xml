@@ -6,10 +6,19 @@
     <description>Recent content in Product Development on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/product-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research Software Engineering conference 2018 workshop abstract</title>
+      <link>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</guid>
+      <description>About As SAGE is sponsoring the Research Software Engineers conference in September we get to submit a workshop. I’m thrilled to be able to attend this conference. Many years ago I used to write research software in astrophysics. Over the years I have learnt how complex the interplay is between specification, software writing and getting to the heart of user needs. Along with this is the critical question of how we find sustainable models for these kinds of activities.</description>
+    </item>
     
     <item>
       <title>scholarly comms product meetup - V2 - announcement</title>
