@@ -6,10 +6,20 @@
     <description>Recent content in Openscience on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/openscience/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ongoing experiment in ‘Extreme Open Science’ announced at Structural Genomics Consortium - HBGDki</title>
+      <link>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</guid>
+      <description>It&amp;rsquo;s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like the researchers are actively making their results available (https://opennotebook.thesgc.org).
+http://hbgdki.org/ongoing-experiment-extreme-open-science-announced-structural-genomics-consortium/</description>
+    </item>
     
     <item>
       <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>

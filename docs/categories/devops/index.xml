@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/devops/</link>
+    <description>Recent content in Devops on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Limiting “Software Infant mortality” rate — decoding GO-JEK’s Deployment Checklist</title>
+      <link>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</guid>
+      <description>A great example of using a &amp;ldquo;flight plan checklist&amp;rdquo; to reduce risk in software development.
+https://blog.gojekengineering.com/limiting-software-infant-mortality-rate-decoding-gojek-deployment-checklist-1c6cc3e28df</description>
+    </item>
+    
+  </channel>
+</rss>

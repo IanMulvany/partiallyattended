@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/library/</link>
+    <description>Recent content in Library on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/library/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OA negotiation manifesto from university of California.</title>
+      <link>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
+      <description>This is a really interesting initiative from the university of California. If the scholarly landscape looked like this then publishers would have to generate revenue entirely from services and derivative open products, rather than from content licensing.
+Most of the points is the manifesto are fairly unsurprising but two points stood out as interesting to me.
+Point 10 asks for all metadata to be made available including usage metadata. Are Counter reports sufficient for this, or is anything else needed?</description>
+    </item>
+    
+  </channel>
+</rss>

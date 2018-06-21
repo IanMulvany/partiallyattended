@@ -6,10 +6,31 @@
     <description>Recent content in Interesting on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/interesting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Model Zoo - Pretrained deep learning models for transfer learning, educational purposes, and more</title>
+      <link>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
+      <description>This looks like an interesting corpus of machine learning models. One thing I&amp;rsquo;d not really thought about before is that we will now need to start thinking about how to publish the actual models that are used in scholarly research. Some of the models on this site provide ways to reference the work (e.g. https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks).
+https://modelzoo.co/</description>
+    </item>
+    
+    <item>
+      <title>OA negotiation manifesto from university of California.</title>
+      <link>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
+      <description>This is a really interesting initiative from the university of California. If the scholarly landscape looked like this then publishers would have to generate revenue entirely from services and derivative open products, rather than from content licensing.
+Most of the points is the manifesto are fairly unsurprising but two points stood out as interesting to me.
+Point 10 asks for all metadata to be made available including usage metadata. Are Counter reports sufficient for this, or is anything else needed?</description>
+    </item>
     
     <item>
       <title>Adequate statistical power in clinical trials is associated with the combination of a male first author and a female last author.</title>
