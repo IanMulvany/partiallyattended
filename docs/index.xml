@@ -6,10 +6,21 @@
     <description>Recent content on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blockchain in STEM - part 2</title>
+      <link>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</guid>
+      <description>In my last post I gave an overview of what blockchain is, while also confusing House of Pain and Cypress Hill. (These posts are probably best read whilst listening to either of those songs).
+In this post I’m going to look at potential use cases for blockchain in STEM and scholarly publishing.
+Scholarly communications use cases. When thinking about any use cases in STEM I think the questions we need to answer are:</description>
+    </item>
     
     <item>
       <title>Architect, The Killer Serverless Framework – Reify</title>
