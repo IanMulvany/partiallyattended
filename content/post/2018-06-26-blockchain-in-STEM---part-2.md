@@ -136,12 +136,6 @@ You would ideally like some pilot librarians to come on-board, but they would pr
 
 The following two tweets capture some of the problems with blockchain for rights 
 
-``` ”We'll put ownership of IP rights on a blockchain"
-
-Translation: "we want to privatise the IP system, create a monopoly who will charge high, unpredictable fees, and remove any judicial oversight from a system that relies on that to curb the worst abuse".
-
-Make it stop.
-```
 [Tom Morris  🏳️‍🌈 on Twitter: “”We’ll put ownership of IP rights on a blockchain”Translation: “we want to privatise the IP system, create a monopoly who will charge high, unpredictable fees, and remove any judicial oversight from a system that relies on that to curb the worst abuse”.Make it stop.”](https://twitter.com/tommorris/status/1006478693273882624) 
 
 [꧁Terence Eden꧂ ⏻ on Twitter: “I don’t understand the blockchain hype.A startup has certified my artwork & placed their verification on the bitcoin blockchain.Now art dealers & auctioneers can feel secure that I am the original artist.One small problem… I am not Leonardo da Vinci!https://t.co/9219OcPsVW… https://t.co/3huflle9La”](https://twitter.com/edent/status/1006248586395508737)
@@ -149,5 +143,9 @@ Make it stop.
 
 ### An addendum on pessimism 
 
-As I write up these use cases, I recognise that I am being deliberately pessimistic, and perhaps that’s not fair. I’m seeing problems and barriers, and the truth is that for a new technology to mature to utility it does have to overcome a lot of barriers, and it’s the dreamers and enthusiasts that drive forward and find solutions. One the other hand, it’s got to be good to have an open debate about the kinds of problems that these technologies might need to face. In his [presentation on ten ear futures](https://www.ben-evans.com/benedictevans/2017/11/29/presentation-ten-year-futures)  Benedict Evans talks about how we often think about how a new technology will be applied to existing use cases at the start of the adoption curve, but at the end of the adoption curve if a new platform or technology is truly transformative then the use cases that end up being used are totally different to ones we imagined. My take on blockchain in STEM is broadly that there are no existing use cases that are a compelling fit for the tech, but that is not to say that there won’t be other new use cases in the future. Im my next post I’m going to compare some of my own thinking with what other people are saying abut blockchain in this space and wrap up with some final thoughts, I should get that post out sometime next week. 
+As I write up these use cases, I recognise that I am being deliberately pessimistic, and perhaps that’s not fair. I’m seeing problems and barriers, and the truth is that for a new technology to mature to utility it does have to overcome a lot of barriers, and it’s the dreamers and enthusiasts that drive forward and find solutions. One the other hand, it’s got to be good to have an open debate about the kinds of problems that these technologies might need to face. 
+
+In his [presentation on ten ear futures](https://www.ben-evans.com/benedictevans/2017/11/29/presentation-ten-year-futures)  Benedict Evans talks about how we often think about how a new technology will be applied to existing use cases at the start of the adoption curve, but at the end of the adoption curve if a new platform or technology is truly transformative then the use cases that end up being used are totally different to ones we imagined. My take on blockchain in STEM is broadly that there are no existing use cases that are a compelling fit for the tech, but that is not to say that there won’t be other new use cases in the future. 
+
+In my next post I’m going to compare some of my own thinking with what other people are saying abut blockchain in this space and wrap up with some final thoughts, I should get that post out sometime next week. 
 
