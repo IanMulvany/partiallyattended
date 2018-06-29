@@ -6,10 +6,20 @@
     <description>Recent content in Research on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distill is dedicated to making machine learning clear and dynamic</title>
+      <link>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</guid>
+      <description>Distill is an experiment in bringing interactive documents and scholarly documents together. I&amp;rsquo;m often asked what the future of publishing might look like, and were we to embrace what the web offers it might look like distill.
+Two things though, make it look like a nice product. Right now paper flow into this journal is very low, and secondly they have advertised a large prize to attract work in this format.</description>
+    </item>
     
     <item>
       <title>choice magazine podcast Questions</title>

@@ -24,6 +24,253 @@
             
             
               <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/21/code-higlighting-in-blogger/">
+      <h1 class="post-title">Code Higlighting in Blogger</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">January 21, 2009</div>
+
+<div class="post-entry">
+    <p>
+        pbl-ian:python-c root# clear
+pbl-ian:python-c root# swig -o erf_wrap.c -python erf.i
+pbl-ian:python-c root# gcc -o erf_wrap.os -c -fPIC -I/usr/include/python2.5 erf_wrap.c
+pbl-ian:python-c root# ls
+erf.i	erf.py	erf_wrap.c	erf_wrap.os
+pbl-ian:python-c root# gcc -c erf_wrap.c -I/usr/include/python2.5 -I/usr/lib/python2.5
+pbl-ian:python-c root# ls
+erf.i	erf.py	erf_wrap.c	erf_wrap.o	erf_wrap.os
+pbl-ian:python-c root# python Python 2.5.1 (r251:54863, Apr 15 2008, 22:57:26) [GCC 4.0.1 (Apple Inc. build 5465)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+ from erf import erf
+        <a href="http://partiallyattended.com/2009/01/21/code-higlighting-in-blogger/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/21/unnamed/">
+      <h1 class="post-title">unknown post</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">January 21, 2009</div>
+
+<div class="post-entry">
+    <p>
+        
+///gi,'\n'));
+elements[i].replaceChild(newNode, childNode);
+}
+else if(elements[i].nodeName.toUpperCase() == "PRE") {
+brs = elements[i].getElementsByTagName("br");
+for(var j = 0, brLength = brs.length; j 
+
+
+ 
+        <a href="http://partiallyattended.com/2009/01/21/unnamed/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/21/wrapping-c-code-for-python-using-swig-on-mac-os-x/">
+      <h1 class="post-title">wrapping c code for python using swig on Mac OS X</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">January 21, 2009</div>
+
+<div class="post-entry">
+    <p>
+        from john d cook
+http://www.johndcook.com/blog/2009/01/20/using-swig-to-expose-c-code-to-python/
+from http://www.penzilla.net/tutorials/python/swig/
+and combining the two I came up with a way to get this to work on Mac OS X
+bash$ cat erf.i
+%module erf
+#include
+double erf(double);
+bash$ swig -o erf_wrap.c -python erf.i
+bash$ gcc -o erf_wrap.os -c -fPIC -I/usr/include/python2.4 erf_wrap.c
+bash$ gcc -o _erf.so -shared erf_wrap.os
+bash$ python
+ from erf import erf
+ erf(1)
+0.84270079294971489
+        <a href="http://partiallyattended.com/2009/01/21/wrapping-c-code-for-python-using-swig-on-mac-os-x/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/17/weekly-training-report-week-2/">
+      <h1 class="post-title">Weekly training report, week 2</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">January 17, 2009</div>
+
+<div class="post-entry">
+    <p>
+        Friday 9th
+2 hours at the castle, top roping with 5kg extra for
+Sunday 11th
+57 min 8.75 km
+http://www.gmap-pedometer.com/?r=2483095Went bouldering at the Castle, it was good, nothing too heavy, just
+tried to do laps on a few nice problems to get tired.
+Monday 12th
+Westway, lead climbing.
+Decided to try some stamina sets, kind of. At least I timed how long
+it took to do the routes. 6a+ 3 min bang on.
+        <a href="http://partiallyattended.com/2009/01/17/weekly-training-report-week-2/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/14/is-rss-dead-and-why-is-it-dying/">
+      <h1 class="post-title">Is RSS dead, and why is it dying?</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">January 14, 2009</div>
+
+<div class="post-entry">
+    <p>
+        From Science of the invisible I picked up the link to the Read Write Web article on death of enterprise RSS. What is going on here? I'm working in the enterprise and I use RSS a hell of a lot. After trying a number of different strategies I now use Google reader, because it has the fastest way for me to get rid of content in the feeds. Why does the enterprise not get it?
+        <a href="http://partiallyattended.com/2009/01/14/is-rss-dead-and-why-is-it-dying/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/12/nasty-week-ahead/">
+      <h1 class="post-title">Nasty week ahead</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">January 12, 2009</div>
+
+<div class="post-entry">
+    <p>
+        
+        <a href="http://partiallyattended.com/2009/01/12/nasty-week-ahead/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/09/world-war-ii-science-and-springer-authors/">
+      <h1 class="post-title">World War II, Science and Springer Authors</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">January 9, 2009</div>
+
+<div class="post-entry">
+    <p>
+        Springer have just launched a web app that lets you search for
+locations of authors, AuthorMapper. They
+have done this by building an XML database with the citation metadata
+for all of their papers. You search for terms or authors and it will
+generate a google map with the locations for your search terms, or
+people. The site also has some other infoporn, including a histogram
+for authors published by year for your search term.
+        <a href="http://partiallyattended.com/2009/01/09/world-war-ii-science-and-springer-authors/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+       <a href="/categories/author-mapper">author mapper</a>, <a href="/categories/war">war</a>, <a href="/categories/springer">springer</a>, <a href="/categories/science">science</a>
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
+  <a href="http://partiallyattended.com/2009/01/08/wekly-training-report-week-1./">
+      <h1 class="post-title">Wekly training report, week 1.</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">January 8, 2009</div>
+
+<div class="post-entry">
+    <p>
+        Sunday 4th of January
+8 km run, in 53 min, average heart rate about 149 bpm.
+http://www.gmap-pedometer.com/?r=2468786Monday 5th of January.
+Did a mini endurance set on my fingerboard. I&#39;ve decided to do a 4
+week set of power endurance training, with a view to improving my
+sport grade, just 4 weeks and then
+I&#39;ll switch to finger strength for four weeks. This bascially hurts
+and sucks, but hey, that&#39;s what you gotta do.
+        <a href="http://partiallyattended.com/2009/01/08/wekly-training-report-week-1./" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+      
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
   <a href="http://partiallyattended.com/2008/12/23/review-of-climbing-goals-for-2008/">
       <h1 class="post-title">Review of Climbing Goals for 2008.</h1>
 
@@ -72,251 +319,6 @@ has an eye strain which means that if she reads too much at night she
 gets headaches, and so I've been doing the recreational reading for
 the two of us over the past year.
         <a href="http://partiallyattended.com/2008/12/21/a-minor-milestone-in-leisurely-reading/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/cloverfield/">
-      <h1 class="post-title">Cloverfield</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">December 21, 2008</div>
-
-<div class="post-entry">
-    <p>
-        
-
-
-
-Cloverfield
-Originally uploaded by Ian Mulvany
-
-
-My Work Colleague make a cloverfield diarama in our sandbox today. We will be going into full scale production soon.
- Read and post comments | Send to a friend  
-        <a href="http://partiallyattended.com/2008/12/21/cloverfield/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/creationism-as-science/">
-      <h1 class="post-title">Creationism as Science,</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">December 21, 2008</div>
-
-<div class="post-entry">
-    <p>
-        I'm at the netsci08 conference and there is a really delightful talk
-about the network of papers published in the creationisim/evolution
-debate.
-The group looked at key people in the ID debate and people who acted as
-strong defenders of evolution. One can then make a graph of the links
-between the groups and intra-groups based on citation and co-citation.
-Now one area of social science that is pretty interesting in this debate
-        <a href="http://partiallyattended.com/2008/12/21/creationism-as-science/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/efficient-name-disambiguation-for-large-scale-databases/">
-      <h1 class="post-title">Efficient Name Disambiguation for Large-Scale Databases</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">December 21, 2008</div>
-
-<div class="post-entry">
-    <p>
-        I've been interested for a while now in entity disambiguation,
-particularly where the e
-ntities are the names of authors in academic journals.
-Jian Huang, Seyda Ertekin and C Lee Giles have a paper from 2006 in
-which they describe
-the method that they used to diambiguate the CiteSeer data set of
-over 700,000 article
-s. The paper is &quot;Efficient Name Disambiguation for Large-Scale Databases&quot;.
-They were able to use this algorithim to disambiguate this data set
-        <a href="http://partiallyattended.com/2008/12/21/efficient-name-disambiguation-for-large-scale-databases/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/how-i-learned-to-stop-worrying-and-love-rss/">
-      <h1 class="post-title">How I learned to stop worrying and love RSS</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">December 21, 2008</div>
-
-<div class="post-entry">
-    <p>
-        I am, one might say, a bit of an RSS junkie. It has been the main source of
-news and information for me for about the last year or so, but I began to
-feel as if I was drowning in it. I subscribe to something over 80 feeds,
-some of which, like techcrunch, spit out over 40 or 50 items a day. A few
-days away from my feed reader and there could be well over 1000 entries
-        <a href="http://partiallyattended.com/2008/12/21/how-i-learned-to-stop-worrying-and-love-rss/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/i-didnt-expect-lock-in-so-quickly/">
-      <h1 class="post-title">I didn&#39;t expect lock in so quickly</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">December 21, 2008</div>
-
-<div class="post-entry">
-    <p>
-        I've just signed up for an account with twidox, which is a start up
-that is collecting shared documents of interest to scientists, I
-believe. They are in the private beta stage, but had a link on their
-homepage for requesting an account. I got the following message when I
-hit the verification link:
-
-Registration is taking place!
-Many thanks for you interest in twidox. Your account has been activated.
-        <a href="http://partiallyattended.com/2008/12/21/i-didnt-expect-lock-in-so-quickly/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/max-os-x-does-not-have-gethrtime-and-as-a-result-cannot-load-timehr/">
-      <h1 class="post-title">Max OS X does not have gethrtime and as a result cannot load Time::HR</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">December 21, 2008</div>
-
-<div class="post-entry">
-    <p>
-        
-I just discovered this after poking around for an inordinate amount of time.
-The trick is to use Time::HiRes instead.
-Now someone should write a bridge function that overloads the Time::HR
-functions with Time::HiRes functions which would make a code change as easy
-as loading the overload module.
- Read and post comments | Send to a friend  
-        <a href="http://partiallyattended.com/2008/12/21/max-os-x-does-not-have-gethrtime-and-as-a-result-cannot-load-timehr/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/networks-in-space-mark-newman-netsci08/">
-      <h1 class="post-title">Networks in Space, Mark Newman, netsci08</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">December 21, 2008</div>
-
-<div class="post-entry">
-    <p>
-        Mark Newman, Networks in Space,
-This is about networks in geographic space.
-Mark is looking at properties of networks that are tied to geography.
-Transport networks are a good example, and we are looking at the
-difference between road and air networks.
-The road and air networks are very different, even though you use both
-of them for getting from A to B.
-There is different bahviour, could I say 'driving' the use of these
-        <a href="http://partiallyattended.com/2008/12/21/networks-in-space-mark-newman-netsci08/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-      
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2008/12/21/predictably-irrational/">
-      <h1 class="post-title">Predictably Irrational</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">December 21, 2008</div>
-
-<div class="post-entry">
-    <p>
-        I was in, of all places, Godalming, at the weekend and ended up
-browsing in a book store for a few moments. I saw what looked like a
-very interesting book, href=&quot;http://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256523/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1211186399&amp;sr=8-1&quot;&gt;Predictably
-Irrational. The book looks at the processes behind bad or
-irrational decisions. The author is an economist and it seems the aim
-of the book is to help us to see the emotional effects that influence
-our decisions, and that lead us to poor decision making.
-        <a href="http://partiallyattended.com/2008/12/21/predictably-irrational/" class="post-read-more">... (more)</a>
     </p>
 </div>
   <div class="post-entry-tags">
