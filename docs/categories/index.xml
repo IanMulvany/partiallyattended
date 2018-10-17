@@ -1542,6 +1542,15 @@
     </item>
     
     <item>
+      <title>Groupwork</title>
+      <link>http://partiallyattended.com/categories/groupwork/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/groupwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hackathon</title>
       <link>http://partiallyattended.com/categories/hackathon/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
@@ -2786,7 +2795,7 @@
     <item>
       <title>Product Development</title>
       <link>http://partiallyattended.com/categories/product-development/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/product-development/</guid>
       <description></description>
@@ -3626,6 +3635,15 @@
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/technical-debt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Techniques</title>
+      <link>http://partiallyattended.com/categories/techniques/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/techniques/</guid>
       <description></description>
     </item>
     
