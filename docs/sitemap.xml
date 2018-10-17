@@ -1996,7 +1996,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/blog/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2405,6 +2405,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/doi/</loc>
     <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/draft/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

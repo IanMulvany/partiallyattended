@@ -365,7 +365,7 @@
     <item>
       <title>Blog</title>
       <link>http://partiallyattended.com/categories/blog/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/blog/</guid>
       <description></description>
@@ -971,6 +971,15 @@
       <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/doi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draft</title>
+      <link>http://partiallyattended.com/categories/draft/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/draft/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,8 @@ title: One Two Four All - a technique for getting insights from groups.
 url: 2018/10/17/One_Two_Four_All_-_a_technique_for_getting_insights_from_groups._/
 date: 2018-10-17T00:00:00Z
 categories:
+- blog
+- draft
 - product-development
 - techniques
 - groupwork
