@@ -3,13 +3,9 @@ title: One Two Four All - a technique for getting insights from groups
 url: 2018/10/18/One_Two_Four_All_-_a_technique_for_getting_insights_from_groups/
 date: 2018-10-18T00:00:00Z
 categories:
-- blog
-- draft
 - product-development
 - techniques
 - groupwork
-- toblog
-- todigest
 ---
 
 I’ve started working my way through [The Surprising Power of Liberating Strucutres](https://www.amazon.co.uk/Surprising-Power-Liberating-Structures-Innovation-ebook/dp/B00JET2S76/ref=sr_1_1?ie=UTF8&qid=1539642357&sr=8-1&keywords=the+surprising+power+of+liberating+structures) - a hand book of techniques for collaborative work. 
