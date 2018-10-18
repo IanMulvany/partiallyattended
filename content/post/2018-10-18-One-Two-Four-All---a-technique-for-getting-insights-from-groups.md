@@ -8,7 +8,7 @@ categories:
 - groupwork
 ---
 
-I’ve started working my way through [The Surprising Power of Liberating Strucutres](https://www.amazon.co.uk/Surprising-Power-Liberating-Structures-Innovation-ebook/dp/B00JET2S76/ref=sr_1_1?ie=UTF8&qid=1539642357&sr=8-1&keywords=the+surprising+power+of+liberating+structures) - a hand book of techniques for collaborative work. 
+I’ve started working my way through [The Surprising Power of Liberating Structures](https://www.amazon.co.uk/Surprising-Power-Liberating-Structures-Innovation-ebook/dp/B00JET2S76/ref=sr_1_1?ie=UTF8&qid=1539642357&sr=8-1&keywords=the+surprising+power+of+liberating+structures) - a hand book of techniques for collaborative work. 
 
 So far I’ve tried one technique from the book - `one two four all`. 
 
