@@ -11,7 +11,7 @@ categories:
 ---
 
 
-Yesterday I attended a round table discussion hosted by the [Belmont Forum](http://www.belmontforum.org) about the release of their position on data accessibility statements and digital objects management plans. (It’s a bit of a mouthful, but the reason is that they are aiming to be clear and comprehensive around what they are asking to make it easier for researchers, publishers and other stakeholders to get to complicance around this policy.)
+Yesterday I attended a round table discussion hosted by the [Belmont Forum](http://www.belmontforum.org) about the release of their position on data accessibility statements and digital objects management plans. (It’s a bit of a mouthful, but the reason is that they are aiming to be clear and comprehensive around what they are asking to make it easier for researchers, publishers and other stakeholders to get to compliance around this policy.)
 
 You can read their position paper — [Draft DAS Statement and Policy for October 2018 Plenary - Google Docs](https://docs.google.com/document/d/1Aw1y6MysyVxPwhBjECTT_0w1EKCLcyT-rGyHAX9mrhM/edit). 
 
