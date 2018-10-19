@@ -24,6 +24,32 @@
             
             
               <article class="post-preview">
+  <a href="http://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/">
+      <h1 class="post-title">save mailfolder messages to a file using applescript</h1>
+
+      
+  </a>
+
+  <p class="post-meta">
+    <div class="post-date">October 18, 2010</div>
+
+<div class="post-entry">
+    <p>
+        I&rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.
+This is what I came up with.
+set fileRoot to &#34;Macintosh HD:Users:path:&#34; set messageList to {} tell application &#34;Mail&#34; set messageList to messageList &amp; (messages of mailbox &#34;mailbox name&#34; of account &#34;account&#34; of application &#34;Mail&#34;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp; &#34;mailcontent&#34; &amp; fileNum &amp; &#34;.
+        <a href="http://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags: 
+       <a href="/categories/apple">apple</a>, <a href="/categories/mail">mail</a>, <a href="/categories/applescript">applescript</a>
+  </div>
+
+</article>
+
+            
+              <article class="post-preview">
   <a href="http://partiallyattended.com/2010/09/24/csl/">
       <h1 class="post-title">Citation Style Language</h1>
 
@@ -239,33 +265,6 @@ testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{
   <div class="post-entry-tags">
       Tags: 
        <a href="/categories/conference">conference</a>, <a href="/categories/jisc">JISC</a>, <a href="/categories/report">report]</a>
-  </div>
-
-</article>
-
-            
-              <article class="post-preview">
-  <a href="http://partiallyattended.com/2010/07/05/checking-mail-infrequently/">
-      <h1 class="post-title">Read mail in intervals on OS X</h1>
-
-      
-  </a>
-
-  <p class="post-meta">
-    <div class="post-date">July 5, 2010</div>
-
-<div class="post-entry">
-    <p>
-        In order to check mail less frequently than the options available, following a hint from macosxhints:
- set up an applescript to tell mail to check for mail. put that script under a launchd deamon with an interval use lingon to setup the deamon  so far it seems to be working, yay!
-http://www.macosxhints.com/article.php?story=20010427022452992
-use
-        <a href="http://partiallyattended.com/2010/07/05/checking-mail-infrequently/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags: 
-       <a href="/categories/email">email</a>, <a href="/categories/productivity">productivity</a>, <a href="/categories/mac">mac</a>
   </div>
 
 </article>

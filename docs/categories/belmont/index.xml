@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belmont on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/belmont/</link>
+    <description>Recent content in Belmont on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/belmont/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belmont Forum Round Table - data accessibility statements</title>
+      <link>http://partiallyattended.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</guid>
+      <description>Yesterday I attended a round table discussion hosted by the Belmont Forum about the release of their position on data accessibility statements and digital objects management plans. (It’s a bit of a mouthful, but the reason is that they are aiming to be clear and comprehensive around what they are asking to make it easier for researchers, publishers and other stakeholders to get to complicance around this policy.)
+You can read their position paper — Draft DAS Statement and Policy for October 2018 Plenary - Google Docs.</description>
+    </item>
+    
+  </channel>
+</rss>
