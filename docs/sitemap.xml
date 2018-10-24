@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</loc>
     <lastmod>2018-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -2000,7 +2005,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/blockchain/</loc>
-    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2427,6 +2432,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/draft/</loc>
     <lastmod>2018-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/drafttoblog/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2995,6 +3006,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/innovations/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/inspirational/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3530,7 +3547,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3638,7 +3655,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3721,7 +3738,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/publishing/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3752,6 +3769,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/rat-rock/</loc>
     <lastmod>2011-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/rave/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4242,7 +4265,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/technology/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

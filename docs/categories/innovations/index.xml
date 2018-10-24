@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/technology/</link>
-    <description>Recent content in Technology on Partially Attended</description>
+    <title>Innovations on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/innovations/</link>
+    <description>Recent content in Innovations on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://partiallyattended.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/innovations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</guid>
       <description>I took some notes on some of the sessions at the conference yesterday.
 Dave Smith - object oriented publishing. Dave makes a good case here about how we should think about the future of scholarly publishing — in terms of objects that can be reformed based on the needs and competencies of the readers. He points out that while we do have in place good ontologies and domain models, our entire view of publishing and our publishing infrastructures, remain laggy and are a barrier to moving in this direction.</description>
-    </item>
-    
-    <item>
-      <title>Digital Radar - STM landscape</title>
-      <link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
-      <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
-https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zQPRcn76XHKxex7ytdmTKC9nXMPPK0Tv0-hMlSY6xVU%2Fpubhtml</description>
     </item>
     
   </channel>

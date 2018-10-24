@@ -6,10 +6,20 @@
     <description>Recent content in Publishing on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/publishing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RAVE publishing technology conference 2018</title>
+      <link>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</guid>
+      <description>I took some notes on some of the sessions at the conference yesterday.
+Dave Smith - object oriented publishing. Dave makes a good case here about how we should think about the future of scholarly publishing — in terms of objects that can be reformed based on the needs and competencies of the readers. He points out that while we do have in place good ontologies and domain models, our entire view of publishing and our publishing infrastructures, remain laggy and are a barrier to moving in this direction.</description>
+    </item>
     
     <item>
       <title>OA negotiation manifesto from university of California.</title>
