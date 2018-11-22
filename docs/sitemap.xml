@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/10/26/the_state_of_retractions_in_the_research_literature._/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
@@ -1908,7 +1913,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/architecture/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2377,6 +2382,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/devops/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/diagramming/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3552,7 +3563,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3660,7 +3671,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4216,19 +4227,25 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/systems/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/tag-cloud/</loc>
     <lastmod>2009-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/categories/tags/</loc>
-    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
+    <loc>http://partiallyattended.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/tags/</loc>
+    <loc>http://partiallyattended.com/categories/tags/</loc>
+    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagramming on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/diagramming/</link>
+    <description>Recent content in Diagramming on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/diagramming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some ruminations on software architecture and diagramming</title>
+      <link>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</guid>
+      <description>So Pat Kua recently tweeted:
+UML failed so here we have AML (Arbitrary Modeling Language) https://t.co/BnbgC8ZHTD
+&amp;mdash; Pat Kua (@patkua) November 9, 2018&amp;lt;_a&amp;gt;&amp;lt;_blockquote&amp;gt; 
+and this got me thinking about the worries I&amp;rsquo;ve had about not doing &amp;ldquo;diagramming&amp;rdquo; right, but the above tweet led me to read a ton of really interesting posts on software architecting.
+Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience.</description>
+    </item>
+    
+  </channel>
+</rss>
