@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AGILE or agile?</title>
+      <link>http://partiallyattended.com/2018/11/29/agile_or_agile_/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/11/29/agile_or_agile_/</guid>
+      <description>Three links today looking at the state of agile as a software development practice.
+Flavours of Agile In Flavours of Agile Pat Kua briefly describes and rates a number of agile processes. There are a ton here, and loads that I’d not heard of. One of the key messages that I get from reading this is that “AGILE” as a fixed practice has been growing, especially within in enterprise, and perhaps not to the benefit of actually delivering or simplifying the delivery of complex processes.</description>
+    </item>
     
     <item>
       <title>Some ruminations on software architecture and diagramming</title>
