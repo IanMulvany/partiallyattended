@@ -6,10 +6,19 @@
     <description>Recent content in Test on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Aug 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test blog post</title>
+      <link>http://partiallyattended.com/2019/08/01/test_blog_post/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2019/08/01/test_blog_post/</guid>
+      <description>This is a test post while trying to fix some domain issues with the blog.</description>
+    </item>
     
     <item>
       <title>Testing Code Hilighting</title>

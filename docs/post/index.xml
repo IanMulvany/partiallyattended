@@ -22,6 +22,15 @@ Overall I think there is great promise for challenges like knowledge discovery a
     </item>
     
     <item>
+      <title>test blog post</title>
+      <link>http://partiallyattended.com/2019/08/01/test_blog_post/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2019/08/01/test_blog_post/</guid>
+      <description>This is a test post while trying to fix some domain issues with the blog.</description>
+    </item>
+    
+    <item>
       <title>AGILE or agile?</title>
       <link>http://partiallyattended.com/2018/11/29/agile_or_agile_/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
