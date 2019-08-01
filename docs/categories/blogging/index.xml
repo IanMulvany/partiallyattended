@@ -64,7 +64,7 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/getting-started/</guid>
-      <description> Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
+      <description>  Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
  </description>
     </item>
     
@@ -74,7 +74,7 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
-      <description> I am at Bar Camp Cambridge,
+      <description>  I am at Bar Camp Cambridge,
 We have had the three word introductions and are just running through themorning talks now. It&#39;s pretty cool.
 The coffee is good, and cookies are great.
 Let&#39;s see how the day goes.
@@ -100,7 +100,7 @@ using a mesh network that connect to a hub using a &#39;zigby&#39;output can be 
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</guid>
-      <description>  discussionQ Gridle is raised along with RDFa if you don&#39;t like the way that the xslt is workin you can make your own.however most domain exprts can&#39;t write xslt
+      <description>   discussionQ Gridle is raised along with RDFa if you don&#39;t like the way that the xslt is workin you can make your own.however most domain exprts can&#39;t write xslt
 if you just let the domain experts create microformats you may leave theontologicaldefinitions to people who are creating the xslt
 AG says that there may be two different problems, address to addressbookfrom page vs data harvesting
  </description>
@@ -114,8 +114,7 @@ AG says that there may be two different problems, address to addressbookfrom pag
       <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
       <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
 we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
-Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding
-should consider semantic web, rather than Semantic Web,</description>
+Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding</description>
     </item>
     
   </channel>

@@ -6,10 +6,20 @@
     <description>Recent content on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>key questions about AI in the publishing knowledge industry</title>
+      <link>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</guid>
+      <description>At the moment one thing that is front and centre in my thinking about AI and machine learning in publishing and the scholarly ecosystem is how to make the case for ROI for investment in the technology, and more specifically investing in making data actionable.
+Overall I think there is great promise for challenges like knowledge discovery and machine generated hypotheses, but there is massive potential for these technologies to also just make the quality of our work better, and to increase the value of our work by reducing and removing toil in the workplace.</description>
+    </item>
     
     <item>
       <title>AGILE or agile?</title>
@@ -152,10 +162,10 @@ https://www.instrumentl.com/</description>
     
     <item>
       <title>Jobs to be Done A Case Study in the NHS | Digital transformation blog</title>
-      <link>http://partiallyattended.com/2018/06/29/jobs_to_be_done_a_case_study_in_thenhs__digital_transformation_blog/</link>
+      <link>http://partiallyattended.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/2018/06/29/jobs_to_be_done_a_case_study_in_thenhs__digital_transformation_blog/</guid>
+      <guid>http://partiallyattended.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</guid>
       <description>This is a great post on using the jobs to be done framework. There are two specific enhancements that are discussed - how to weight those jobs, and how to use granularity of the jobs to aid the design process (less granularity gives more freedom in the design phase).
 The authors wanted to use surveys to get a sense of importance of the under served needs, but in the end had to resort to a simple variant of card sorting.</description>
     </item>
@@ -1688,7 +1698,7 @@ Using it with markdown can cause a few bumps, but there seems to be a bunch of w
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
-      <description>Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39;</description>
+      <description> Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39; </description>
     </item>
     
     <item>
@@ -1987,8 +1997,7 @@ Michael, taking us through his talk Richard has a rapt audience Chris, getting p
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</guid>
-      <description>testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34;
-testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \]</description>
+      <description> testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34; testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \] </description>
     </item>
     
     <item>
@@ -2027,7 +2036,7 @@ use</description>
       <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/05/12/hackney-are-fuckers/</guid>
-      <description>http://www.whatdotheyknow.com/request/31711/response/79454/attach/html/3/1%202181984%2020100407%204th%20Tier%20List.xls.html
+      <description> http://www.whatdotheyknow.com/request/31711/response/79454/attach/html/3/1%202181984%2020100407%204th%20Tier%20List.xls.html
 fast food in hackney
 http://www.whatdotheyknow.com/request/27794/response/68154/attach/html/3/1%201952373%20Information%20Sheet.xls.html </description>
     </item>
@@ -2068,8 +2077,7 @@ Just using a word processor simply does not cut it when it comes to expressing c
 that there is a place for a tumblog in the toolkit of those who like
 to post content onto the web. There are often pieces of content that I
 want to call out, but don&amp;#39;t have either the time or the interest to
-write a longer blog post about. For a while I thought that would be a
-good use of Twitter, but in the end that type of behaviour just</description>
+write a longer blog post about. For a while I thought that would be a</description>
     </item>
     
     <item>
@@ -2080,7 +2088,7 @@ good use of Twitter, but in the end that type of behaviour just</description>
       <guid>http://partiallyattended.com/2010/03/22/the-three-ages-of-elvis-in-potatoes/</guid>
       <description>potato_3stagesElvis 004
 Originally uploaded by gioia_On Saturday we went to a party thrown by some friends of ours. It was kind of a delayed St. Patrick&#39;s day party, and everyone had to bring along a potato dressed up as a celebrity, or some such.
-We created our potato after the Father Ted episode &#34;Competition Time&#34;, in which Ted, Dougal and Jack dress up as the three ages of Elvis. The third age in this little diorama is made up from mashed spud in a sock.</description>
+We created our potato after the Father Ted episode &#34;Competition Time&#34;, in which Ted, Dougal and Jack dress up as the three ages of Elvis.</description>
     </item>
     
     <item>
@@ -2105,7 +2113,7 @@ than in his time).I am dubious about this claim.</description>
       <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/02/19/python-pep-for-a-graph-api/</guid>
-      <description>I just stumbled across this
+      <description> I just stumbled across this
 http://wiki.python.org/moin/PythonGraphApi. I think it&amp;#39;s great. The
 discussion has actually been going on since Aug 2004, so I don&amp;#39;t know
 what the status of this PEP is. I would love to see something come out
@@ -2144,8 +2152,7 @@ sign on system. The paper is here:
 http://www.cl.cam.ac.uk/~rja14/Papers/fc10vbvsecurecode.pdf. The
 bottom line is that the system is pretty insecure, but it is
 incentivised by making the customer sign up to additional terms and
-conditions that puts more liability on them than on the banks or
-credit card companies.</description>
+conditions that puts more liability on them than on the banks or</description>
     </item>
     
     <item>
@@ -2234,7 +2241,7 @@ system is, and how much this is not a tool that a developer could use.</descript
       <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/01/20/usage-of-graph-layouts-on-biostor/</guid>
-      <description>
+      <description> 
 
 
  (co-author graph example)
@@ -2338,7 +2345,7 @@ going to be interested to see what data sources surrounding science,</descriptio
       <pubDate>Mon, 17 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2009/08/17/cron-python-and-google-wave/</guid>
-      <description>Documentation on getting a google wave robot written in python working with the Cron functionality is still a little sparse. Getting a cron job into the capabilities.xml file. Add the following directive to the main function of your python program:
+      <description> Documentation on getting a google wave robot written in python working with the Cron functionality is still a little sparse. Getting a cron job into the capabilities.xml file. Add the following directive to the main function of your python program:
 myRobot.RegisterCronJob(&#39;/path&#39;,60)
 When you look at you capabilities.xml file you should now see a new node in the file:
   </description>
@@ -2418,7 +2425,7 @@ Describe the flow of an incompressible fluid. The equations are non-linear and a
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/</guid>
-      <description>Looking for algorithms to do community detection (there are a bunch from the famous Girvan-Newman algorithm doi:10.1073/pnas.122653799 which seems to have gained popularity through being very simple, effiencet and usually pretty powerfull, through to a method doi:10.1103/PhysRevE.71.046117 by Ziv, Middendorf and Wiggins. I have to admit I don&#39;t understand that paper yet, but hope to come back to it.) I was pointed to a paper by Guimera, Sales-Pardo and Amaral. In looking for the paper the first one that I found was Classes of complex networks deﬁned by role-to-role connectivity proﬁles on DOI:10.</description>
+      <description>Looking for algorithms to do community detection (there are a bunch from the famous Girvan-Newman algorithm doi:10.1073/pnas.122653799 which seems to have gained popularity through being very simple, effiencet and usually pretty powerfull, through to a method doi:10.1103/PhysRevE.71.046117 by Ziv, Middendorf and Wiggins. I have to admit I don&#39;t understand that paper yet, but hope to come back to it.) I was pointed to a paper by Guimera, Sales-Pardo and Amaral.</description>
     </item>
     
     <item>
@@ -2525,8 +2532,7 @@ Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-
 BEGIN failed--compilation aborted at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Handle.pm line 263.
 Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Seekable.pm line 101.
 BEGIN failed--compilation aborted at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Seekable.pm line 101.
-Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/File.pm line 133.
-BEGIN failed--compilation aborted at /System/Library/Perl/5.</description>
+Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/File.pm line 133.</description>
     </item>
     
     <item>
@@ -2589,7 +2595,7 @@ Last weekend was interesting. I did the introductory PADI course, but the week l
       <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2009/02/18/unnamed/</guid>
-      <description>I want to find out what all of the ISSN&#39;s are for the publications that are printed by Nature Publishing Group. They list all of their publications on the following page http://www.nature.com/siteindex/index.html.
+      <description> I want to find out what all of the ISSN&#39;s are for the publications that are printed by Nature Publishing Group. They list all of their publications on the following page http://www.nature.com/siteindex/index.html.
 awk &#39;{print &#34;curl http://www.nature.com&#34;$1&#34;index.html | grep ISSN&#34;}&#39; nature-journal-links.txt </description>
     </item>
     
@@ -2691,7 +2697,7 @@ Type &#34;help&#34;, &#34;copyright&#34;, &#34;credits&#34; or &#34;license&#34;
       <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2009/01/21/unnamed/</guid>
-      <description>
+      <description> 
 ///gi,&#39;\n&#39;));
 elements[i].replaceChild(newNode, childNode);
 }
@@ -2828,7 +2834,7 @@ the two of us over the past year.</description>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/cloverfield/</guid>
-      <description>
+      <description> 
 
 
 
@@ -2907,7 +2913,7 @@ Many thanks for you interest in twidox. Your account has been activated.</descri
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/max-os-x-does-not-have-gethrtime-and-as-a-result-cannot-load-timehr/</guid>
-      <description>
+      <description> 
 I just discovered this after poking around for an inordinate amount of time.
 The trick is to use Time::HiRes instead.
 Now someone should write a bridge function that overloads the Time::HR
@@ -2943,8 +2949,7 @@ browsing in a book store for a few moments. I saw what looked like a
 very interesting book, href=&amp;quot;http://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256523/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1211186399&amp;amp;sr=8-1&amp;quot;&amp;gt;Predictably
 Irrational. The book looks at the processes behind bad or
 irrational decisions. The author is an economist and it seems the aim
-of the book is to help us to see the emotional effects that influence
-our decisions, and that lead us to poor decision making.</description>
+of the book is to help us to see the emotional effects that influence</description>
     </item>
     
     <item>
@@ -3009,10 +3014,10 @@ initial reaction was &amp;quot;this is cool&amp;quot;.</description>
     
     <item>
       <title>Upcoming.org Founder Creates Fireball (Fire Eagle &#43; DodgeBall &#43; Twitter)</title>
-      <link>http://partiallyattended.com/2008/12/21/upcoming.org-founder-creates-fireball-fire-eagle--dodgeball-twitter/</link>
+      <link>http://partiallyattended.com/2008/12/21/upcoming.org-founder-creates-fireball-fire-eagle-dodgeball-twitter/</link>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/2008/12/21/upcoming.org-founder-creates-fireball-fire-eagle--dodgeball-twitter/</guid>
+      <guid>http://partiallyattended.com/2008/12/21/upcoming.org-founder-creates-fireball-fire-eagle-dodgeball-twitter/</guid>
       <description>Ahh, convergence, ahh, the ability to pinpoint your friends on your
 mobile phone. I&#39;ve been waiting for this to happen.
 Sent to you by Ian Mulvany via Google Reader: Upcoming.org Founder
@@ -3033,7 +3038,7 @@ Upcoming.org who recently left Yahoo, where he organized Hack Days.</description
 OK, so we are up against Nasa&#39;s earth observatory, and some other
 great sites in the science field, but it&#39;s really nice to get a nod
 and see that some other people out there like the kind of work that we
-are doing. If you want to go and vote you can at this link herehttp://pv.webbyawards.com/ballot/home/1.</description>
+are doing. If you want to go and vote you can at this link herehttp://pv.</description>
     </item>
     
     <item>
@@ -3057,7 +3062,7 @@ would think that the LHC is the best thing to happen to enlightenment</descripti
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/your-brightkite-invite/</guid>
-      <description>
+      <description> 
 I just got the following Yay!
 &amp;quot;Hi,
 Somebody has sent you a Brightkite invite. Brightkite is a
@@ -3075,7 +3080,7 @@ carriers, boo.
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/a-great-presentation-about-books-and-community/</guid>
-      <description>
+      <description> 
 My colleague Gavin Bell just uploaded a great presentation about creating communities of readers out of readers of books. You can see his presentation &amp;lt;a href=&amp;quot;http://www.slideshare.net/gavin/gavin-bell-from-readers-of-books-to-a-community-of-readers-oreilly-toc08/&amp;quot;&amp;gt;here on slideshare&amp;lt;/a&amp;gt;. He gave this talk at the Tools Of Change conference in New York earlier this month.
  Read and post comments | Send to a friend  </description>
     </item>
@@ -3117,7 +3122,7 @@ statues, churches and historical buildings, but I knew only a few of them.</desc
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/chasing-cars/</guid>
-      <description>
+      <description> 
 This morning as I was leaving Shoreditch park a guy in a black masarti
 with the top down passed my on my bike.
 I continued along the canal as usual and as I came past sainsbury&#39;s in
@@ -3132,7 +3137,7 @@ Bike 1, Masarati + London Traffic 0.
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/climbing-milestone/</guid>
-      <description>
+      <description> 
 Last night I got my first UK 6a boulder problem at the Castle climbing wall,
 it&#39;s been a while since I was making progress with my climbing, so that was
 great.My climbing diary is here: http://jottit.com/h94hx/
@@ -3190,7 +3195,7 @@ the way that I now manage my rss feeds, through a bespoke piece of</description>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/further-confustion/</guid>
-      <description>
+      <description> 
 So, after a little more investigation it is clear that earlier links are
 broken and new links have the snap preview.
 Well, I guess I am just going to have to write links as plain text until
@@ -3210,8 +3215,7 @@ involved in organising a wedding I woke up this morning with the
 unavoidable realisation that the need to save for the wedding is going
 to make purchasing an iPhone, while I have a perfectly normal
 n95 that works rather well (especially since the broken key unstuck
-and started working again) untenable. My cunning plan had been
-to wait until the end of my current contract, at which point the new</description>
+and started working again) untenable. My cunning plan had been</description>
     </item>
     
     <item>
@@ -3220,7 +3224,7 @@ to wait until the end of my current contract, at which point the new</descriptio
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/how-to-learn-python/</guid>
-      <description>
+      <description> 
 In response to a query that popped up on Friend Feed:
 I taught myself years ago with O&#39;Reilly&#39;s Learning Python. The web
 book &#39;Dive into Python&#39; is essential, and the blog posts on
@@ -3249,7 +3253,7 @@ dollars to see the child of my creativity bouncing around on the little</descrip
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/ikea-is-like-a-biological-machine/</guid>
-      <description>
+      <description> 
 We are just unpacking some more furniture and we have discovered that the
 spacers inside the boxes were made up of cut up pieces of IKEA furniture,
 probably items that had been returned. It reminded my of the cells ability
@@ -3277,7 +3281,7 @@ was significant. Well, I&#39;m not a well paid economist, but I have decided to<
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/mozy-backup-service/</guid>
-      <description>
+      <description> 
 I&#39;ve been trying the free account this week. I&#39;ve backed up 1.6 GB of data.
 It took, with given interruptions of a normal work day, about 4 days to
 backup this amount of Data.
@@ -3342,8 +3346,7 @@ about phase transitions in coupled complex networks where the network
 properties are different in the two groups.
 In one group there are a smaller number of members, but they are tightly
 coupled. The second group is larger, but less tightly coupled. The model
-uses an Ising model. The less coupled group has higher fluctuation in
-opinion, and when it is brought into contact with the smaller group the</description>
+uses an Ising model. The less coupled group has higher fluctuation in</description>
     </item>
     
     <item>
@@ -3368,8 +3371,7 @@ that language.
 Christ, that&#39;s almost 10 years. I like python, it gave a great sense of
 freedom after spending a heavy five years working with various flavours of
 FORTRAN, from
-FORTRAN 90, through to High Performance Fortran. Well, now here I am
-tackling perl.</description>
+FORTRAN 90, through to High Performance Fortran. Well, now here I am</description>
     </item>
     
     <item>
@@ -3378,7 +3380,7 @@ tackling perl.</description>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/progress/</guid>
-      <description>
+      <description> 
 If you are interested in the progress of my bet you can follow here:
 
 hmm, my embedded image is not showing up here, shame, well, the link is here:&amp;#160;http://www.bellygraph.com/graph/view/300
@@ -3448,7 +3450,7 @@ might not be caught dead in the palace bar, they only drink in the</description>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/star-wars/</guid>
-      <description>
+      <description> 
 &amp;quot;The modified tactical standard missile 3 (SM-3) hit the satellite at an
 altitude of 150 miles (247km) while it was travelling at approximately
 17,000 miles per hour.&amp;quot;
@@ -3462,7 +3464,7 @@ I find this somewhat scary.
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/subprime-mortgage-crises-explained-using-stick-figures/</guid>
-      <description>
+      <description> 
 http://docs.google.com/Present?docid=dtfm9hj_30ccsw79f4
 http://docs.google.com/Present?docid=dtfm9hj_30ccsw79f4
 This is funny, and a little bit scary too.
@@ -3475,7 +3477,7 @@ This is funny, and a little bit scary too.
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/12/21/test-a-link/</guid>
-      <description>
+      <description> 
 test a link guardian
  Read and post comments | Send to a friend  </description>
     </item>
@@ -3514,10 +3516,10 @@ I live in London, but I frequently travel to Europe.</description>
     
     <item>
       <title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</link>
+      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge---james-smith-talking-about-ensemble/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
       <description>Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
 the idea was to have an open source human genome
 companies would have to do some work before they could make money off ofsequences.
@@ -3527,10 +3529,10 @@ there is enemble codeand there is the data</description>
     
     <item>
       <title>BarCamp Cambridge - James talking about HTML5</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge---james-talking-about-html5/</link>
+      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge---james-talking-about-html5/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</guid>
       <description>James is just an interested bysander on the HTML 5 mailing list, hey, it&#39;s abarcamp
 html5 is th enew verison of html
 applemozillaoperaanyone who joins the mailing list
@@ -3543,17 +3545,16 @@ lots of information is locked up in HTML, not XML, not SVGL</description>
     
     <item>
       <title>BarCamp Cambridge - teacking computers to understand text, Peter Corbett</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge---teacking-computers-to-understand-text-peter-corbett/</link>
+      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-teacking-computers-to-understand-text-peter-corbett/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge---teacking-computers-to-understand-text-peter-corbett/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-teacking-computers-to-understand-text-peter-corbett/</guid>
       <description>a desk at the computer lab and at the chemistry lab.
 computationl lingustic chemistryauto-detect language in chemistry papers to try to recognics chemical andmarkup.
 suppliment the mark-up from publishers.
 can draw the chemical and annotating them overlayed over the paper
 some problems are that there can be new names in papers,comapct names, include extra hyphens, this program can deal with these kindsof things.
-also can use systematics parsing.
-this is the core technology, you can do things like search for alkloids inyour paper, or document dump</description>
+also can use systematics parsing.</description>
     </item>
     
     <item>
@@ -3580,8 +3581,7 @@ hard to use these processors, whanted to make something like this availableto no
 so they built something
 he just plugged in a microcontoler with a wireless sensorhis machine things that it&#39;s a flash drive
 he dregged over a binarythe device started blinking, this is the hello world of hardware hacking,cool
-what can you do now? well cool stuff obviously!
-the other cool thing is that there is a compiler on a websiteso you can talk about things in the context that people imagine themthis is built on top of c++</description>
+what can you do now? well cool stuff obviously!</description>
     </item>
     
     <item>
@@ -3616,7 +3616,7 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/get-slimmer-pets/</guid>
-      <description>    12/01/2008 Originally uploaded by Ian Mulvany I was shopping at Lidl last weekend and saw this for sale. It might be a bit of a drastic measure, but I think it would work.
+      <description>     12/01/2008 Originally uploaded by Ian Mulvany I was shopping at Lidl last weekend and saw this for sale. It might be a bit of a drastic measure, but I think it would work.
  </description>
     </item>
     
@@ -3666,7 +3666,7 @@ Very sad to hear your friend has such a lousy experience in my country. AsIan ca
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/liam-dropping-by-london/</guid>
-      <description>   10072007136    </description>
+      <description>    10072007136    </description>
     </item>
     
     <item>
@@ -3684,7 +3684,7 @@ Very sad to hear your friend has such a lousy experience in my country. AsIan ca
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</guid>
-      <description> The Guardian ran an article this week listing 10. As a placeholder here aresome of them that I might find useful:
+      <description>  The Guardian ran an article this week listing 10. As a placeholder here aresome of them that I might find useful:
 https://www.mysupermarket.co.uk/
 http://www.saynoto0870.com/
 http://www.quidco.com/
@@ -3728,18 +3728,18 @@ The inventor of the idea in the case of academia is the author. The equivalent t
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/potter-prediction/</guid>
-      <description> I wonder how long it&#39;s going to be before we see a children&#39;s TV series setat Hogwarts. I predict within the next 5 years.
+      <description>  I wonder how long it&#39;s going to be before we see a children&#39;s TV series setat Hogwarts. I predict within the next 5 years.
 tags: Harry Potter, TV
  </description>
     </item>
     
     <item>
       <title>Sci - foo lurking</title>
-      <link>http://partiallyattended.com/2008/07/14/sci---foo-lurking/</link>
+      <link>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/2008/07/14/sci---foo-lurking/</guid>
-      <description> I&#39;m a Sci-Foo lurker, as I didn&#39;t make the cut to go this year, but I&#39;vebeen lapping up the news seeping out of the meeting. So far my favoriteTwitter post about the meeting comes from Richard Ackerman&#39;s feed:
+      <guid>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</guid>
+      <description>  I&#39;m a Sci-Foo lurker, as I didn&#39;t make the cut to go this year, but I&#39;vebeen lapping up the news seeping out of the meeting. So far my favoriteTwitter post about the meeting comes from Richard Ackerman&#39;s feed:
 &amp;quot;Timo and Tim are trying to kill us. Doesn&#39;t cult brainwashing start withsleep deprivation? Fun so far, anyway&amp;quot;
  </description>
     </item>
@@ -3750,9 +3750,9 @@ tags: Harry Potter, TV
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/simpsian/</guid>
-      <description> Yesterday one of the guy&#39;s at the office interviewed the producer of TheSimpsons. As a result he had to do quite a lot of research yesterday onSimsonalia, and decided to use the make your own simpson avatar tool on theSimpsons movie page to make all of us our own simpson character, this iswhat I would look like if I were a simpson.
+      <description>Yesterday one of the guy&#39;s at the office interviewed the producer of TheSimpsons. As a result he had to do quite a lot of research yesterday onSimsonalia, and decided to use the make your own simpson avatar tool on theSimpsons movie page to make all of us our own simpson character, this iswhat I would look like if I were a simpson.
 Tags: simpsons, avatar 
-  IansSimpson.jpg    </description>
+  IansSimpson.</description>
     </item>
     
     <item>
@@ -3761,7 +3761,7 @@ Tags: simpsons, avatar
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</guid>
-      <description> Attila Csordas sent along links about these awards, looks nice,
+      <description>  Attila Csordas sent along links about these awards, looks nice,
 http://www.the-scientist.com/lawva/
 and a blog link about them:
 http://pimm.wordpress.com/2007/10/09/the-laboratory-website-and-video-awards-by-the-scientist
@@ -3776,7 +3776,7 @@ tags: science
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</guid>
-      <description> A new creationisim journal ARJ.GRRRRRRRR
+      <description>  A new creationisim journal ARJ.GRRRRRRRR
  </description>
     </item>
     
@@ -3827,7 +3827,7 @@ It struck me this weekend that if you can upload an intelligence , a person,a be
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/agile-programming/</guid>
-      <description> I work for a department where we try to do agile development. I liked thisDilbertabout the subject.
+      <description>  I work for a department where we try to do agile development. I liked thisDilbertabout the subject.
   </description>
     </item>
     
@@ -3866,7 +3866,7 @@ One thing that has kept me motivated to get of my arse and actually try abit har
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/get-addicted-feed-the-world/</guid>
-      <description> at http://www.freerice.org
+      <description>  at http://www.freerice.org
   </description>
     </item>
     
@@ -3876,7 +3876,7 @@ One thing that has kept me motivated to get of my arse and actually try abit har
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/getting-started/</guid>
-      <description> Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
+      <description>  Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
  </description>
     </item>
     
@@ -3886,7 +3886,7 @@ One thing that has kept me motivated to get of my arse and actually try abit har
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/google-reader-now-has-search/</guid>
-      <description> Well, OK, this is probably not news, but I guess what is interesting for meis that this is a feature that I didn&#39;t really notice until today when Iwent looking for it, and hey, though that little search box had probablybeen there for weeks now, I only &amp;quot;saw&amp;quot; it today when I looked for it.
+      <description>  Well, OK, this is probably not news, but I guess what is interesting for meis that this is a feature that I didn&#39;t really notice until today when Iwent looking for it, and hey, though that little search box had probablybeen there for weeks now, I only &amp;quot;saw&amp;quot; it today when I looked for it.
   </description>
     </item>
     
@@ -3896,7 +3896,7 @@ One thing that has kept me motivated to get of my arse and actually try abit har
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
-      <description> I am at Bar Camp Cambridge,
+      <description>  I am at Bar Camp Cambridge,
 We have had the three word introductions and are just running through themorning talks now. It&#39;s pretty cool.
 The coffee is good, and cookies are great.
 Let&#39;s see how the day goes.
@@ -3922,7 +3922,7 @@ using a mesh network that connect to a hub using a &#39;zigby&#39;output can be 
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-discussion/</guid>
-      <description>  discussionQ Gridle is raised along with RDFa if you don&#39;t like the way that the xslt is workin you can make your own.however most domain exprts can&#39;t write xslt
+      <description>   discussionQ Gridle is raised along with RDFa if you don&#39;t like the way that the xslt is workin you can make your own.however most domain exprts can&#39;t write xslt
 if you just let the domain experts create microformats you may leave theontologicaldefinitions to people who are creating the xslt
 AG says that there may be two different problems, address to addressbookfrom page vs data harvesting
  </description>
@@ -3936,8 +3936,7 @@ AG says that there may be two different problems, address to addressbookfrom pag
       <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
       <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
 we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
-Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding
-should consider semantic web, rather than Semantic Web,</description>
+Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding</description>
     </item>
     
     <item>
@@ -3946,7 +3945,7 @@ should consider semantic web, rather than Semantic Web,</description>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/mozy-backup-service/</guid>
-      <description> I&#39;ve been trying the free account this week. I&#39;ve backed up 1.6 GB of data.It took, with given interruptions of a normal work day, about 4 days tobackup this amount of Data.
+      <description>  I&#39;ve been trying the free account this week. I&#39;ve backed up 1.6 GB of data.It took, with given interruptions of a normal work day, about 4 days tobackup this amount of Data.
 I am beginning to think that the world of offline remote backups is still alittle bit away!
   </description>
     </item>
@@ -3968,7 +3967,7 @@ At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipa
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</guid>
-      <description> Thistutorial delves into pythonic ways of coding. I&#39;m learning from it.
+      <description>  Thistutorial delves into pythonic ways of coding. I&#39;m learning from it.
 tags: python, hoto, tutorial
  </description>
     </item>
@@ -3990,7 +3989,7 @@ Earlier this year I was on holiday in Nerja in the south of Spain.</description>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/sometimes-just-sometimes-a-piece-of-news-makes-me-smile/</guid>
-      <description> From the Guardian today, a group of ultra-right wing MEP&#39;s were unable toform a group within the European Parliament owing to internal xenophobia.
+      <description>  From the Guardian today, a group of ultra-right wing MEP&#39;s were unable toform a group within the European Parliament owing to internal xenophobia.
 http://www.guardian.co.uk/farright/story/0,,2211167,00.html?gusrc=rss&amp;amp;feed=12
  </description>
     </item>
@@ -4001,7 +4000,7 @@ http://www.guardian.co.uk/farright/story/0,,2211167,00.html?gusrc=rss&amp;amp;fe
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/spreading-of-memes-behavior-driven-transmission-of-an-idea/</guid>
-      <description> Thistech blog article is a charming description of how human behaviour seemsto have spread the name of a particular wireless node across america. Ithink it is a lovely example of the spread of an idea driven by simpleself-interest.
+      <description>  Thistech blog article is a charming description of how human behaviour seemsto have spread the name of a particular wireless node across america. Ithink it is a lovely example of the spread of an idea driven by simpleself-interest.
  </description>
     </item>
     
@@ -4011,7 +4010,7 @@ http://www.guardian.co.uk/farright/story/0,,2211167,00.html?gusrc=rss&amp;amp;fe
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/weekend-grill/</guid>
-      <description> I visited my girlfriend in Germany this weekend, and her father wascelebrating his 60th birthday. A friend of his arranged a full wild boarfrom the German forests. The spit it and slow cooked it for 7 hours, ittasted amazing. I can quite see why Asterix and friends got so excited aboutthis.
+      <description>  I visited my girlfriend in Germany this weekend, and her father wascelebrating his 60th birthday. A friend of his arranged a full wild boarfrom the German forests. The spit it and slow cooked it for 7 hours, ittasted amazing. I can quite see why Asterix and friends got so excited aboutthis.
   13102007410.jpg     13102007409.jpg    </description>
     </item>
     

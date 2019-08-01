@@ -31,7 +31,8 @@
 </div>
 
 <div>
-          from john d cook<br />http://www.johndcook.com/blog/2009/01/20/using-swig-to-expose-c-code-to-python/<br /><br />from <br />http://www.penzilla.net/tutorials/python/swig/<br /><br />and combining the two I came up with a way to get this to work on Mac OS X<br /><br />bash$ cat erf.i<br /><br />%module erf<br />#include<br />double erf(double);<br /><br />bash$ swig -o erf_wrap.c -python erf.i<br />bash$ gcc -o erf_wrap.os -c -fPIC -I/usr/include/python2.4 erf_wrap.c<br />bash$ gcc -o _erf.so -shared erf_wrap.os<br />bash$ python<br />>>> from erf import erf<br />>>> erf(1)<br />0.84270079294971489<br />
+          
+from john d cook<br />http://www.johndcook.com/blog/2009/01/20/using-swig-to-expose-c-code-to-python/<br /><br />from <br />http://www.penzilla.net/tutorials/python/swig/<br /><br />and combining the two I came up with a way to get this to work on Mac OS X<br /><br />bash$ cat erf.i<br /><br />%module erf<br />#include<br />double erf(double);<br /><br />bash$ swig -o erf_wrap.c -python erf.i<br />bash$ gcc -o erf_wrap.os -c -fPIC -I/usr/include/python2.4 erf_wrap.c<br />bash$ gcc -o _erf.so -shared erf_wrap.os<br />bash$ python<br />>>> from erf import erf<br />>>> erf(1)<br />0.84270079294971489<br />
 
  </div>
 

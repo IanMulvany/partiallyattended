@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rules on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/rules/</link>
+    <description>Recent content in Rules on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/rules/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>key questions about AI in the publishing knowledge industry</title>
+      <link>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</guid>
+      <description>At the moment one thing that is front and centre in my thinking about AI and machine learning in publishing and the scholarly ecosystem is how to make the case for ROI for investment in the technology, and more specifically investing in making data actionable.
+Overall I think there is great promise for challenges like knowledge discovery and machine generated hypotheses, but there is massive potential for these technologies to also just make the quality of our work better, and to increase the value of our work by reducing and removing toil in the workplace.</description>
+    </item>
+    
+  </channel>
+</rss>

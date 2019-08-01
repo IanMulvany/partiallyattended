@@ -113,7 +113,7 @@ Setup a virtualenv:
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
-      <description>Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39;</description>
+      <description> Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39; </description>
     </item>
     
     <item>
@@ -127,10 +127,10 @@ Setup a virtualenv:
     
     <item>
       <title>BarCamp Cambridge - James talking about HTML5</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge---james-talking-about-html5/</link>
+      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge---james-talking-about-html5/</guid>
+      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</guid>
       <description>James is just an interested bysander on the HTML 5 mailing list, hey, it&#39;s abarcamp
 html5 is th enew verison of html
 applemozillaoperaanyone who joins the mailing list
@@ -196,7 +196,7 @@ using a mesh network that connect to a hub using a &#39;zigby&#39;output can be 
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</guid>
-      <description> Thistutorial delves into pythonic ways of coding. I&#39;m learning from it.
+      <description>  Thistutorial delves into pythonic ways of coding. I&#39;m learning from it.
 tags: python, hoto, tutorial
  </description>
     </item>
