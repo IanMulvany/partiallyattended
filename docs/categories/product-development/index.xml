@@ -6,10 +6,22 @@
     <description>Recent content in Product Development on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/product-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Strategies to reduce cognitive load, and make systems more robust whilst doing so, and why that’s important for product development.</title>
+      <link>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</guid>
+      <description>At my current company we are looking at strategies for improving the resilience of our core systems, and looking at the issue of disaster recovery from a broad perspective. This comes under the heading business continuity management.
+From a product development perspective these considerations are also important.
+For successful products / product organisations consider these two perspectives:
+ Most new business value that we create from innovation projects comes from improvements or iterations to existing products over the creation of totally new products (from an evolutionary perspective this makes sense, products or services that are already making revenue have proved they they have an environmental fitness function that works, whereas new products are like genetic modifications, the vast majority of which lead towards extinct endpoints.</description>
+    </item>
     
     <item>
       <title>One Two Four All - a technique for getting insights from groups</title>

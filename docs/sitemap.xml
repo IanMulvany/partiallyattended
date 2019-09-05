@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -1998,6 +2003,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/bcm/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/behat/</loc>
     <lastmod>2014-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2222,6 +2233,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/coasp/</loc>
     <lastmod>2011-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/cognitive-load/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2564,6 +2581,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/encode/</loc>
     <lastmod>2013-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/engineering/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3348,6 +3371,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/microservices/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/microsoft/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3715,7 +3744,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/product-development/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4386,6 +4415,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/todi/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/toil/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
