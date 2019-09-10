@@ -419,7 +419,7 @@
     <item>
       <title>Book</title>
       <link>http://partiallyattended.com/categories/book/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/book/</guid>
       <description></description>
@@ -428,7 +428,7 @@
     <item>
       <title>Book Review</title>
       <link>http://partiallyattended.com/categories/book-review/</link>
-      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/book-review/</guid>
       <description></description>
@@ -3347,6 +3347,15 @@
       <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/scientology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scifi</title>
+      <link>http://partiallyattended.com/categories/scifi/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/scifi/</guid>
       <description></description>
     </item>
     
