@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Partially Attended</title>
+    <title>Partially Attended</title>
     <link>http://partiallyattended.com/categories/</link>
-    <description>Recent content in Categories on Partially Attended</description>
+    <description>Recent content on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
@@ -12,242 +12,96 @@
     
     
     <item>
-      <title></title>
-      <link>http://partiallyattended.com/categories/</link>
+      <title>Wittgenstein and Physics, Cross College Oxford one day seminar</title>
+      <link>http://partiallyattended.com/2015/02/19/wittgenstein-and-physics/</link>
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2015/02/19/wittgenstein-and-physics/</guid>
+      <description>(image via peternijenhuis)
+Last year I attended a one day seminar on Wittgenstein and Physics. It was held at Cross College Oxford and was the first in a planned series of talks on the history and philosophy of science. It&amp;rsquo;s been a long time since I&amp;rsquo;ve done physics seriously, and longer still since I took classes on the history and philosophy of science, so I attended very much in the mode of the interested outsider.</description>
     </item>
     
     <item>
-      <title>1am</title>
-      <link>http://partiallyattended.com/categories/1am/</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      <title>FuturePub Jan 2015 - Lens Next</title>
+      <link>http://partiallyattended.com/2015/01/28/futurepub4-lens-next/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/1am/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2015/01/28/futurepub4-lens-next/</guid>
+      <description>On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick update on where the Lens viewer for research articles is heading. Lens is a great platform for experimentation, and we have been iterating on some ideas towards the end of 2014 that have now made it into the 2.0 release.
+The main update is that Lens can now be configured to accept information from a 3rd party source and display that information in the right hand resources pane.</description>
     </item>
     
     <item>
-      <title>Academia</title>
-      <link>http://partiallyattended.com/categories/academia/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      <title>FuturePub Jan 2015 - Lens Next</title>
+      <link>http://partiallyattended.com/2015/01/28/futurepub4-lens-next/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/academia/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2015/01/28/futurepub4-lens-next/</guid>
+      <description>On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick update on where the Lens viewer for research articles is heading. Lens is a great platform for experimentation, and we have been iterating on some ideas towards the end of 2014 that have now made it into the 2.0 release.
+The main update is that Lens can now be configured to accept information from a 3rd party source and display that information in the right hand resources pane.</description>
     </item>
     
     <item>
-      <title>Adobe</title>
-      <link>http://partiallyattended.com/categories/adobe/</link>
-      <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
+      <title>FuturePub - future of publishing event, hosted by NESTA and WriteLaTeX</title>
+      <link>http://partiallyattended.com/2014/05/30/future-pub2/</link>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/adobe/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2014/05/30/future-pub2/</guid>
+      <description>This is the second #futurepub event that I&amp;rsquo;ve been to. I also attended the last one
+The event was hosted by Nesta. Nesta have just launched the &amp;ldquo;new longitude&amp;rdquo; prize - which looks pretty interesting. There were six rapid fire talks, and I found the presentation format to be excellent. As with the previous event, this one was organised by the WriteLaTeX guys, and I&amp;rsquo;d just like to extend a big thanks to them for again putting on a great little event.</description>
     </item>
     
     <item>
-      <title>Advice</title>
-      <link>http://partiallyattended.com/categories/advice/</link>
-      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+      <title>SpotOn day 2.</title>
+      <link>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/advice/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
+      <description>Yesterday was awesome, let&amp;rsquo;s see how today goes. I was watching from afar, as my wife attended, and now I&amp;rsquo;m here for the afternoon sessions.
+sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?  now on to the sessions!
+[Incentivising Open Access][ioa]. (top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.</description>
     </item>
     
     <item>
-      <title>Agile</title>
-      <link>http://partiallyattended.com/categories/agile/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <title>SpotOn day 1.</title>
+      <link>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/agile/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
+      <description>I&amp;rsquo;ll keep a partial, live-idsh blog going during the day. I&amp;rsquo;ve been going to these things, I think, since about 2008. I really like these meetings. I&amp;rsquo;m going to probably keep these notes pretty lightweight.
+sessions:  Ben Goldacre Kamila  Session on whether science journalism will be replaced Altmetric track  now on to the sessions!
+Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
     </item>
     
     <item>
-      <title>Ai</title>
-      <link>http://partiallyattended.com/categories/ai/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Last minute changes to our solo12journals line up.</title>
+      <link>http://partiallyattended.com/2012/11/10/last-minute-changes/</link>
+      <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/ai/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2012/11/10/last-minute-changes/</guid>
+      <description>* {margin:0; padding:0} body {font:11px/1.5 Verdana, Arial, Helvetica, sans-serif; background:#FFF} #text {margin:50px auto; width:500px} .hotspot {color:#900; padding-bottom:1px; border-bottom:1px dotted #900; cursor:pointer} #tt {position:absolute; display:block; background:url(images/tt_left.gif) top left no-repeat} #tttop {display:block; height:5px; margin-left:5px; background:url(images/tt_top.gif) top right no-repeat; overflow:hidden} #ttcont {display:block; padding:2px 12px 3px 7px; margin-left:5px; background:#666; color:#FFF} #ttbot {display:block; height:5px; margin-left:5px; background:url(images/tt_bottom.gif) top right no-repeat; overflow:hidden}  I&#39;m really excited about the session that we will be running at SpotOn London in just two days time!</description>
     </item>
     
     <item>
-      <title>Alexa</title>
-      <link>http://partiallyattended.com/categories/alexa/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Last minute changes to our solo12journals line up.</title>
+      <link>http://partiallyattended.com/2012/11/10/last-minute-changes/</link>
+      <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/alexa/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2012/11/10/last-minute-changes/</guid>
+      <description>* {margin:0; padding:0} body {font:11px/1.5 Verdana, Arial, Helvetica, sans-serif; background:#FFF} #text {margin:50px auto; width:500px} .hotspot {color:#900; padding-bottom:1px; border-bottom:1px dotted #900; cursor:pointer} #tt {position:absolute; display:block; background:url(images/tt_left.gif) top left no-repeat} #tttop {display:block; height:5px; margin-left:5px; background:url(images/tt_top.gif) top right no-repeat; overflow:hidden} #ttcont {display:block; padding:2px 12px 3px 7px; margin-left:5px; background:#666; color:#FFF} #ttbot {display:block; height:5px; margin-left:5px; background:url(images/tt_bottom.gif) top right no-repeat; overflow:hidden}  I&#39;m really excited about the session that we will be running at SpotOn London in just two days time!</description>
     </item>
     
     <item>
-      <title>Algorithm</title>
-      <link>http://partiallyattended.com/categories/algorithm/</link>
-      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      <title>Mind the product 2012, notes.</title>
+      <link>http://partiallyattended.com/2012/10/03/mtpcon/</link>
+      <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/categories/algorithm/</guid>
-      <description></description>
+      <guid>http://partiallyattended.com/2012/10/03/mtpcon/</guid>
+      <description>Last Friday I attended the amazing Mind the product conference in London. It was really inspirational. There were about 500 attendees, and having so many people with a concern for the same aspect of the product development process in one room led to a real buzz. The speakers were excellent, sadly I had to leave a little after lunch. The videos will be posted, keep an eye on the mind the product main site.</description>
     </item>
     
-    <item>
-      <title>Alm</title>
-      <link>http://partiallyattended.com/categories/alm/</link>
-      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/alm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alms</title>
-      <link>http://partiallyattended.com/categories/alms/</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/alms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alpsp</title>
-      <link>http://partiallyattended.com/categories/alpsp/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/alpsp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alpsp17</title>
-      <link>http://partiallyattended.com/categories/alpsp17/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/alpsp17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Altmetrics</title>
-      <link>http://partiallyattended.com/categories/altmetrics/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/altmetrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amazing Times</title>
-      <link>http://partiallyattended.com/categories/amazing-times/</link>
-      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/amazing-times/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amazon</title>
-      <link>http://partiallyattended.com/categories/amazon/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/amazon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Annotation</title>
-      <link>http://partiallyattended.com/categories/annotation/</link>
-      <pubDate>Thu, 16 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/annotation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Api</title>
-      <link>http://partiallyattended.com/categories/api/</link>
-      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apple</title>
-      <link>http://partiallyattended.com/categories/apple/</link>
-      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Applescript</title>
-      <link>http://partiallyattended.com/categories/applescript/</link>
-      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/applescript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aps</title>
-      <link>http://partiallyattended.com/categories/aps/</link>
-      <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/aps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Architecture</title>
-      <link>http://partiallyattended.com/categories/architecture/</link>
-      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Articles</title>
-      <link>http://partiallyattended.com/categories/articles/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arxiv</title>
-      <link>http://partiallyattended.com/categories/arxiv/</link>
-      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/arxiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asilearn</title>
-      <link>http://partiallyattended.com/categories/asilearn/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/asilearn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Astronomg</title>
-      <link>http://partiallyattended.com/categories/astronomg/</link>
-      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/astronomg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Author Mapper</title>
-      <link>http://partiallyattended.com/categories/author-mapper/</link>
+  </channel>
+</rss>categories/author-mapper/</link>
       <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/author-mapper/</guid>
@@ -833,7 +687,7 @@
     <item>
       <title>Data Science</title>
       <link>http://partiallyattended.com/categories/data-science/</link>
-      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/data-science/</guid>
       <description></description>
@@ -2667,6 +2521,15 @@
     </item>
     
     <item>
+      <title>Organisations</title>
+      <link>http://partiallyattended.com/categories/organisations/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/organisations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Osx</title>
       <link>http://partiallyattended.com/categories/osx/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
@@ -3677,7 +3540,7 @@
     <item>
       <title>Strategy</title>
       <link>http://partiallyattended.com/categories/strategy/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/strategy/</guid>
       <description></description>
