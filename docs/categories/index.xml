@@ -1364,7 +1364,7 @@
     <item>
       <title>Force2019</title>
       <link>http://partiallyattended.com/categories/force2019/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/force2019/</guid>
       <description></description>
@@ -2606,7 +2606,7 @@
     <item>
       <title>Open Access</title>
       <link>http://partiallyattended.com/categories/open-access/</link>
-      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/open-access/</guid>
       <description></description>
@@ -3023,6 +3023,15 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publishing#</title>
+      <link>http://partiallyattended.com/categories/publishing#/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/publishing#/</guid>
       <description></description>
     </item>
     
@@ -3738,6 +3747,15 @@
     </item>
     
     <item>
+      <title>Subscriptions</title>
+      <link>http://partiallyattended.com/categories/subscriptions/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/subscriptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sys Ops</title>
       <link>http://partiallyattended.com/categories/sys-ops/</link>
       <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
@@ -4085,6 +4103,15 @@
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unpaywall</title>
+      <link>http://partiallyattended.com/categories/unpaywall/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/unpaywall/</guid>
       <description></description>
     </item>
     
