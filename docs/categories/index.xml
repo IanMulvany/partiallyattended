@@ -3020,7 +3020,7 @@
     <item>
       <title>Publishing</title>
       <link>http://partiallyattended.com/categories/publishing/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/publishing/</guid>
       <description></description>
@@ -3083,7 +3083,7 @@
     <item>
       <title>Rave</title>
       <link>http://partiallyattended.com/categories/rave/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/rave/</guid>
       <description></description>
@@ -3842,6 +3842,15 @@
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/techdigest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Techmology</title>
+      <link>http://partiallyattended.com/categories/techmology/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/techmology/</guid>
       <description></description>
     </item>
     

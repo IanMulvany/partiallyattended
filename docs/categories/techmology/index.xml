@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techmology on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/techmology/</link>
+    <description>Recent content in Techmology on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/techmology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rave tech conference 2019</title>
+      <link>http://partiallyattended.com/2019/11/11/rave_tech_conference_2019_/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2019/11/11/rave_tech_conference_2019_/</guid>
+      <description>A few weeks ago I was at the aannual Rave publishing technology conference. It&amp;rsquo;s always an interesting event to attend.
+My main recollection from last year was the interest in blockchain.
+This year, as I reflect on how I feel about the meeting, I think I have two main things that have stayed with me.
+The first was the appeal from Tasha to ask us as a community and an industry to do more to think about removing barriers for early career researchers.</description>
+    </item>
+    
+  </channel>
+</rss>
