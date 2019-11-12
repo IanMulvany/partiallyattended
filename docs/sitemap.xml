@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/11/11/rave_tech_conference_2019_/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
   </url>
@@ -3088,6 +3093,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/impact/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/industry/</loc>
     <lastmod>2013-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3198,6 +3209,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/kubernetes/</loc>
     <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/kudos/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3683,7 +3700,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3791,7 +3808,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3970,7 +3987,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/research/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
