@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graph on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/graph/</link>
-    <description>Recent content in Graph on Partially Attended</description>
+    <title>Pid on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/pid/</link>
+    <description>Recent content in Pid on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://partiallyattended.com/categories/graph/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://partiallyattended.com/categories/pid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</guid>
       <description>I sat down with Richard Wynne. Richard has a long career in the publishing space, having been one of the senior team at Aries for a long time.
 Over the last year Richard has founded Rescognito. Rescognito is a service to allow institutions or individuals to award credits (or rescogs ) to anyone for anything within the scholarly ecosystem. You can reward article contributions, reviews, presentations, knowledge, providing open data. The schema is extendible, so if you have a particular use-case in mind it could be accommodated.</description>
-    </item>
-    
-    <item>
-      <title>Scholia</title>
-      <link>http://partiallyattended.com/2018/06/21/scholia/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/scholia/</guid>
-      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)
-https://tools.wmflabs.org/scholia/</description>
     </item>
     
   </channel>

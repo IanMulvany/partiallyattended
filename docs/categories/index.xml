@@ -777,6 +777,15 @@
     </item>
     
     <item>
+      <title>Credit</title>
+      <link>http://partiallyattended.com/categories/credit/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/credit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Crossref</title>
       <link>http://partiallyattended.com/categories/crossref/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
@@ -1607,7 +1616,7 @@
     <item>
       <title>Graph</title>
       <link>http://partiallyattended.com/categories/graph/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/graph/</guid>
       <description></description>
@@ -2721,6 +2730,15 @@
     </item>
     
     <item>
+      <title>Orcid</title>
+      <link>http://partiallyattended.com/categories/orcid/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Organisations</title>
       <link>http://partiallyattended.com/categories/organisations/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
@@ -2870,6 +2888,15 @@
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/picture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pid</title>
+      <link>http://partiallyattended.com/categories/pid/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/pid/</guid>
       <description></description>
     </item>
     
@@ -3707,6 +3734,15 @@
       <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/standards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startups</title>
+      <link>http://partiallyattended.com/categories/startups/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/startups/</guid>
       <description></description>
     </item>
     

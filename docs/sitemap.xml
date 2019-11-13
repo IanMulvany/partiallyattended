@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url>
@@ -2367,6 +2372,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/credit/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/crossref/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2920,7 +2931,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/graph/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3663,6 +3674,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/orcid/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/organisations/</loc>
     <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3700,7 +3717,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3771,6 +3788,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/pid/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/platforms/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3808,7 +3831,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4336,6 +4359,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/standards/</loc>
     <lastmod>2013-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/startups/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,66 @@
+<htlml>
+<head>
+  <base href='http://partiallyattended.com'>
+  
+  <link rel='canonical' href='http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./'>
+  <link href='' rel='alternate' type='application/rss+xml' title='Partially Attended' />
+  <link rel='stylesheet' href="http://partiallyattended.com/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="http://partiallyattended.com">home</a> |
+  <a href="http://partiallyattended.com/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+<article id="content">
+
+<h1 class="post-title">rescognito - a route towards a weighted scholarly graph.</h1>
+
+<section>
+      <h4 id="date"> Wed Nov 13, 2019 </h4>
+      <h5 id="wordcount"> 632 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Tags:
+                           <a href="/categories/graph">graph</a>, <a href="/categories/pid">pid</a>, <a href="/categories/orcid">orcid</a>, <a href="/categories/startups">startups</a>, <a href="/categories/credit">credit</a>
+</div>
+
+<div>
+          <p>I sat down with Richard Wynne. Richard has a long career in the publishing space, having been one of the senior team at Aries for a long time.</p>
+
+<p>Over the last year Richard has founded <a href="https://rescognito.com">Rescognito</a>. Rescognito is a service to allow institutions or individuals to award credits (or <code>rescogs</code> ) to anyone for anything within the scholarly ecosystem. You can reward article contributions, reviews, presentations, knowledge, providing open data. The schema is extendible, so if you have a particular use-case in mind it could be accommodated.  The key thing is that all of the awarding is pinned on top of the persistent identifier graphs. Everyone involved has to have an ORCID. You can see my own page here: <a href="https://rescognito.com/0000-0002-6754-1421#">Rescognito - Ian Mulvany</a>.</p>
+
+<p>Initially the underlying model is that the service will sell a bag of credits to institutions, and when an institution awards someone for something their credits will have a different value to those awarded by individuals. This provides a way to see “trusted” claims along with “normal” claims, while at the same time providing an instant monetisation framework for the service.</p>
+
+<p>I was initially skeptical because what is going on here is that for this service to work everyone has to invest in beliveing that these tokens have real value, and until everyone does, they don’t.</p>
+
+<p>However, there are a number of other ways to look at what Richard is building here, and it&rsquo;s been interesting to stay in touch with him over the last few months and observe the ongoing evolution of the service.</p>
+
+<p>For example one way to look at this is that by combining different kinds of recognition, and being able to weight contributions, one can start to build out a directed graph of recognition and contribution. Instead of having to get over the cold start one could take a network of interactions that was of interest to a stakeholder (grants awarded, or data deposited) and using the weighted graph one could start to use something like the Page rank algorithm to find key loci in the network. For a paper or individual you could also start to provide insight into weighted contributions by contribution type. If we truly wanted to support a diverse research ecosystem something like this could be a valuable tool for funders to determine whether their values are being realised in practice. You can get a sense of this from the following view: <a href="https://rescognito.com/doiVisualization.php?doi=10.12688/f1000research.19585.1">Rescognito</a></p>
+
+<p>Another thing that is interesting here is that everything is built on top of the PID graph. This means that there is an opportunity for rescognito to offer the infrastructure to run services that are wired together with persistent identifiers, where it might be challenging to create that infrastructure on a per service level in a distributed way. The key thing is that if the claims that you want to provide services for can be described as relationships between persistent identifiers, then rescognito could make those claims operable through a PID-driven API without a huge amount of extra work on top of what has already been built. For example let’s imagine that open review was a demand of certain funders, and different funders had different requirements for what they mean by open review, then if rescognito could name these differences, then it could offer these things as services to publishers, building once, and meaning that each publisher would not have to build out each different use case themselves.</p>
+
+<p>Richard himself says:</p>
+
+<blockquote>
+<p>Rescognito is a great way for journal publishers to rapidly and efficiently collect data throughout the research/publication lifecycle <strong>without</strong> modifying workflow or adding to back-office administration.</p>
+</blockquote>
+
+<p>You can learn more from this webinar: <a href="https://www.youtube.com/watch?v=6RGf2g8DmDY">Structured Recognition via Rescognito &amp; ORCID - YouTube</a>.</p>
+
+<p>Overall I’ve been impressed by what Richard has succeeded in building out in a short time.</p>
+
+ </div>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+
+ </article>
+
+</body>
+</html>
+
