@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2019/11/19/google_data_set_search._/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
   </url>
@@ -2409,7 +2414,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/data/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2505,7 +2510,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/discovery/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2907,7 +2912,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/google/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3717,7 +3722,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3831,7 +3836,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4005,6 +4010,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/report/</loc>
     <lastmod>2010-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/repositories/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
