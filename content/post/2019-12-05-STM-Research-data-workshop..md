@@ -60,7 +60,7 @@ The two big issues in my mind are the following:
 
 Overall I think things are really moving in the right direction. It was aa great workshop, and I'd like to thank Joris and Eefke Smit for running it! 
 
-## Some related and interesting links. 
+### Some related and interesting links. 
 
 [FAIRsharing](https://fairsharing.org) were at the meeting. They curate and host a registry of data repositories and data policies, and make it possible for you to determine which repositories match which policies. This is a fantastic resource. 
 
