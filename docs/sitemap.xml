@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/2019/12/11/thoughts_on_getftr_/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
@@ -1894,6 +1899,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/access/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/adobe/</loc>
     <lastmod>2012-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2896,6 +2907,12 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/getftr/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/categories/gf1/</loc>
     <lastmod>2010-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3335,7 +3352,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/libraries/</loc>
-    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3755,7 +3772,7 @@
   
   <url>
     <loc>http://partiallyattended.com/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3869,7 +3886,7 @@
   
   <url>
     <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3952,7 +3969,7 @@
   
   <url>
     <loc>http://partiallyattended.com/categories/publishing/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4157,6 +4174,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/sameas/</loc>
     <lastmod>2011-08-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/saml/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4840,6 +4863,12 @@
   <url>
     <loc>http://partiallyattended.com/categories/writelatex/</loc>
     <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/wtfgetftwt/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

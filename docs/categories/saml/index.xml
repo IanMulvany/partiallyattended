@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saml on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/saml/</link>
+    <description>Recent content in Saml on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/saml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>thoughts on GetFTR</title>
+      <link>http://partiallyattended.com/2019/12/11/thoughts_on_getftr_/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2019/12/11/thoughts_on_getftr_/</guid>
+      <description>what does it do? By using a single sign-on system (like SAML, or OAuth) a researcher can have their browser remember who they are. Today most access to subscription content is done via IP authentication. A university pays a publisher to access the content that the publisher hosts, and the university sends over a list of the IP ranges that cover the university buildings. Any researcher on campus just gets access.</description>
+    </item>
+    
+  </channel>
+</rss>
