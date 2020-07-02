@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talk on Partially Attended</title>
+    <title>talk on Partially Attended</title>
     <link>http://partiallyattended.com/categories/talk/</link>
-    <description>Recent content in Talk on Partially Attended</description>
+    <description>Recent content in talk on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Sep 2010 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/09/13/slides-from-aps-talk/</guid>
-      <description>Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to talk to some really interesting scientists. My talk slides are below.
-Unveiling the web, making the implicit explicit.View more documents from Ian Mulvany. </description>
+      <description>Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to talk to some really interesting scientists. My talk slides are below.</description>
     </item>
     
     <item>
@@ -91,26 +90,6 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     </item>
     
     <item>
-      <title>The fruitcakes have a talking form</title>
-      <link>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</guid>
-      <description>  A new creationisim journal ARJ.GRRRRRRRR
- </description>
-    </item>
-    
-    <item>
-      <title>Today at lunch duplicators and instantiators</title>
-      <link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
-      <description>I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last time I can recall having somany interesting discussions over lunch and breaks was way back when I wasin my first undergraduate degree, but the topics of conversation that tendto come up at my current place of employment are really worth trying torecord.
-Today we started off having a couple of split conversation, Euan describingchatting to Martha at Sci-Foo and Euan and I talking about Euler, as you do.</description>
-    </item>
-    
-    <item>
       <title>live blogging from BarCamp Cambridge,</title>
       <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -156,6 +135,26 @@ Matt believes that we can get the benifits of semantic now, but withoutin any ca
       <description>I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
 What is open science and what is the system? Well I am sure that there aremany viewpoints on this, so I am going to just put forward one here.
 At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipation in science. The credit is converted to grant money, thedollars keep the food on the plate.</description>
+    </item>
+    
+    <item>
+      <title>The fruitcakes have a talking form</title>
+      <link>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</guid>
+      <description>  A new creationisim journal ARJ.GRRRRRRRR
+ </description>
+    </item>
+    
+    <item>
+      <title>Today at lunch duplicators and instantiators</title>
+      <link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
+      <description>I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last time I can recall having somany interesting discussions over lunch and breaks was way back when I wasin my first undergraduate degree, but the topics of conversation that tendto come up at my current place of employment are really worth trying torecord.
+Today we started off having a couple of split conversation, Euan describingchatting to Martha at Sci-Foo and Euan and I talking about Euler, as you do.</description>
     </item>
     
   </channel>

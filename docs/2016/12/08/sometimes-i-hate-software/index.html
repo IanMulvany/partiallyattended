@@ -32,23 +32,15 @@
 
 <div>
           <p>This is a short story about software, some of the things I hate about it, my lack of knowledge of ruby, and a desire to own my own words.</p>
-
 <p>For various reasons I&rsquo;m working on a brand new machine, I decided that I want to start posting to my <a href="http://partiallyattended.com">own blog</a> again (as well as cross posting to Medium, because fuck it, why not).</p>
-
 <p>That involved dusting down my Jekyll site and seeing if I could get it to work again.</p>
-
 <p>It&rsquo;s been a while, mind, so the very first thing that I did was go and pull my blog content down from Github and fire up Jekyll.</p>
-
 <p>Jekyll has moved on since I last used it, and I discovered that the mechanism that I was using to create an index page of my tags no longer works. <a href="https://github.com/IanMulvany/partiallyattended/blob/gh-pages/Rakefile#L13">The following line</a> in the rake-file that I was using is deprecated, and throws an error.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ruby" data-lang="ruby">	site<span style="color:#f92672">.</span>read_posts(<span style="color:#e6db74">&#39;&#39;</span>)</code></pre></div>
-<p>I thought, it&rsquo;s one line, how hard can it be to fix? Of course, the dirty little secret is that I don&rsquo;t know ruby, I&rsquo;d just been using Jekyll in the past as a fast way to generate blog content from markdown. I spent several hours this afternoon trying to tack down a short comprehensible workaround, and have come to the conclusion that I won&rsquo;t make progress without actually learning enough ruby to become proficient at writing ruby plugins, and my life is too short to do that.</p>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ruby" data-lang="ruby">	site<span style="color:#f92672">.</span>read_posts(<span style="color:#e6db74">&#39;&#39;</span>)
+</code></pre></div><p>I thought, it&rsquo;s one line, how hard can it be to fix? Of course, the dirty little secret is that I don&rsquo;t know ruby, I&rsquo;d just been using Jekyll in the past as a fast way to generate blog content from markdown. I spent several hours this afternoon trying to tack down a short comprehensible workaround, and have come to the conclusion that I won&rsquo;t make progress without actually learning enough ruby to become proficient at writing ruby plugins, and my life is too short to do that.</p>
 <p>Writing my markdown in Byword gives me almost instant access to publish to Medium via the publish button, but I want to control my own domain, and I want a git archive of my blog posts too, so what do I do?</p>
-
 <p>I really liked the way that tagging used to work on my site, but have decided that the value add to getting it working again is too low, given the time that it might take me to work around the issue. I thought briefly about moving to a python static site generation tool, but that would involve so much work that it would defeat the purpose of doing what I want to do, which is to blog fairly efficiently.</p>
-
 <p>In the end I decided to change my tagging strategy, and create some static tag templates. <a href="https://www.mikeapted.com/jekyll/2015/12/30/category-and-tag-archives-in-jekyll-no-plugins/">This post from Mike Apted</a> was easy to follow along and get working.</p>
-
 <p>This comes to the nub of my problem with software. I want it to serve me, and mostly to get out of my way, but by knowing just enough to have a little bit of control of my environment I often get seduced by the desire to have perfect control. I just need to step back a little, and ask, it what I want to do here worth the potential time and effort that it might take me to complete, in contrast to finding a solution that is good enough and meets most of my needs.</p>
 
  </div>

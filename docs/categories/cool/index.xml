@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cool on Partially Attended</title>
+    <title>cool on Partially Attended</title>
     <link>http://partiallyattended.com/categories/cool/</link>
-    <description>Recent content in Cool on Partially Attended</description>
+    <description>Recent content in cool on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -35,8 +35,7 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/scholia/</guid>
-      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)
-https://tools.wmflabs.org/scholia/</description>
+      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)</description>
     </item>
     
     <item>
@@ -45,8 +44,7 @@ https://tools.wmflabs.org/scholia/</description>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
-      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.
-https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
+      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.</description>
     </item>
     
     <item>
@@ -56,7 +54,7 @@ https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
       
       <guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
       <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
-https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zQPRcn76XHKxex7ytdmTKC9nXMPPK0Tv0-hMlSY6xVU%2Fpubhtml</description>
+&amp;lt;a href=https://radar.</description>
     </item>
     
     <item>
@@ -84,8 +82,7 @@ Also, this is not blockchain based, and yet manages to be decentralised. Those o
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
-      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.
-https://openknowledgemaps.org/viper/</description>
+      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.</description>
     </item>
     
     <item>
@@ -94,8 +91,7 @@ https://openknowledgemaps.org/viper/</description>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
-      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
-https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.</description>
     </item>
     
     <item>
@@ -104,8 +100,7 @@ https://www.sciencedirect.com/science/article/pii/S1053811917302707</description
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</guid>
-      <description>a nice description of IIF from the guardian.
-https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating</description>
+      <description>a nice description of IIF from the guardian.</description>
     </item>
     
     <item>
@@ -168,17 +163,6 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     </item>
     
     <item>
-      <title>Tips for switching from Windows to Mac</title>
-      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
-      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
--- Where is the right mouse button?
-This is the biggest obvious first difference.</description>
-    </item>
-    
-    <item>
       <title>comment on climbing goals</title>
       <link>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -221,6 +205,17 @@ might get too corporate.
 trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
 they are going to ship a home security system, but they are actuallybuilding a platofrmthat can connect anything that does not require full audio and video
 using a mesh network that connect to a hub using a &#39;zigby&#39;output can be things like a lamp that has a color dependant state</description>
+    </item>
+    
+    <item>
+      <title>Tips for switching from Windows to Mac</title>
+      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
+      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
+-- Where is the right mouse button?
+This is the biggest obvious first difference.</description>
     </item>
     
   </channel>

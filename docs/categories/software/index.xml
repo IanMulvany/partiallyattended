@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Partially Attended</title>
+    <title>software on Partially Attended</title>
     <link>http://partiallyattended.com/categories/software/</link>
-    <description>Recent content in Software on Partially Attended</description>
+    <description>Recent content in software on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
@@ -45,8 +45,7 @@ Flavours of Agile In Flavours of Agile Pat Kua briefly describes and rates a num
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</guid>
-      <description>A great example of using a &amp;ldquo;flight plan checklist&amp;rdquo; to reduce risk in software development.
-https://blog.gojekengineering.com/limiting-software-infant-mortality-rate-decoding-gojek-deployment-checklist-1c6cc3e28df</description>
+      <description>A great example of using a &amp;ldquo;flight plan checklist&amp;rdquo; to reduce risk in software development.</description>
     </item>
     
     <item>
@@ -87,9 +86,7 @@ He article highlights exactly why I like docker:
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/09/14/software_publishing_to_maximise_data_value_slides_from_alpsp/</guid>
-      <description>Here are some annotated slides from my ALPSP talk today.
-
- </description>
+      <description>Here are some annotated slides from my ALPSP talk today.</description>
     </item>
     
     <item>

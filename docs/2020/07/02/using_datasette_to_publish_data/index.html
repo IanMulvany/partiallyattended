@@ -1,0 +1,596 @@
+<htlml>
+<head>
+  <base href='http://partiallyattended.com'>
+  
+  <link rel='canonical' href='http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/'>
+  <link href='' rel='alternate' type='application/rss+xml' title='Partially Attended' />
+  <link rel='stylesheet' href="http://partiallyattended.com/css/styles.css" > 
+
+</head>
+</body>
+<h2><a href="http://partiallyattended.com">home</a> |
+  <a href="http://partiallyattended.com/categories">tags</a> |
+  
+  
+  <a href="http://mulvany.net">mulvany.net</a></h2>
+<hr/>
+
+
+<article id="content">
+
+<h1 class="post-title">Using Datasette to publish data</h1>
+
+<section>
+      <h4 id="date"> Thu Jul 2, 2020 </h4>
+      <h5 id="wordcount"> 3415 Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Tags:
+                           <a href="/categories/data">data</a>, <a href="/categories/data-publishing">data-publishing</a>, <a href="/categories/datasette">datasette</a>, <a href="/categories/crossref">crossref</a>, <a href="/categories/notebook">notebook</a>, <a href="/categories/jupyter">jupyter</a>
+</div>
+
+<div>
+          <p>In my department we have started to make a bit of space to allow fr self learning to
+happen. I took the time to look at datasette, an ecosystem of tools that support
+data publishing. These tools are from Simon Wilison, and they are fantastic.</p>
+<p>I&rsquo;d been meaning to look at the them for some time now. I used a jupyter notebook
+to work my way around getting some data together, and working with the tool.</p>
+<p>I&rsquo;ve exported the notebook output to markdown for the rest of this blog post,</p>
+<p>You can grab a copy of this notebook from <a href="">https://github.com/IanMulvany/datasette-testing-bmj-articles</a>.</p>
+<hr>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> json
+<span style="color:#f92672">import</span> pandas <span style="color:#f92672">as</span> pd
+<span style="color:#f92672">import</span> requests <span style="color:#f92672">as</span> r
+<span style="color:#f92672">import</span> csv
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">pd<span style="color:#f92672">.</span>set_option(<span style="color:#e6db74">&#39;display.max_colwidth&#39;</span>, <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>) <span style="color:#75715e"># see https://thispointer.com/python-pandas-how-to-display-full-dataframe-i-e-print-all-rows-columns-without-truncation/ - to show cells with long strings in them</span>
+</code></pre></div><p># Learning Datasette with some sample data about BMJ publications.</p>
+<p>I am interested in learning about datasette - an open soruce tool for publishing and exploring data. In order to learn about the tool I&rsquo;ve decided to see if it can be used to create an interface to explore some informaiton about papers published by the BMJ. The goal is to see if Datasette could be a useful tool for publishing and sharing data.</p>
+<p>In this notebook I&rsquo;m going to:</p>
+<ul>
+<li>get some data about 100 BMJ articles using the crossref API</li>
+<li>take a selection of the metadata from those articles</li>
+<li>install Datasette locally</li>
+<li>use sqlite_utils to create a local sqlite database</li>
+<li>use datasette running locally to explore and interact with this data</li>
+<li>export to CSV from my local instance</li>
+<li>upload this CSV to an online instance of Datasette running on Glitch</li>
+<li>configure the Glitch instance to enable full text search on some of the fields</li>
+</ul>
+<p>The final output can be seen running at <a href="">https://watery-alder-carpenter.glitch.me/data/article</a>.</p>
+<p>Overall it went really well, and I&rsquo;m excited about Datasette.</p>
+<p>You can grab a copy of this notebook from <a href="">https://github.com/IanMulvany/datasette-testing-bmj-articles</a>.</p>
+<h1 id="getting-some-bmj-article-data-via-the-crossref-api">Getting some BMJ article data via the CrossRef API.</h1>
+<p>I want to get infomration on 1000 recent papers published by the BMJ, it&rsquo;s fine if it&rsquo;s across a number of journals. CrossRef provide an API that can be used to get metadata about scholarly articles, and it can be queried by publisher id.</p>
+<h3 id="getting-the-bmj-membership-id">Getting the BMJ membership id</h3>
+<p>The crossref <a href="https://github.com/CrossRef/rest-api-doc">API documentation is good</a>. I can get information on BMJ works using the following endpoint <code>/members/{member_id}/works</code>, but first I need to determine the member id for the BMJ. I&rsquo;ve usually struggled with this, as previously I&rsquo;ve hit the members endpoint and searched through the results in that, but after poking around on the crossref site, I can see that there is a page <a href="">https://www.crossref.org/reporting/members-with-open-references/</a> where you can search for some members and the result includes the members id.</p>
+<p>Using that we find that the BMJ id is <code>239</code>.</p>
+<p>### Getting some sample article metadata to play with.</p>
+<p>Let&rsquo;s check our id to see if it looks correct.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">url <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;https://api.crossref.org/members/239&#34;</span>
+results <span style="color:#f92672">=</span> r<span style="color:#f92672">.</span>get(url)
+response_df <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_json(results<span style="color:#f92672">.</span>text) <span style="color:#75715e"># push the json response into a dataframe, just to make it easier to look at in the notebook</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">response_df
+</code></pre></div><!-- raw HTML omitted -->
+<p>.dataframe tbody tr th {
+vertical-align: top;
+}</p>
+<p>.dataframe thead th {
+text-align: right;
+}
+<!-- raw HTML omitted --></p>
+<!-- raw HTML omitted -->
+<p>### now let&rsquo;s get some article metadata</p>
+<p>I&rsquo;m interested in getting articles that have abstract metadata, and I&rsquo;d like to get a sample, so I can use some filters that the crossref API provide.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># the query against the endpoint below felt like it took about a minute to run.</span>
+url <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;https://api.crossref.org/members/239/works?filter=has-abstract:true&amp;sample=100&#34;</span>
+results <span style="color:#f92672">=</span> r<span style="color:#f92672">.</span>get(url)
+response_df <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_json(results<span style="color:#f92672">.</span>text)
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample <span style="color:#f92672">=</span> results<span style="color:#f92672">.</span>json()[<span style="color:#e6db74">&#34;message&#34;</span>][<span style="color:#e6db74">&#34;items&#34;</span>]
+</code></pre></div><p>Now I&rsquo;ve got a sample of 100 articles from BMJ with associated metadata. Let&rsquo;s look at what metadata we can get from one record.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>]<span style="color:#f92672">.</span>keys()
+</code></pre></div><p>dict_keys([&lsquo;indexed&rsquo;, &lsquo;reference-count&rsquo;, &lsquo;publisher&rsquo;, &lsquo;funder&rsquo;, &lsquo;content-domain&rsquo;, &lsquo;short-container-title&rsquo;, &lsquo;abstract&rsquo;, &lsquo;DOI&rsquo;, &lsquo;type&rsquo;, &lsquo;created&rsquo;, &lsquo;page&rsquo;, &lsquo;update-policy&rsquo;, &lsquo;source&rsquo;, &lsquo;is-referenced-by-count&rsquo;, &lsquo;title&rsquo;, &lsquo;prefix&rsquo;, &lsquo;author&rsquo;, &lsquo;member&rsquo;, &lsquo;published-online&rsquo;, &lsquo;reference&rsquo;, &lsquo;container-title&rsquo;, &lsquo;language&rsquo;, &lsquo;link&rsquo;, &lsquo;deposited&rsquo;, &lsquo;score&rsquo;, &lsquo;issued&rsquo;, &lsquo;references-count&rsquo;, &lsquo;alternative-id&rsquo;, &lsquo;URL&rsquo;, &lsquo;relation&rsquo;, &lsquo;ISSN&rsquo;, &lsquo;issn-type&rsquo;, &lsquo;subject&rsquo;])</p>
+<p>Let&rsquo;s work through these and decide which ones we want to try to view in datasette.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;indexed&#34;</span>] <span style="color:#75715e"># not interested in this right now.</span>
+</code></pre></div><p>{&lsquo;date-parts&rsquo;: [[2020, 6, 30]],
+&lsquo;date-time&rsquo;: &lsquo;2020-06-30T21:41:52Z&rsquo;,
+&lsquo;timestamp&rsquo;: 1593553312745}</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;reference-count&#34;</span>] <span style="color:#75715e"># this is interesting - keep this one</span>
+</code></pre></div><p>29</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;publisher&#34;</span>] <span style="color:#75715e"># we know we are the publisher, so ignore this one for now.</span>
+</code></pre></div><p>&lsquo;BMJ&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;funder&#34;</span>] <span style="color:#75715e"># the funder is interesting, but needs a bit more work to extract, let&#39;s create a short function to do that for us.</span>
+</code></pre></div><p>[{&lsquo;DOI&rsquo;: &lsquo;10.13039/100000009&rsquo;,
+&lsquo;name&rsquo;: &lsquo;Foundation for the National Institutes of Health&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;,
+&lsquo;award&rsquo;: [&lsquo;R01NS111119-01A1&rsquo;]}]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get_funder_info</span>(funders):
+award_numbers <span style="color:#f92672">=</span> []
+funder_names <span style="color:#f92672">=</span> []
+funder_dois <span style="color:#f92672">=</span> []
+<span style="color:#66d9ef">for</span> funder <span style="color:#f92672">in</span> funders:
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#39;award&#39;</span> <span style="color:#f92672">in</span> funder:
+award_numbers<span style="color:#f92672">.</span>append(funder[<span style="color:#e6db74">&#34;award&#34;</span>])
+<span style="color:#66d9ef">else</span>:
+award_numbers<span style="color:#f92672">.</span>append([<span style="color:#e6db74">&#34;&#34;</span>])
+funder_names<span style="color:#f92672">.</span>append(funder[<span style="color:#e6db74">&#39;name&#39;</span>])
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#39;DOI&#39;</span> <span style="color:#f92672">in</span> funder:
+funder_dois<span style="color:#f92672">.</span>append(funder[<span style="color:#e6db74">&#39;DOI&#39;</span>])
+<span style="color:#66d9ef">else</span>:
+funder_dois<span style="color:#f92672">.</span>append([<span style="color:#e6db74">&#34;&#34;</span>])
+<span style="color:#66d9ef">return</span> award_numbers, funder_names, funder_dois
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;content-domain&#34;</span>] <span style="color:#75715e"># not interested in this</span>
+</code></pre></div><p>{&lsquo;domain&rsquo;: [&lsquo;bmj.com&rsquo;], &lsquo;crossmark-restriction&rsquo;: True}</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;short-container-title&#34;</span>] <span style="color:#75715e">#only keep if the journal title is not available</span>
+</code></pre></div><p>[&lsquo;J NeuroIntervent Surg&rsquo;]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;abstract&#34;</span>] <span style="color:#75715e"># yes - interested</span>
+</code></pre></div><p>&lsquo;<a href="jats:sec">jats:sec</a><a href="jats:title">jats:title</a>Background&lt;/jats:title&gt;<a href="jats:p">jats:p</a>The management of unruptured intracranial aneurysms (UIAs) has evolved significantly over the last few decades. Our objective was to evaluate the 100 most cited UIA articles by bibliometric analysis to identify nature, content and shifts over time.&lt;/jats:p&gt;&lt;/jats:sec&gt;<a href="jats:sec">jats:sec</a><a href="jats:title">jats:title</a>Methods&lt;/jats:title&gt;<a href="jats:p">jats:p</a>Elsevier’s Scopus database was interrogated for the 100 most cited articles that focused on UIA. Older versus newer articles were compared, with categorical data analyzed using Pearson’s Chi-square, and continuous data analyzed using Wilcoxon’s rank-sum test.&lt;/jats:p&gt;&lt;/jats:sec&gt;<a href="jats:sec">jats:sec</a><a href="jats:title">jats:title</a>Results&lt;/jats:title&gt;<a href="jats:p">jats:p</a>The 100 most cited articles were published between 1975 and 2015, with the majority of these reporting patient clinical outcomes (n=69). There were 47/69 (68%) articles that described surgical intervention, with 38/47 (81%) and 18/47 (38%) including endovascular and open approaches, respectively . Publications peaked in 2004 (n=8), and the most common country of correspondence was the United States (n=59). Compared to older articles, newer articles had statistically higher citation rates (P&lt;0.01), higher number of authors (P&lt;0.01) with more multiple institution collaborations (P=0.01), greater disclosures of funding (P&lt;0.01), more focus on endovascular treatments (P=0.04), in more journals with a clinical, non-surgical focus (P&lt;0.01) published under open access policies (P&lt;0.01).&lt;/jats:p&gt;&lt;/jats:sec&gt;<a href="jats:sec">jats:sec</a><a href="jats:title">jats:title</a>Conclusions&lt;/jats:title&gt;<a href="jats:p">jats:p</a>In the 100 most cited articles about UIAs to date, there is a distinct shift towards more co-authored efforts utilizing multi-institutional efforts focused on endovascular approaches supported by funding. The emergence of endovascular techniques has refreshed the need for more contemporary rupture risk prediction models and natural history data to validate current attitudes towards clinical management after these minimally invasive procedures for UIAs.&lt;/jats:p&gt;&lt;/jats:sec&gt;&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;DOI&#34;</span>] <span style="color:#75715e"># yes</span>
+</code></pre></div><p>&lsquo;10.1136/neurintsurg-2020-016238&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;type&#34;</span>] <span style="color:#75715e"># no</span>
+</code></pre></div><p>&lsquo;journal-article&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;created&#34;</span>] <span style="color:#75715e"># just want the timestamp</span>
+</code></pre></div><p>{&lsquo;date-parts&rsquo;: [[2020, 6, 30]],
+&lsquo;date-time&rsquo;: &lsquo;2020-06-30T21:27:03Z&rsquo;,
+&lsquo;timestamp&rsquo;: 1593552423000}</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get_timesstamp</span>(created):
+<span style="color:#66d9ef">return</span> created[<span style="color:#e6db74">&#34;date-time&#34;</span>]
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;page&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>&lsquo;neurintsurg-2020-016238&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;update-policy&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>&lsquo;<a href="http://dx.doi.org/10.1136/crossmarkpolicy'">http://dx.doi.org/10.1136/crossmarkpolicy'</a></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;source&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>&lsquo;Crossref&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;is-referenced-by-count&#34;</span>] <span style="color:#75715e"># keep this, though in this example the nubmer is 0, interesting if non zero</span>
+</code></pre></div><p>0</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;title&#34;</span>] <span style="color:#75715e"># yes!</span>
+</code></pre></div><p>[&lsquo;Nature, content and shifts over time of the most impactful unruptured intracranial aneurysms articles: a bibliometric analysis&rsquo;]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;prefix&#34;</span>] <span style="color:#75715e"># no</span>
+</code></pre></div><p>&lsquo;10.1136&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;author&#34;</span>] <span style="color:#75715e"># very interesting, need to get some more data from this!, let&#39;s write a quick function</span>
+</code></pre></div><p>[{&lsquo;ORCID&rsquo;: &lsquo;http://orcid.org/0000-0002-9470-5890&rsquo;,
+&lsquo;authenticated-orcid&rsquo;: False,
+&lsquo;given&rsquo;: &lsquo;Victor M&rsquo;,
+&lsquo;family&rsquo;: &lsquo;Lu&rsquo;,
+&lsquo;sequence&rsquo;: &lsquo;first&rsquo;,
+&lsquo;affiliation&rsquo;: []},
+{&lsquo;given&rsquo;: &lsquo;Stephanie H&rsquo;,
+&lsquo;family&rsquo;: &lsquo;Chen&rsquo;,
+&lsquo;sequence&rsquo;: &lsquo;additional&rsquo;,
+&lsquo;affiliation&rsquo;: []},
+{&lsquo;ORCID&rsquo;: &lsquo;http://orcid.org/0000-0002-3679-3212&rsquo;,
+&lsquo;authenticated-orcid&rsquo;: False,
+&lsquo;given&rsquo;: &lsquo;Christopher C&rsquo;,
+&lsquo;family&rsquo;: &lsquo;Young&rsquo;,
+&lsquo;sequence&rsquo;: &lsquo;additional&rsquo;,
+&lsquo;affiliation&rsquo;: []},
+{&lsquo;given&rsquo;: &lsquo;Robert M&rsquo;,
+&lsquo;family&rsquo;: &lsquo;Starke&rsquo;,
+&lsquo;sequence&rsquo;: &lsquo;additional&rsquo;,
+&lsquo;affiliation&rsquo;: []}]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get_author_info</span>(author_data):
+author_number <span style="color:#f92672">=</span> len(author_data)
+orcids <span style="color:#f92672">=</span> []
+names <span style="color:#f92672">=</span> []
+<span style="color:#66d9ef">for</span> author <span style="color:#f92672">in</span> author_data:
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#39;ORCID&#39;</span> <span style="color:#f92672">in</span> author: orcids<span style="color:#f92672">.</span>append(author[<span style="color:#e6db74">&#34;ORCID&#34;</span>])
+author_name <span style="color:#f92672">=</span> author[<span style="color:#e6db74">&#34;given&#34;</span>] <span style="color:#f92672">+</span> <span style="color:#e6db74">&#34; &#34;</span> <span style="color:#f92672">+</span> author[<span style="color:#e6db74">&#34;family&#34;</span>]
+names<span style="color:#f92672">.</span>append(author_name)
+<span style="color:#66d9ef">return</span> author_number, orcids, names
+author_number, orcids, names <span style="color:#f92672">=</span> get_author_info(bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;author&#34;</span>])
+<span style="color:#66d9ef">print</span>(author_number, orcids, names)
+</code></pre></div><p>4 [&lsquo;http://orcid.org/0000-0002-9470-5890&rsquo;, &lsquo;http://orcid.org/0000-0002-3679-3212&rsquo;] [&lsquo;Victor M Lu&rsquo;, &lsquo;Stephanie H Chen&rsquo;, &lsquo;Christopher C Young&rsquo;, &lsquo;Robert M Starke&rsquo;]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;member&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>&lsquo;239&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;published-online&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>{&lsquo;date-parts&rsquo;: [[2020, 6, 30]]}</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;reference&#34;</span>] <span style="color:#75715e"># very interesting, for now let&#39;s just look at the number of references</span>
+</code></pre></div><p>[{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.1&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1016/S1474-4422(14)70015-8&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.2&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1136/neurintsurg-2019-015418&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.3&rsquo;,
+&lsquo;first-page&rsquo;: &lsquo;603&rsquo;,
+&lsquo;article-title&rsquo;: &lsquo;Unruptured intracranial aneurysms: in search of the best management strategy: editorial&rsquo;,
+&lsquo;volume&rsquo;: &lsquo;32&rsquo;,
+&lsquo;author&rsquo;: &lsquo;Kassell&rsquo;,
+&lsquo;year&rsquo;: &lsquo;2001&rsquo;,
+&lsquo;journal-title&rsquo;: &lsquo;Stroke&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.4&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.3171/jns.1990.73.1.0037&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.5&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;crossref&rsquo;,
+&lsquo;first-page&rsquo;: &lsquo;919&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1016/j.wneu.2017.07.074&rsquo;,
+&lsquo;article-title&rsquo;: &lsquo;Shifting treatment paradigms for ruptured aneurysms from open surgery to endovascular therapy over 25 years&rsquo;,
+&lsquo;volume&rsquo;: &lsquo;106&rsquo;,
+&lsquo;author&rsquo;: &lsquo;Bender&rsquo;,
+&lsquo;year&rsquo;: &lsquo;2017&rsquo;,
+&lsquo;journal-title&rsquo;: &lsquo;World Neurosurg&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.6&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1371/journal.pmed.1000097&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.7&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1096/fj.07-9492LSF&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.8&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1016/S0140-6736(03)13860-3&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.9&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1056/NEJM199812103392401&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.10&rsquo;,
+&lsquo;first-page&rsquo;: &lsquo;7&rsquo;,
+&lsquo;article-title&rsquo;: &lsquo;The microsurgical approach to intracranial aneurysms&rsquo;,
+&lsquo;volume&rsquo;: &lsquo;3&rsquo;,
+&lsquo;author&rsquo;: &lsquo;Yasargil&rsquo;,
+&lsquo;year&rsquo;: &lsquo;1975&rsquo;,
+&lsquo;journal-title&rsquo;: &lsquo;Surg Neurol&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.11&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1161/STR.0000000000000070&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.12&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1038/ng.563&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.13&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.3171/jns.2000.93.3.0379&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.14&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.3171/jns.1993.79.2.0174&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.15&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1161/STROKEAHA.113.001838&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.16&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1161/01.STR.32.2.485&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.17&rsquo;,
+&lsquo;first-page&rsquo;: &lsquo;2550&rsquo;,
+&lsquo;article-title&rsquo;: &lsquo;Characterization of cerebral aneurysms for assessing risk of rupture by using patient-specific computational hemodynamics models&rsquo;,
+&lsquo;volume&rsquo;: &lsquo;26&rsquo;,
+&lsquo;author&rsquo;: &lsquo;Cebral&rsquo;,
+&lsquo;year&rsquo;: &lsquo;2005&rsquo;,
+&lsquo;journal-title&rsquo;: &lsquo;AJNR Am J Neuroradiol&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.18&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1109/TMI.2005.844159&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.19&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.3174/ajnr.A2274&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.20&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.3174/ajnr.A2419&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.21&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1016/S1474-4422(13)70263-1&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.22&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;crossref&rsquo;,
+&lsquo;first-page&rsquo;: &lsquo;145&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1016/j.wneu.2016.11.079&rsquo;,
+&lsquo;article-title&rsquo;: &lsquo;Neurosurgeons in Japan are exclusively brain surgeons&rsquo;,
+&lsquo;volume&rsquo;: &lsquo;99&rsquo;,
+&lsquo;author&rsquo;: &lsquo;Asamoto&rsquo;,
+&lsquo;year&rsquo;: &lsquo;2017&rsquo;,
+&lsquo;journal-title&rsquo;: &lsquo;World Neurosurg&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.23&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;crossref&rsquo;,
+&lsquo;first-page&rsquo;: &lsquo;1142&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.3171/2018.10.JNS171723&rsquo;,
+&lsquo;article-title&rsquo;: &lsquo;The global neurosurgical workforce: a mixed-methods assessment of density and growth&rsquo;,
+&lsquo;volume&rsquo;: &lsquo;130&rsquo;,
+&lsquo;author&rsquo;: &lsquo;Mukhopadhyay&rsquo;,
+&lsquo;year&rsquo;: &lsquo;2019&rsquo;,
+&lsquo;journal-title&rsquo;: &lsquo;J Neurosurg&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.24&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.3171/JNS/2008/108/5/1052&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.25&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1136/jnnp-2016-314477&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.26&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;crossref&rsquo;,
+&lsquo;first-page&rsquo;: &lsquo;461&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1016/j.wneu.2019.01.195&rsquo;,
+&lsquo;article-title&rsquo;: &lsquo;Cost comparison of surgical clipping and endovascular coiling of unruptured intracranial aneurysms: a systematic review&rsquo;,
+&lsquo;volume&rsquo;: &lsquo;125&rsquo;,
+&lsquo;author&rsquo;: &lsquo;Engele&rsquo;,
+&lsquo;year&rsquo;: &lsquo;2019&rsquo;,
+&lsquo;journal-title&rsquo;: &lsquo;World Neurosurg&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.27&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1109/TMI.2007.901008&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.28&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1016/j.wneu.2019.06.231&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;publisher&rsquo;},
+{&lsquo;key&rsquo;: &lsquo;2020063014251776000_neurintsurg-2020-016238v1.29&rsquo;,
+&lsquo;doi-asserted-by&rsquo;: &lsquo;crossref&rsquo;,
+&lsquo;first-page&rsquo;: &lsquo;766&rsquo;,
+&lsquo;DOI&rsquo;: &lsquo;10.1016/j.wneu.2013.07.011&rsquo;,
+&lsquo;article-title&rsquo;: &lsquo;Part II: should the h-index be modified? An analysis of the m-quotient, contemporary h-index, authorship value, and impact factor&rsquo;,
+&lsquo;volume&rsquo;: &lsquo;80&rsquo;,
+&lsquo;author&rsquo;: &lsquo;Khan&rsquo;,
+&lsquo;year&rsquo;: &lsquo;2013&rsquo;,
+&lsquo;journal-title&rsquo;: &lsquo;World Neurosurg&rsquo;}]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get_reference_info</span>(references):
+<span style="color:#66d9ef">return</span> len(references)
+
+reference_number <span style="color:#f92672">=</span> get_reference_info(bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;reference&#34;</span>])
+<span style="color:#66d9ef">print</span>(reference_number)
+</code></pre></div><p>29</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;container-title&#34;</span>] <span style="color:#75715e"># yes, interested in this</span>
+</code></pre></div><p>[&lsquo;Journal of NeuroInterventional Surgery&rsquo;]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;language&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>&lsquo;en&rsquo;</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;link&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>[{&lsquo;URL&rsquo;: &lsquo;https://syndication.highwire.org/content/doi/10.1136/neurintsurg-2020-016238&rsquo;,
+&lsquo;content-type&rsquo;: &lsquo;unspecified&rsquo;,
+&lsquo;content-version&rsquo;: &lsquo;vor&rsquo;,
+&lsquo;intended-application&rsquo;: &lsquo;similarity-checking&rsquo;}]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;deposited&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>{&lsquo;date-parts&rsquo;: [[2020, 6, 30]],
+&lsquo;date-time&rsquo;: &lsquo;2020-06-30T21:27:09Z&rsquo;,
+&lsquo;timestamp&rsquo;: 1593552429000}</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;score&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>1.0</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;issued&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>{&lsquo;date-parts&rsquo;: [[2020, 6, 30]]}</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;references-count&#34;</span>] <span style="color:#75715e"># yes interested</span>
+</code></pre></div><p>29</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;alternative-id&#34;</span>] <span style="color:#75715e"># not interested</span>
+</code></pre></div><p>[&lsquo;10.1136/neurintsurg-2020-016238&rsquo;]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;URL&#34;</span>] <span style="color:#75715e"># yes</span>
+</code></pre></div><p>&lsquo;<a href="http://dx.doi.org/10.1136/neurintsurg-2020-016238'">http://dx.doi.org/10.1136/neurintsurg-2020-016238'</a></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;relation&#34;</span>] <span style="color:#75715e"># no</span>
+</code></pre></div><p>{&lsquo;cites&rsquo;: []}</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;ISSN&#34;</span>] <span style="color:#75715e"># yes</span>
+</code></pre></div><p>[&lsquo;1759-8478&rsquo;, &lsquo;1759-8486&rsquo;]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;issn-type&#34;</span>] <span style="color:#75715e"># no</span>
+</code></pre></div><p>[{&lsquo;value&rsquo;: &lsquo;1759-8478&rsquo;, &lsquo;type&rsquo;: &lsquo;print&rsquo;},
+{&lsquo;value&rsquo;: &lsquo;1759-8486&rsquo;, &lsquo;type&rsquo;: &lsquo;electronic&rsquo;}]</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">bmJ_article_sample[<span style="color:#ae81ff">4</span>][<span style="color:#e6db74">&#34;subject&#34;</span>] <span style="color:#75715e"># yes</span>
+</code></pre></div><p>[&lsquo;Surgery&rsquo;, &lsquo;Clinical Neurology&rsquo;, &lsquo;General Medicine&rsquo;]</p>
+<h3 id="picking-the-fields-i-want-to-extract">Picking the fields I want to extract</h3>
+<p>Looking throuhg the above fields, for the purpose of this demo I want to extract the following:</p>
+<pre><code>funder -&gt; via function
+abstract
+DOI
+created
+is-referenced-by-count
+title
+author -&gt; via funciton
+references # not interested for now
+container-title
+references-count
+URL
+ISSN
+subject
+</code></pre><p>Lets write a little function to extract and flatten this info from an aricle record from BMJ.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get_demo_info</span>(article_record):
+demo_info <span style="color:#f92672">=</span> []
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;title&#34;</span>][<span style="color:#ae81ff">0</span>]) <span style="color:#75715e"># expected this to be flat, but needed to flatten more</span>
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;DOI&#34;</span>])
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;URL&#34;</span>])
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;created&#34;</span>][<span style="color:#e6db74">&#34;date-time&#34;</span>])
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#39;subject&#39;</span> <span style="color:#f92672">in</span> article_record:
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;subject&#34;</span>])
+<span style="color:#66d9ef">else</span>:
+demo_info<span style="color:#f92672">.</span>append([<span style="color:#e6db74">&#34;&#34;</span>])
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;references-count&#34;</span>])    
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;is-referenced-by-count&#34;</span>])
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;ISSN&#34;</span>])
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;container-title&#34;</span>][<span style="color:#ae81ff">0</span>]) <span style="color:#75715e"># expected this to be flat, but needed to flatten more</span>
+demo_info<span style="color:#f92672">.</span>append(article_record[<span style="color:#e6db74">&#34;abstract&#34;</span>])
+<span style="color:#75715e"># now the author info</span>
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#39;author&#39;</span> <span style="color:#f92672">in</span> article_record:
+author_number, orcids, names <span style="color:#f92672">=</span> get_author_info(article_record[<span style="color:#e6db74">&#34;author&#34;</span>])
+demo_info<span style="color:#f92672">.</span>append(author_number)    
+demo_info<span style="color:#f92672">.</span>append(orcids)
+demo_info<span style="color:#f92672">.</span>append(names)
+<span style="color:#66d9ef">else</span>:
+demo_info<span style="color:#f92672">.</span>append(<span style="color:#ae81ff">0</span>)    
+demo_info<span style="color:#f92672">.</span>append([<span style="color:#e6db74">&#34;&#34;</span>])    
+demo_info<span style="color:#f92672">.</span>append([<span style="color:#e6db74">&#34;&#34;</span>])    
+<span style="color:#75715e"># now the funder info</span>
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#34;funder&#34;</span> <span style="color:#f92672">in</span> article_record:
+award_numbers, funder_names, funder_dois <span style="color:#f92672">=</span> get_funder_info(article_record[<span style="color:#e6db74">&#34;funder&#34;</span>])
+demo_info<span style="color:#f92672">.</span>append(award_numbers[<span style="color:#ae81ff">0</span>])    
+demo_info<span style="color:#f92672">.</span>append(funder_names)
+demo_info<span style="color:#f92672">.</span>append(funder_dois)
+<span style="color:#66d9ef">else</span>:
+demo_info<span style="color:#f92672">.</span>append([<span style="color:#e6db74">&#39;&#39;</span>])    
+demo_info<span style="color:#f92672">.</span>append([<span style="color:#e6db74">&#39;&#39;</span>])
+demo_info<span style="color:#f92672">.</span>append([<span style="color:#e6db74">&#39;&#39;</span>])    
+<span style="color:#66d9ef">return</span> demo_info
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">demo_info <span style="color:#f92672">=</span> get_demo_info(bmJ_article_sample[<span style="color:#ae81ff">4</span>])
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">demo_info
+</code></pre></div><p>[&lsquo;Nature, content and shifts over time of the most impactful unruptured intracranial aneurysms articles: a bibliometric analysis&rsquo;,
+&lsquo;10.1136/neurintsurg-2020-016238&rsquo;,
+&lsquo;http://dx.doi.org/10.1136/neurintsurg-2020-016238&rsquo;,
+&lsquo;2020-06-30T21:27:03Z&rsquo;,
+[&lsquo;Surgery&rsquo;, &lsquo;Clinical Neurology&rsquo;, &lsquo;General Medicine&rsquo;],
+29,
+0,
+[&lsquo;1759-8478&rsquo;, &lsquo;1759-8486&rsquo;],
+&lsquo;Journal of NeuroInterventional Surgery&rsquo;,
+&lsquo;<a href="jats:sec">jats:sec</a><a href="jats:title">jats:title</a>Background&lt;/jats:title&gt;<a href="jats:p">jats:p</a>The management of unruptured intracranial aneurysms (UIAs) has evolved significantly over the last few decades. Our objective was to evaluate the 100 most cited UIA articles by bibliometric analysis to identify nature, content and shifts over time.&lt;/jats:p&gt;&lt;/jats:sec&gt;<a href="jats:sec">jats:sec</a><a href="jats:title">jats:title</a>Methods&lt;/jats:title&gt;<a href="jats:p">jats:p</a>Elsevier’s Scopus database was interrogated for the 100 most cited articles that focused on UIA. Older versus newer articles were compared, with categorical data analyzed using Pearson’s Chi-square, and continuous data analyzed using Wilcoxon’s rank-sum test.&lt;/jats:p&gt;&lt;/jats:sec&gt;<a href="jats:sec">jats:sec</a><a href="jats:title">jats:title</a>Results&lt;/jats:title&gt;<a href="jats:p">jats:p</a>The 100 most cited articles were published between 1975 and 2015, with the majority of these reporting patient clinical outcomes (n=69). There were 47/69 (68%) articles that described surgical intervention, with 38/47 (81%) and 18/47 (38%) including endovascular and open approaches, respectively . Publications peaked in 2004 (n=8), and the most common country of correspondence was the United States (n=59). Compared to older articles, newer articles had statistically higher citation rates (P&lt;0.01), higher number of authors (P&lt;0.01) with more multiple institution collaborations (P=0.01), greater disclosures of funding (P&lt;0.01), more focus on endovascular treatments (P=0.04), in more journals with a clinical, non-surgical focus (P&lt;0.01) published under open access policies (P&lt;0.01).&lt;/jats:p&gt;&lt;/jats:sec&gt;<a href="jats:sec">jats:sec</a><a href="jats:title">jats:title</a>Conclusions&lt;/jats:title&gt;<a href="jats:p">jats:p</a>In the 100 most cited articles about UIAs to date, there is a distinct shift towards more co-authored efforts utilizing multi-institutional efforts focused on endovascular approaches supported by funding. The emergence of endovascular techniques has refreshed the need for more contemporary rupture risk prediction models and natural history data to validate current attitudes towards clinical management after these minimally invasive procedures for UIAs.&lt;/jats:p&gt;&lt;/jats:sec&gt;&rsquo;,
+4,
+[&lsquo;http://orcid.org/0000-0002-9470-5890&rsquo;,
+&lsquo;http://orcid.org/0000-0002-3679-3212&rsquo;],
+[&lsquo;Victor M Lu&rsquo;, &lsquo;Stephanie H Chen&rsquo;, &lsquo;Christopher C Young&rsquo;, &lsquo;Robert M Starke&rsquo;],
+[&lsquo;R01NS111119-01A1&rsquo;],
+[&lsquo;Foundation for the National Institutes of Health&rsquo;],
+[&lsquo;10.13039/100000009&rsquo;]]</p>
+<p>let&rsquo;s just check to see if this works over all of the article records pulled from corssref in this demo so far!</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">full_demo_info <span style="color:#f92672">=</span> []
+<span style="color:#66d9ef">for</span> article <span style="color:#f92672">in</span> bmJ_article_sample:
+demo_info <span style="color:#f92672">=</span> get_demo_info(article)
+full_demo_info<span style="color:#f92672">.</span>append(demo_info)
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">len(full_demo_info)
+</code></pre></div><p>100</p>
+<p>Now we have some sample data that we can export out to play with in datasette! For starters lets write this to a CSV file.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">with</span> open(<span style="color:#e6db74">&#34;datasette_bmj_artilces.csv&#34;</span>, <span style="color:#e6db74">&#39;w&#39;</span>, newline<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;&#39;</span>) <span style="color:#66d9ef">as</span> csvfile:
+article_writer <span style="color:#f92672">=</span> csv<span style="color:#f92672">.</span>writer(csvfile, delimiter<span style="color:#f92672">=</span><span style="color:#e6db74">&#39; &#39;</span>,
+quotechar<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;|&#39;</span>, quoting<span style="color:#f92672">=</span>csv<span style="color:#f92672">.</span>QUOTE_MINIMAL)
+<span style="color:#66d9ef">for</span> row <span style="color:#f92672">in</span> full_demo_info:
+article_writer<span style="color:#f92672">.</span>writerow(row)
+</code></pre></div><p>Now we have our artilce data in a csv file. To be honest, taking a structurd json file, and flattening it to csv is possibly not the best way to go about this work, but as this is an excercise in learning about datasettle let&rsquo;s move on in any case!</p>
+<h1 id="installing-datasette-and-getting-started-with-it">Installing datasette, and getting started with it</h1>
+<p>We will follow the docs in <a href="">https://datasette.readthedocs.io</a> and we will try to install using <code>pip3</code>: <a href="">https://datasette.readthedocs.io/en/stable/installation.html#install-using-pip</a></p>
+<p><code>$ sudo pip3 install datasette</code>  works, I have to use <code>sudo</code> shhhh!</p>
+<pre><code>$ datasette --version   
+datasette, version 0.45
+</code></pre><p>OK, we have datasette installed locally, how do we get started with it? Following the instructions on <a href="">https://datasette.readthedocs.io/en/stable/getting_started.html#using-datasette-on-your-own-computer</a> there are two paths we could follow now.</p>
+<ol>
+<li>
+<p>look at the glitch version, and try to upload the CSV file that we have just created.</p>
+</li>
+<li>
+<p>try to use the tool to convert a csv file into a sqlite db locally, and then run datasette locally.</p>
+</li>
+</ol>
+<p>I&rsquo;m not confident that our csv is going to be easy to convert so I&rsquo;m going to start by trying to do that conversion locally, in the hope that I might get some useful error messages. Onece I&rsquo;ve gotten a local version working, I&rsquo;m going to see if I can get a clone of the glitch version working, but with my data, so that we can see if this is a good route for data sharing.</p>
+<h2 id="getting-data-into-datasetts---using-sqlite-utils-to-push-data-directly-into-an-sqlite-database">Getting data into datasetts - using sqlite-utils to push data directly into an sqlite database</h2>
+<p>Datasette comes with an ecosystem of tools - <a href="">https://datasette.readthedocs.io/en/stable/ecosystem.html</a>. Many of these are for converting data into a format that datasetts can use. When starting on this earlier today I had assumed that I would need to use <code>csvs-to-sqlite</code> to convert a csv file, but <code>sqlite-utils</code> also sounds interesting.</p>
+<p>Since I am already in a jupyter notebook, let&rsquo;s give <code>sqlite-utils</code> a go!</p>
+<p>I need to get <code>sqlite-utils</code> in this anaconda enviornment</p>
+<p><code>$ ~/anaconda3/bin/pip install  sqlite_utils</code></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> sqlite_utils
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">db <span style="color:#f92672">=</span> sqlite_utils<span style="color:#f92672">.</span>Database(<span style="color:#e6db74">&#34;demo_bmj_article_database.db&#34;</span>)
+</code></pre></div><p>The documentation says that we can use this as follows:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">db[<span style="color:#e6db74">&#34;dogs&#34;</span>]<span style="color:#f92672">.</span>insert_all([
+{<span style="color:#e6db74">&#34;id&#34;</span>: <span style="color:#ae81ff">1</span>, <span style="color:#e6db74">&#34;age&#34;</span>: <span style="color:#ae81ff">4</span>, <span style="color:#e6db74">&#34;name&#34;</span>: <span style="color:#e6db74">&#34;Cleo&#34;</span>},
+{<span style="color:#e6db74">&#34;id&#34;</span>: <span style="color:#ae81ff">2</span>, <span style="color:#e6db74">&#34;age&#34;</span>: <span style="color:#ae81ff">2</span>, <span style="color:#e6db74">&#34;name&#34;</span>: <span style="color:#e6db74">&#34;Pancakes&#34;</span>}
+], pk<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;id&#34;</span>)
+</code></pre></div><p>So I should go back, and unflatten my rows of artilce info, create dicts, with keys, and then insert them into the database. This is going to be a bit messy, but pushing ahead in any case, and we can refactor later if we have time. Basically, I&rsquo;m going to rewrite <code>get_demo_info</code> to ouput a dict instead of a list. Probably earlier I could have applied some filtering to the result coming back from crossref, but I think it&rsquo;s OK for now.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get_demo_info_dict_test</span>(article_record):
+<span style="color:#e6db74">&#34;&#34;&#34;
+</span><span style="color:#e6db74">We are just seeing if we can get the smallest meaningful example working
+</span><span style="color:#e6db74">&#34;&#34;&#34;</span>
+demo_info_dict <span style="color:#f92672">=</span> {}
+demo_info_dict[<span style="color:#e6db74">&#34;title&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;title&#34;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;DOI&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;DOI&#34;</span>]
+<span style="color:#66d9ef">return</span> demo_info_dict
+</code></pre></div><p>Before proceedig any further, I&rsquo;m just going to do a very quick check to see if I can get this very basic information into datasette, and serve it locally.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">demo_info_dict_4 <span style="color:#f92672">=</span> get_demo_info_dict_test(bmJ_article_sample[<span style="color:#ae81ff">4</span>])
+demo_info_dict_5 <span style="color:#f92672">=</span> get_demo_info_dict_test(bmJ_article_sample[<span style="color:#ae81ff">5</span>])
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">db[<span style="color:#e6db74">&#34;article&#34;</span>]<span style="color:#f92672">.</span>insert_all([
+demo_info_dict_4,
+demo_info_dict_5
+], pk<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;DOI&#34;</span>)
+</code></pre></div><!-- raw HTML omitted -->
+<p>## serving a local squlite db with datasette</p>
+<p>We have now created <code>demo_bmj_article_database.db</code>. We should be able to serve this with</p>
+<pre><code>datasette serve demo_bmj_article_database.db
+INFO:     Started server process [11028]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+
+</code></pre><p>This worked, and I now have a local instance on datasette! How exciting! Let&rsquo;s go and get all of the info we are interested in and populate all of the rows of our sample data.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">get_demo_info_dict</span>(article_record):
+demo_info_dict <span style="color:#f92672">=</span> {}
+demo_info_dict[<span style="color:#e6db74">&#34;title&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;title&#34;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;DOI&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;DOI&#34;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;URL&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;URL&#34;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;created&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;created&#34;</span>][<span style="color:#e6db74">&#34;date-time&#34;</span>]
+<span style="color:#75715e"># subject info</span>
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#39;subject&#39;</span> <span style="color:#f92672">in</span> article_record:
+demo_info_dict[<span style="color:#e6db74">&#34;subject&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;subject&#34;</span>]
+<span style="color:#66d9ef">else</span>:
+demo_info_dict[<span style="color:#e6db74">&#34;subject&#34;</span>] <span style="color:#f92672">=</span> []
+
+demo_info_dict[<span style="color:#e6db74">&#34;references-count&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;references-count&#34;</span>]    
+demo_info_dict[<span style="color:#e6db74">&#34;is-referenced-by-count&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;is-referenced-by-count&#34;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;ISSN&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;ISSN&#34;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;container-title&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;container-title&#34;</span>][<span style="color:#ae81ff">0</span>] <span style="color:#75715e"># expected this to be flat, but needed to flatten more</span>
+demo_info_dict[<span style="color:#e6db74">&#34;abstract&#34;</span>] <span style="color:#f92672">=</span> article_record[<span style="color:#e6db74">&#34;abstract&#34;</span>]
+
+<span style="color:#75715e"># now the author info</span>
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#39;author&#39;</span> <span style="color:#f92672">in</span> article_record:
+author_number, orcids, names <span style="color:#f92672">=</span> get_author_info(article_record[<span style="color:#e6db74">&#34;author&#34;</span>])
+demo_info_dict[<span style="color:#e6db74">&#34;author_number&#34;</span>] <span style="color:#f92672">=</span> author_number
+demo_info_dict[<span style="color:#e6db74">&#34;orcids&#34;</span>] <span style="color:#f92672">=</span> orcids
+demo_info_dict[<span style="color:#e6db74">&#34;names&#34;</span>] <span style="color:#f92672">=</span> names
+<span style="color:#66d9ef">else</span>:
+demo_info_dict[<span style="color:#e6db74">&#34;author_number&#34;</span>] <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>
+demo_info_dict[<span style="color:#e6db74">&#34;orcids&#34;</span>] <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;&#34;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;names&#34;</span>] <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;&#34;</span>]
+
+<span style="color:#75715e"># now the funder info</span>
+<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#34;funder&#34;</span> <span style="color:#f92672">in</span> article_record:
+award_numbers, funder_names, funder_dois <span style="color:#f92672">=</span> get_funder_info(article_record[<span style="color:#e6db74">&#34;funder&#34;</span>])
+demo_info_dict[<span style="color:#e6db74">&#34;award_numbers&#34;</span>] <span style="color:#f92672">=</span> award_numbers[<span style="color:#ae81ff">0</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;funder_names&#34;</span>] <span style="color:#f92672">=</span> funder_names
+demo_info_dict[<span style="color:#e6db74">&#34;funder_dois&#34;</span>] <span style="color:#f92672">=</span> funder_dois
+<span style="color:#66d9ef">else</span>:
+demo_info_dict[<span style="color:#e6db74">&#34;award_numbers&#34;</span>] <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;&#39;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;funder_names&#34;</span>] <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;&#39;</span>]
+demo_info_dict[<span style="color:#e6db74">&#34;funder_dois&#34;</span>] <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;&#39;</span>]      
+
+<span style="color:#66d9ef">return</span> demo_info_dict
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">info_dicts <span style="color:#f92672">=</span> []
+<span style="color:#66d9ef">for</span> article <span style="color:#f92672">in</span> bmJ_article_sample:
+info_dict <span style="color:#f92672">=</span> get_demo_info_dict(article)
+info_dicts<span style="color:#f92672">.</span>append(info_dict)
+len(info_dicts)
+</code></pre></div><p>100</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">db <span style="color:#f92672">=</span> sqlite_utils<span style="color:#f92672">.</span>Database(<span style="color:#e6db74">&#34;demo_bmj_article_database.db&#34;</span>)
+db[<span style="color:#e6db74">&#34;article&#34;</span>]<span style="color:#f92672">.</span>insert_all(info_dicts, pk<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;DOI&#34;</span>)
+</code></pre></div><!-- raw HTML omitted -->
+<h2 id="hosting-our-data-online-on-glitch">Hosting our data online on glitch</h2>
+<p>We have now created a datasette instance with info from 100 BMJ articles. We could create some more tables, e.g. around funder or author info, but let&rsquo;s see if we can get this instance up and running online using the demo glitch project.</p>
+<p><a href="">https://glitch.com</a> is a site where you can create sites, or copy or clone sites. It&rsquo;s awesomt. Simon the datasette developer has created a demo datasette instance on glitch. You can clone it here: <a href="">https://glitch.com/edit/#!/ringed-succulent-silence?path=README.md%3A1%3A0</a>. Apparently it works by allowing you to drop a CSV file onto the root directory. Datasette also allows you to download your data as scv, so in principle I should be able to:</p>
+<ul>
+<li>download the data I&rsquo;ve just put into my local instance of datasette</li>
+<li>clone the glitch project</li>
+<li>drop my csv file onto glitch and serve my project</li>
+</ul>
+<p>Following these steps I can now serve an example of my data on glitch. Glitch generates a random domain name for each new project, so this project is called <a href="">https://watery-alder-carpenter.glitch.me</a> and you can inspect the data by clicking into <code>data</code> and then into <code>article</code>: <a href="">https://watery-alder-carpenter.glitch.me/data/article</a>.</p>
+<p>### Enabling full text search on glitch</p>
+<p>The datasette ecosystem has a wide range of plugins, and one of these enables full text search. Following the instructions in the README of the glitch project, and applying them to my article table I did the following:</p>
+<pre><code>app@watery-alder-carpenter:~ 15:47
+$ cd .data
+
+app@watery-alder-carpenter:~/.data 15:47
+$ ls
+data.db
+
+app@watery-alder-carpenter:~/.data 15:47
+$ sqlite-utils tables data.db --table --columns
+table    columns
+-------  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+article  ['title', 'DOI', 'URL', 'created', 'subject', 'references-count', 'is-referenced-by-count', 'ISSN', 'container-title', 'abstract', 'author_number', 'orcids', 'names', 'award_numbers', 'funder_names', 'funder_dois']
+example  ['headline', 'body', 'url', 'extra']
+
+app@watery-alder-carpenter:~/.data 15:47
+$ sqlite-utils enable-fts data.db article title subject abstract funder_names --fts4
+</code></pre><p>This then created a search field on the article table that searches over title, abstract, subjects and funder names.</p>
+<h1 id="conclusion">Conclusion</h1>
+<p>I&rsquo;m really impressed with Datasette. It supports a huge number of features and plugins that I didn&rsquo;t get a chance to look at at all today. These include:</p>
+<ul>
+<li>inspect and modify SQL queries</li>
+<li>JSON endpoints</li>
+<li>geo mapping</li>
+<li>saved searches</li>
+<li>charting</li>
+<li>per database and per-table metadata</li>
+<li>setting default sort orders</li>
+<li>setting which columns can be sorted by</li>
+<li>enabling facets via uri e.g. <a href="">https://watery-alder-carpenter.glitch.me/data/article?_facet=created</a></li>
+<li>support for adding SSO, user accounts or API key</li>
+</ul>
+<p>Overall how we share data, or make data visible online can often be a huge pain. Datasette goes a long way to proiving a set of tools to radically reduce the pain of doing this. I&rsquo;m really glad that I took a few hours today to look at this tool.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">
+</code></pre></div>
+ </div>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+
+ </article>
+
+</body>
+</html>
+

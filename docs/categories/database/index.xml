@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Database on Partially Attended</title>
+    <title>database on Partially Attended</title>
     <link>http://partiallyattended.com/categories/database/</link>
-    <description>Recent content in Database on Partially Attended</description>
+    <description>Recent content in database on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Dec 2016 00:00:00 +0000</lastBuildDate>
@@ -18,9 +18,7 @@
       
       <guid>http://partiallyattended.com/2016/12/08/quick-review-covalent-data/</guid>
       <description>Covalent Data is a tool to search over research topics. It seems to have the following features:
- Is a DB of grants, papers, people and institutions.
- claims to use machine learning to tie these entities together.
- search results don’t seem to have a way to be exported, so for example though the grant awards results do list the amount of each grant, to get a total amount against a search term, you would need to do the work of extracting each data point manually.</description>
+ Is a DB of grants, papers, people and institutions. claims to use machine learning to tie these entities together. search results don’t seem to have a way to be exported, so for example though the grant awards results do list the amount of each grant, to get a total amount against a search term, you would need to do the work of extracting each data point manually.</description>
     </item>
     
   </channel>

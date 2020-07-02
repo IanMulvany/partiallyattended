@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Partially Attended</title>
@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Datasette to publish data</title>
+      <link>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</guid>
+      <description>In my department we have started to make a bit of space to allow fr self learning to happen. I took the time to look at datasette, an ecosystem of tools that support data publishing. These tools are from Simon Wilison, and they are fantastic.
+I&amp;rsquo;d been meaning to look at the them for some time now. I used a jupyter notebook to work my way around getting some data together, and working with the tool.</description>
+    </item>
     
     <item>
       <title>Goodbye SAGE, hello BMJ!</title>
@@ -31,15 +41,6 @@ Crucially, at SAGE we are hiring for my replacement, so if you are interested in
     </item>
     
     <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
       <title>Some brief thoughts on scholarly publishing and climate change.</title>
       <link>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
@@ -47,6 +48,15 @@ Crucially, at SAGE we are hiring for my replacement, so if you are interested in
       <guid>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</guid>
       <description>Who’s job is it to address the crisis of climate change? This question came up at an STM Tech Leaders workshop that I attended earlier this week? The answer is that we all are, and in that context we had a very interesting conversation on the topic.
 This is the first time that I’ve seen this topic come up in a forum like this, so a bit thank you to Dave Smith from the IET for pushing the topic forward.</description>
+    </item>
+    
+    <item>
+      <title>STM Research data workshop.</title>
+      <link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
+      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
     </item>
     
     <item>
@@ -146,8 +156,7 @@ My takeaways from reading through them are the following:
       <guid>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</guid>
       <description>One of my colleagues sent me over this short report “”3 Things Are Holding Back Your Analytics, and Technology Isn’t One of Them.
 They think the following elements should be considered:
- How the analysis teams are structured - they need to report in a way that is understandable (i.e. not be too separate from the business), but at the same time be independent enough to provide unbiassed views.
- You need to get the culture right, but to be honest the example given is almost information free.</description>
+  How the analysis teams are structured - they need to report in a way that is understandable (i.e. not be too separate from the business), but at the same time be independent enough to provide unbiassed views.</description>
     </item>
     
     <item>
@@ -231,10 +240,9 @@ Flavours of Agile In Flavours of Agile Pat Kua briefly describes and rates a num
       
       <guid>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</guid>
       <description>So Pat Kua recently tweeted:
-UML failed so here we have AML (Arbitrary Modeling Language) https://t.co/BnbgC8ZHTD
-&amp;mdash; Pat Kua (@patkua) November 9, 2018&amp;lt;_a&amp;gt;&amp;lt;_blockquote&amp;gt; 
 and this got me thinking about the worries I&amp;rsquo;ve had about not doing &amp;ldquo;diagramming&amp;rdquo; right, but the above tweet led me to read a ton of really interesting posts on software architecting.
-Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience.</description>
+Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience.
+UML - the unified modelling language (https://en.wikipedia.org/wiki/Unified_Modeling_Language) is the de-facto standard for creating entity-relationship diagrams. The following thread talks about why it looks like this approach has &amp;ldquo;failed&amp;quot;https://dzone.</description>
     </item>
     
     <item>
@@ -340,8 +348,7 @@ Two things though, make it look like a nice product. Right now paper flow into t
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</guid>
-      <description>A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipeline of info about grants.
-https://www.instrumentl.com/</description>
+      <description>A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipeline of info about grants.</description>
     </item>
     
     <item>
@@ -369,8 +376,7 @@ The authors wanted to use surveys to get a sense of importance of the under serv
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/29/narrative_science__natural_language_generation_technology/</guid>
-      <description>I think what these people are doing is creating human readable summaries of large corpora of documents or signals based on AI. At some point this kind of approach is going to mature to the point of being able to replace many traditional editorial functions, but its going to happen in finance first.
-https://narrativescience.com/</description>
+      <description>I think what these people are doing is creating human readable summaries of large corpora of documents or signals based on AI. At some point this kind of approach is going to mature to the point of being able to replace many traditional editorial functions, but its going to happen in finance first.</description>
     </item>
     
     <item>
@@ -380,7 +386,7 @@ https://narrativescience.com/</description>
       
       <guid>http://partiallyattended.com/2018/06/29/reaktor_breakpoint_2018_ben_sauer_the_rise_of_voice_and_how_to_design_for_it_-_youtube/</guid>
       <description>This is a great overview of the sate of designing for voice. Ben is one the best designers / tech thinkers that I&amp;rsquo;ve ever worked with, and he gives a great overview of how to think about designing for voice in this talk.
-https://www.youtube.com/watch?v=wSFkRG_ZMKo</description>
+&amp;lt;a href=https://www.</description>
     </item>
     
     <item>
@@ -398,8 +404,7 @@ https://www.youtube.com/watch?v=wSFkRG_ZMKo</description>
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/29/voice_principles__clearleft/</guid>
-      <description>This is a great checklist and overview of design principles for designing for voice assistants. It&amp;rsquo;s complied and created by CelarLeft.
-https://voiceprinciples.com/</description>
+      <description>This is a great checklist and overview of design principles for designing for voice assistants. It&amp;rsquo;s complied and created by CelarLeft.</description>
     </item>
     
     <item>
@@ -420,8 +425,7 @@ Scholarly communications use cases. When thinking about any use cases in STEM I 
       
       <guid>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</guid>
       <description>A nice overview of an npm framework for creating server-less applications on AWS. It abstracts away a lot of the plumbing, which can have upsides and downsides. I&amp;rsquo;d love to see something equivalent in python.
-The actual framework is here: https://arc.codes
-https://blog.reifyworks.com/architect-the-killer-serverless-framework-41565372811b</description>
+The actual framework is here: https://arc.codes</description>
     </item>
     
     <item>
@@ -430,8 +434,7 @@ https://blog.reifyworks.com/architect-the-killer-serverless-framework-4156537281
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</guid>
-      <description>A great example of using a &amp;ldquo;flight plan checklist&amp;rdquo; to reduce risk in software development.
-https://blog.gojekengineering.com/limiting-software-infant-mortality-rate-decoding-gojek-deployment-checklist-1c6cc3e28df</description>
+      <description>A great example of using a &amp;ldquo;flight plan checklist&amp;rdquo; to reduce risk in software development.</description>
     </item>
     
     <item>
@@ -440,8 +443,7 @@ https://blog.gojekengineering.com/limiting-software-infant-mortality-rate-decodi
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
-      <description>This looks like an interesting corpus of machine learning models. One thing I&amp;rsquo;d not really thought about before is that we will now need to start thinking about how to publish the actual models that are used in scholarly research. Some of the models on this site provide ways to reference the work (e.g. https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks).
-https://modelzoo.co/</description>
+      <description>This looks like an interesting corpus of machine learning models. One thing I&amp;rsquo;d not really thought about before is that we will now need to start thinking about how to publish the actual models that are used in scholarly research. Some of the models on this site provide ways to reference the work (e.g. https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks).</description>
     </item>
     
     <item>
@@ -461,8 +463,7 @@ Point 10 asks for all metadata to be made available including usage metadata. Ar
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</guid>
-      <description>It&amp;rsquo;s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like the researchers are actively making their results available (https://opennotebook.thesgc.org).
-http://hbgdki.org/ongoing-experiment-extreme-open-science-announced-structural-genomics-consortium/</description>
+      <description>It&amp;rsquo;s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like the researchers are actively making their results available (https://opennotebook.thesgc.org).</description>
     </item>
     
     <item>
@@ -489,8 +490,7 @@ http://hbgdki.org/ongoing-experiment-extreme-open-science-announced-structural-g
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/scholia/</guid>
-      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)
-https://tools.wmflabs.org/scholia/</description>
+      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)</description>
     </item>
     
     <item>
@@ -499,8 +499,7 @@ https://tools.wmflabs.org/scholia/</description>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/unsupervised_extraction_of_epidemic_syndromes_from_participatory_influenza_surveillance_self-reported_symptoms__biorxiv/</guid>
-      <description>This is a great example of &amp;ldquo;web science for good&amp;rdquo;. The researchers looked at online signals to predict the spread of flu. This is a preprint, I hope the code for this kind of work makes it out. How might we then best link this preprint to that code?
-https://www.biorxiv.org/content/early/2018/05/04/314591</description>
+      <description>This is a great example of &amp;ldquo;web science for good&amp;rdquo;. The researchers looked at online signals to predict the spread of flu. This is a preprint, I hope the code for this kind of work makes it out. How might we then best link this preprint to that code?</description>
     </item>
     
     <item>
@@ -528,8 +527,7 @@ If we think of scholarly publishing as being like the connective tissue of scien
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
-      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.
-https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
+      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.</description>
     </item>
     
     <item>
@@ -549,7 +547,7 @@ Their product was originally created on kickstarter, and I remember when it laun
       
       <guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
       <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
-https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zQPRcn76XHKxex7ytdmTKC9nXMPPK0Tv0-hMlSY6xVU%2Fpubhtml</description>
+&amp;lt;a href=https://radar.</description>
     </item>
     
     <item>
@@ -597,8 +595,7 @@ I&amp;rsquo;m not sure if there is a connection to researchers in the STM space,
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
-      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.
-https://openknowledgemaps.org/viper/</description>
+      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.</description>
     </item>
     
     <item>
@@ -616,8 +613,7 @@ https://openknowledgemaps.org/viper/</description>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</guid>
-      <description>I love this short presentation on using the shell for data science. Many of the things hat are described in the presentation are just plain useful anyway, searching over csv files, finding things, renaming things.
-https://cdn.oreillystatic.com/en/assets/1/event/267/50%20reasons%20to%20learn%20the%20shell%20for%20doing%20data%20science%20Presentation.pdf</description>
+      <description>I love this short presentation on using the shell for data science. Many of the things hat are described in the presentation are just plain useful anyway, searching over csv files, finding things, renaming things.</description>
     </item>
     
     <item>
@@ -626,8 +622,7 @@ https://cdn.oreillystatic.com/en/assets/1/event/267/50%20reasons%20to%20learn%20
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/how_to_visualize_an_xml_sitemap_using_python_-_ayima/</guid>
-      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.
-https://www.ayima.com/blog/how-to-visualize-an-xml-sitemap-using-python.html</description>
+      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.</description>
     </item>
     
     <item>
@@ -645,8 +640,7 @@ https://www.ayima.com/blog/how-to-visualize-an-xml-sitemap-using-python.html</de
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
-      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
-https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.</description>
     </item>
     
     <item>
@@ -655,8 +649,7 @@ https://www.sciencedirect.com/science/article/pii/S1053811917302707</description
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</guid>
-      <description>a nice description of IIF from the guardian.
-https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating</description>
+      <description>a nice description of IIF from the guardian.</description>
     </item>
     
     <item>
@@ -773,8 +766,8 @@ Before looking at this modele in detail I had thought that I could pass a refere
       <description>I got asked to contribute an answer to an upcoming feature looking at trends in scholarly discovery.
 There are four questions and I’ve been asked to think about an answer to the last of these four.
  In a sentence or two, please tell us what you understand is meant by &amp;lsquo;discovery&amp;rsquo;?
-For a researcher, how has the discovery experience developed in recent years?
-How can researchers decide which tools are going to do the right job for them?</description>
+  For a researcher, how has the discovery experience developed in recent years?
+  How can researchers decide which tools are going to do the right job for them?</description>
     </item>
     
     <item>
@@ -798,6 +791,16 @@ Things I liked  writing was responsive pressure sensitivity worked well two peop
     </item>
     
     <item>
+      <title>python - running commands from within a directory</title>
+      <link>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</guid>
+      <description>A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
+from subprocess import Popen, PIPE import os import sys class cd: &amp;#34;&amp;#34;&amp;#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &amp;#34;&amp;#34;&amp;#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&amp;#34;~/blog/partiallyattended&amp;#34;): title = new_post.title process = subprocess.</description>
+    </item>
+    
+    <item>
       <title>Where should you host your Kubernetes solution?</title>
       <link>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
@@ -806,16 +809,6 @@ Things I liked  writing was responsive pressure sensitivity worked well two peop
       <description>I previously Kicked the tyres on kubernetes, with an example of how to deploy it onto Google’s infrastructure, but if you want to scale out and start dong some real work with this piece of infrastructure where should you go to have a hosted Kubernetes solution?
 I honestly don’t have an answer to that. The Kubernetes site provides a large list of providers.
 A friend of mine has been considering between https://stackpoint.</description>
-    </item>
-    
-    <item>
-      <title>python - running commands from within a directory</title>
-      <link>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</guid>
-      <description>A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
-from subprocess import Popen, PIPE import os import sys class cd: &amp;#34;&amp;#34;&amp;#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &amp;#34;&amp;#34;&amp;#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&amp;#34;~/blog/partiallyattended&amp;#34;): title = new_post.title process = subprocess.</description>
     </item>
     
     <item>
@@ -839,7 +832,8 @@ Heather Staines Director of Partnerships, Hypothes.is
 Peter Brantley Director of Online Strategy, UC Davis
 Elizabeth Caley Chief of Staff, Meta, Chan Zuckerberg Initiative
 Ruth Pickering Co-founder and Chief Strategy Officer, Yewno
-and myself. It was a pleasure to be on a panel with these amazing people.</description>
+and myself. It was a pleasure to be on a panel with these amazing people.
+There was a lot of interest from the audience, and we didn&amp;rsquo;t get anywhere close to talking through all of the questions that we had discussed as a panel ahead of the session, so I&amp;rsquo;m going to blog the questions that we had prepared.</description>
     </item>
     
     <item>
@@ -857,9 +851,7 @@ and myself. It was a pleasure to be on a panel with these amazing people.</descr
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/09/14/software_publishing_to_maximise_data_value_slides_from_alpsp/</guid>
-      <description>Here are some annotated slides from my ALPSP talk today.
-
- </description>
+      <description>Here are some annotated slides from my ALPSP talk today.</description>
     </item>
     
     <item>
@@ -905,17 +897,6 @@ One example that they looked at came from a hedge fund, the data included full I
     </item>
     
     <item>
-      <title>IC2s2 Wikipedia track, Wednesday</title>
-      <link>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
-      <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
-TokTrack - data is available on Zenodo, 13.5B tokens. There is a wikiwho API. This is an accurate dataset of all provennced changes in English wikipedia.
-They can look at survival rates for edits. If an edit survives for 48 hours, then it’s probably safe and will live on in wikipedia.</description>
-    </item>
-    
-    <item>
       <title>ic2s2 Wednesday morning keynotes</title>
       <link>http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
@@ -927,12 +908,22 @@ They also have social network data for these people, so they can connect their s
     </item>
     
     <item>
+      <title>IC2s2 Wikipedia track, Wednesday</title>
+      <link>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
+      <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
+[TokTrack](TokTrack: A Complete Token Provenance and Change Tracking Dataset for the English Wikipedia | Zenodo) - data is available on Zenodo, 13.5B tokens. There is a [wikiwho](GitHub - wikiwho/WikiWho: An algorithm to compute token-level provenance and changes for Wiki revisioned content.</description>
+    </item>
+    
+    <item>
       <title>IC2s2 - Tuesday Morning</title>
       <link>http://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</guid>
-      <description>IC2s2 - Tuesday Morning Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science  opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,  also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
+      <description>IC2s2 - Tuesday Morning  Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science   opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,   also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
     </item>
     
     <item>
@@ -941,7 +932,7 @@ They also have social network data for these people, so they can connect their s
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</guid>
-      <description>IC2s2 Tuesday afternoon Dashun Wang - Predictive Signals Behind Success Dashun starts by talking about weather predictions, natural phenomena can be observed, modelled and predicted. Can success be measured modelled and predicted? Obviously Dashun thinks so, and we are gong to be looking at the result of a number of studies in this talk.
+      <description>IC2s2 Tuesday afternoon  Dashun Wang - Predictive Signals Behind Success Dashun starts by talking about weather predictions, natural phenomena can be observed, modelled and predicted. Can success be measured modelled and predicted? Obviously Dashun thinks so, and we are gong to be looking at the result of a number of studies in this talk.
 Science of Science Aim is to build on top of the work of others, but add to it the massive data that we now have access to, along with the tools that we have developed.</description>
     </item>
     
@@ -1063,9 +1054,7 @@ The advantage of using this tool is that you don&amp;rsquo;t need to be able to 
       
       <guid>http://partiallyattended.com/2016/12/08/quick-review-covalent-data/</guid>
       <description>Covalent Data is a tool to search over research topics. It seems to have the following features:
- Is a DB of grants, papers, people and institutions.
- claims to use machine learning to tie these entities together.
- search results don’t seem to have a way to be exported, so for example though the grant awards results do list the amount of each grant, to get a total amount against a search term, you would need to do the work of extracting each data point manually.</description>
+ Is a DB of grants, papers, people and institutions. claims to use machine learning to tie these entities together. search results don’t seem to have a way to be exported, so for example though the grant awards results do list the amount of each grant, to get a total amount against a search term, you would need to do the work of extracting each data point manually.</description>
     </item>
     
     <item>
@@ -1117,9 +1106,7 @@ Reviewers have the option of revealing themselves to authors. As with most revie
       <guid>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</guid>
       <description>Tonight I attend a debate held at the Royal Statistics Society. It was en entertaining, and wide ranging discussion with a great panel, and fairly intelligent questions from the floor.
 Two fun facts:
- One of the founding members of the society was Charles Babbage
- The society is located within spitting distance of the grave of William Thomas Bayes
-  So, here are the notes, rough and ready, and I missed a lot in my note taking, but I hope I get a flavour of the discussion across.</description>
+ One of the founding members of the society was Charles Babbage The society is located within spitting distance of the grave of William Thomas Bayes  So, here are the notes, rough and ready, and I missed a lot in my note taking, but I hope I get a flavour of the discussion across.</description>
     </item>
     
     <item>
@@ -1158,8 +1145,7 @@ AWS has grown enormously, they are estimated to have five times the compute powe
       <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2015/02/19/wittgenstein-and-physics/</guid>
-      <description>(image via peternijenhuis)
-Last year I attended a one day seminar on Wittgenstein and Physics. It was held at Cross College Oxford and was the first in a planned series of talks on the history and philosophy of science. It&amp;rsquo;s been a long time since I&amp;rsquo;ve done physics seriously, and longer still since I took classes on the history and philosophy of science, so I attended very much in the mode of the interested outsider.</description>
+      <description>(image via peternijenhuis)Last year I attended a one day seminar on Wittgenstein and Physics. It was held at Cross College Oxford and was the first in a planned series of talks on the history and philosophy of science. It&amp;rsquo;s been a long time since I&amp;rsquo;ve done physics seriously, and longer still since I took classes on the history and philosophy of science, so I attended very much in the mode of the interested outsider.</description>
     </item>
     
     <item>
@@ -1238,7 +1224,7 @@ The open data instutute have created the open data certificate, an online tool t
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</guid>
-      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene. Sabrina Leonelli - the epistemology of data-intesive science. Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed. Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting. Afternoon breakout session - Life Sciences.</description>
+      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene.  Sabrina Leonelli - the epistemology of data-intesive science. [Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed.](#dr-hans-pfeiffenberger-open-science-opportunities-challenges-datasciencefeedhttpstwittercomdatasciencefeed) Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting.   Afternoon breakout session - Life Sciences.</description>
     </item>
     
     <item>
@@ -1247,7 +1233,7 @@ The open data instutute have created the open data certificate, an online tool t
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</guid>
-      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  Paul Ayris - Implementing the Future: the LERU roadmap for research data. Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
+      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  [Paul Ayris - Implementing the Future: the LERU roadmap for research data.](#paul-ayris-implementing-the-future-the-leruhttpleruorg-roadmap-for-research-data) Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
     </item>
     
     <item>
@@ -1267,7 +1253,7 @@ It succeeded in generating an artefact that was somewhat literate, in that the c
       
       <guid>http://partiallyattended.com/2014/08/09/git-command-line-shortcuts/</guid>
       <description>I use git a lot, it&amp;rsquo;s pretty complicated, and it has a lot of command line optoins that I can never remember. I&amp;rsquo;ve copied a couple of shortcuts from the web, and here are two that I use a lot. These are presented in the form of fish shell scripts.
- function gl git log &amp;ndash;graph &amp;ndash;abbrev-commit &amp;ndash;decorate &amp;ndash;date=relative &amp;ndash;format=format:&amp;lsquo;%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)&amp;rsquo; &amp;ndash;all end</description>
+  function gl git log &amp;ndash;graph &amp;ndash;abbrev-commit &amp;ndash;decorate &amp;ndash;date=relative &amp;ndash;format=format:&#39;%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)&amp;rsquo; &amp;ndash;all end</description>
     </item>
     
     <item>
@@ -1277,11 +1263,7 @@ It succeeded in generating an artefact that was somewhat literate, in that the c
       
       <guid>http://partiallyattended.com/2014/07/29/wikimania-openscholarship-preview/</guid>
       <description>Inspired somewhat by the aweome http://sciencetoolbox.org, along with Martin Fenner, we proposed a session for the upcoming Wikimania conference. We will be talking about Open Scholarship Tools on Sunday the 10th of August at 9:30 am. In our outline for our talk we have decided to possibly think about:
- CrossRef API (and possibly also the DataCite and ORCID APIs) Pandoc
- Rstudio
- Zotero
- iPython Notebook
- Plotly</description>
+ CrossRef API (and possibly also the DataCite and ORCID APIs) Pandoc Rstudio Zotero iPython Notebook Plotly Datawrapper  What do you think we should try to cover in our 30 minute slot?</description>
     </item>
     
     <item>
@@ -1341,7 +1323,7 @@ This is something we are getting started with in eLife. We have a few small test
       
       <guid>http://partiallyattended.com/2014/03/30/q1-climbing-goals-update/</guid>
       <description>I wrote a large post at the start of this year reviewing my climbing goals over previous years, and laying out my goals for 2014. A key modification for me in 2014 is changing to a strategy where I set goals quarterly, rather than yearly. Let&amp;rsquo;s review Q1.
-Goals for q1 2014  try at least 12 routes of 6c or harder
+Goals for q1 2014   try at least 12 routes of 6c or harder
 I managed to try exactly 12 routes of 6c in the last 12 weeks, and my last try yielded success.</description>
     </item>
     
@@ -1409,7 +1391,7 @@ tl;dr:
       <guid>http://partiallyattended.com/2013/12/04/stm-innovations-2013/</guid>
       <description>Today I&amp;rsquo;m at the STM innovations seminar. The twitter tag for today is #ukinno. The program is online.
 I&amp;rsquo;m going to take a light approach to blogging today, I&amp;rsquo;ll probably hang out mostly on Twitter.
-## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University &amp;gt; Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
+## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University  Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
     </item>
     
     <item>
@@ -1493,7 +1475,7 @@ Towards the closing pages of the book I was filled with a great expectation that
       <guid>http://partiallyattended.com/2013/10/16/plos-aml-13-day1/</guid>
       <description>## Cameron Neylon - Introduction &amp;amp; Welcome
 Interesting - this is the first PLOS ALM meeting that is a &amp;ldquo;normal&amp;rdquo; scheduled presentation. Time is going to be tight.
-Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch.</description>
+Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch. Web of science didn&amp;rsquo;t tell PLOS until 2010 that PLOS one was being tracked for an impact factor.</description>
     </item>
     
     <item>
@@ -1541,7 +1523,7 @@ General comments There was not much disagreement throughout the day. There were 
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
-      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
+      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation. I added one slide at the end with a personal view on some of the challenges of getting researchers to share data.</description>
     </item>
     
     <item>
@@ -1634,7 +1616,8 @@ Hether Savory - Open Data User Group She is the chair of the open data user grou
       <guid>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
       <description>Yesterday was awesome, let&amp;rsquo;s see how today goes. I was watching from afar, as my wife attended, and now I&amp;rsquo;m here for the afternoon sessions.
 sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?  now on to the sessions!
-[Incentivising Open Access][ioa]. (top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.</description>
+[Incentivising Open Access][ioa].(top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.
+What do researchers get credit for?</description>
     </item>
     
     <item>
@@ -1645,7 +1628,7 @@ sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?
       <guid>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
       <description>I&amp;rsquo;ll keep a partial, live-idsh blog going during the day. I&amp;rsquo;ve been going to these things, I think, since about 2008. I really like these meetings. I&amp;rsquo;m going to probably keep these notes pretty lightweight.
 sessions:  Ben Goldacre Kamila  Session on whether science journalism will be replaced Altmetric track  now on to the sessions!
-Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
+Ben Goldacre - opening keynote, on data. .(top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
     </item>
     
     <item>
@@ -1861,7 +1844,8 @@ SOPA and PIPA will have a negative impact by putting censorship controls into th
       <guid>http://partiallyattended.com/2012/01/08/climbing-goals-2012/</guid>
       <description>Well, it&amp;rsquo;s been a while since I wrote up my climbing goals for 2010, and I totally missed doing this for last year, so as we ease our way into 2012 it&amp;rsquo;s high time that I do the same again.
 The key goals for 2010 were:
- redpoint fr 7a boulder V5 trad E1 some trips to do some trad climbing  Well, since then I achieved the following:</description>
+ redpoint fr 7a boulder V5 trad E1 some trips to do some trad climbing  Well, since then I achieved the following:
+ onsight 6c+ indoors redpoint 6c outside boulder V4 a few HVS&amp;rsquo;s  So, not quite breaking through to where I wanted to be, but there is a feeling of definite progress.</description>
     </item>
     
     <item>
@@ -1882,7 +1866,7 @@ I&amp;rsquo;ve been playing around with some sample searches, and decided to try
       <guid>http://partiallyattended.com/2011/11/20/update-on-mathjax/</guid>
       <description>MathJax has come a long way since I last looked at it. There is now a CDN hosting the js files, which makes calling it really really easy. It&amp;rsquo;s being adopted by GiHub for their wiki engine.
 Using it with markdown can cause a few bumps, but there seems to be a bunch of ways around this:
- [mathjax in markdown][mim] using some mathjax configuration and custom css amazing implimentation in a notetaking app php, mathjax and wordpress  Writing a block of %%\LaTeX%% like this  $$ \begin{aligned} \dot{x} &amp;amp; = \sigma(y-x) \dot{y} &amp;amp; = \rho x - y - xz \dot{z} &amp;amp; = -\beta z + xy \end{aligned} $$</description>
+ [mathjax in markdown][mim] using some mathjax configuration and custom css [amazing implimentation][ai] in a notetaking app [php, mathjax and wordpress][phpm]  Writing a block of %%\LaTeX%% like this</description>
     </item>
     
     <item>
@@ -1891,7 +1875,7 @@ Using it with markdown can cause a few bumps, but there seems to be a bunch of w
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
-      <description> Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39; </description>
+      <description>Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39; </description>
     </item>
     
     <item>
@@ -1934,6 +1918,15 @@ Megajournals are so called because they are structured to be able to publish man
     </item>
     
     <item>
+      <title>Science Online London Keynote, Michael Nielson on Open Sciecne</title>
+      <link>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</link>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</guid>
+      <description>Michael Nielson Keynote on Open Science He rightly points out that he is probably going to be talking to the converted, so his talk is aimed at looking for resources that can help us to find answers about how to make open science works. He starts talking about an example of failure in open science. his example is an open notebook science from Tobias J Osbourne. He built up a readership of about 100 readers on a highly technical field, but he was not getting much participation, and very little feedback.</description>
+    </item>
+    
+    <item>
       <title>SOLO11, day1, morning sessions.</title>
       <link>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</link>
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
@@ -1941,15 +1934,6 @@ Megajournals are so called because they are structured to be able to publish man
       <guid>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</guid>
       <description>Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points that arose during the discussion:
  discussions with the public needs to happen where the public is being half assed about engaging the public discourse around papers, and then hiding behind peer review when you run into criticism is really bad, as for example what happened with the arsenic story nasa and science the public needs to be educated that peer review is not binary peer review comments should be made public (not everyone agrees) where we have representations of papers we should look to link to conversations about those papers (trackbacks and so forth)  There is a very interesting comment in the Q&amp;amp;A from [Martin Fenner][mf] about peer review in clinical medicine.</description>
-    </item>
-    
-    <item>
-      <title>Science Online London Keynote, Michael Nielson on Open Sciecne</title>
-      <link>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</link>
-      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</guid>
-      <description>Michael Nielson Keynote on Open Science He rightly points out that he is probably going to be talking to the converted, so his talk is aimed at looking for resources that can help us to find answers about how to make open science works. He starts talking about an example of failure in open science. his example is an open notebook science from Tobias J Osbourne. He built up a readership of about 100 readers on a highly technical field, but he was not getting much participation, and very little feedback.</description>
     </item>
     
     <item>
@@ -2001,7 +1985,7 @@ I studied in Edinburgh for a few years, it&amp;rsquo;s a beautiful city, and in 
       <description>2010-11-04 sits
 Right, the meeting is starting, it&amp;rsquo;s an open meeting, so we don&amp;rsquo;t have a specific agenda, but as the day goes on topics for discussion will emerge, and these will be time-boxed for discussion.
 As the participation list is available on the eventbrite site, I&amp;rsquo;m not going to capture that here.
-Some topics from the last meeting  signatures on digital objects correct identifiers on digital objects author identifiers lightweight languages toolsets sword, sword2</description>
+Some topics from the last meeting  signatures on digital objects correct identifiers on digital objects author identifiers lightweight languages toolsets sword, sword2  Some potential topics for this meeting  authentication and access control rdf and linked data within institutions and repositories data curation reasonable workflow components, best practices lightweight tool sharing web archiving sustainable storage tool sharing data curation, big data, and what the concept of curation means for repositories</description>
     </item>
     
     <item>
@@ -2051,8 +2035,7 @@ The solution proposed is to create a new role of editor on the ArXiV, and allow 
       <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/12/20/drinks-with-chris-wiggins/</guid>
-      <description>CANCELLED Due to flight cancellations out of NY, Chris won&amp;rsquo;t be making it over to this side of the pond, so sadly we will be calling the event off.
-London is a great city to live in if you are interested in technology. It has to be one of the best cities in the world for people working on the interface between science, tech and te web. Tonight I&amp;rsquo;ll be going to the awesome Same As Christmass Quiz, and tomorrow night Chris Wiggins will be passing through from New York, and there will be a chance to meet up with him for a pint and a chat.</description>
+      <description>Due to flight cancellations out of NY, Chris won&amp;rsquo;t be making it over to this side of the pond, so sadly we will be calling the event off.London is a great city to live in if you are interested in technology. It has to be one of the best cities in the world for people working on the interface between science, tech and te web. Tonight I&amp;rsquo;ll be going to the awesome Same As Christmass Quiz, and tomorrow night Chris Wiggins will be passing through from New York, and there will be a chance to meet up with him for a pint and a chat.</description>
     </item>
     
     <item>
@@ -2143,8 +2126,7 @@ Hi Martin, thanks for getting in touch and asking about Mendeley&amp;rsquo;s rel
       <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/09/13/slides-from-aps-talk/</guid>
-      <description>Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to talk to some really interesting scientists. My talk slides are below.
-Unveiling the web, making the implicit explicit.View more documents from Ian Mulvany. </description>
+      <description>Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to talk to some really interesting scientists. My talk slides are below.</description>
     </item>
     
     <item>
@@ -2153,7 +2135,7 @@ Unveiling the web, making the implicit explicit.View more documents from Ian Mul
       <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/09/07/solo10-presentation-slides/</guid>
-      <description> On Friday I hosted a session at Science Online London. Michael Habibi, Richard Wallis and Chris Taylor all gave great presentations. Michael&amp;rsquo;s presentation and Richards&amp;rsquo;s presentation are both online, and when the organisers post the other talks I&amp;rsquo;ll link to Chris&amp;rsquo;s presentation too.
+      <description>On Friday I hosted a session at Science Online London. Michael Habibi, Richard Wallis and Chris Taylor all gave great presentations. Michael&amp;rsquo;s presentation and Richards&amp;rsquo;s presentation are both online, and when the organisers post the other talks I&amp;rsquo;ll link to Chris&amp;rsquo;s presentation too.
 Michael, taking us through his talk Richard has a rapt audience Chris, getting passionate </description>
     </item>
     
@@ -2190,7 +2172,7 @@ Michael, taking us through his talk Richard has a rapt audience Chris, getting p
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</guid>
-      <description> testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34; testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \] </description>
+      <description>testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34; testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \] </description>
     </item>
     
     <item>
@@ -2452,6 +2434,16 @@ The main factors in holding back my climbing in 2009 were taking a few months of
     </item>
     
     <item>
+      <title>dreaming of snow</title>
+      <link>http://partiallyattended.com/2009/12/01/dreaming-of-snow/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2009/12/01/dreaming-of-snow/</guid>
+      <description>DSC00458
+Originally uploaded by Ian MulvanyI just got some great feedback on this picture from someone on flickr, it was taken back in February when I was on a skiing holiday in Switzerland. The house was built by my wife&#39;s grandfather, and we came to it, it buried in a drift, the air as sharp as the icicles. It was a magical week, and I&#39;m keen to return. At this time of the year thoughts turn to such things.</description>
+    </item>
+    
+    <item>
       <title>Keeping Dopplr and iCal in two way sync.</title>
       <link>http://partiallyattended.com/2009/12/01/keeping-dopplr-and-ical-in-two-way-sync./</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
@@ -2463,16 +2455,6 @@ from the trips page. You can also publish a calendar locally to the
 Dopplr servers that Dopplr will pull trips from. I&amp;#39;ve set up two
 calendars in my iCal, one for pushing into Dopplr, and another for
 pulling all Dopplr trips from.</description>
-    </item>
-    
-    <item>
-      <title>dreaming of snow</title>
-      <link>http://partiallyattended.com/2009/12/01/dreaming-of-snow/</link>
-      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/12/01/dreaming-of-snow/</guid>
-      <description>DSC00458
-Originally uploaded by Ian MulvanyI just got some great feedback on this picture from someone on flickr, it was taken back in February when I was on a skiing holiday in Switzerland. The house was built by my wife&#39;s grandfather, and we came to it, it buried in a drift, the air as sharp as the icicles. It was a magical week, and I&#39;m keen to return. At this time of the year thoughts turn to such things.</description>
     </item>
     
     <item>
@@ -2604,21 +2586,21 @@ Describe the flow of an incompressible fluid. The equations are non-linear and a
     </item>
     
     <item>
-      <title>Why measure scientists and their work?</title>
-      <link>http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/</link>
-      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/</guid>
-      <description>I&#39;m interested in using graph theory to develop tools to improve science (whether I manage to do this is a moot point, I believe that someone will, and that such tools will be useful). One of the questions raised by any effort to introduce new systems that may be used to compare and contrast the work of scientists is whether such systems can have any net benefit when weighed against the potential pressure that they may place on working scientists.</description>
-    </item>
-    
-    <item>
       <title>notes on &#34;Classes of complex networks deﬁned by role-to-role connectivity proﬁles&#34;</title>
       <link>http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/</link>
       <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/</guid>
       <description>Looking for algorithms to do community detection (there are a bunch from the famous Girvan-Newman algorithm doi:10.1073/pnas.122653799 which seems to have gained popularity through being very simple, effiencet and usually pretty powerfull, through to a method doi:10.1103/PhysRevE.71.046117 by Ziv, Middendorf and Wiggins. I have to admit I don&#39;t understand that paper yet, but hope to come back to it.) I was pointed to a paper by Guimera, Sales-Pardo and Amaral.</description>
+    </item>
+    
+    <item>
+      <title>Why measure scientists and their work?</title>
+      <link>http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/</guid>
+      <description>I&#39;m interested in using graph theory to develop tools to improve science (whether I manage to do this is a moot point, I believe that someone will, and that such tools will be useful). One of the questions raised by any effort to introduce new systems that may be used to compare and contrast the work of scientists is whether such systems can have any net benefit when weighed against the potential pressure that they may place on working scientists.</description>
     </item>
     
     <item>
@@ -2837,6 +2819,20 @@ be very good, however my expectations were unfounded and I had a</description>
     </item>
     
     <item>
+      <title>weekly training log, week 4</title>
+      <link>http://partiallyattended.com/2009/02/02/weekly-training-log-week-4/</link>
+      <pubDate>Mon, 02 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2009/02/02/weekly-training-log-week-4/</guid>
+      <description>A week snowboarding in Switzerland, 6 days total with a rest day on
+the Wed. Pretty fantastic!I didn&amp;#39;t get any running done, and looking at the current weather in
+London, it is looking like I won&amp;#39;t get any running done this week
+either.My training summary for January 2009 then is as follows:Number of exercise sessions = 18
+Number of days with exercise = 17 (54%)
+Total distance = 49 km</description>
+    </item>
+    
+    <item>
       <title>Weekly training report, week 3</title>
       <link>http://partiallyattended.com/2009/02/02/fwd-weekly-training-report-week-3/</link>
       <pubDate>Mon, 02 Feb 2009 00:00:00 +0000</pubDate>
@@ -2849,20 +2845,6 @@ leads. Also did some nice bouldering.Sunday 18th
 ran 12.2 km 80.5 min
 did this one http://www.gmap-pedometer.com/?r=2498524Monday 19th
 did some chin ups as a warm up and then 3 sets of semi-dead hangs, lasted</description>
-    </item>
-    
-    <item>
-      <title>weekly training log, week 4</title>
-      <link>http://partiallyattended.com/2009/02/02/weekly-training-log-week-4/</link>
-      <pubDate>Mon, 02 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/02/02/weekly-training-log-week-4/</guid>
-      <description>A week snowboarding in Switzerland, 6 days total with a rest day on
-the Wed. Pretty fantastic!I didn&amp;#39;t get any running done, and looking at the current weather in
-London, it is looking like I won&amp;#39;t get any running done this week
-either.My training summary for January 2009 then is as follows:Number of exercise sessions = 18
-Number of days with exercise = 17 (54%)
-Total distance = 49 km</description>
     </item>
     
     <item>
@@ -3008,6 +2990,17 @@ and sucks, but hey, that&amp;#39;s what you gotta do.</description>
     </item>
     
     <item>
+      <title>a great presentation about books and community</title>
+      <link>http://partiallyattended.com/2008/12/21/a-great-presentation-about-books-and-community/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/a-great-presentation-about-books-and-community/</guid>
+      <description> 
+My colleague Gavin Bell just uploaded a great presentation about creating communities of readers out of readers of books. You can see his presentation &amp;lt;a href=&amp;quot;http://www.slideshare.net/gavin/gavin-bell-from-readers-of-books-to-a-community-of-readers-oreilly-toc08/&amp;quot;&amp;gt;here on slideshare&amp;lt;/a&amp;gt;. He gave this talk at the Tools Of Change conference in New York earlier this month.
+ Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
       <title>A minor milestone in leisurely reading</title>
       <link>http://partiallyattended.com/2008/12/21/a-minor-milestone-in-leisurely-reading/</link>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
@@ -3019,6 +3012,65 @@ of the past year I have been re-reading it aloud to my girlfriend. She
 has an eye strain which means that if she reads too much at night she
 gets headaches, and so I&#39;ve been doing the recreational reading for
 the two of us over the past year.</description>
+    </item>
+    
+    <item>
+      <title>blogging darwin</title>
+      <link>http://partiallyattended.com/2008/12/21/blogging-darwin/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/blogging-darwin/</guid>
+      <description>One of my friends is writing a series of blogs about Darwin.
+It looks like a very nice series of blog posts, and I look forward to the
+rest.
+
+You can read it here.
+
+Of course as a physicist I disagree with one comment in this first post:
+
+&amp;quot;From an intellectual point of view, the Origin is the most significant work
+of the millennium, and the most important work of non-fiction ever.</description>
+    </item>
+    
+    <item>
+      <title>bus podcast idea</title>
+      <link>http://partiallyattended.com/2008/12/21/bus-podcast-idea/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/bus-podcast-idea/</guid>
+      <description>I had a great idea yesterday while I was engaged on a personal odyssey on
+London buses. I was on the top deck of, I think it was the 176, heading down
+past Old Street into the square mile, round St Paul&#39;s (with a quick glimpse
+of millennium bridge, and then on into the strand. The bus went past so many
+statues, churches and historical buildings, but I knew only a few of them.</description>
+    </item>
+    
+    <item>
+      <title>chasing cars</title>
+      <link>http://partiallyattended.com/2008/12/21/chasing-cars/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/chasing-cars/</guid>
+      <description> 
+This morning as I was leaving Shoreditch park a guy in a black masarti
+with the top down passed my on my bike.
+I continued along the canal as usual and as I came past sainsbury&#39;s in
+islington saw the same guy in the same car, as I passed him!
+Bike 1, Masarati + London Traffic 0.
+ Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
+      <title>climbing milestone</title>
+      <link>http://partiallyattended.com/2008/12/21/climbing-milestone/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/climbing-milestone/</guid>
+      <description> 
+Last night I got my first UK 6a boulder problem at the Castle climbing wall,
+it&#39;s been a while since I was making progress with my climbing, so that was
+great.My climbing diary is here: http://jottit.com/h94hx/
+ Read and post comments | Send to a friend  </description>
     </item>
     
     <item>
@@ -3040,6 +3092,21 @@ My Work Colleague make a cloverfield diarama in our sandbox today. We will be go
     </item>
     
     <item>
+      <title>collaborative intelligence and the pidgeonhole problem</title>
+      <link>http://partiallyattended.com/2008/12/21/collaborative-intelligence-and-the-pidgeonhole-problem/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/collaborative-intelligence-and-the-pidgeonhole-problem/</guid>
+      <description>O&#39;Reilly are hosting a Collaborative Intelligence foo camp this coming
+weekend. There is some discussion bubbling out already on crowdvine at a group that has been created for this
+meeting.
+One of the participants, Greg Linden, says the following:
+&amp;quot;Hi, Cass. Absolutely, this is called the pigeonhole problem and can be an
+issue if personalization is done poorly.
+Done right, personalization enhances discover by helping you find things you</description>
+    </item>
+    
+    <item>
       <title>Creationism as Science,</title>
       <link>http://partiallyattended.com/2008/12/21/creationism-as-science/</link>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
@@ -3052,6 +3119,36 @@ The group looked at key people in the ID debate and people who acted as
 strong defenders of evolution. One can then make a graph of the links
 between the groups and intra-groups based on citation and co-citation.
 Now one area of social science that is pretty interesting in this debate</description>
+    </item>
+    
+    <item>
+      <title>digital archeology, finding traces in the bits</title>
+      <link>http://partiallyattended.com/2008/12/21/digital-archeology-finding-traces-in-the-bits/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/digital-archeology-finding-traces-in-the-bits/</guid>
+      <description>This
+article in Guardian today is describing a method of restoring colour to
+some original BBC tv shows whose master tapes were wiped in a purge of the
+BBC archives.
+The shows were originally made in colour, then the master tapes were
+destroyed to make more room in the BBC archive, however black and white
+copies were made for distribution to countries which didn&#39;t have colour TV
+capability. The black and white versions were on a smaller format (16 mm)</description>
+    </item>
+    
+    <item>
+      <title>drowning in the streamosphere</title>
+      <link>http://partiallyattended.com/2008/12/21/drowning-in-the-streamosphere/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/drowning-in-the-streamosphere/</guid>
+      <description>I&#39;ve been thinking about the streamosphere (as coined by Euan Adie),
+and how I am starting to get dragged down in it again. I&#39;m getting
+daily notifications from pounce, twitter, friendfeed, linked in (I&#39;ve
+been ignoring facebook for ages, facebook, you bite my ass). What I
+really need is a way to manage my notifications and communications in
+the way that I now manage my rss feeds, through a bespoke piece of</description>
     </item>
     
     <item>
@@ -3072,6 +3169,35 @@ They were able to use this algorithim to disambiguate this data set</description
     </item>
     
     <item>
+      <title>further confustion</title>
+      <link>http://partiallyattended.com/2008/12/21/further-confustion/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/further-confustion/</guid>
+      <description> 
+So, after a little more investigation it is clear that earlier links are
+broken and new links have the snap preview.
+Well, I guess I am just going to have to write links as plain text until
+they get this thing sorted out.
+tags: vox sucks
+ Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
+      <title>getting married and buying an iPhone are probably incompatible.</title>
+      <link>http://partiallyattended.com/2008/12/21/getting-married-and-buying-an-iphone-are-probably-incompatible./</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/getting-married-and-buying-an-iphone-are-probably-incompatible./</guid>
+      <description>Having just gotten engaged and begun to look at the relative costs
+involved in organising a wedding I woke up this morning with the
+unavoidable realisation that the need to save for the wedding is going
+to make purchasing an iPhone, while I have a perfectly normal
+n95 that works rather well (especially since the broken key unstuck
+and started working again) untenable. My cunning plan had been</description>
+    </item>
+    
+    <item>
       <title>How I learned to stop worrying and love RSS</title>
       <link>http://partiallyattended.com/2008/12/21/how-i-learned-to-stop-worrying-and-love-rss/</link>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
@@ -3082,6 +3208,22 @@ news and information for me for about the last year or so, but I began to
 feel as if I was drowning in it. I subscribe to something over 80 feeds,
 some of which, like techcrunch, spit out over 40 or 50 items a day. A few
 days away from my feed reader and there could be well over 1000 entries</description>
+    </item>
+    
+    <item>
+      <title>how to learn python</title>
+      <link>http://partiallyattended.com/2008/12/21/how-to-learn-python/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/how-to-learn-python/</guid>
+      <description> 
+In response to a query that popped up on Friend Feed:
+I taught myself years ago with O&#39;Reilly&#39;s Learning Python. The web
+book &#39;Dive into Python&#39; is essential, and the blog posts on
+respectively &#39;How to Code like a Pythonista&#39; and &#39;How to think like a
+Pythonista&#39; will get you a long way towards familiarizing yourself
+with common idoms in the language.
+ Read and post comments | Send to a friend  </description>
     </item>
     
     <item>
@@ -3101,6 +3243,47 @@ Many thanks for you interest in twidox. Your account has been activated.</descri
     </item>
     
     <item>
+      <title>ikea is like a biological machine</title>
+      <link>http://partiallyattended.com/2008/12/21/ikea-is-like-a-biological-machine/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/ikea-is-like-a-biological-machine/</guid>
+      <description> 
+We are just unpacking some more furniture and we have discovered that the
+spacers inside the boxes were made up of cut up pieces of IKEA furniture,
+probably items that had been returned. It reminded my of the cells ability
+to recycle old components.
+ Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
+      <title>incentives</title>
+      <link>http://partiallyattended.com/2008/12/21/incentives/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/incentives/</guid>
+      <description>So after reading about some economists who decided to use economic theory to
+loose weight I have decided to follow suit. They both decided to loose a
+certain amount of weight by a certain time and places $5000 in a bond.
+Whoever didn&#39;t make the weight lost their portion of the money to the other
+person. The idea was to affect behavior through an incentive that
+was significant. Well, I&#39;m not a well paid economist, but I have decided to</description>
+    </item>
+    
+    <item>
+      <title>iPhone prediction market</title>
+      <link>http://partiallyattended.com/2008/12/21/iphone-prediction-market/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/iphone-prediction-market/</guid>
+      <description>Well, a prediction about a new market that will spring up (perhaps it
+already has) around the iPhone. So it costs $99 dollars to get an app that
+you have built onto the phone through the App Store. If I design a vanity
+app I&#39;m not going to want to pay that much, but I might pay 5, 10 or even 15
+dollars to see the child of my creativity bouncing around on the little</description>
+    </item>
+    
+    <item>
       <title>Max OS X does not have gethrtime and as a result cannot load Time::HR</title>
       <link>http://partiallyattended.com/2008/12/21/max-os-x-does-not-have-gethrtime-and-as-a-result-cannot-load-timehr/</link>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
@@ -3113,6 +3296,66 @@ Now someone should write a bridge function that overloads the Time::HR
 functions with Time::HiRes functions which would make a code change as easy
 as loading the overload module.
  Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
+      <title>mozy backup service</title>
+      <link>http://partiallyattended.com/2008/12/21/mozy-backup-service/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/mozy-backup-service/</guid>
+      <description> 
+I&#39;ve been trying the free account this week. I&#39;ve backed up 1.6 GB of data.
+It took, with given interruptions of a normal work day, about 4 days to
+backup this amount of Data.
+I am beginning to think that the world of offline remote backups is still a
+little bit away!
+ Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
+      <title>netsci08 blogging</title>
+      <link>http://partiallyattended.com/2008/12/21/netsci08-blogging/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/netsci08-blogging/</guid>
+      <description>I&#39;m in Norwich all this week attending Netsci08
+http://www.ifr.ac.uk/netsci08/, the internatinal workshop and conference
+on network science. It&#39;s a week long event, and broadly speaking it
+looks like there are three types themes that are being discussed here:
+biological networks, pure networks science and community detection in
+networks, principlaly emergent networks of the kind we see in the
+internet.
+I&#39;m twittering about the meeting using the tag #netsci08, but it seems</description>
+    </item>
+    
+    <item>
+      <title>netsci08 opening keynote</title>
+      <link>http://partiallyattended.com/2008/12/21/netsci08-opening-keynote/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/netsci08-opening-keynote/</guid>
+      <description>Nicholas Christakis, Harvard, &amp;quot;eat drink and be merry, the spread of
+health phenomena in social networks&amp;quot;.
+This talk is looking at the spread of desies throgh social interactions,
+rather than other types of interactins. The main study was looking at
+obesity using the Framingham Heart Study Social Network. This seems like
+a very famouse social network health related study, so I&#39;m not going to
+go into detail about that, but the bottom line is that they were able to</description>
+    </item>
+    
+    <item>
+      <title>network branching, netsci08</title>
+      <link>http://partiallyattended.com/2008/12/21/network-branching-netsci08/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/network-branching-netsci08/</guid>
+      <description>I&#39;m really torn by the number of great talks on today. There are three
+parallel sessions, and for each time slot I want to be in at least two
+places at once. I&#39;m going to try to pick out talks that have some
+relation to online social networks, community detection and scientific
+networks, but some of the talks on the theory of clustering are
+conflicting directly with some use cases of looking at some online</description>
     </item>
     
     <item>
@@ -3132,6 +3375,45 @@ There is different bahviour, could I say &#39;driving&#39; the use of these</des
     </item>
     
     <item>
+      <title>networks; head to head</title>
+      <link>http://partiallyattended.com/2008/12/21/networks-head-to-head/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/networks-head-to-head/</guid>
+      <description>The second talk in the evening CREEN parallel session is from J. Holyst
+about phase transitions in coupled complex networks where the network
+properties are different in the two groups.
+In one group there are a smaller number of members, but they are tightly
+coupled. The second group is larger, but less tightly coupled. The model
+uses an Ising model. The less coupled group has higher fluctuation in</description>
+    </item>
+    
+    <item>
+      <title>nice idea for improving the six nations rugby tournament</title>
+      <link>http://partiallyattended.com/2008/12/21/nice-idea-for-improving-the-six-nations-rugby-tournament/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/nice-idea-for-improving-the-six-nations-rugby-tournament/</guid>
+      <description>Shaun Edwards &amp;lt;a href=&amp;quot;http://blogs.guardian.co.uk/sport/2008/02/22/bonus_is_the_carrot_that_leads.html&amp;quot;&amp;gt;writes&amp;lt;/a&amp;gt; in The Guardian today
+that introducing the bonus points system to the Six Nations rugby tournament could help make it more entertaining (not that it needs much help in that regard, as it is a fantastic tournament as it is). I&amp;#160;wholeheartedly&amp;#160;agree. At the moment you get 2 points if you win a game, and 1 point if you draw. Under the bonus system you get an extra point if you score 4 tries and you get a bonus point if you are a losing team and you hold you opposition to a gap of 7 points or less.</description>
+    </item>
+    
+    <item>
+      <title>perl and again,</title>
+      <link>http://partiallyattended.com/2008/12/21/perl-and-again/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/perl-and-again/</guid>
+      <description>Ever since Ian Clarke mentioned the potential delights of python to me
+whilst passing me in a corridor back in 1999 I&#39;ve been tinkering around with
+that language.
+Christ, that&#39;s almost 10 years. I like python, it gave a great sense of
+freedom after spending a heavy five years working with various flavours of
+FORTRAN, from
+FORTRAN 90, through to High Performance Fortran. Well, now here I am</description>
+    </item>
+    
+    <item>
       <title>Predictably Irrational</title>
       <link>http://partiallyattended.com/2008/12/21/predictably-irrational/</link>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
@@ -3143,6 +3425,76 @@ very interesting book, href=&amp;quot;http://www.amazon.co.uk/Predictably-Irrati
 Irrational. The book looks at the processes behind bad or
 irrational decisions. The author is an economist and it seems the aim
 of the book is to help us to see the emotional effects that influence</description>
+    </item>
+    
+    <item>
+      <title>progress</title>
+      <link>http://partiallyattended.com/2008/12/21/progress/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/progress/</guid>
+      <description> 
+If you are interested in the progress of my bet you can follow here:
+
+hmm, my embedded image is not showing up here, shame, well, the link is here:&amp;#160;http://www.bellygraph.com/graph/view/300
+ Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
+      <title>question of the day, evil vice presidents</title>
+      <link>http://partiallyattended.com/2008/12/21/question-of-the-day-evil-vice-presidents/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/question-of-the-day-evil-vice-presidents/</guid>
+      <description>So the question of the day is if Hillary Clinton becomes
+Vice-President, would she be more or less evil than Dick Cheney?
+Now Dick Cheney is evil Inc. but the guy has never really pretended to
+be anything that he isn&#39;t, whereas Hillary would obviously
+lie and make policy in any way possible to win votes, which means that
+though she might not be as intrinsically as evil as Dick Cheney, she</description>
+    </item>
+    
+    <item>
+      <title>sadly I&#39;ve just discovered that vox sucks</title>
+      <link>http://partiallyattended.com/2008/12/21/sadly-ive-just-discovered-that-vox-sucks/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/sadly-ive-just-discovered-that-vox-sucks/</guid>
+      <description>I have been liking using vox to blog, mainly because I can email a blog post
+from any email client. This significantly reduces the
+effort involved in posting a blog post.
+I&#39;ve just discovered that vox has enabled snap previews. I don&#39;t like them.
+OK, so, some people may like them, and that&#39;s OK, but I can&#39;t turn them off
+on my blog. That&#39;s not good.
+In addition, when I email a link the link is now broken in vox, so if I type</description>
+    </item>
+    
+    <item>
+      <title>scribed is cool, but</title>
+      <link>http://partiallyattended.com/2008/12/21/scribed-is-cool-but/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/scribed-is-cool-but/</guid>
+      <description>Scribd has rolled out a very nice
+interface to pdf documents. It is neat and slick, but I think what it is
+missing is support for getting at data or meta-data in the document. It
+would be a great boon to be able to click on a table in a document and have
+that tabular data open either in excel or in some online document tool.
+Likewise for entities in the document that might have associated metadata.</description>
+    </item>
+    
+    <item>
+      <title>social networks</title>
+      <link>http://partiallyattended.com/2008/12/21/social-networks/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/social-networks/</guid>
+      <description>There is a tension between the providers of social software, and the
+way we behave. When I move from one city to another my social network
+changes as that&#39;s very location dependent, but when I do have that
+network set up for the most part, I don&#39;t expect restrictions on where
+I can go in that city with my friends. For sure, some friends of mine
+might not be caught dead in the palace bar, they only drink in the</description>
     </item>
     
     <item>
@@ -3158,6 +3510,44 @@ seemed like a good reason to sit down again with it.
 It&#39;s by Dario
 Taraborelli and the abstract is as follows:
 Abstract: The debate on the prospects of peer-review in the Internet age and the</description>
+    </item>
+    
+    <item>
+      <title>star wars</title>
+      <link>http://partiallyattended.com/2008/12/21/star-wars/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/star-wars/</guid>
+      <description> 
+&amp;quot;The modified tactical standard missile 3 (SM-3) hit the satellite at an
+altitude of 150 miles (247km) while it was travelling at approximately
+17,000 miles per hour.&amp;quot;
+I find this somewhat scary.
+ Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
+      <title>subprime mortgage crises explained using stick figures</title>
+      <link>http://partiallyattended.com/2008/12/21/subprime-mortgage-crises-explained-using-stick-figures/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/subprime-mortgage-crises-explained-using-stick-figures/</guid>
+      <description> 
+http://docs.google.com/Present?docid=dtfm9hj_30ccsw79f4
+http://docs.google.com/Present?docid=dtfm9hj_30ccsw79f4
+This is funny, and a little bit scary too.
+ Read and post comments | Send to a friend  </description>
+    </item>
+    
+    <item>
+      <title>test a link</title>
+      <link>http://partiallyattended.com/2008/12/21/test-a-link/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/test-a-link/</guid>
+      <description> 
+test a link guardian
+ Read and post comments | Send to a friend  </description>
     </item>
     
     <item>
@@ -3235,6 +3625,20 @@ are doing. If you want to go and vote you can at this link herehttp://pv.</descr
     </item>
     
     <item>
+      <title>what apps do I want on the iPhone?</title>
+      <link>http://partiallyattended.com/2008/12/21/what-apps-do-i-want-on-the-iphone/</link>
+      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/12/21/what-apps-do-i-want-on-the-iphone/</guid>
+      <description>Well, I just read through the engadget report on the iPhone SDK and it&#39;s
+looking pretty good. I&#39;m in the middle of downloading the free SDK, mainly
+so that I can have a virtual iPhone to play around with, but last night I
+got to thinking about what kind of applications I personally would like to
+see on the device.
+I live in London, but I frequently travel to Europe.</description>
+    </item>
+    
+    <item>
       <title>Why the LHC is not really that impressive</title>
       <link>http://partiallyattended.com/2008/12/21/why-the-lhc-is-not-really-that-impressive/</link>
       <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
@@ -3268,425 +3672,13 @@ carriers, boo.
     </item>
     
     <item>
-      <title>a great presentation about books and community</title>
-      <link>http://partiallyattended.com/2008/12/21/a-great-presentation-about-books-and-community/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
+      <title>agile programming</title>
+      <link>http://partiallyattended.com/2008/07/14/agile-programming/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://partiallyattended.com/2008/12/21/a-great-presentation-about-books-and-community/</guid>
-      <description> 
-My colleague Gavin Bell just uploaded a great presentation about creating communities of readers out of readers of books. You can see his presentation &amp;lt;a href=&amp;quot;http://www.slideshare.net/gavin/gavin-bell-from-readers-of-books-to-a-community-of-readers-oreilly-toc08/&amp;quot;&amp;gt;here on slideshare&amp;lt;/a&amp;gt;. He gave this talk at the Tools Of Change conference in New York earlier this month.
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>blogging darwin</title>
-      <link>http://partiallyattended.com/2008/12/21/blogging-darwin/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/blogging-darwin/</guid>
-      <description>One of my friends is writing a series of blogs about Darwin.
-It looks like a very nice series of blog posts, and I look forward to the
-rest.
-
-You can read it here.
-
-Of course as a physicist I disagree with one comment in this first post:
-
-&amp;quot;From an intellectual point of view, the Origin is the most significant work
-of the millennium, and the most important work of non-fiction ever.</description>
-    </item>
-    
-    <item>
-      <title>bus podcast idea</title>
-      <link>http://partiallyattended.com/2008/12/21/bus-podcast-idea/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/bus-podcast-idea/</guid>
-      <description>I had a great idea yesterday while I was engaged on a personal odyssey on
-London buses. I was on the top deck of, I think it was the 176, heading down
-past Old Street into the square mile, round St Paul&#39;s (with a quick glimpse
-of millennium bridge, and then on into the strand. The bus went past so many
-statues, churches and historical buildings, but I knew only a few of them.</description>
-    </item>
-    
-    <item>
-      <title>chasing cars</title>
-      <link>http://partiallyattended.com/2008/12/21/chasing-cars/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/chasing-cars/</guid>
-      <description> 
-This morning as I was leaving Shoreditch park a guy in a black masarti
-with the top down passed my on my bike.
-I continued along the canal as usual and as I came past sainsbury&#39;s in
-islington saw the same guy in the same car, as I passed him!
-Bike 1, Masarati + London Traffic 0.
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>climbing milestone</title>
-      <link>http://partiallyattended.com/2008/12/21/climbing-milestone/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/climbing-milestone/</guid>
-      <description> 
-Last night I got my first UK 6a boulder problem at the Castle climbing wall,
-it&#39;s been a while since I was making progress with my climbing, so that was
-great.My climbing diary is here: http://jottit.com/h94hx/
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>collaborative intelligence and the pidgeonhole problem</title>
-      <link>http://partiallyattended.com/2008/12/21/collaborative-intelligence-and-the-pidgeonhole-problem/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/collaborative-intelligence-and-the-pidgeonhole-problem/</guid>
-      <description>O&#39;Reilly are hosting a Collaborative Intelligence foo camp this coming
-weekend. There is some discussion bubbling out already on crowdvine at a group that has been created for this
-meeting.
-One of the participants, Greg Linden, says the following:
-&amp;quot;Hi, Cass. Absolutely, this is called the pigeonhole problem and can be an
-issue if personalization is done poorly.
-Done right, personalization enhances discover by helping you find things you</description>
-    </item>
-    
-    <item>
-      <title>digital archeology, finding traces in the bits</title>
-      <link>http://partiallyattended.com/2008/12/21/digital-archeology-finding-traces-in-the-bits/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/digital-archeology-finding-traces-in-the-bits/</guid>
-      <description>This
-article in Guardian today is describing a method of restoring colour to
-some original BBC tv shows whose master tapes were wiped in a purge of the
-BBC archives.
-The shows were originally made in colour, then the master tapes were
-destroyed to make more room in the BBC archive, however black and white
-copies were made for distribution to countries which didn&#39;t have colour TV
-capability. The black and white versions were on a smaller format (16 mm)</description>
-    </item>
-    
-    <item>
-      <title>drowning in the streamosphere</title>
-      <link>http://partiallyattended.com/2008/12/21/drowning-in-the-streamosphere/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/drowning-in-the-streamosphere/</guid>
-      <description>I&#39;ve been thinking about the streamosphere (as coined by Euan Adie),
-and how I am starting to get dragged down in it again. I&#39;m getting
-daily notifications from pounce, twitter, friendfeed, linked in (I&#39;ve
-been ignoring facebook for ages, facebook, you bite my ass). What I
-really need is a way to manage my notifications and communications in
-the way that I now manage my rss feeds, through a bespoke piece of</description>
-    </item>
-    
-    <item>
-      <title>further confustion</title>
-      <link>http://partiallyattended.com/2008/12/21/further-confustion/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/further-confustion/</guid>
-      <description> 
-So, after a little more investigation it is clear that earlier links are
-broken and new links have the snap preview.
-Well, I guess I am just going to have to write links as plain text until
-they get this thing sorted out.
-tags: vox sucks
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>getting married and buying an iPhone are probably incompatible.</title>
-      <link>http://partiallyattended.com/2008/12/21/getting-married-and-buying-an-iphone-are-probably-incompatible./</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/getting-married-and-buying-an-iphone-are-probably-incompatible./</guid>
-      <description>Having just gotten engaged and begun to look at the relative costs
-involved in organising a wedding I woke up this morning with the
-unavoidable realisation that the need to save for the wedding is going
-to make purchasing an iPhone, while I have a perfectly normal
-n95 that works rather well (especially since the broken key unstuck
-and started working again) untenable. My cunning plan had been</description>
-    </item>
-    
-    <item>
-      <title>how to learn python</title>
-      <link>http://partiallyattended.com/2008/12/21/how-to-learn-python/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/how-to-learn-python/</guid>
-      <description> 
-In response to a query that popped up on Friend Feed:
-I taught myself years ago with O&#39;Reilly&#39;s Learning Python. The web
-book &#39;Dive into Python&#39; is essential, and the blog posts on
-respectively &#39;How to Code like a Pythonista&#39; and &#39;How to think like a
-Pythonista&#39; will get you a long way towards familiarizing yourself
-with common idoms in the language.
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>iPhone prediction market</title>
-      <link>http://partiallyattended.com/2008/12/21/iphone-prediction-market/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/iphone-prediction-market/</guid>
-      <description>Well, a prediction about a new market that will spring up (perhaps it
-already has) around the iPhone. So it costs $99 dollars to get an app that
-you have built onto the phone through the App Store. If I design a vanity
-app I&#39;m not going to want to pay that much, but I might pay 5, 10 or even 15
-dollars to see the child of my creativity bouncing around on the little</description>
-    </item>
-    
-    <item>
-      <title>ikea is like a biological machine</title>
-      <link>http://partiallyattended.com/2008/12/21/ikea-is-like-a-biological-machine/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/ikea-is-like-a-biological-machine/</guid>
-      <description> 
-We are just unpacking some more furniture and we have discovered that the
-spacers inside the boxes were made up of cut up pieces of IKEA furniture,
-probably items that had been returned. It reminded my of the cells ability
-to recycle old components.
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>incentives</title>
-      <link>http://partiallyattended.com/2008/12/21/incentives/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/incentives/</guid>
-      <description>So after reading about some economists who decided to use economic theory to
-loose weight I have decided to follow suit. They both decided to loose a
-certain amount of weight by a certain time and places $5000 in a bond.
-Whoever didn&#39;t make the weight lost their portion of the money to the other
-person. The idea was to affect behavior through an incentive that
-was significant. Well, I&#39;m not a well paid economist, but I have decided to</description>
-    </item>
-    
-    <item>
-      <title>mozy backup service</title>
-      <link>http://partiallyattended.com/2008/12/21/mozy-backup-service/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/mozy-backup-service/</guid>
-      <description> 
-I&#39;ve been trying the free account this week. I&#39;ve backed up 1.6 GB of data.
-It took, with given interruptions of a normal work day, about 4 days to
-backup this amount of Data.
-I am beginning to think that the world of offline remote backups is still a
-little bit away!
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>netsci08 blogging</title>
-      <link>http://partiallyattended.com/2008/12/21/netsci08-blogging/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/netsci08-blogging/</guid>
-      <description>I&#39;m in Norwich all this week attending Netsci08
-http://www.ifr.ac.uk/netsci08/, the internatinal workshop and conference
-on network science. It&#39;s a week long event, and broadly speaking it
-looks like there are three types themes that are being discussed here:
-biological networks, pure networks science and community detection in
-networks, principlaly emergent networks of the kind we see in the
-internet.
-I&#39;m twittering about the meeting using the tag #netsci08, but it seems</description>
-    </item>
-    
-    <item>
-      <title>netsci08 opening keynote</title>
-      <link>http://partiallyattended.com/2008/12/21/netsci08-opening-keynote/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/netsci08-opening-keynote/</guid>
-      <description>Nicholas Christakis, Harvard, &amp;quot;eat drink and be merry, the spread of
-health phenomena in social networks&amp;quot;.
-This talk is looking at the spread of desies throgh social interactions,
-rather than other types of interactins. The main study was looking at
-obesity using the Framingham Heart Study Social Network. This seems like
-a very famouse social network health related study, so I&#39;m not going to
-go into detail about that, but the bottom line is that they were able to</description>
-    </item>
-    
-    <item>
-      <title>network branching, netsci08</title>
-      <link>http://partiallyattended.com/2008/12/21/network-branching-netsci08/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/network-branching-netsci08/</guid>
-      <description>I&#39;m really torn by the number of great talks on today. There are three
-parallel sessions, and for each time slot I want to be in at least two
-places at once. I&#39;m going to try to pick out talks that have some
-relation to online social networks, community detection and scientific
-networks, but some of the talks on the theory of clustering are
-conflicting directly with some use cases of looking at some online</description>
-    </item>
-    
-    <item>
-      <title>networks; head to head</title>
-      <link>http://partiallyattended.com/2008/12/21/networks-head-to-head/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/networks-head-to-head/</guid>
-      <description>The second talk in the evening CREEN parallel session is from J. Holyst
-about phase transitions in coupled complex networks where the network
-properties are different in the two groups.
-In one group there are a smaller number of members, but they are tightly
-coupled. The second group is larger, but less tightly coupled. The model
-uses an Ising model. The less coupled group has higher fluctuation in</description>
-    </item>
-    
-    <item>
-      <title>nice idea for improving the six nations rugby tournament</title>
-      <link>http://partiallyattended.com/2008/12/21/nice-idea-for-improving-the-six-nations-rugby-tournament/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/nice-idea-for-improving-the-six-nations-rugby-tournament/</guid>
-      <description>Shaun Edwards &amp;lt;a href=&amp;quot;http://blogs.guardian.co.uk/sport/2008/02/22/bonus_is_the_carrot_that_leads.html&amp;quot;&amp;gt;writes&amp;lt;/a&amp;gt; in The Guardian today
-that introducing the bonus points system to the Six Nations rugby tournament could help make it more entertaining (not that it needs much help in that regard, as it is a fantastic tournament as it is). I&amp;#160;wholeheartedly&amp;#160;agree. At the moment you get 2 points if you win a game, and 1 point if you draw. Under the bonus system you get an extra point if you score 4 tries and you get a bonus point if you are a losing team and you hold you opposition to a gap of 7 points or less.</description>
-    </item>
-    
-    <item>
-      <title>perl and again,</title>
-      <link>http://partiallyattended.com/2008/12/21/perl-and-again/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/perl-and-again/</guid>
-      <description>Ever since Ian Clarke mentioned the potential delights of python to me
-whilst passing me in a corridor back in 1999 I&#39;ve been tinkering around with
-that language.
-Christ, that&#39;s almost 10 years. I like python, it gave a great sense of
-freedom after spending a heavy five years working with various flavours of
-FORTRAN, from
-FORTRAN 90, through to High Performance Fortran. Well, now here I am</description>
-    </item>
-    
-    <item>
-      <title>progress</title>
-      <link>http://partiallyattended.com/2008/12/21/progress/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/progress/</guid>
-      <description> 
-If you are interested in the progress of my bet you can follow here:
-
-hmm, my embedded image is not showing up here, shame, well, the link is here:&amp;#160;http://www.bellygraph.com/graph/view/300
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>question of the day, evil vice presidents</title>
-      <link>http://partiallyattended.com/2008/12/21/question-of-the-day-evil-vice-presidents/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/question-of-the-day-evil-vice-presidents/</guid>
-      <description>So the question of the day is if Hillary Clinton becomes
-Vice-President, would she be more or less evil than Dick Cheney?
-Now Dick Cheney is evil Inc. but the guy has never really pretended to
-be anything that he isn&#39;t, whereas Hillary would obviously
-lie and make policy in any way possible to win votes, which means that
-though she might not be as intrinsically as evil as Dick Cheney, she</description>
-    </item>
-    
-    <item>
-      <title>sadly I&#39;ve just discovered that vox sucks</title>
-      <link>http://partiallyattended.com/2008/12/21/sadly-ive-just-discovered-that-vox-sucks/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/sadly-ive-just-discovered-that-vox-sucks/</guid>
-      <description>I have been liking using vox to blog, mainly because I can email a blog post
-from any email client. This significantly reduces the
-effort involved in posting a blog post.
-I&#39;ve just discovered that vox has enabled snap previews. I don&#39;t like them.
-OK, so, some people may like them, and that&#39;s OK, but I can&#39;t turn them off
-on my blog. That&#39;s not good.
-In addition, when I email a link the link is now broken in vox, so if I type</description>
-    </item>
-    
-    <item>
-      <title>scribed is cool, but</title>
-      <link>http://partiallyattended.com/2008/12/21/scribed-is-cool-but/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/scribed-is-cool-but/</guid>
-      <description>Scribd has rolled out a very nice
-interface to pdf documents. It is neat and slick, but I think what it is
-missing is support for getting at data or meta-data in the document. It
-would be a great boon to be able to click on a table in a document and have
-that tabular data open either in excel or in some online document tool.
-Likewise for entities in the document that might have associated metadata.</description>
-    </item>
-    
-    <item>
-      <title>social networks</title>
-      <link>http://partiallyattended.com/2008/12/21/social-networks/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/social-networks/</guid>
-      <description>There is a tension between the providers of social software, and the
-way we behave. When I move from one city to another my social network
-changes as that&#39;s very location dependent, but when I do have that
-network set up for the most part, I don&#39;t expect restrictions on where
-I can go in that city with my friends. For sure, some friends of mine
-might not be caught dead in the palace bar, they only drink in the</description>
-    </item>
-    
-    <item>
-      <title>star wars</title>
-      <link>http://partiallyattended.com/2008/12/21/star-wars/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/star-wars/</guid>
-      <description> 
-&amp;quot;The modified tactical standard missile 3 (SM-3) hit the satellite at an
-altitude of 150 miles (247km) while it was travelling at approximately
-17,000 miles per hour.&amp;quot;
-I find this somewhat scary.
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>subprime mortgage crises explained using stick figures</title>
-      <link>http://partiallyattended.com/2008/12/21/subprime-mortgage-crises-explained-using-stick-figures/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/subprime-mortgage-crises-explained-using-stick-figures/</guid>
-      <description> 
-http://docs.google.com/Present?docid=dtfm9hj_30ccsw79f4
-http://docs.google.com/Present?docid=dtfm9hj_30ccsw79f4
-This is funny, and a little bit scary too.
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>test a link</title>
-      <link>http://partiallyattended.com/2008/12/21/test-a-link/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/test-a-link/</guid>
-      <description> 
-test a link guardian
- Read and post comments | Send to a friend  </description>
-    </item>
-    
-    <item>
-      <title>what apps do I want on the iPhone?</title>
-      <link>http://partiallyattended.com/2008/12/21/what-apps-do-i-want-on-the-iphone/</link>
-      <pubDate>Sun, 21 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/12/21/what-apps-do-i-want-on-the-iphone/</guid>
-      <description>Well, I just read through the engadget report on the iPhone SDK and it&#39;s
-looking pretty good. I&#39;m in the middle of downloading the free SDK, mainly
-so that I can have a virtual iPhone to play around with, but last night I
-got to thinking about what kind of applications I personally would like to
-see on the device.
-I live in London, but I frequently travel to Europe.</description>
+      <guid>http://partiallyattended.com/2008/07/14/agile-programming/</guid>
+      <description>  I work for a department where we try to do agile development. I liked thisDilbertabout the subject.
+  </description>
     </item>
     
     <item>
@@ -3696,6 +3688,16 @@ I live in London, but I frequently travel to Europe.</description>
       
       <guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
       <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
+    </item>
+    
+    <item>
+      <title>and while we are at it here are the references from that article</title>
+      <link>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
+      <description>References
+ - &amp;quot;Python Objects&amp;quot;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &amp;quot;How to think like a Pythonista&amp;quot;, Mark Hammond, http://python.net/crew/mwh/hacks/objectthink.html - &amp;quot;Python main() functions&amp;quot;, Guido van Rossum, http://www.artima.com/weblogs/viewpost.jsp?thread=4829 - &amp;quot;Python Idioms and Efficiency&amp;quot;, http://jaynes.colorado.edu/PythonIdioms.html - &amp;quot;Python track: python idioms&amp;quot;, http://www.cs.caltech.edu/courses/cs11/material/python/misc/python_idioms.html - &amp;quot;Be Pythonic&amp;quot;, Shalabh Chaturvedi, http://shalabh.infogami.com/Be_Pythonic2 - &amp;quot;Python Is Not Java&amp;quot;, Phillip J. Eby, http://dirtsimple.org/2004/12/python-is-not-java.html - &amp;quot;What is Pythonic?&amp;quot;, Martijn Faassen, http://faassen.n--tree.net/blog/view/weblog/2005/08/06/0 - &amp;quot;Sorting Mini-HOWTO&amp;quot;, Andrew Dalke, http://wiki.python.org/moin/HowTo/Sorting - &amp;quot;Python Idioms&amp;quot;, http://www.</description>
     </item>
     
     <item>
@@ -3795,12 +3797,41 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     </item>
     
     <item>
+      <title>comment on climbing goals</title>
+      <link>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</guid>
+      <description>I find that having a cool trip planned every now and again is key forkeeping me motivated. I&#39;ve been doing a lot of job and country hopping overthe past 10 years, and this has had a signifigant detrimental impact on theamount of climbing that I could do, but hey, I&#39;m doing a job that I love,and those are the rolls we choose to take.
+One thing that has kept me motivated to get of my arse and actually try abit harder when I am down in the gym is having a few cool trips planned inthe year.</description>
+    </item>
+    
+    <item>
       <title>CPANPLUS and Mac OSX</title>
       <link>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</guid>
       <description>OK, so I&#39;m interested in installing the Connotea code base on my mac fordevelopment reasons. It will be the first time that I am going to startplaying around with a largish perl installation on my macine and there are alot of perl dependencies to be installed. Rather than going through CPANmodule by module, and rather than writing a bundle file for the connoteadependancies (because I don&#39;t know how to do that yet) I decided to try touse CPANPLUS, due to the tips on perl administration withCPANPLUS</description>
+    </item>
+    
+    <item>
+      <title>friends of mine of TV</title>
+      <link>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
+      <description>A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ais for the first couple of years,but it is looking like things are really working out for her now. She wasrecently featured on TV in Ireland, and she has posted a link to the clipfrom her blog. For a really inspirational view on managing business withchildcare have a loot at the vid:</description>
+    </item>
+    
+    <item>
+      <title>get addicted, feed the world</title>
+      <link>http://partiallyattended.com/2008/07/14/get-addicted-feed-the-world/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/get-addicted-feed-the-world/</guid>
+      <description>  at http://www.freerice.org
+  </description>
     </item>
     
     <item>
@@ -3822,6 +3853,26 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
       <description>A good friend of mine has just hit the 8a mark in climbing. Dave is a greatclimber, and a really nice guy, but what really blew me away is that hisfiancee Caroline led 7b on her first sports climbing trip.
 One thing know about both of them is that they do a lot of running,something like 10 - 15 miles evrey morning.
 If this isn&#39;t motivation for me to pick up running then I don&#39;t know whatis.</description>
+    </item>
+    
+    <item>
+      <title>getting started</title>
+      <link>http://partiallyattended.com/2008/07/14/getting-started/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/getting-started/</guid>
+      <description>  Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
+ </description>
+    </item>
+    
+    <item>
+      <title>google reader now has search</title>
+      <link>http://partiallyattended.com/2008/07/14/google-reader-now-has-search/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/google-reader-now-has-search/</guid>
+      <description>  Well, OK, this is probably not news, but I guess what is interesting for meis that this is a feature that I didn&#39;t really notice until today when Iwent looking for it, and hey, though that little search box had probablybeen there for weeks now, I only &amp;quot;saw&amp;quot; it today when I looked for it.
+  </description>
     </item>
     
     <item>
@@ -3860,227 +3911,6 @@ Very sad to hear your friend has such a lousy experience in my country. AsIan ca
       
       <guid>http://partiallyattended.com/2008/07/14/liam-dropping-by-london/</guid>
       <description>    10072007136    </description>
-    </item>
-    
-    <item>
-      <title>Mining social data, what Flickr tells us about place</title>
-      <link>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
-      <description>toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I attended last week it came up frequently as being one of the most over-hyped terms around at the moment, but there is substance behind it, and how that substance appears is fully up to the creativity of people who are willing to get their hands dirty with the actual data that is being produced by social web sites.</description>
-    </item>
-    
-    <item>
-      <title>Money Saving Web Sites for Living in the UK</title>
-      <link>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</guid>
-      <description>  The Guardian ran an article this week listing 10. As a placeholder here aresome of them that I might find useful:
-https://www.mysupermarket.co.uk/
-http://www.saynoto0870.com/
-http://www.quidco.com/
-http://www.energysavingtrust.org.uk/
- </description>
-    </item>
-    
-    <item>
-      <title>New terminal in Mac OS 10.5 is nice</title>
-      <link>http://partiallyattended.com/2008/07/14/new-terminal-in-mac-os-10.5-is-nice-but-dont-forget-that-there-is-a-bash_profile-out-of-the-box/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/new-terminal-in-mac-os-10.5-is-nice-but-dont-forget-that-there-is-a-bash_profile-out-of-the-box/</guid>
-      <description>The new terminal is very nice, but I did a wipe and re-install and waswondering what had happened to my old terminal settings. Of course thedefault .bash_profile file was being used as the settings file, so I deletedit and now the terminal works as expected.</description>
-    </item>
-    
-    <item>
-      <title>Open Reviewing</title>
-      <link>http://partiallyattended.com/2008/07/14/open-reviewing/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/open-reviewing/</guid>
-      <description>Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a description here about theconsortium and a list ofparticipating journals. I have no doubt that this is the future of peerreview. At the moment the peer review system is horribly inefficient forpapers that get rejected. Rejection from a journal can occur because a paperis crap, but often it happens for many other reasons, because the journalhas already met it&#39;s pagequota, the journal is publishing a set of special issues on another topic,the editors of the journal are interested in shifting the focus of thejournal, the topic of the paper is slightly away from the main interests ofthe editorial board, the paper is good, but just gets edged out by a set ofbetter papers that come in.</description>
-    </item>
-    
-    <item>
-      <title>Patents and Peer Review, kissing cousins?</title>
-      <link>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</guid>
-      <description>Below follows a long comment that I posted to an article on O&#39;Reilly Radar about patents.
-The original blog post is here
-There is an interesting compliment to the patent system in the domain of assigning credit to ideas, which is the academic peer-review system.
-The inventor of the idea in the case of academia is the author. The equivalent to the patent office is the editorial board of the academic journal that the author submits to.</description>
-    </item>
-    
-    <item>
-      <title>Potter prediction</title>
-      <link>http://partiallyattended.com/2008/07/14/potter-prediction/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/potter-prediction/</guid>
-      <description>  I wonder how long it&#39;s going to be before we see a children&#39;s TV series setat Hogwarts. I predict within the next 5 years.
-tags: Harry Potter, TV
- </description>
-    </item>
-    
-    <item>
-      <title>Sci - foo lurking</title>
-      <link>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</guid>
-      <description>  I&#39;m a Sci-Foo lurker, as I didn&#39;t make the cut to go this year, but I&#39;vebeen lapping up the news seeping out of the meeting. So far my favoriteTwitter post about the meeting comes from Richard Ackerman&#39;s feed:
-&amp;quot;Timo and Tim are trying to kill us. Doesn&#39;t cult brainwashing start withsleep deprivation? Fun so far, anyway&amp;quot;
- </description>
-    </item>
-    
-    <item>
-      <title>Simpsian</title>
-      <link>http://partiallyattended.com/2008/07/14/simpsian/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/simpsian/</guid>
-      <description>Yesterday one of the guy&#39;s at the office interviewed the producer of TheSimpsons. As a result he had to do quite a lot of research yesterday onSimsonalia, and decided to use the make your own simpson avatar tool on theSimpsons movie page to make all of us our own simpson character, this iswhat I would look like if I were a simpson.
-Tags: simpsons, avatar 
-  IansSimpson.</description>
-    </item>
-    
-    <item>
-      <title>The Laboratory Website and Video Awards</title>
-      <link>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</guid>
-      <description>  Attila Csordas sent along links about these awards, looks nice,
-http://www.the-scientist.com/lawva/
-and a blog link about them:
-http://pimm.wordpress.com/2007/10/09/the-laboratory-website-and-video-awards-by-the-scientist
-
-tags: science
- </description>
-    </item>
-    
-    <item>
-      <title>The fruitcakes have a talking form</title>
-      <link>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</guid>
-      <description>  A new creationisim journal ARJ.GRRRRRRRR
- </description>
-    </item>
-    
-    <item>
-      <title>Tips for switching from Windows to Mac</title>
-      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
-      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
--- Where is the right mouse button?
-This is the biggest obvious first difference.</description>
-    </item>
-    
-    <item>
-      <title>Today at lunch duplicators and instantiators</title>
-      <link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
-      <description>I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last time I can recall having somany interesting discussions over lunch and breaks was way back when I wasin my first undergraduate degree, but the topics of conversation that tendto come up at my current place of employment are really worth trying torecord.
-Today we started off having a couple of split conversation, Euan describingchatting to Martha at Sci-Foo and Euan and I talking about Euler, as you do.</description>
-    </item>
-    
-    <item>
-      <title>Weddings make you fat</title>
-      <link>http://partiallyattended.com/2008/07/14/weddings-make-you-fat/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/weddings-make-you-fat/</guid>
-      <description>I just got back from a wedding and bier festival thing in Munich. I&#39;ve been tracking my weight on and off for the past year and a half with the ultimate goal of getting back to my climbing fit weight of about 80kgs. From the graph below you can see the spike that was caused by the extertions at the wedding!
-(OK, in the vox rendering you can&#39;t really see the spike on the right hand side of the graph, but if you are bothered then click through and you&#39;ll see the original graph.</description>
-    </item>
-    
-    <item>
-      <title>Why do all of the science fiction authors have all of the really good ideas already?</title>
-      <link>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</guid>
-      <description>My friend Gavin has been increasingly interested in the singularity, wherebythe quiddity of humanness is uploaded into a computer, to reside there. Ithink the definition of the singularity has something to do reaching themoment where the boundary between a human individual entity and thetechnology that surrounds them becomes transparent, or disappearsaltogether.
-It struck me this weekend that if you can upload an intelligence , a person,a being, a soul, into a peice of technology, then you would probably beliving at a moment when technology was advanced enough to be able to build abody from the amino acid&#39;s up.</description>
-    </item>
-    
-    <item>
-      <title>agile programming</title>
-      <link>http://partiallyattended.com/2008/07/14/agile-programming/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/agile-programming/</guid>
-      <description>  I work for a department where we try to do agile development. I liked thisDilbertabout the subject.
-  </description>
-    </item>
-    
-    <item>
-      <title>and while we are at it here are the references from that article</title>
-      <link>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
-      <description>References
- - &amp;quot;Python Objects&amp;quot;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &amp;quot;How to think like a Pythonista&amp;quot;, Mark Hammond, http://python.net/crew/mwh/hacks/objectthink.html - &amp;quot;Python main() functions&amp;quot;, Guido van Rossum, http://www.artima.com/weblogs/viewpost.jsp?thread=4829 - &amp;quot;Python Idioms and Efficiency&amp;quot;, http://jaynes.colorado.edu/PythonIdioms.html - &amp;quot;Python track: python idioms&amp;quot;, http://www.cs.caltech.edu/courses/cs11/material/python/misc/python_idioms.html - &amp;quot;Be Pythonic&amp;quot;, Shalabh Chaturvedi, http://shalabh.infogami.com/Be_Pythonic2 - &amp;quot;Python Is Not Java&amp;quot;, Phillip J. Eby, http://dirtsimple.org/2004/12/python-is-not-java.html - &amp;quot;What is Pythonic?&amp;quot;, Martijn Faassen, http://faassen.n--tree.net/blog/view/weblog/2005/08/06/0 - &amp;quot;Sorting Mini-HOWTO&amp;quot;, Andrew Dalke, http://wiki.python.org/moin/HowTo/Sorting - &amp;quot;Python Idioms&amp;quot;, http://www.</description>
-    </item>
-    
-    <item>
-      <title>comment on climbing goals</title>
-      <link>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</guid>
-      <description>I find that having a cool trip planned every now and again is key forkeeping me motivated. I&#39;ve been doing a lot of job and country hopping overthe past 10 years, and this has had a signifigant detrimental impact on theamount of climbing that I could do, but hey, I&#39;m doing a job that I love,and those are the rolls we choose to take.
-One thing that has kept me motivated to get of my arse and actually try abit harder when I am down in the gym is having a few cool trips planned inthe year.</description>
-    </item>
-    
-    <item>
-      <title>friends of mine of TV</title>
-      <link>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
-      <description>A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ais for the first couple of years,but it is looking like things are really working out for her now. She wasrecently featured on TV in Ireland, and she has posted a link to the clipfrom her blog. For a really inspirational view on managing business withchildcare have a loot at the vid:</description>
-    </item>
-    
-    <item>
-      <title>get addicted, feed the world</title>
-      <link>http://partiallyattended.com/2008/07/14/get-addicted-feed-the-world/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/get-addicted-feed-the-world/</guid>
-      <description>  at http://www.freerice.org
-  </description>
-    </item>
-    
-    <item>
-      <title>getting started</title>
-      <link>http://partiallyattended.com/2008/07/14/getting-started/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/getting-started/</guid>
-      <description>  Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
- </description>
-    </item>
-    
-    <item>
-      <title>google reader now has search</title>
-      <link>http://partiallyattended.com/2008/07/14/google-reader-now-has-search/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/google-reader-now-has-search/</guid>
-      <description>  Well, OK, this is probably not news, but I guess what is interesting for meis that this is a feature that I didn&#39;t really notice until today when Iwent looking for it, and hey, though that little search box had probablybeen there for weeks now, I only &amp;quot;saw&amp;quot; it today when I looked for it.
-  </description>
     </item>
     
     <item>
@@ -4133,6 +3963,29 @@ Matt believes that we can get the benifits of semantic now, but withoutin any ca
     </item>
     
     <item>
+      <title>Mining social data, what Flickr tells us about place</title>
+      <link>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
+      <description>toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I attended last week it came up frequently as being one of the most over-hyped terms around at the moment, but there is substance behind it, and how that substance appears is fully up to the creativity of people who are willing to get their hands dirty with the actual data that is being produced by social web sites.</description>
+    </item>
+    
+    <item>
+      <title>Money Saving Web Sites for Living in the UK</title>
+      <link>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</guid>
+      <description>  The Guardian ran an article this week listing 10. As a placeholder here aresome of them that I might find useful:
+https://www.mysupermarket.co.uk/
+http://www.saynoto0870.com/
+http://www.quidco.com/
+http://www.energysavingtrust.org.uk/
+ </description>
+    </item>
+    
+    <item>
       <title>mozy backup service</title>
       <link>http://partiallyattended.com/2008/07/14/mozy-backup-service/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -4144,6 +3997,24 @@ I am beginning to think that the world of offline remote backups is still alittl
     </item>
     
     <item>
+      <title>New terminal in Mac OS 10.5 is nice</title>
+      <link>http://partiallyattended.com/2008/07/14/new-terminal-in-mac-os-10.5-is-nice-but-dont-forget-that-there-is-a-bash_profile-out-of-the-box/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/new-terminal-in-mac-os-10.5-is-nice-but-dont-forget-that-there-is-a-bash_profile-out-of-the-box/</guid>
+      <description>The new terminal is very nice, but I did a wipe and re-install and waswondering what had happened to my old terminal settings. Of course thedefault .bash_profile file was being used as the settings file, so I deletedit and now the terminal works as expected.</description>
+    </item>
+    
+    <item>
+      <title>Open Reviewing</title>
+      <link>http://partiallyattended.com/2008/07/14/open-reviewing/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/open-reviewing/</guid>
+      <description>Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a description here about theconsortium and a list ofparticipating journals. I have no doubt that this is the future of peerreview. At the moment the peer review system is horribly inefficient forpapers that get rejected. Rejection from a journal can occur because a paperis crap, but often it happens for many other reasons, because the journalhas already met it&#39;s pagequota, the journal is publishing a set of special issues on another topic,the editors of the journal are interested in shifting the focus of thejournal, the topic of the paper is slightly away from the main interests ofthe editorial board, the paper is good, but just gets edged out by a set ofbetter papers that come in.</description>
+    </item>
+    
+    <item>
       <title>open science</title>
       <link>http://partiallyattended.com/2008/07/14/open-science/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -4152,6 +4023,29 @@ I am beginning to think that the world of offline remote backups is still alittl
       <description>I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
 What is open science and what is the system? Well I am sure that there aremany viewpoints on this, so I am going to just put forward one here.
 At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipation in science. The credit is converted to grant money, thedollars keep the food on the plate.</description>
+    </item>
+    
+    <item>
+      <title>Patents and Peer Review, kissing cousins?</title>
+      <link>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</guid>
+      <description>Below follows a long comment that I posted to an article on O&#39;Reilly Radar about patents.
+The original blog post is here
+There is an interesting compliment to the patent system in the domain of assigning credit to ideas, which is the academic peer-review system.
+The inventor of the idea in the case of academia is the author. The equivalent to the patent office is the editorial board of the academic journal that the author submits to.</description>
+    </item>
+    
+    <item>
+      <title>Potter prediction</title>
+      <link>http://partiallyattended.com/2008/07/14/potter-prediction/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/potter-prediction/</guid>
+      <description>  I wonder how long it&#39;s going to be before we see a children&#39;s TV series setat Hogwarts. I predict within the next 5 years.
+tags: Harry Potter, TV
+ </description>
     </item>
     
     <item>
@@ -4177,6 +4071,28 @@ Earlier this year I was on holiday in Nerja in the south of Spain.</description>
     </item>
     
     <item>
+      <title>Sci - foo lurking</title>
+      <link>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</guid>
+      <description>  I&#39;m a Sci-Foo lurker, as I didn&#39;t make the cut to go this year, but I&#39;vebeen lapping up the news seeping out of the meeting. So far my favoriteTwitter post about the meeting comes from Richard Ackerman&#39;s feed:
+&amp;quot;Timo and Tim are trying to kill us. Doesn&#39;t cult brainwashing start withsleep deprivation? Fun so far, anyway&amp;quot;
+ </description>
+    </item>
+    
+    <item>
+      <title>Simpsian</title>
+      <link>http://partiallyattended.com/2008/07/14/simpsian/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/simpsian/</guid>
+      <description>Yesterday one of the guy&#39;s at the office interviewed the producer of TheSimpsons. As a result he had to do quite a lot of research yesterday onSimsonalia, and decided to use the make your own simpson avatar tool on theSimpsons movie page to make all of us our own simpson character, this iswhat I would look like if I were a simpson.
+Tags: simpsons, avatar 
+  IansSimpson.</description>
+    </item>
+    
+    <item>
       <title>sometimes, just sometimes a piece of news makes me smile</title>
       <link>http://partiallyattended.com/2008/07/14/sometimes-just-sometimes-a-piece-of-news-makes-me-smile/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -4198,6 +4114,62 @@ http://www.guardian.co.uk/farright/story/0,,2211167,00.html?gusrc=rss&amp;amp;fe
     </item>
     
     <item>
+      <title>The fruitcakes have a talking form</title>
+      <link>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</guid>
+      <description>  A new creationisim journal ARJ.GRRRRRRRR
+ </description>
+    </item>
+    
+    <item>
+      <title>The Laboratory Website and Video Awards</title>
+      <link>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</guid>
+      <description>  Attila Csordas sent along links about these awards, looks nice,
+http://www.the-scientist.com/lawva/
+and a blog link about them:
+http://pimm.wordpress.com/2007/10/09/the-laboratory-website-and-video-awards-by-the-scientist
+
+tags: science
+ </description>
+    </item>
+    
+    <item>
+      <title>Tips for switching from Windows to Mac</title>
+      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
+      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
+-- Where is the right mouse button?
+This is the biggest obvious first difference.</description>
+    </item>
+    
+    <item>
+      <title>Today at lunch duplicators and instantiators</title>
+      <link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
+      <description>I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last time I can recall having somany interesting discussions over lunch and breaks was way back when I wasin my first undergraduate degree, but the topics of conversation that tendto come up at my current place of employment are really worth trying torecord.
+Today we started off having a couple of split conversation, Euan describingchatting to Martha at Sci-Foo and Euan and I talking about Euler, as you do.</description>
+    </item>
+    
+    <item>
+      <title>Weddings make you fat</title>
+      <link>http://partiallyattended.com/2008/07/14/weddings-make-you-fat/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/weddings-make-you-fat/</guid>
+      <description>I just got back from a wedding and bier festival thing in Munich. I&#39;ve been tracking my weight on and off for the past year and a half with the ultimate goal of getting back to my climbing fit weight of about 80kgs. From the graph below you can see the spike that was caused by the extertions at the wedding!
+(OK, in the vox rendering you can&#39;t really see the spike on the right hand side of the graph, but if you are bothered then click through and you&#39;ll see the original graph.</description>
+    </item>
+    
+    <item>
       <title>weekend grill</title>
       <link>http://partiallyattended.com/2008/07/14/weekend-grill/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -4205,6 +4177,16 @@ http://www.guardian.co.uk/farright/story/0,,2211167,00.html?gusrc=rss&amp;amp;fe
       <guid>http://partiallyattended.com/2008/07/14/weekend-grill/</guid>
       <description>  I visited my girlfriend in Germany this weekend, and her father wascelebrating his 60th birthday. A friend of his arranged a full wild boarfrom the German forests. The spit it and slow cooked it for 7 hours, ittasted amazing. I can quite see why Asterix and friends got so excited aboutthis.
   13102007410.jpg     13102007409.jpg    </description>
+    </item>
+    
+    <item>
+      <title>Why do all of the science fiction authors have all of the really good ideas already?</title>
+      <link>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</guid>
+      <description>My friend Gavin has been increasingly interested in the singularity, wherebythe quiddity of humanness is uploaded into a computer, to reside there. Ithink the definition of the singularity has something to do reaching themoment where the boundary between a human individual entity and thetechnology that surrounds them becomes transparent, or disappearsaltogether.
+It struck me this weekend that if you can upload an intelligence , a person,a being, a soul, into a peice of technology, then you would probably beliving at a moment when technology was advanced enough to be able to build abody from the amino acid&#39;s up.</description>
     </item>
     
     <item>

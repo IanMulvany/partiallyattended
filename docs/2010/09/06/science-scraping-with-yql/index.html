@@ -32,42 +32,31 @@
 
 <div>
           <p>Last Saturday at Science Online London I gave a quick tutorial on <a href="http://developer.yahoo.com/yql/">YQL</a>, and how it might be used to mash up scientific data sets.  Below I list some of the sample queries that I was playing with.  Before you get started with the <a href="http://developer.yahoo.com/yql/console/">console</a> have a look through the documentation.  I got a lot of milage out of the part about <a href="http://developer.yahoo.com/yql/guide/filters.html">filters</a> and <a href="http://developer.yahoo.com/yql/guide/joins.html">joins</a>.  The blog post by Paul Hogan on <a href="http://www.paulhagon.com/blog/2009/12/09/yql-mashups-for-libraries/">using YQL for library maships</a> was also very helpful.</p>
-
 <p>In my presentation I was originally looking at extracing data from a <a href="http://sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi?date=2010-07-13&amp;pest=soybean_rust&amp;host=All%20Legumes/Kudzu">report on soy bean rust spread</a>.</p>
-
 <p>Here are a few sample queries to get you started</p>
-
 <p>1:
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">select</span> <span style="color:#f92672">*</span> <span style="color:#66d9ef">from</span> html <span style="color:#66d9ef">where</span> 
 url<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;http://sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi?date=2010-07-13&amp;pest=soybean_rust&amp;host=All%20Legumes/Kudzu&#34;</span></code></pre></div>
-This query just pulls all of the HML from the page. <a href="http://developer.yahoo.com/yql/console/#h=select%20*%20from%20html%20where%20url%3D%22http%3A//sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi%3Fdate%3D2010-07-13%26pest%3Dsoybean_rust%26host%3DAll%2520Legumes/Kudzu%22%0">Open in console</a>.</p>
-
-<hr />
-
+This query just pulls all of the HML from the page. <a href="http://developer.yahoo.com/yql/console/#h=select%20*%20from%20html%20where%20url%3D%22http%3A//sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi%3Fdate%3D2010-07-13%26pest%3Dsoybean_rust%26host%3DAll%2520Legumes/Kudzu%22%250">Open in console</a>.</p>
+<hr>
 <p>2:
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">select</span> <span style="color:#f92672">*</span> <span style="color:#66d9ef">from</span> html <span style="color:#66d9ef">where</span> 
 url<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;http://sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi?date=2010-07-13&amp;pest=soybean_rust&amp;host=All%20Legumes/Kudzu&#34;</span> 
 <span style="color:#66d9ef">and</span> xpath<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;//table&#39;</span></code></pre></div>
 This query extracts only the table element from the page. <a href="http://developer.yahoo.com/yql/console/#h=select%20*%20from%20html%20where%0Aurl%3D%22http%3A//sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi%3Fdate%3D2010-07-13%26pest%3Dsoybean_rust%26host%3DAll%2520Legumes/Kudzu%22%0Aand%20xpath%3D%27//table%27%0A">Open in console</a>.</p>
-
-<hr />
-
+<hr>
 <p>3:
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">select</span> <span style="color:#f92672">*</span> <span style="color:#66d9ef">from</span> html <span style="color:#66d9ef">where</span> 
 url<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;http://sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi?date=2010-07-13&amp;pest=soybean_rust&amp;host=All%20Legumes/Kudzu&#34;</span> 
 <span style="color:#66d9ef">and</span> xpath<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;//table/tr/td[2]&#39;</span></code></pre></div>
 This query pulls the second item from each row of the table. <a href="http://developer.yahoo.com/yql/console/#h=select%20*%20from%20html%20where%0Aurl%3D%22http%3A//sbr.ipmpipe.org/cgi-bin/sbr/county_info.cgi%3Fdate%3D2010-07-13%26pest%3Dsoybean_rust%26host%3DAll%2520Legumes/Kudzu%22%20and%20xpath%3D%27//table/tr/td%5B2%5D%27">Open in console</a>.</p>
-
-<hr />
-
+<hr>
 <p>4:
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">select</span> <span style="color:#f92672">*</span> <span style="color:#66d9ef">from</span> html <span style="color:#66d9ef">where</span> 
 url<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;http://www.mulvany.net/files/ipmsemanticpipe.html&#34;</span> 
 <span style="color:#66d9ef">and</span> xpath<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;//table/tr/td[@id=&#34;status&#34; and p=&#34;Confirmed&#34;]/..&#39;</span></code></pre></div>
 For this query I copied the table onto my own server and added some basic proto-semantic markup to the column descriptors.  I could then call out specific columns from the table. <a href="http://developer.yahoo.com/yql/console/#h=select%20*%20from%20html%20where%0Aurl%3D%22http%3A//www.mulvany.net/files/ipmsemanticpipe.html%22%0Aand%20xpath%3D%27//table/tr/td%5B@id%3D%22status%22%20and%20p%3D%22Confirmed%22%5D/..%27">Open in console</a>.</p>
-
-<hr />
-
+<hr>
 <p>5:
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">select</span> <span style="color:#f92672">*</span> <span style="color:#66d9ef">from</span> csv <span style="color:#66d9ef">WHERE</span> 
 url<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;http://www.mulvany.net/files/ipmpipe.csv&#34;</span> 

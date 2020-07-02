@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scienceontheweb on Partially Attended</title>
+    <title>scienceontheweb on Partially Attended</title>
     <link>http://partiallyattended.com/categories/scienceontheweb/</link>
-    <description>Recent content in Scienceontheweb on Partially Attended</description>
+    <description>Recent content in scienceontheweb on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</guid>
-      <description>A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipeline of info about grants.
-https://www.instrumentl.com/</description>
+      <description>A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipeline of info about grants.</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@ https://www.instrumentl.com/</description>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</guid>
-      <description>It&amp;rsquo;s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like the researchers are actively making their results available (https://opennotebook.thesgc.org).
-http://hbgdki.org/ongoing-experiment-extreme-open-science-announced-structural-genomics-consortium/</description>
+      <description>It&amp;rsquo;s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like the researchers are actively making their results available (https://opennotebook.thesgc.org).</description>
     </item>
     
     <item>
@@ -37,8 +35,7 @@ http://hbgdki.org/ongoing-experiment-extreme-open-science-announced-structural-g
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
-      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.
-https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
+      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.</description>
     </item>
     
     <item>
@@ -66,8 +63,7 @@ Also, this is not blockchain based, and yet manages to be decentralised. Those o
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
-      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.
-https://openknowledgemaps.org/viper/</description>
+      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.</description>
     </item>
     
     <item>
@@ -85,8 +81,7 @@ https://openknowledgemaps.org/viper/</description>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
-      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
-https://www.sciencedirect.com/science/article/pii/S1053811917302707</description>
+      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.</description>
     </item>
     
   </channel>

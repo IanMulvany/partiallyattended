@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on Partially Attended</title>
+    <title>test on Partially Attended</title>
     <link>http://partiallyattended.com/categories/test/</link>
-    <description>Recent content in Test on Partially Attended</description>
+    <description>Recent content in test on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</guid>
-      <description> testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34; testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \] </description>
+      <description>testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34; testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \] </description>
     </item>
     
     <item>

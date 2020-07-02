@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Containers on Partially Attended</title>
+    <title>containers on Partially Attended</title>
     <link>http://partiallyattended.com/categories/containers/</link>
-    <description>Recent content in Containers on Partially Attended</description>
+    <description>Recent content in containers on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
@@ -26,9 +26,7 @@
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/09/14/software_publishing_to_maximise_data_value_slides_from_alpsp/</guid>
-      <description>Here are some annotated slides from my ALPSP talk today.
-
- </description>
+      <description>Here are some annotated slides from my ALPSP talk today.</description>
     </item>
     
   </channel>

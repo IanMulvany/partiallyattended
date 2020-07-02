@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Science on Partially Attended</title>
+    <title>science on Partially Attended</title>
     <link>http://partiallyattended.com/categories/science/</link>
-    <description>Recent content in Science on Partially Attended</description>
+    <description>Recent content in science on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
@@ -29,8 +29,7 @@ That said, a lot, really, a lot of very smart people are talking about this, and
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</guid>
-      <description>A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipeline of info about grants.
-https://www.instrumentl.com/</description>
+      <description>A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipeline of info about grants.</description>
     </item>
     
     <item>
@@ -110,7 +109,7 @@ General comments There was not much disagreement throughout the day. There were 
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
-      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
+      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation. I added one slide at the end with a personal view on some of the challenges of getting researchers to share data.</description>
     </item>
     
     <item>
@@ -143,6 +142,15 @@ Megajournals are so called because they are structured to be able to publish man
     </item>
     
     <item>
+      <title>Science Online London Keynote, Michael Nielson on Open Sciecne</title>
+      <link>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</link>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</guid>
+      <description>Michael Nielson Keynote on Open Science He rightly points out that he is probably going to be talking to the converted, so his talk is aimed at looking for resources that can help us to find answers about how to make open science works. He starts talking about an example of failure in open science. his example is an open notebook science from Tobias J Osbourne. He built up a readership of about 100 readers on a highly technical field, but he was not getting much participation, and very little feedback.</description>
+    </item>
+    
+    <item>
       <title>SOLO11, day1, morning sessions.</title>
       <link>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</link>
       <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
@@ -150,15 +158,6 @@ Megajournals are so called because they are structured to be able to publish man
       <guid>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</guid>
       <description>Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points that arose during the discussion:
  discussions with the public needs to happen where the public is being half assed about engaging the public discourse around papers, and then hiding behind peer review when you run into criticism is really bad, as for example what happened with the arsenic story nasa and science the public needs to be educated that peer review is not binary peer review comments should be made public (not everyone agrees) where we have representations of papers we should look to link to conversations about those papers (trackbacks and so forth)  There is a very interesting comment in the Q&amp;amp;A from [Martin Fenner][mf] about peer review in clinical medicine.</description>
-    </item>
-    
-    <item>
-      <title>Science Online London Keynote, Michael Nielson on Open Sciecne</title>
-      <link>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</link>
-      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</guid>
-      <description>Michael Nielson Keynote on Open Science He rightly points out that he is probably going to be talking to the converted, so his talk is aimed at looking for resources that can help us to find answers about how to make open science works. He starts talking about an example of failure in open science. his example is an open notebook science from Tobias J Osbourne. He built up a readership of about 100 readers on a highly technical field, but he was not getting much participation, and very little feedback.</description>
     </item>
     
     <item>
@@ -186,8 +185,7 @@ The people on the panel are D. Amy Sanders from the Welcome Trust, Rob Simpson, 
       <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/09/13/slides-from-aps-talk/</guid>
-      <description>Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to talk to some really interesting scientists. My talk slides are below.
-Unveiling the web, making the implicit explicit.View more documents from Ian Mulvany. </description>
+      <description>Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to talk to some really interesting scientists. My talk slides are below.</description>
     </item>
     
     <item>
@@ -240,12 +238,34 @@ also can use systematics parsing.</description>
     </item>
     
     <item>
+      <title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
+      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
+      <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
+we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
+Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding</description>
+    </item>
+    
+    <item>
       <title>Open Reviewing</title>
       <link>http://partiallyattended.com/2008/07/14/open-reviewing/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/open-reviewing/</guid>
       <description>Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a description here about theconsortium and a list ofparticipating journals. I have no doubt that this is the future of peerreview. At the moment the peer review system is horribly inefficient forpapers that get rejected. Rejection from a journal can occur because a paperis crap, but often it happens for many other reasons, because the journalhas already met it&#39;s pagequota, the journal is publishing a set of special issues on another topic,the editors of the journal are interested in shifting the focus of thejournal, the topic of the paper is slightly away from the main interests ofthe editorial board, the paper is good, but just gets edged out by a set ofbetter papers that come in.</description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>http://partiallyattended.com/2008/07/14/open-science/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/open-science/</guid>
+      <description>I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
+What is open science and what is the system? Well I am sure that there aremany viewpoints on this, so I am going to just put forward one here.
+At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipation in science. The credit is converted to grant money, thedollars keep the food on the plate.</description>
     </item>
     
     <item>
@@ -281,28 +301,6 @@ Today we started off having a couple of split conversation, Euan describingchatt
       <guid>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</guid>
       <description>My friend Gavin has been increasingly interested in the singularity, wherebythe quiddity of humanness is uploaded into a computer, to reside there. Ithink the definition of the singularity has something to do reaching themoment where the boundary between a human individual entity and thetechnology that surrounds them becomes transparent, or disappearsaltogether.
 It struck me this weekend that if you can upload an intelligence , a person,a being, a soul, into a peice of technology, then you would probably beliving at a moment when technology was advanced enough to be able to build abody from the amino acid&#39;s up.</description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
-      <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
-we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
-Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding</description>
-    </item>
-    
-    <item>
-      <title>open science</title>
-      <link>http://partiallyattended.com/2008/07/14/open-science/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/open-science/</guid>
-      <description>I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
-What is open science and what is the system? Well I am sure that there aremany viewpoints on this, so I am going to just put forward one here.
-At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipation in science. The credit is converted to grant money, thedollars keep the food on the plate.</description>
     </item>
     
   </channel>

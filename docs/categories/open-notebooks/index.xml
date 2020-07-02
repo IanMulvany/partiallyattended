@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Notebooks on Partially Attended</title>
+    <title>open-notebooks on Partially Attended</title>
     <link>http://partiallyattended.com/categories/open-notebooks/</link>
-    <description>Recent content in Open Notebooks on Partially Attended</description>
+    <description>Recent content in open-notebooks on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</guid>
-      <description>It&amp;rsquo;s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like the researchers are actively making their results available (https://opennotebook.thesgc.org).
-http://hbgdki.org/ongoing-experiment-extreme-open-science-announced-structural-genomics-consortium/</description>
+      <description>It&amp;rsquo;s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like the researchers are actively making their results available (https://opennotebook.thesgc.org).</description>
     </item>
     
   </channel>

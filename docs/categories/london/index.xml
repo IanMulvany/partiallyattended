@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>London on Partially Attended</title>
+    <title>london on Partially Attended</title>
     <link>http://partiallyattended.com/categories/london/</link>
-    <description>Recent content in London on Partially Attended</description>
+    <description>Recent content in london on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Apr 2015 00:00:00 +0000</lastBuildDate>
@@ -30,11 +30,7 @@ AWS has grown enormously, they are estimated to have five times the compute powe
       
       <guid>http://partiallyattended.com/2014/07/29/wikimania-openscholarship-preview/</guid>
       <description>Inspired somewhat by the aweome http://sciencetoolbox.org, along with Martin Fenner, we proposed a session for the upcoming Wikimania conference. We will be talking about Open Scholarship Tools on Sunday the 10th of August at 9:30 am. In our outline for our talk we have decided to possibly think about:
- CrossRef API (and possibly also the DataCite and ORCID APIs) Pandoc
- Rstudio
- Zotero
- iPython Notebook
- Plotly</description>
+ CrossRef API (and possibly also the DataCite and ORCID APIs) Pandoc Rstudio Zotero iPython Notebook Plotly Datawrapper  What do you think we should try to cover in our 30 minute slot?</description>
     </item>
     
     <item>
@@ -45,7 +41,8 @@ AWS has grown enormously, they are estimated to have five times the compute powe
       <guid>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
       <description>Yesterday was awesome, let&amp;rsquo;s see how today goes. I was watching from afar, as my wife attended, and now I&amp;rsquo;m here for the afternoon sessions.
 sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?  now on to the sessions!
-[Incentivising Open Access][ioa]. (top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.</description>
+[Incentivising Open Access][ioa].(top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.
+What do researchers get credit for?</description>
     </item>
     
     <item>
@@ -56,7 +53,7 @@ sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?
       <guid>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
       <description>I&amp;rsquo;ll keep a partial, live-idsh blog going during the day. I&amp;rsquo;ve been going to these things, I think, since about 2008. I really like these meetings. I&amp;rsquo;m going to probably keep these notes pretty lightweight.
 sessions:  Ben Goldacre Kamila  Session on whether science journalism will be replaced Altmetric track  now on to the sessions!
-Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
+Ben Goldacre - opening keynote, on data. .(top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
     </item>
     
     <item>
@@ -74,8 +71,7 @@ Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues
       <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/12/20/drinks-with-chris-wiggins/</guid>
-      <description>CANCELLED Due to flight cancellations out of NY, Chris won&amp;rsquo;t be making it over to this side of the pond, so sadly we will be calling the event off.
-London is a great city to live in if you are interested in technology. It has to be one of the best cities in the world for people working on the interface between science, tech and te web. Tonight I&amp;rsquo;ll be going to the awesome Same As Christmass Quiz, and tomorrow night Chris Wiggins will be passing through from New York, and there will be a chance to meet up with him for a pint and a chat.</description>
+      <description>Due to flight cancellations out of NY, Chris won&amp;rsquo;t be making it over to this side of the pond, so sadly we will be calling the event off.London is a great city to live in if you are interested in technology. It has to be one of the best cities in the world for people working on the interface between science, tech and te web. Tonight I&amp;rsquo;ll be going to the awesome Same As Christmass Quiz, and tomorrow night Chris Wiggins will be passing through from New York, and there will be a chance to meet up with him for a pint and a chat.</description>
     </item>
     
     <item>

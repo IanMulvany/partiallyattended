@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Partially Attended</title>
+    <title>blog on Partially Attended</title>
     <link>http://partiallyattended.com/categories/blog/</link>
-    <description>Recent content in Blog on Partially Attended</description>
+    <description>Recent content in blog on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
@@ -28,8 +28,7 @@ The idea is super simple and is an alternative to open brain storming or post-it
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/how_to_visualize_an_xml_sitemap_using_python_-_ayima/</guid>
-      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.
-https://www.ayima.com/blog/how-to-visualize-an-xml-sitemap-using-python.html</description>
+      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.</description>
     </item>
     
     <item>
@@ -49,6 +48,16 @@ The main advantage of this approach is that the pseudo code is written in the bl
       
       <guid>http://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</guid>
       <description>Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal domain to google app engine with email being managed by google apps for my domain. http://www.mulvany.net is now a google app engine site. At the moment there is not much content there, but the google app engine tool allows me to run a perfect cop of my site off line, and to edit locally and then push live.</description>
+    </item>
+    
+    <item>
+      <title>and while we are at it here are the references from that article</title>
+      <link>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
+      <description>References
+ - &amp;quot;Python Objects&amp;quot;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &amp;quot;How to think like a Pythonista&amp;quot;, Mark Hammond, http://python.net/crew/mwh/hacks/objectthink.html - &amp;quot;Python main() functions&amp;quot;, Guido van Rossum, http://www.artima.com/weblogs/viewpost.jsp?thread=4829 - &amp;quot;Python Idioms and Efficiency&amp;quot;, http://jaynes.colorado.edu/PythonIdioms.html - &amp;quot;Python track: python idioms&amp;quot;, http://www.cs.caltech.edu/courses/cs11/material/python/misc/python_idioms.html - &amp;quot;Be Pythonic&amp;quot;, Shalabh Chaturvedi, http://shalabh.infogami.com/Be_Pythonic2 - &amp;quot;Python Is Not Java&amp;quot;, Phillip J. Eby, http://dirtsimple.org/2004/12/python-is-not-java.html - &amp;quot;What is Pythonic?&amp;quot;, Martijn Faassen, http://faassen.n--tree.net/blog/view/weblog/2005/08/06/0 - &amp;quot;Sorting Mini-HOWTO&amp;quot;, Andrew Dalke, http://wiki.python.org/moin/HowTo/Sorting - &amp;quot;Python Idioms&amp;quot;, http://www.</description>
     </item>
     
     <item>
@@ -88,52 +97,6 @@ personal information disastertravel airlines don&#39;t talk to railroads
 what problem does blogging solve?Twitter for christ&#39;s sake?
 no one knows what they do until they are popular
 e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doesn&#39;t have a clear defined purpose</description>
-    </item>
-    
-    <item>
-      <title>Open Reviewing</title>
-      <link>http://partiallyattended.com/2008/07/14/open-reviewing/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/open-reviewing/</guid>
-      <description>Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a description here about theconsortium and a list ofparticipating journals. I have no doubt that this is the future of peerreview. At the moment the peer review system is horribly inefficient forpapers that get rejected. Rejection from a journal can occur because a paperis crap, but often it happens for many other reasons, because the journalhas already met it&#39;s pagequota, the journal is publishing a set of special issues on another topic,the editors of the journal are interested in shifting the focus of thejournal, the topic of the paper is slightly away from the main interests ofthe editorial board, the paper is good, but just gets edged out by a set ofbetter papers that come in.</description>
-    </item>
-    
-    <item>
-      <title>Patents and Peer Review, kissing cousins?</title>
-      <link>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</guid>
-      <description>Below follows a long comment that I posted to an article on O&#39;Reilly Radar about patents.
-The original blog post is here
-There is an interesting compliment to the patent system in the domain of assigning credit to ideas, which is the academic peer-review system.
-The inventor of the idea in the case of academia is the author. The equivalent to the patent office is the editorial board of the academic journal that the author submits to.</description>
-    </item>
-    
-    <item>
-      <title>The Laboratory Website and Video Awards</title>
-      <link>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</guid>
-      <description>  Attila Csordas sent along links about these awards, looks nice,
-http://www.the-scientist.com/lawva/
-and a blog link about them:
-http://pimm.wordpress.com/2007/10/09/the-laboratory-website-and-video-awards-by-the-scientist
-
-tags: science
- </description>
-    </item>
-    
-    <item>
-      <title>and while we are at it here are the references from that article</title>
-      <link>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
-      <description>References
- - &amp;quot;Python Objects&amp;quot;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &amp;quot;How to think like a Pythonista&amp;quot;, Mark Hammond, http://python.net/crew/mwh/hacks/objectthink.html - &amp;quot;Python main() functions&amp;quot;, Guido van Rossum, http://www.artima.com/weblogs/viewpost.jsp?thread=4829 - &amp;quot;Python Idioms and Efficiency&amp;quot;, http://jaynes.colorado.edu/PythonIdioms.html - &amp;quot;Python track: python idioms&amp;quot;, http://www.cs.caltech.edu/courses/cs11/material/python/misc/python_idioms.html - &amp;quot;Be Pythonic&amp;quot;, Shalabh Chaturvedi, http://shalabh.infogami.com/Be_Pythonic2 - &amp;quot;Python Is Not Java&amp;quot;, Phillip J. Eby, http://dirtsimple.org/2004/12/python-is-not-java.html - &amp;quot;What is Pythonic?&amp;quot;, Martijn Faassen, http://faassen.n--tree.net/blog/view/weblog/2005/08/06/0 - &amp;quot;Sorting Mini-HOWTO&amp;quot;, Andrew Dalke, http://wiki.python.org/moin/HowTo/Sorting - &amp;quot;Python Idioms&amp;quot;, http://www.</description>
     </item>
     
     <item>
@@ -205,6 +168,15 @@ Matt believes that we can get the benifits of semantic now, but withoutin any ca
     </item>
     
     <item>
+      <title>Open Reviewing</title>
+      <link>http://partiallyattended.com/2008/07/14/open-reviewing/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/open-reviewing/</guid>
+      <description>Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a description here about theconsortium and a list ofparticipating journals. I have no doubt that this is the future of peerreview. At the moment the peer review system is horribly inefficient forpapers that get rejected. Rejection from a journal can occur because a paperis crap, but often it happens for many other reasons, because the journalhas already met it&#39;s pagequota, the journal is publishing a set of special issues on another topic,the editors of the journal are interested in shifting the focus of thejournal, the topic of the paper is slightly away from the main interests ofthe editorial board, the paper is good, but just gets edged out by a set ofbetter papers that come in.</description>
+    </item>
+    
+    <item>
       <title>open science</title>
       <link>http://partiallyattended.com/2008/07/14/open-science/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -216,12 +188,39 @@ At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipa
     </item>
     
     <item>
+      <title>Patents and Peer Review, kissing cousins?</title>
+      <link>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</guid>
+      <description>Below follows a long comment that I posted to an article on O&#39;Reilly Radar about patents.
+The original blog post is here
+There is an interesting compliment to the patent system in the domain of assigning credit to ideas, which is the academic peer-review system.
+The inventor of the idea in the case of academia is the author. The equivalent to the patent office is the editorial board of the academic journal that the author submits to.</description>
+    </item>
+    
+    <item>
       <title>spreading of meme&#39;s behavior driven transmission of an idea</title>
       <link>http://partiallyattended.com/2008/07/14/spreading-of-memes-behavior-driven-transmission-of-an-idea/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2008/07/14/spreading-of-memes-behavior-driven-transmission-of-an-idea/</guid>
       <description>  Thistech blog article is a charming description of how human behaviour seemsto have spread the name of a particular wireless node across america. Ithink it is a lovely example of the spread of an idea driven by simpleself-interest.
+ </description>
+    </item>
+    
+    <item>
+      <title>The Laboratory Website and Video Awards</title>
+      <link>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</guid>
+      <description>  Attila Csordas sent along links about these awards, looks nice,
+http://www.the-scientist.com/lawva/
+and a blog link about them:
+http://pimm.wordpress.com/2007/10/09/the-laboratory-website-and-video-awards-by-the-scientist
+
+tags: science
  </description>
     </item>
     

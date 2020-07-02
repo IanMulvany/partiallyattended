@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webscience on Partially Attended</title>
+    <title>webscience on Partially Attended</title>
     <link>http://partiallyattended.com/categories/webscience/</link>
-    <description>Recent content in Webscience on Partially Attended</description>
+    <description>Recent content in webscience on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/unsupervised_extraction_of_epidemic_syndromes_from_participatory_influenza_surveillance_self-reported_symptoms__biorxiv/</guid>
-      <description>This is a great example of &amp;ldquo;web science for good&amp;rdquo;. The researchers looked at online signals to predict the spread of flu. This is a preprint, I hope the code for this kind of work makes it out. How might we then best link this preprint to that code?
-https://www.biorxiv.org/content/early/2018/05/04/314591</description>
+      <description>This is a great example of &amp;ldquo;web science for good&amp;rdquo;. The researchers looked at online signals to predict the spread of flu. This is a preprint, I hope the code for this kind of work makes it out. How might we then best link this preprint to that code?</description>
     </item>
     
   </channel>

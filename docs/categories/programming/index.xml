@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programming on Partially Attended</title>
+    <title>programming on Partially Attended</title>
     <link>http://partiallyattended.com/categories/programming/</link>
-    <description>Recent content in Programming on Partially Attended</description>
+    <description>Recent content in programming on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</guid>
-      <description>A great example of using a &amp;ldquo;flight plan checklist&amp;rdquo; to reduce risk in software development.
-https://blog.gojekengineering.com/limiting-software-infant-mortality-rate-decoding-gojek-deployment-checklist-1c6cc3e28df</description>
+      <description>A great example of using a &amp;ldquo;flight plan checklist&amp;rdquo; to reduce risk in software development.</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@ https://blog.gojekengineering.com/limiting-software-infant-mortality-rate-decodi
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/how_to_visualize_an_xml_sitemap_using_python_-_ayima/</guid>
-      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.
-https://www.ayima.com/blog/how-to-visualize-an-xml-sitemap-using-python.html</description>
+      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.</description>
     </item>
     
     <item>

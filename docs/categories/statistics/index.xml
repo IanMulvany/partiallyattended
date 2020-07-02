@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statistics on Partially Attended</title>
+    <title>statistics on Partially Attended</title>
     <link>http://partiallyattended.com/categories/statistics/</link>
-    <description>Recent content in Statistics on Partially Attended</description>
+    <description>Recent content in statistics on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -28,9 +28,7 @@
       <guid>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</guid>
       <description>Tonight I attend a debate held at the Royal Statistics Society. It was en entertaining, and wide ranging discussion with a great panel, and fairly intelligent questions from the floor.
 Two fun facts:
- One of the founding members of the society was Charles Babbage
- The society is located within spitting distance of the grave of William Thomas Bayes
-  So, here are the notes, rough and ready, and I missed a lot in my note taking, but I hope I get a flavour of the discussion across.</description>
+ One of the founding members of the society was Charles Babbage The society is located within spitting distance of the grave of William Thomas Bayes  So, here are the notes, rough and ready, and I missed a lot in my note taking, but I hope I get a flavour of the discussion across.</description>
     </item>
     
   </channel>

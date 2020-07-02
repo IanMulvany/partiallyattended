@@ -1,15 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data on Partially Attended</title>
+    <title>data on Partially Attended</title>
     <link>http://partiallyattended.com/categories/data/</link>
-    <description>Recent content in Data on Partially Attended</description>
+    <description>Recent content in data on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Datasette to publish data</title>
+      <link>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</guid>
+      <description>In my department we have started to make a bit of space to allow fr self learning to happen. I took the time to look at datasette, an ecosystem of tools that support data publishing. These tools are from Simon Wilison, and they are fantastic.
+I&amp;rsquo;d been meaning to look at the them for some time now. I used a jupyter notebook to work my way around getting some data together, and working with the tool.</description>
+    </item>
     
     <item>
       <title>STM Research data workshop.</title>
@@ -66,8 +76,7 @@ Also, this is not blockchain based, and yet manages to be decentralised. Those o
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</guid>
-      <description>a nice description of IIF from the guardian.
-https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digitising-culture-make-manuscripts-more-illuminating</description>
+      <description>a nice description of IIF from the guardian.</description>
     </item>
     
     <item>
@@ -85,9 +94,7 @@ https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digit
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/09/14/software_publishing_to_maximise_data_value_slides_from_alpsp/</guid>
-      <description>Here are some annotated slides from my ALPSP talk today.
-
- </description>
+      <description>Here are some annotated slides from my ALPSP talk today.</description>
     </item>
     
     <item>
@@ -105,7 +112,7 @@ https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digit
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</guid>
-      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene. Sabrina Leonelli - the epistemology of data-intesive science. Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed. Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting. Afternoon breakout session - Life Sciences.</description>
+      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene.  Sabrina Leonelli - the epistemology of data-intesive science. [Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed.](#dr-hans-pfeiffenberger-open-science-opportunities-challenges-datasciencefeedhttpstwittercomdatasciencefeed) Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting.   Afternoon breakout session - Life Sciences.</description>
     </item>
     
     <item>
@@ -114,7 +121,7 @@ https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digit
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</guid>
-      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  Paul Ayris - Implementing the Future: the LERU roadmap for research data. Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
+      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  [Paul Ayris - Implementing the Future: the LERU roadmap for research data.](#paul-ayris-implementing-the-future-the-leruhttpleruorg-roadmap-for-research-data) Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
     </item>
     
     <item>
@@ -125,7 +132,7 @@ https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-digit
       <guid>http://partiallyattended.com/2013/12/04/stm-innovations-2013/</guid>
       <description>Today I&amp;rsquo;m at the STM innovations seminar. The twitter tag for today is #ukinno. The program is online.
 I&amp;rsquo;m going to take a light approach to blogging today, I&amp;rsquo;ll probably hang out mostly on Twitter.
-## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University &amp;gt; Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
+## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University  Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
     </item>
     
     <item>
@@ -185,8 +192,7 @@ They focus on metrics that measure user centric aspects of the online experience
       <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2010/12/20/drinks-with-chris-wiggins/</guid>
-      <description>CANCELLED Due to flight cancellations out of NY, Chris won&amp;rsquo;t be making it over to this side of the pond, so sadly we will be calling the event off.
-London is a great city to live in if you are interested in technology. It has to be one of the best cities in the world for people working on the interface between science, tech and te web. Tonight I&amp;rsquo;ll be going to the awesome Same As Christmass Quiz, and tomorrow night Chris Wiggins will be passing through from New York, and there will be a chance to meet up with him for a pint and a chat.</description>
+      <description>Due to flight cancellations out of NY, Chris won&amp;rsquo;t be making it over to this side of the pond, so sadly we will be calling the event off.London is a great city to live in if you are interested in technology. It has to be one of the best cities in the world for people working on the interface between science, tech and te web. Tonight I&amp;rsquo;ll be going to the awesome Same As Christmass Quiz, and tomorrow night Chris Wiggins will be passing through from New York, and there will be a chance to meet up with him for a pint and a chat.</description>
     </item>
     
   </channel>

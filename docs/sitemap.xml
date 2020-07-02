@@ -1,10 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://partiallyattended.com/categories/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/crossref/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/data/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/data-publishing/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/datasette/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/jupyter/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/notebook/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/post/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/bmj/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/career/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/sage/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/access/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/getftr/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/libraries/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/publishing/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/saml/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +103,42 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</loc>
+    <loc>http://partiallyattended.com/categories/wtfgetftwt/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/ai/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/climate/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/crisis/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/das/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/data-citation/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/impact/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/research/</loc>
     <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,8 +148,28 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/stm/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/discovery/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/google/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,8 +178,43 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/repositories/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/credit/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/graph/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/orcid/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/pid/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/startups/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/kudos/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,13 +223,78 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/rave/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/11/11/rave_tech_conference_2019_/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/techmology/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/force2019/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/open-access/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/publishing#/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/subscriptions/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/unpaywall/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/11/06/unpaywall_journals_-_possibly_the_most_interesting_thing_to_happen_this_year_in_library_subscription_land._/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/analysis/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/assessment/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/data-science/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/metrics/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/organisations/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/outcomes/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,12 +308,37 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/strategy/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</loc>
     <lastmod>2019-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/book/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/09/10/book_review_-_tiamats_wrath_-_book_nine_of_the_expanse_series._/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/book-review/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/books/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/scifi/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +353,52 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/bcm/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/cognitive-load/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/engineering/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/microservices/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/product-development/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/publihsing/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/stem/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/technology/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/toil/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,8 +408,28 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/roi/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/rules/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/test/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2019/08/01/test_blog_post/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/agile/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,8 +438,38 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/software/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/architecture/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/diagramming/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</loc>
     <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/systems/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/peer-review/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/retractions/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,8 +478,28 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/blockchain/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/drafttoblog/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/innovations/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</loc>
     <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/belmont/</loc>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,8 +508,38 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/funders/</loc>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/open-science/</loc>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/groupwork/</loc>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/techniques/</loc>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/blog/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/draft/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,8 +553,43 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/blockchain#/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/elife/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hype-machine/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/interesting/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/scholarly-publishing/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/science/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/07/04/testing_a_new_form_of_peer_review_-_again_/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/chasm/</loc>
+    <lastmod>2018-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -148,12 +598,47 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/academia/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/alexa/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/business/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/cool/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/design-thinking/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/future-of-publishing/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/javascript/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,7 +653,27 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/jobs-to-be-done/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/learning/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/29/narrative_science__natural_language_generation_technology/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/nhs/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/qa/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,7 +683,37 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/scienceontheweb/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/scpd/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/siri/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/techdigest/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/testing/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/voice/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,12 +733,57 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/articles/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/aws/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/citation/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/devops/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/lean/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/library/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/machine-learning/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/models/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/node/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,7 +798,32 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/open-notebooks/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/openscience/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/pokayoka/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/preprints/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/21/preprints_growth_rate_ten_times_higher_than_journal_articles_-_crossref/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/programming/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,12 +833,42 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/research-software-engineer/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/21/scholia/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/serverless/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/todi/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/21/unsupervised_extraction_of_epidemic_syndromes_from_participatory_influenza_surveillance_self-reported_symptoms__biorxiv/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/webscience/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/wikidata/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/wikipedia/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,7 +893,47 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/cdl/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/computing/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/dat/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/developers/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/ecosystems/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/funding/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/gender/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/github/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -268,7 +943,62 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/ipython/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/lvt/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/maps/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/microsoft/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/not-blockchain/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/open-source/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/platforms/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/product-management/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/python/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/social-science/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/statistics/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,7 +1018,22 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/visualisation/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/06/about_backyard_brains/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/altmetrics/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/citizenscience/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,7 +1043,22 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/datascience/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/06/how_to_visualize_an_xml_sitemap_using_python_-_ayima/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/iiif/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/images/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,12 +1073,57 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/neuroscience/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/presentation/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/shell/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/strata/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/utilities/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/web-development/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/citizen-science/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hackathon/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/mozilla/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -333,7 +1138,37 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/amazon/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/big-data/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/docker/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/economy/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/ethics/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/force11/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -348,12 +1183,37 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/training/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/05/16/us_phone_companies_are_selling_your_real_time_location_data._/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/asilearn/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/glom/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/json/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/tips/</loc>
     <lastmod>2018-05-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -368,7 +1228,47 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/computational-socical-science/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/tools/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/04/27/ai_and_discovery_tools/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/dreams/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/fears/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/future/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hopes/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/internet/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/web/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -378,12 +1278,22 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2018/04/19/microsoft_surface_hub_-_very_first_impressions/</loc>
+    <loc>http://partiallyattended.com/categories/collaboration/</loc>
     <lastmod>2018-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</loc>
+    <loc>http://partiallyattended.com/categories/infrastructure/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/kubernetes/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2018/04/19/microsoft_surface_hub_-_very_first_impressions/</loc>
     <lastmod>2018-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -393,13 +1303,58 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/meetup/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/scholarly-comms/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/charleston/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/dystopia/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</loc>
     <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/alpsp/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/alpsp17/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/cloud/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/containers/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -413,13 +1368,53 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/blogging/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hugo/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/jekyll/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2017/09/13/moving_from_jekyll_to_hugo_-_urls/</loc>
     <lastmod>2017-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/scripting/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/computational-social-science/</loc>
+    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hiring/</loc>
+    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2017/07/20/im-hiring/</loc>
     <lastmod>2017-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/conference/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/ic2s2/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -433,12 +1428,17 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</loc>
+    <loc>http://partiallyattended.com/categories/ic12s2/</loc>
     <lastmod>2017-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</loc>
+    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</loc>
     <lastmod>2017-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -458,13 +1458,78 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/k%C3%B6ln/</loc>
+    <lastmod>2017-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/futurepub/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2017/03/16/future-pub-10/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/futurepub10/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/innovation/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/music/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/networks/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/yenow/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/lean-value-tree/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2017/03/15/three_posts_product_dev/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/citations/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/doi/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/leadership/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/management/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/plos/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -483,7 +1548,17 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/life/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2016/12/15/what-is-big-data/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/work/</loc>
     <lastmod>2016-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -498,6 +1573,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/text-analysis/</loc>
+    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2016/12/09/textometrica-quick-review/</loc>
     <lastmod>2016-12-09T00:00:00+00:00</lastmod>
   </url>
@@ -508,13 +1588,58 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/database/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/friction/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/ruby/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</loc>
     <lastmod>2016-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/brexit/</loc>
+    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/eu/</loc>
+    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/european-union/</loc>
+    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/horror/</loc>
+    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/post/2016-06-21-voting-in/</loc>
     <lastmod>2016-06-21T14:47:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/uk/</loc>
+    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/amazing-times/</loc>
+    <lastmod>2016-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -528,7 +1653,17 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/transparency/</loc>
+    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</loc>
+    <lastmod>2015-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/royal-statistics-society/</loc>
     <lastmod>2015-05-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -538,8 +1673,63 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/elife-bot/</loc>
+    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/london/</loc>
+    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/storage/</loc>
+    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/death/</loc>
+    <lastmod>2015-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/diskworld/</loc>
+    <lastmod>2015-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/heros/</loc>
+    <lastmod>2015-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2015/03/13/terry-pratchett/</loc>
     <lastmod>2015-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/sadness/</loc>
+    <lastmod>2015-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/connotea/</loc>
+    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/lessons/</loc>
+    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/mendeley/</loc>
+    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/nature/</loc>
+    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -548,8 +1738,43 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/boltzmann/</loc>
+    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/einstein/</loc>
+    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/oxford/</loc>
+    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/philosophy/</loc>
+    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/physics/</loc>
+    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/wittgenstein/</loc>
+    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2015/02/19/wittgenstein-and-physics/</loc>
     <lastmod>2015-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/climbing/</loc>
+    <lastmod>2015-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -558,8 +1783,38 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/injury/</loc>
+    <lastmod>2015-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/spain/</loc>
+    <lastmod>2015-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/lifehack/</loc>
+    <lastmod>2015-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/productivity/</loc>
+    <lastmod>2015-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/technical-debt/</loc>
+    <lastmod>2015-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2015/02/04/the-70-90-rule/</loc>
     <lastmod>2015-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/elife-lens/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -568,8 +1823,38 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/lens/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/beyond-the-pdf/</loc>
+    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/force2015/</loc>
+    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2015/01/19/force2015-thoughts/</loc>
     <lastmod>2015-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/trust/</loc>
+    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/1am/</loc>
+    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/alms/</loc>
+    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -578,7 +1863,37 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/data-management/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/erc/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2014/09/24/futurepub3/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/odi/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/open-data/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/papers/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/publication/</loc>
     <lastmod>2014-09-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -598,8 +1913,43 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/ipython-notebook/</loc>
+    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/reveal.js/</loc>
+    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/slides/</loc>
+    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2014/08/11/pitfalls-of-ipython-for-talk-slides/</loc>
     <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/talks/</loc>
+    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/wikimania2014/</loc>
+    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/command-line/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/git/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -613,6 +1963,21 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/toolbox/</loc>
+    <lastmod>2014-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/wikimania/</loc>
+    <lastmod>2014-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/camusability/</loc>
+    <lastmod>2014-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2014/05/30/designing-better-ux-deliverables/</loc>
     <lastmod>2014-05-30T00:00:00+00:00</lastmod>
   </url>
@@ -620,6 +1985,31 @@
   <url>
     <loc>http://partiallyattended.com/2014/05/30/future-pub2/</loc>
     <lastmod>2014-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/ia/</loc>
+    <lastmod>2014-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/ux/</loc>
+    <lastmod>2014-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/bicep2/</loc>
+    <lastmod>2014-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/open-peer-review/</loc>
+    <lastmod>2014-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/retraction/</loc>
+    <lastmod>2014-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -633,12 +2023,42 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/public-sector/</loc>
+    <lastmod>2014-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/behat/</loc>
+    <lastmod>2014-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/gherkin/</loc>
+    <lastmod>2014-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/php/</loc>
+    <lastmod>2014-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2014/04/08/behat-php-cambridge-meetup/</loc>
     <lastmod>2014-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/bouldering/</loc>
+    <lastmod>2014-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2014/03/30/q1-climbing-goals-update/</loc>
+    <lastmod>2014-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/goals/</loc>
     <lastmod>2014-03-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -648,12 +2068,42 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/rhetoric/</loc>
+    <lastmod>2014-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</loc>
     <lastmod>2014-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/threaded-publications/</loc>
+    <lastmod>2014-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/authoring/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/latex/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2014/01/18/climbing-review-2013-goals-2014/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/shoreditch-boulder/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/writelatex/</loc>
     <lastmod>2014-01-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -668,12 +2118,27 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/software-carpentry/</loc>
+    <lastmod>2014-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/12/04/stm-innovations-2013/</loc>
     <lastmod>2013-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/industry/</loc>
+    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</loc>
+    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/trends/</loc>
     <lastmod>2013-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -683,8 +2148,83 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/shoreditch/</loc>
+    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/chef/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/development/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/librarian/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/mac/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/mavericks/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/osx/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/rvm/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</loc>
     <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/sys-ops/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/tutorial/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/vagrant/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/lou/</loc>
+    <lastmod>2013-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/science-online/</loc>
+    <lastmod>2013-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/solo13/</loc>
+    <lastmod>2013-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/spoton/</loc>
+    <lastmod>2013-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -693,13 +2233,43 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/fontainbleau/</loc>
+    <lastmod>2013-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/memory/</loc>
+    <lastmod>2013-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/seabald/</loc>
+    <lastmod>2013-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/11/06/vertigo-review/</loc>
     <lastmod>2013-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/alm/</loc>
+    <lastmod>2013-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</loc>
     <lastmod>2013-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/recommendations/</loc>
+    <lastmod>2013-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/niso/</loc>
+    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -713,6 +2283,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/standards/</loc>
+    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/09/30/cug-agile-ux/</loc>
     <lastmod>2013-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -720,6 +2295,21 @@
   <url>
     <loc>http://partiallyattended.com/2013/09/30/cux-agile-ux/</loc>
     <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/cug/</loc>
+    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/design/</loc>
+    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/advice/</loc>
+    <lastmod>2013-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -738,8 +2328,43 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/horizon-2020/</loc>
+    <lastmod>2013-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/annotation/</loc>
+    <lastmod>2013-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/iannotate/</loc>
+    <lastmod>2013-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/open-annotation/</loc>
+    <lastmod>2013-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/05/16/q-and-a-on-web-annotations/</loc>
     <lastmod>2013-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/cc-by/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/dog-in-manger/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/oa/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -753,7 +2378,22 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/communication/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/sysops/</loc>
+    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/03/24/climbing-review-2012/</loc>
+    <lastmod>2013-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/font/</loc>
     <lastmod>2013-03-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -768,8 +2408,28 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/injuries/</loc>
+    <lastmod>2013-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/encode/</loc>
+    <lastmod>2013-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</loc>
     <lastmod>2013-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/threads/</loc>
+    <lastmod>2013-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/product-tank/</loc>
+    <lastmod>2013-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -778,12 +2438,42 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/solo/</loc>
+    <lastmod>2012-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</loc>
     <lastmod>2012-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/biochemistry/</loc>
+    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/cheese/</loc>
+    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/every-day-matters/</loc>
+    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/food/</loc>
+    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</loc>
+    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/the-future-is-coming/</loc>
     <lastmod>2012-11-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -798,6 +2488,16 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/megajournals/</loc>
+    <lastmod>2012-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/solo12/</loc>
+    <lastmod>2012-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</loc>
     <lastmod>2012-10-28T00:00:00+00:00</lastmod>
   </url>
@@ -808,13 +2508,53 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/ebi/</loc>
+    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/literature/</loc>
+    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/workshops/</loc>
+    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2012/10/03/mtpcon/</loc>
+    <lastmod>2012-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/product-developmet/</loc>
     <lastmod>2012-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://partiallyattended.com/2012/10/02/icoa-going-for-gold/</loc>
     <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/gold/</loc>
+    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/green/</loc>
+    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/filter-failure/</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/slowness/</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -828,8 +2568,28 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/gdocs/</loc>
+    <lastmod>2012-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/gdrive/</loc>
+    <lastmod>2012-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/google-scholar/</loc>
+    <lastmod>2012-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</loc>
     <lastmod>2012-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/openaccess/</loc>
+    <lastmod>2012-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -838,8 +2598,48 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/adobe/</loc>
+    <lastmod>2012-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/metadata/</loc>
+    <lastmod>2012-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/pdf/</loc>
+    <lastmod>2012-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/xmp/</loc>
+    <lastmod>2012-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2012/07/11/getting-to-grips-with-xmp-on-osx/</loc>
     <lastmod>2012-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/bosons/</loc>
+    <lastmod>2012-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/higgs/</loc>
+    <lastmod>2012-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/metaphor/</loc>
+    <lastmod>2012-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/science-communication/</loc>
+    <lastmod>2012-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -853,7 +2653,22 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/family/</loc>
+    <lastmod>2012-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2012/06/26/go-fuck-yourself/</loc>
+    <lastmod>2012-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/dupuytrens-contracture/</loc>
+    <lastmod>2012-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/twitter/</loc>
     <lastmod>2012-06-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -864,6 +2679,16 @@
   
   <url>
     <loc>http://partiallyattended.com/2012/06/17/proposal-on-peer-review/</loc>
+    <lastmod>2012-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/fluidinfo/</loc>
+    <lastmod>2012-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/readwriteweb/</loc>
     <lastmod>2012-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -888,6 +2713,16 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/copyright/</loc>
+    <lastmod>2012-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/shit-sandwich/</loc>
+    <lastmod>2012-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</loc>
     <lastmod>2012-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -898,8 +2733,33 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/resolutions/</loc>
+    <lastmod>2012-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2011/11/21/zanran-google-for-data/</loc>
     <lastmod>2011-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/search/</loc>
+    <lastmod>2011-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/zanran/</loc>
+    <lastmod>2011-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/github-pages/</loc>
+    <lastmod>2011-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/mathjax/</loc>
+    <lastmod>2011-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -913,7 +2773,27 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/time/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/unix/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/coasp/</loc>
+    <lastmod>2011-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</loc>
+    <lastmod>2011-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/whiskey/</loc>
     <lastmod>2011-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -933,7 +2813,12 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</loc>
+    <loc>http://partiallyattended.com/categories/api/</loc>
+    <lastmod>2011-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/keynote/</loc>
     <lastmod>2011-09-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -943,8 +2828,33 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/solo11/</loc>
+    <lastmod>2011-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</loc>
+    <lastmod>2011-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/online/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/talkfest/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2011/09/01/solo11-talkfest/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/arxiv/</loc>
+    <lastmod>2011-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -953,13 +2863,73 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/paper/</loc>
+    <lastmod>2011-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/review/</loc>
+    <lastmod>2011-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/happyness/</loc>
+    <lastmod>2011-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/sameas/</loc>
+    <lastmod>2011-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/serendipity/</loc>
+    <lastmod>2011-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2011/08/08/serendipity-sames/</loc>
     <lastmod>2011-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/astronomg/</loc>
+    <lastmod>2011-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/chemistry/</loc>
+    <lastmod>2011-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/epistimology/</loc>
+    <lastmod>2011-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/quantum-mechanics/</loc>
+    <lastmod>2011-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2011/03/31/bunsen/</loc>
     <lastmod>2011-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/dlf2010/</loc>
+    <lastmod>2011-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/jisc/</loc>
+    <lastmod>2011-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/sits/</loc>
+    <lastmod>2011-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -973,12 +2943,47 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/user-experience/</loc>
+    <lastmod>2011-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2011/02/27/our-gospels-define-us/</loc>
     <lastmod>2011-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/religion/</loc>
+    <lastmod>2011-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/scientology/</loc>
+    <lastmod>2011-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/tolstoy/</loc>
+    <lastmod>2011-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/focus/</loc>
+    <lastmod>2011-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/nyc/</loc>
+    <lastmod>2011-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2011/02/06/rat-in-the-snow/</loc>
+    <lastmod>2011-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/rat-rock/</loc>
     <lastmod>2011-02-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -993,8 +2998,88 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/drinks/</loc>
+    <lastmod>2010-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/geek/</loc>
+    <lastmod>2010-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/graph-theory/</loc>
+    <lastmod>2010-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/exif/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/leap/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/lightroom/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/picasa/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/raw/</loc>
+    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/12/13/wrangling-image-metadata/</loc>
     <lastmod>2010-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/avchd/</loc>
+    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/gf1/</loc>
+    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/handbrake/</loc>
+    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/imovie/</loc>
+    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/mov/</loc>
+    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/mp4/</loc>
+    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/photography/</loc>
+    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/video/</loc>
+    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1013,8 +3098,38 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/education/</loc>
+    <lastmod>2010-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/publishinig/</loc>
+    <lastmod>2010-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/11/02/science-hack-day-discussions/</loc>
     <lastmod>2010-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/science-hack-day/</loc>
+    <lastmod>2010-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/apple/</loc>
+    <lastmod>2010-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/applescript/</loc>
+    <lastmod>2010-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/mail/</loc>
+    <lastmod>2010-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1028,8 +3143,63 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/csl/</loc>
+    <lastmod>2010-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/data.gov/</loc>
+    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/linked-data/</loc>
+    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/pool-party/</loc>
+    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/postcode-paper/</loc>
+    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/rdf/</loc>
+    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/rdfa/</loc>
+    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/semantic-web/</loc>
+    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/skos/</loc>
+    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/09/14/linked-data-london-meeting/</loc>
     <lastmod>2010-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/aps/</loc>
+    <lastmod>2010-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/crowd-sourcing/</loc>
+    <lastmod>2010-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1038,8 +3208,28 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/talk/</loc>
+    <lastmod>2010-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/yql/</loc>
+    <lastmod>2010-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/09/07/solo10-presentation-slides/</loc>
     <lastmod>2010-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/solo10/</loc>
+    <lastmod>2010-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hacking/</loc>
+    <lastmod>2010-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1053,8 +3243,23 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/liquid/</loc>
+    <lastmod>2010-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/08/23/passing-arguments-in-liquid-templates/</loc>
     <lastmod>2010-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/templating/</loc>
+    <lastmod>2010-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hilighting/</loc>
+    <lastmod>2010-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1068,6 +3273,16 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/report/</loc>
+    <lastmod>2010-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/email/</loc>
+    <lastmod>2010-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/07/05/checking-mail-infrequently/</loc>
     <lastmod>2010-07-05T00:00:00+00:00</lastmod>
   </url>
@@ -1075,6 +3290,16 @@
   <url>
     <loc>http://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</loc>
     <lastmod>2010-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/fuckers/</loc>
+    <lastmod>2010-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hackney/</loc>
+    <lastmod>2010-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1088,12 +3313,22 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/poem/</loc>
+    <lastmod>2010-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/04/29/a-mini-rant-about-latex/</loc>
     <lastmod>2010-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://partiallyattended.com/2010/04/13/creating-a-tumblog/</loc>
+    <lastmod>2010-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/tumblog/</loc>
     <lastmod>2010-04-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -1113,12 +3348,42 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/copy-editing/</loc>
+    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/language-models/</loc>
+    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/02/10/probabilistic-language-models-auto-correction-tools-and-scientific-discovery/</loc>
     <lastmod>2010-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/probability/</loc>
+    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2010/02/08/4-ways-to-set-the-heigth-of-your-open-social-gadget/</loc>
+    <lastmod>2010-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/gadget/</loc>
+    <lastmod>2010-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/opensocial/</loc>
+    <lastmod>2010-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/opensocial-jquery/</loc>
     <lastmod>2010-02-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -1168,12 +3433,12 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2009/12/01/keeping-dopplr-and-ical-in-two-way-sync./</loc>
+    <loc>http://partiallyattended.com/2009/12/01/dreaming-of-snow/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2009/12/01/dreaming-of-snow/</loc>
+    <loc>http://partiallyattended.com/2009/12/01/keeping-dopplr-and-ical-in-two-way-sync./</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1183,12 +3448,27 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/google-wave/</loc>
+    <lastmod>2009-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</loc>
     <lastmod>2009-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/django/</loc>
+    <lastmod>2009-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/10/19/django-models-vs.-pickling-objects-for-object-persistence./</loc>
+    <lastmod>2009-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/sqlite/</loc>
     <lastmod>2009-10-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1233,12 +3513,32 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/algorithm/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/directed-weighted-graphs/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/graphs/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/modules/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</loc>
     <lastmod>2009-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/</loc>
+    <loc>http://partiallyattended.com/categories/network-science/</loc>
     <lastmod>2009-04-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1248,7 +3548,37 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/sankey-diagrams/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/</loc>
+    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/centrality/</loc>
+    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/04/13/directed-graph-blog-setup/</loc>
+    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/disclaimer/</loc>
+    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/equation/</loc>
+    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/google-app-engine/</loc>
     <lastmod>2009-04-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -1263,6 +3593,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/mulvany.net/</loc>
+    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/04/13/why-im-setting-up-this-blog/</loc>
     <lastmod>2009-04-13T00:00:00+00:00</lastmod>
   </url>
@@ -1273,12 +3608,32 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/blogger/</loc>
+    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/04/12/getting-listed-on-nature-blogs/</loc>
     <lastmod>2009-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/tag-cloud/</loc>
+    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/tags/</loc>
+    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/04/12/testing-latex-and-syntax-hilighting-on-blogger/</loc>
+    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/widget/</loc>
     <lastmod>2009-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -1298,7 +3653,22 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/flickr/</loc>
+    <lastmod>2009-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/new-york/</loc>
+    <lastmod>2009-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/03/02/other-tips-for-new-york/</loc>
+    <lastmod>2009-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/restaurant/</loc>
     <lastmod>2009-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -1338,12 +3708,12 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2009/02/02/fwd-weekly-training-report-week-3/</loc>
+    <loc>http://partiallyattended.com/2009/02/02/weekly-training-log-week-4/</loc>
     <lastmod>2009-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2009/02/02/weekly-training-log-week-4/</loc>
+    <loc>http://partiallyattended.com/2009/02/02/fwd-weekly-training-report-week-3/</loc>
     <lastmod>2009-02-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -1378,6 +3748,21 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/author-mapper/</loc>
+    <lastmod>2009-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/springer/</loc>
+    <lastmod>2009-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/war/</loc>
+    <lastmod>2009-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2009/01/09/world-war-ii-science-and-springer-authors/</loc>
     <lastmod>2009-01-09T00:00:00+00:00</lastmod>
   </url>
@@ -1393,92 +3778,12 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2008/12/21/a-minor-milestone-in-leisurely-reading/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/cloverfield/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/creationism-as-science/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/efficient-name-disambiguation-for-large-scale-databases/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/how-i-learned-to-stop-worrying-and-love-rss/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/i-didnt-expect-lock-in-so-quickly/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/max-os-x-does-not-have-gethrtime-and-as-a-result-cannot-load-timehr/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/networks-in-space-mark-newman-netsci08/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/predictably-irrational/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/soft-peer-review/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/testing-out-a-new-blog-platform/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/the-gap-between-open-access-and-editorial-quality/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/ubigraph/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/upcoming.org-founder-creates-fireball-fire-eagle-dodgeball-twitter/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/we-have-been-nominated-for-a-webby/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/why-the-lhc-is-not-really-that-impressive/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/12/21/your-brightkite-invite/</loc>
-    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://partiallyattended.com/2008/12/21/a-great-presentation-about-books-and-community/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/a-minor-milestone-in-leisurely-reading/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -1503,7 +3808,17 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2008/12/21/cloverfield/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/12/21/collaborative-intelligence-and-the-pidgeonhole-problem/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/creationism-as-science/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -1518,6 +3833,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2008/12/21/efficient-name-disambiguation-for-large-scale-databases/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/12/21/further-confustion/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -1528,12 +3848,17 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2008/12/21/how-i-learned-to-stop-worrying-and-love-rss/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/12/21/how-to-learn-python/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2008/12/21/iphone-prediction-market/</loc>
+    <loc>http://partiallyattended.com/2008/12/21/i-didnt-expect-lock-in-so-quickly/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -1544,6 +3869,16 @@
   
   <url>
     <loc>http://partiallyattended.com/2008/12/21/incentives/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/iphone-prediction-market/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/max-os-x-does-not-have-gethrtime-and-as-a-result-cannot-load-timehr/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -1568,6 +3903,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2008/12/21/networks-in-space-mark-newman-netsci08/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/12/21/networks-head-to-head/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -1579,6 +3919,11 @@
   
   <url>
     <loc>http://partiallyattended.com/2008/12/21/perl-and-again/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/predictably-irrational/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -1608,6 +3953,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2008/12/21/soft-peer-review/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/12/21/star-wars/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -1623,8 +3973,48 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2008/12/21/testing-out-a-new-blog-platform/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/the-gap-between-open-access-and-editorial-quality/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/ubigraph/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/upcoming.org-founder-creates-fireball-fire-eagle-dodgeball-twitter/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/we-have-been-nominated-for-a-webby/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/12/21/what-apps-do-i-want-on-the-iphone/</loc>
     <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/why-the-lhc-is-not-really-that-impressive/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/12/21/your-brightkite-invite/</loc>
+    <lastmod>2008-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/agile-programming/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1633,7 +4023,22 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/are-academics-prostitutes/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/avatar/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/barcamp/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1668,7 +4073,32 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/cambridge/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/germany/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/get-addicted-feed-the-world/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1683,7 +4113,27 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/2008/07/14/getting-started/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/google-reader-now-has-search/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/great-places-to-hang-out-in-den-haag/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/harry-potter/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/hoto/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1693,117 +4143,27 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/image/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/inspirational/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/installing-python-image-library-on-a-mac/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/ireland/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/liam-dropping-by-london/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/new-terminal-in-mac-os-10.5-is-nice-but-dont-forget-that-there-is-a-bash_profile-out-of-the-box/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/open-reviewing/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/potter-prediction/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/simpsian/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/weddings-make-you-fat/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/agile-programming/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/get-addicted-feed-the-world/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/getting-started/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/2008/07/14/google-reader-now-has-search/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1828,7 +4188,52 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/lunch/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/magic/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/moblog/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/mozy-backup-service/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/munich/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/network/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/new-terminal-in-mac-os-10.5-is-nice-but-dont-forget-that-there-is-a-bash_profile-out-of-the-box/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/open-reviewing/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1838,12 +4243,72 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/patents/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/peer/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/perl/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/picture/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/potter-prediction/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/pythonic-is-a-way-of-thinking/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/replicator/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/rss/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/science2.0/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/simpsian/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/simpsons/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1858,7 +4323,67 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/categories/tech/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/travel/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/tv/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/txt/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/wedding/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/weddings-make-you-fat/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/2008/07/14/weekend-grill/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/categories/weight/</loc>
+    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/2008/07/14/why-do-all-of-the-science-fiction-authors-have-all-of-the-really-goodideas-already/</loc>
     <lastmod>2008-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1868,7 +4393,7 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</loc>
+    <loc>http://partiallyattended.com/categories/economics/</loc>
     <lastmod>2006-06-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -1878,9 +4403,8 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/categories/</loc>
-    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</loc>
+    <lastmod>2006-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1892,3019 +4416,11 @@
   </url>
   
   <url>
-    <loc>http://partiallyattended.com/categories/1am/</loc>
-    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/academia/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/access/</loc>
-    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/adobe/</loc>
-    <lastmod>2012-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/advice/</loc>
-    <lastmod>2013-07-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/agile/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ai/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/alexa/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/algorithm/</loc>
-    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/alm/</loc>
-    <lastmod>2013-10-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/alms/</loc>
-    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/alpsp/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/alpsp17/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/altmetrics/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/amazing-times/</loc>
-    <lastmod>2016-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/amazon/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/analysis/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/annotation/</loc>
-    <lastmod>2013-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/api/</loc>
-    <lastmod>2011-09-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/apple/</loc>
-    <lastmod>2010-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/applescript/</loc>
-    <lastmod>2010-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/aps/</loc>
-    <lastmod>2010-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/architecture/</loc>
-    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/articles/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/arxiv/</loc>
-    <lastmod>2011-08-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/asilearn/</loc>
-    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/assessment/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/astronomg/</loc>
-    <lastmod>2011-03-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/author-mapper/</loc>
-    <lastmod>2009-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/authoring/</loc>
-    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/avatar/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/avchd/</loc>
-    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/aws/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/barcamp/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/bcm/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/behat/</loc>
-    <lastmod>2014-04-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/belmont/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/beyond-the-pdf/</loc>
-    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/bicep2/</loc>
-    <lastmod>2014-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/big-data/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/biochemistry/</loc>
-    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/blockchain/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/blockchain#/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/blog/</loc>
-    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/blogger/</loc>
-    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/blogging/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/bmj/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/boltzmann/</loc>
-    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/book/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/book-review/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/books/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/bosons/</loc>
-    <lastmod>2012-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/bouldering/</loc>
-    <lastmod>2014-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/brexit/</loc>
-    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/business/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/cambridge/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/camusability/</loc>
-    <lastmod>2014-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/career/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/</loc>
-    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/cc-by/</loc>
-    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/cdl/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/centrality/</loc>
-    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/charleston/</loc>
-    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/chasm/</loc>
-    <lastmod>2018-07-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/cheese/</loc>
-    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/chef/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/chemistry/</loc>
-    <lastmod>2011-03-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/citation/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/citations/</loc>
-    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/citizen-science/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/citizenscience/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/climate/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/climbing/</loc>
-    <lastmod>2015-02-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/cloud/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/coasp/</loc>
-    <lastmod>2011-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/cognitive-load/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/collaboration/</loc>
-    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/command-line/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/communication/</loc>
-    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/computational-social-science/</loc>
-    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/computational-socical-science/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/computing/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/conference/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/connotea/</loc>
-    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/containers/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/cool/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/copy-editing/</loc>
-    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/copyright/</loc>
-    <lastmod>2012-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/credit/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/crisis/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/crossref/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/crowd-sourcing/</loc>
-    <lastmod>2010-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/csl/</loc>
-    <lastmod>2010-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/cug/</loc>
-    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/das/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/dat/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/data/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/data-citation/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/data-management/</loc>
-    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/data-science/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/data.gov/</loc>
-    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/database/</loc>
-    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/datascience/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/death/</loc>
-    <lastmod>2015-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/design/</loc>
-    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/design-thinking/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/developers/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/development/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/devops/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/diagramming/</loc>
-    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/directed-weighted-graphs/</loc>
-    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/disclaimer/</loc>
-    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/discovery/</loc>
-    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/diskworld/</loc>
-    <lastmod>2015-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/django/</loc>
-    <lastmod>2009-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/dlf2010/</loc>
-    <lastmod>2011-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/docker/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/dog-in-manger/</loc>
-    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/doi/</loc>
-    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/draft/</loc>
-    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/drafttoblog/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/dreams/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/drinks/</loc>
-    <lastmod>2010-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/dupuytrens-contracture/</loc>
-    <lastmod>2012-06-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/dystopia/</loc>
-    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ebi/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/economics/</loc>
-    <lastmod>2006-06-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/economy/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ecosystems/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/education/</loc>
-    <lastmod>2010-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/einstein/</loc>
-    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/elife/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/elife-bot/</loc>
-    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/elife-lens/</loc>
-    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/email/</loc>
-    <lastmod>2010-07-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/encode/</loc>
-    <lastmod>2013-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/engineering/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/epistimology/</loc>
-    <lastmod>2011-03-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/equation/</loc>
-    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/erc/</loc>
-    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ethics/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/eu/</loc>
-    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/european-union/</loc>
-    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/every-day-matters/</loc>
-    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/exif/</loc>
-    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/family/</loc>
-    <lastmod>2012-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/fears/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/filter-failure/</loc>
-    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/flickr/</loc>
-    <lastmod>2009-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/fluidinfo/</loc>
-    <lastmod>2012-06-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/focus/</loc>
-    <lastmod>2011-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/font/</loc>
-    <lastmod>2013-03-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/fontainbleau/</loc>
-    <lastmod>2013-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/food/</loc>
-    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/force11/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/force2015/</loc>
-    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/force2019/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/friction/</loc>
-    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/fuckers/</loc>
-    <lastmod>2010-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/funders/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/funding/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/future/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/future-of-publishing/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/futurepub/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/futurepub10/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/gadget/</loc>
-    <lastmod>2010-02-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/gdocs/</loc>
-    <lastmod>2012-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/gdrive/</loc>
-    <lastmod>2012-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/geek/</loc>
-    <lastmod>2010-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/gender/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/germany/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/getftr/</loc>
-    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/gf1/</loc>
-    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/gherkin/</loc>
-    <lastmod>2014-04-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/git/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/github/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/github-pages/</loc>
-    <lastmod>2011-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/glom/</loc>
-    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/goals/</loc>
-    <lastmod>2014-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/gold/</loc>
-    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/google/</loc>
-    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/google-app-engine/</loc>
-    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/google-scholar/</loc>
-    <lastmod>2012-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/google-wave/</loc>
-    <lastmod>2009-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/graph/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/graph-theory/</loc>
-    <lastmod>2010-12-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/graphs/</loc>
-    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/green/</loc>
-    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/groupwork/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hackathon/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hacking/</loc>
-    <lastmod>2010-09-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hackney/</loc>
-    <lastmod>2010-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/handbrake/</loc>
-    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/happyness/</loc>
-    <lastmod>2011-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/harry-potter/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/heros/</loc>
-    <lastmod>2015-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/higgs/</loc>
-    <lastmod>2012-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hilighting/</loc>
-    <lastmod>2010-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hiring/</loc>
-    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hopes/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/horizon-2020/</loc>
-    <lastmod>2013-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/horror/</loc>
-    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hoto/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hugo/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/hype-machine/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ia/</loc>
-    <lastmod>2014-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/iannotate/</loc>
-    <lastmod>2013-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ic12s2/</loc>
-    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ic2s2/</loc>
-    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/iiif/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/image/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/images/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/imovie/</loc>
-    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/impact/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/industry/</loc>
-    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/infrastructure/</loc>
-    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/injuries/</loc>
-    <lastmod>2013-03-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/injury/</loc>
-    <lastmod>2015-02-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/innovation/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/innovations/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/inspirational/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/interesting/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/internet/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ipython/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ipython-notebook/</loc>
-    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ireland/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/javascript/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/jekyll/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/jisc/</loc>
-    <lastmod>2011-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/jobs-to-be-done/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/json/</loc>
-    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/keynote/</loc>
-    <lastmod>2011-09-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/kubernetes/</loc>
-    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/kudos/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/k%C3%B6ln/</loc>
-    <lastmod>2017-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/language-models/</loc>
-    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/latex/</loc>
-    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/leadership/</loc>
-    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lean/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lean-value-tree/</loc>
-    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/leap/</loc>
-    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/learning/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lens/</loc>
-    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lessons/</loc>
-    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/librarian/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/libraries/</loc>
-    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/library/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/life/</loc>
-    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lifehack/</loc>
-    <lastmod>2015-02-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lightroom/</loc>
-    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/linked-data/</loc>
-    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/liquid/</loc>
-    <lastmod>2010-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/literature/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/london/</loc>
-    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lou/</loc>
-    <lastmod>2013-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lunch/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/lvt/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mac/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/machine-learning/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/magic/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mail/</loc>
-    <lastmod>2010-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/management/</loc>
-    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/maps/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mathjax/</loc>
-    <lastmod>2011-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mavericks/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/meetup/</loc>
-    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/megajournals/</loc>
-    <lastmod>2012-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/memory/</loc>
-    <lastmod>2013-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mendeley/</loc>
-    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/metadata/</loc>
-    <lastmod>2012-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/metaphor/</loc>
-    <lastmod>2012-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/metrics/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/microservices/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/microsoft/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/moblog/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/models/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/modules/</loc>
-    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mov/</loc>
-    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mozilla/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mp4/</loc>
-    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/mulvany.net/</loc>
-    <lastmod>2009-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/munich/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/music/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/nature/</loc>
-    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/network/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/network-science/</loc>
-    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/networks/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/neuroscience/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/new-york/</loc>
-    <lastmod>2009-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/nhs/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/niso/</loc>
-    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/node/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/not-blockchain/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/nyc/</loc>
-    <lastmod>2011-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/oa/</loc>
-    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/odi/</loc>
-    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/online/</loc>
-    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/open-access/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/open-annotation/</loc>
-    <lastmod>2013-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/open-data/</loc>
-    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/open-notebooks/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/open-peer-review/</loc>
-    <lastmod>2014-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/open-science/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/open-source/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/openaccess/</loc>
-    <lastmod>2012-07-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/openscience/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/opensocial/</loc>
-    <lastmod>2010-02-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/opensocial-jquery/</loc>
-    <lastmod>2010-02-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/orcid/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/organisations/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/osx/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/outcomes/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/oxford/</loc>
-    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/paper/</loc>
-    <lastmod>2011-08-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/papers/</loc>
-    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/patents/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/pdf/</loc>
-    <lastmod>2012-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/peer/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/peer-review/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/perl/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/philosophy/</loc>
-    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/photography/</loc>
-    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/php/</loc>
-    <lastmod>2014-04-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/physics/</loc>
-    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/picasa/</loc>
-    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/picture/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/pid/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/platforms/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/plos/</loc>
-    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/poem/</loc>
-    <lastmod>2010-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/pokayoka/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/pool-party/</loc>
-    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/postcode-paper/</loc>
-    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/post/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/preprints/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/presentation/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/probability/</loc>
-    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/product-development/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/product-developmet/</loc>
-    <lastmod>2012-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/product-management/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/product-tank/</loc>
-    <lastmod>2013-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/productivity/</loc>
-    <lastmod>2015-02-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/programming/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://partiallyattended.com/projects/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/public-sector/</loc>
-    <lastmod>2014-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/publication/</loc>
-    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/publihsing/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/publishing/</loc>
-    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/publishing#/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/publishinig/</loc>
-    <lastmod>2010-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/python/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/qa/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/quantum-mechanics/</loc>
-    <lastmod>2011-03-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/rat-rock/</loc>
-    <lastmod>2011-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/rave/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/raw/</loc>
-    <lastmod>2010-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/rdf/</loc>
-    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/rdfa/</loc>
-    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/readwriteweb/</loc>
-    <lastmod>2012-06-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/recommendations/</loc>
-    <lastmod>2013-10-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/religion/</loc>
-    <lastmod>2011-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/replicator/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/report/</loc>
-    <lastmod>2010-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/repositories/</loc>
-    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/research/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/research-software-engineer/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/resolutions/</loc>
-    <lastmod>2012-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/restaurant/</loc>
-    <lastmod>2009-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/retraction/</loc>
-    <lastmod>2014-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/retractions/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/reveal.js/</loc>
-    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/review/</loc>
-    <lastmod>2011-08-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/rhetoric/</loc>
-    <lastmod>2014-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/roi/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/royal-statistics-society/</loc>
-    <lastmod>2015-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/rss/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ruby/</loc>
-    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/rules/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/rvm/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/sadness/</loc>
-    <lastmod>2015-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/sage/</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/sameas/</loc>
-    <lastmod>2011-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/saml/</loc>
-    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/sankey-diagrams/</loc>
-    <lastmod>2009-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/scholarly-comms/</loc>
-    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/scholarly-publishing/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/science/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/science-communication/</loc>
-    <lastmod>2012-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/science-hack-day/</loc>
-    <lastmod>2010-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/science-online/</loc>
-    <lastmod>2013-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/science2.0/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/scienceontheweb/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/scientology/</loc>
-    <lastmod>2011-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/scifi/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/scpd/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/scripting/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/seabald/</loc>
-    <lastmod>2013-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/search/</loc>
-    <lastmod>2011-11-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/semantic-web/</loc>
-    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/serendipity/</loc>
-    <lastmod>2011-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/serverless/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/shell/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/shit-sandwich/</loc>
-    <lastmod>2012-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/shoreditch/</loc>
-    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/shoreditch-boulder/</loc>
-    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/simpsons/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/siri/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/sits/</loc>
-    <lastmod>2011-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/skos/</loc>
-    <lastmod>2010-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/slides/</loc>
-    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/slowness/</loc>
-    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/social-science/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/software/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/software-carpentry/</loc>
-    <lastmod>2014-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/solo/</loc>
-    <lastmod>2012-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/solo10/</loc>
-    <lastmod>2010-09-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/solo11/</loc>
-    <lastmod>2011-09-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/solo12/</loc>
-    <lastmod>2012-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/solo13/</loc>
-    <lastmod>2013-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/spain/</loc>
-    <lastmod>2015-02-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/spoton/</loc>
-    <lastmod>2013-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/springer/</loc>
-    <lastmod>2009-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/sqlite/</loc>
-    <lastmod>2009-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/standards/</loc>
-    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/startups/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/statistics/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/stem/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/stm/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/storage/</loc>
-    <lastmod>2015-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/strata/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/strategy/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/subscriptions/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/sys-ops/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/sysops/</loc>
-    <lastmod>2013-04-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/systems/</loc>
-    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tag-cloud/</loc>
-    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://partiallyattended.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tags/</loc>
-    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/talk/</loc>
-    <lastmod>2010-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/talkfest/</loc>
-    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/talks/</loc>
-    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tech/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/techdigest/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/techmology/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/technical-debt/</loc>
-    <lastmod>2015-02-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/techniques/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/technology/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/templating/</loc>
-    <lastmod>2010-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/test/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/testing/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/text-analysis/</loc>
-    <lastmod>2016-12-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/the-future-is-coming/</loc>
-    <lastmod>2012-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/threaded-publications/</loc>
-    <lastmod>2014-01-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/threads/</loc>
-    <lastmod>2013-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/time/</loc>
-    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tips/</loc>
-    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/todi/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/toil/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tolstoy/</loc>
-    <lastmod>2011-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/toolbox/</loc>
-    <lastmod>2014-07-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tools/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/training/</loc>
-    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/transparency/</loc>
-    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/travel/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/trends/</loc>
-    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/trust/</loc>
-    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tumblog/</loc>
-    <lastmod>2010-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tutorial/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/tv/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/twitter/</loc>
-    <lastmod>2012-06-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/txt/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/uk/</loc>
-    <lastmod>2016-06-21T14:47:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/unix/</loc>
-    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/unpaywall/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/user-experience/</loc>
-    <lastmod>2011-03-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/utilities/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/ux/</loc>
-    <lastmod>2014-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/vagrant/</loc>
-    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/video/</loc>
-    <lastmod>2010-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/visualisation/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/voice/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/war/</loc>
-    <lastmod>2009-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/web/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/web-development/</loc>
-    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/webscience/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/wedding/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/weight/</loc>
-    <lastmod>2008-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/whiskey/</loc>
-    <lastmod>2011-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/widget/</loc>
-    <lastmod>2009-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/wikidata/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/wikimania/</loc>
-    <lastmod>2014-07-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/wikimania2014/</loc>
-    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/wikipedia/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/wittgenstein/</loc>
-    <lastmod>2015-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/work/</loc>
-    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/workshops/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/writelatex/</loc>
-    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/wtfgetftwt/</loc>
-    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/xmp/</loc>
-    <lastmod>2012-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/yenow/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/yql/</loc>
-    <lastmod>2010-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://partiallyattended.com/categories/zanran/</loc>
-    <lastmod>2011-11-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -31,56 +31,37 @@
 </div>
 
 <div>
-          
-
-<h1 id="xmp">XMP</h1>
-
+          <h1 id="xmp">XMP</h1>
 <p><a href="http://www.adobe.com/products/xmp/">XMP</a> is the extensible metadata platform from Adobe. It can be used to embed structured metadata into a file. I think it&rsquo;s most common usage is for storing image metadata in image files, but it also has a use in embedding metadata in PDF files.</p>
-
 <p>Adobe provide an <a href="http://www.adobe.com/devnet/xmp.html">SDK</a> that you can use to start coding applications for working with XMP. They provide a guide for developers, and I&rsquo;ve posted a <a href="https://dl.dropbox.com/u/2270414/XMPProgrammersGuide.pdf">copy</a> so you can have a quick look if you are interested, without downloading the full SDK.</p>
-
 <p>In this post I will look at compiling the SDK on OSX 10.7.4 with Xcode 4.3.2, and run through getting one of the demo applications provided in the SDK working. This was my first time working with Xcode, so I have certainly done some stupid things with setting up the environment, however in the end it worked. YMMV.</p>
-
-<h1 id="compiling-the-xmp-libraries-on-osx-10-7-4-with-xcode-4-3-2">Compiling the XMP libraries on OSX 10.7.4 with Xcode 4.3.2</h1>
-
+<h1 id="compiling-the-xmp-libraries-on-osx-1074-with-xcode-432">Compiling the XMP libraries on OSX 10.7.4 with Xcode 4.3.2</h1>
 <p>I was unable to get the provided SDK to compile on my machine with Xcode 4.3.2. I kept running into issues that I just didn&rsquo;t understand in how the distributed Xcode project was set up. I was bitching about this on Twitter and the amazing <a href="https://twitter.com/mz2">Matias Piipari</a> offered to have a look. He said:</p>
-
 <blockquote>
 <p>They&rsquo;d done this silly thing where they require you to download 3rd party code and place it inside the project root, and then they hard-code the relative paths to those 3rd party source files in the #includes. Both expat and zlib are actually available as part of the OSX SDK, but was easier to just download zlib and unpackage them both into that 3rd-party directory rather than fix the includes to use systemwide header search paths and to set up dynamic linking for expat and zlib.</p>
 </blockquote>
-
 <p>He modified the distributed project as described, and sent me a <a href="https://www.dropbox.com/sh/gceyj2ieuvme1aa/9FONH2OF2b">copy</a>. Downloading this, and following the build instructions from the programmers guide compiles the libraries, raising about 54 warnings on my machine.</p>
-
 <h1 id="building-a-demo-application-using-the-compiled-libraries-the">Building a demo application using the compiled libraries. The</h1>
-
 <p>First step, we need to set up a project in Xcode.</p>
-
 <h2 id="creating-an-xcode-project-to-read-xmp-metadata">Creating an Xcode project to read XMP metadata</h2>
-
 <p>The following is based on the instructions from the developers guide, which start on page 62, however there are quite a few differences between the provided instructions, and what I did to get the sample code working.</p>
-
 <ol>
-<li>Create a new project <code>File &gt; New &gt; Project ...</code> or &#8679;&#8984;N</li>
+<li>Create a new project <code>File &gt; New &gt; Project ...</code> or ⇧⌘N</li>
 <li>Select the <code>Command Line tool</code> option.</li>
 <li>Hit <code>next</code>.</li>
 <li>Name your product, pick your company name and choose <code>C++</code> for the project type.</li>
 <li>You will then be asked to chose where to save the project. I&rsquo;m saving my project in <code>/Users/ian/code/private-code/xmp/XMP-Toolkit-SDK-5.1.2/samples/build/Xcode3/</code>, with the project name <code>MyReadingXMP</code>. Hit <code>save</code>.
 I have git installed on my system, and Xcode offers to place the project under source control, why not, let&rsquo;s go with that.</li>
-<li>In the project window, highlight the file main.cpp and delete it by choosing <code>Edit &gt; Delete</code> or &#8984;&#9003;. In the
+<li>In the project window, highlight the file main.cpp and delete it by choosing <code>Edit &gt; Delete</code> or ⌘⌫. In the
 confirmation dialog select <code>Move to Trash</code>.</li>
-<li>Add a new file, there are many options for adding a new file, &#8984;N works. This brings up the file template chooser.</li>
+<li>Add a new file, there are many options for adding a new file, ⌘N works. This brings up the file template chooser.</li>
 <li>Pick a <code>C++</code> file, hit <code>Next</code>.</li>
 <li>Name the file <code>MyReadingXMP.cpp</code>. The instructions in the programmers guide tell you to deselect the option to create a header file, however the version of Xcode that we are working with does not offer to create a header file, so you can ignore this step.</li>
 </ol>
-
 <h2 id="compiling-the-application">Compiling the application.</h2>
-
 <p>Selecting the project in the left hand pane of Xcode will show the project info and build settings in the central pane:</p>
-
-<p><img src="/images/xcode-settings.jpg" alt="Xcode settings" title="Xcode settings" /></p>
-
+<p><img src="/images/xcode-settings.jpg" alt="Xcode settings" title="Xcode settings"></p>
 <p>For finding the various options in the build settings, the search field is convenient.</p>
-
 <ol>
 <li>Select <code>Build Settings</code> and under <code>Build Locations</code>select <code>Per-configuration Build Products Path</code>.</li>
 <li>Insert <code>$(PROJECT_DIR)</code>, you should see Xcode expand this to point to the directory that contains the project files.</li>
@@ -94,32 +75,21 @@ confirmation dialog select <code>Move to Trash</code>.</li>
 <li>Select <code>Preprocessor Macros</code> and enter <code>MAC_ENV=1</code></li>
 <li>The instructions provided direct you to set the Preprocessor Macros for the target, however in this version of Xcode when I looked, this setting carried over from the project setting, and I didn&rsquo;t need to do anything.</li>
 </ol>
-
 <p>I tried compiling the empty project, but ran into some bugs. I then cut and pasted the entire sample XMP reader code into the my empty project. I also manually linked the CoreServices library against the target using the <code>Build Phases</code> option Xcode.</p>
-
-<p><img src="/images/set-services.jpg" alt="Link Xcode target to CoreServices" title="Link Xcode target to CoreServices" /></p>
-
+<p><img src="/images/set-services.jpg" alt="Link Xcode target to CoreServices" title="Link Xcode target to CoreServices"></p>
 <p>I honestly don&rsquo;t know what I am doing at this point, and I don&rsquo;t know whether this helped, but on the next attempt to compile the project compiled fully, and I got an executable.</p>
-
 <p>It took me a while to find where the executable was located, but eventually I found it located in</p>
-
 <pre><code>~/Library/Developer/Xcode/DerivedData/
 MyXMPReader-dzqqlyrtudnrpsganqbsozskatkp/
 Build/Products/Debug /Users/ian/code/
 private-code/xmp/XMP-Toolkit-SDK-5.1.2/
 samples/build/Xcode3/MyXMPReader
 </code></pre>
-
 <p>Obviously I&rsquo;ve made a typo in the name of the target, you can see that I have an extra space next to the <code>../Debug /..</code> part of the path, and I had expected the executable to land in the project directory, rather than in the system Library, but we have the working executable &lsquo;MyXMPReader&rsquo;.</p>
-
 <h2 id="running-the-application">Running the application</h2>
-
 <p>It&rsquo;s a command line application, and takes a path to a file as an argument. To run this, point it at a PDF like so:</p>
-
 <p><code>$ MyXMPReader test.pdf</code></p>
-
 <p>It produces some terminal output, and writes the XMP data into a local <code>XMPDump.txt</code> file. I verified the tool works by running it against a nature communications pdf, and you can see some of the output here:</p>
-
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml">$ head -40 XMPDump.txt 
 Dumping XMPMeta object &#34;&#34;  (0x0)
 
@@ -160,7 +130,6 @@ Dumping XMPMeta object &#34;&#34;  (0x0)
       prism:publicationDate  (0x200 : isArray)
          [1] = &#34;--&#34;
       prism:url  (0x200 : isArray)</code></pre></div>
-
 <p>I&rsquo;ll explore some other tools that you can use to look at XMP data in pdfs in a later post, and I&rsquo;ll also look at what we can find inside some recently published academic PDFs with an eye to deciding what we should be putting into the documents that we will be producing at <a href="http://elifesciences.org/">eLife</a> (don&rsquo;t forget to <a href="http://submit.elifesciences.org/cgi-bin/main.plex">submit</a>).</p>
 
  </div>

@@ -33,33 +33,28 @@
 <div>
           <p>I use git a lot, it&rsquo;s pretty complicated, and it has a lot of command line optoins that I can never remember. I&rsquo;ve copied
 a couple of shortcuts from the web, and here are two that I use a lot. These are presented in the form of <a href="http://fishshell.com">fish shell</a> scripts.</p>
-
 <blockquote>
-<p>function gl
-        git log &ndash;graph &ndash;abbrev-commit
-        &ndash;decorate &ndash;date=relative
-        &ndash;format=format:&lsquo;%C(bold blue)%h%C(reset)
-        - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset)
-        %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)&rsquo;
-        &ndash;all
-end</p>
 </blockquote>
-
+<p>function gl
+git log &ndash;graph &ndash;abbrev-commit
+&ndash;decorate &ndash;date=relative
+&ndash;format=format:'%C(bold blue)%h%C(reset)
+- %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset)
+%C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)&rsquo;
+&ndash;all
+end</p>
 <p>This provides a nicer view on the git log, with the brancing tree also displayed.</p>
-
 <blockquote>
+</blockquote>
 <p>function branches
 git for-each-ref &ndash;sort=-committerdate refs/heads/
 git for-each-ref &ndash;sort=-committerdate refs/heads/
-  &ndash;format=&lsquo;%(refname) %(committerdate) %(authorname)&rsquo;
-  | sed &rsquo;s/refs\/heads\///g&rsquo;
+&ndash;format=&rsquo;%(refname) %(committerdate) %(authorname)&rsquo;
+| sed &rsquo;s/refs/heads///g&rsquo;
 end</p>
-</blockquote>
-
 <p>This shows two lists of current brances in the repo, in reverse chronological order. The first list provides the full sha,
 and the second list shows the last commit message. This is useful when coming back to repo that has a few branches, to help you get an
 overview of the activity that&rsquo;s happened in the different branches.</p>
-
 <p>I put these examples into a <a href="https://gist.github.com/IanMulvany/3591216fb05b18f97b98">gist file</a></p>
 
  </div>

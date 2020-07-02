@@ -32,20 +32,18 @@
 
 <div>
           <p>I&rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.</p>
-
 <p>This is what I came up with.</p>
-
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript"><span style="color:#66d9ef">set</span> fileRoot <span style="color:#66d9ef">to</span> <span style="color:#e6db74">&#34;Macintosh HD:Users:path:&#34;</span>
 <span style="color:#66d9ef">set</span> messageList <span style="color:#66d9ef">to</span> {}
 <span style="color:#66d9ef">tell</span> application <span style="color:#e6db74">&#34;Mail&#34;</span>
 	<span style="color:#66d9ef">set</span> messageList <span style="color:#66d9ef">to</span> messageList <span style="color:#f92672">&amp;</span> (messages <span style="color:#66d9ef">of</span> mailbox <span style="color:#e6db74">&#34;mailbox name&#34;</span> <span style="color:#66d9ef">of</span> account <span style="color:#e6db74">&#34;account&#34;</span> <span style="color:#66d9ef">of</span> application <span style="color:#e6db74">&#34;Mail&#34;</span>)
 	<span style="color:#66d9ef">set</span> counter <span style="color:#66d9ef">to</span> <span style="color:#ae81ff">1</span>
-	<span style="color:#66d9ef">repeat</span> with theMessage <span style="color:#66d9ef">in</span> messageList
+	<span style="color:#66d9ef">repeat</span> <span style="color:#66d9ef">with</span> theMessage <span style="color:#66d9ef">in</span> messageList
 		<span style="color:#66d9ef">set</span> fileNum <span style="color:#66d9ef">to</span> counter <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 		<span style="color:#66d9ef">set</span> theFilePath <span style="color:#66d9ef">to</span> fileRoot <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;mailcontent&#34;</span> <span style="color:#f92672">&amp;</span> fileNum <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;.txt&#34;</span>
 		<span style="color:#66d9ef">set</span> p <span style="color:#66d9ef">to</span> POSIX <span style="color:#a6e22e">path</span> <span style="color:#66d9ef">of</span> theFilePath
 		do shell script <span style="color:#e6db74">&#34;touch &#34;</span> <span style="color:#f92672">&amp;</span> p
-		<span style="color:#66d9ef">set</span> theFileReference <span style="color:#66d9ef">to</span> open for access theFilePath with write permission
+		<span style="color:#66d9ef">set</span> theFileReference <span style="color:#66d9ef">to</span> open for access theFilePath <span style="color:#66d9ef">with</span> write permission
 		<span style="color:#66d9ef">set</span> messageText <span style="color:#66d9ef">to</span> <span style="color:#a6e22e">content</span> <span style="color:#66d9ef">of</span> theMessage <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 		<span style="color:#66d9ef">set</span> sent <span style="color:#66d9ef">to</span> date sent <span style="color:#66d9ef">of</span> theMessage <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 		write sent <span style="color:#66d9ef">to</span> theFileReference starting at eof
@@ -55,25 +53,21 @@
 		<span style="color:#66d9ef">set</span> counter <span style="color:#66d9ef">to</span> counter <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>
 	<span style="color:#66d9ef">end</span> <span style="color:#66d9ef">repeat</span>
 <span style="color:#66d9ef">end</span> <span style="color:#66d9ef">tell</span></code></pre></div>
-
 <p>It breaks down like this, the following script sets a list to be the messages in our names mailbox folder. We can then iterate over that array, getting attributes of each message, such as the message content or the sent date of the message:</p>
-
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript"><span style="color:#66d9ef">set</span> messageList <span style="color:#66d9ef">to</span> {}
 <span style="color:#66d9ef">tell</span> application <span style="color:#e6db74">&#34;Mail&#34;</span>
 	<span style="color:#66d9ef">set</span> messageList <span style="color:#66d9ef">to</span> messageList <span style="color:#f92672">&amp;</span> (messages <span style="color:#66d9ef">of</span> mailbox <span style="color:#e6db74">&#34;mailbox name&#34;</span> <span style="color:#66d9ef">of</span> account <span style="color:#e6db74">&#34;account&#34;</span> <span style="color:#66d9ef">of</span> application <span style="color:#e6db74">&#34;Mail&#34;</span>)
-	<span style="color:#66d9ef">repeat</span> with theMessage <span style="color:#66d9ef">in</span> messageList
+	<span style="color:#66d9ef">repeat</span> <span style="color:#66d9ef">with</span> theMessage <span style="color:#66d9ef">in</span> messageList
 		<span style="color:#66d9ef">set</span> messageText <span style="color:#66d9ef">to</span> <span style="color:#a6e22e">content</span> <span style="color:#66d9ef">of</span> theMessage <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 		<span style="color:#66d9ef">set</span> sent <span style="color:#66d9ef">to</span> date sent <span style="color:#66d9ef">of</span> theMessage <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 	<span style="color:#66d9ef">end</span> <span style="color:#66d9ef">repeat</span>
 <span style="color:#66d9ef">end</span> <span style="color:#66d9ef">tell</span></code></pre></div>
-
 <p>Taking the creation of the file root out of the loop, and also adding a looping variable out of the loop the content inside the loop now looks like:</p>
-
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript"><span style="color:#66d9ef">set</span> fileNum <span style="color:#66d9ef">to</span> counter <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 <span style="color:#66d9ef">set</span> theFilePath <span style="color:#66d9ef">to</span> fileRoot <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;mailcontent&#34;</span> <span style="color:#f92672">&amp;</span> fileNum <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;.txt&#34;</span>
 <span style="color:#66d9ef">set</span> p <span style="color:#66d9ef">to</span> POSIX <span style="color:#a6e22e">path</span> <span style="color:#66d9ef">of</span> theFilePath
 do shell script <span style="color:#e6db74">&#34;touch &#34;</span> <span style="color:#f92672">&amp;</span> p
-<span style="color:#66d9ef">set</span> theFileReference <span style="color:#66d9ef">to</span> open for access theFilePath with write permission
+<span style="color:#66d9ef">set</span> theFileReference <span style="color:#66d9ef">to</span> open for access theFilePath <span style="color:#66d9ef">with</span> write permission
 <span style="color:#66d9ef">set</span> messageText <span style="color:#66d9ef">to</span> <span style="color:#a6e22e">content</span> <span style="color:#66d9ef">of</span> theMessage <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 <span style="color:#66d9ef">set</span> sent <span style="color:#66d9ef">to</span> date sent <span style="color:#66d9ef">of</span> theMessage <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 write sent <span style="color:#66d9ef">to</span> theFileReference starting at eof
@@ -81,17 +75,13 @@ write <span style="color:#e6db74">&#34;\n&#34;</span> <span style="color:#66d9ef
 write messageText <span style="color:#66d9ef">to</span> theFileReference starting at eof
 close access theFileReference
 <span style="color:#66d9ef">set</span> counter <span style="color:#66d9ef">to</span> counter <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span></code></pre></div>
-
 <p>Looking in a bit more detail, we convert the counter (an int) into a string. We set the filepath to a base filename, the string version of the counter, and a file extension.  In order to ensure that the file exists we pass this path to a shell script, and &ldquo;touch&rdquo; the file. That&rsquo;s right, in order not to get fucked over by applescripts error handling, I&rsquo;ve just called out to the system shell as the most useful way of creating a filehandler to a file that might not extist. Jesus.</p>
-
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript"><span style="color:#66d9ef">set</span> fileNum <span style="color:#66d9ef">to</span> counter <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 <span style="color:#66d9ef">set</span> theFilePath <span style="color:#66d9ef">to</span> fileRoot <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;mailcontent&#34;</span> <span style="color:#f92672">&amp;</span> fileNum <span style="color:#f92672">&amp;</span> <span style="color:#e6db74">&#34;.txt&#34;</span>
 <span style="color:#66d9ef">set</span> p <span style="color:#66d9ef">to</span> POSIX <span style="color:#a6e22e">path</span> <span style="color:#66d9ef">of</span> theFilePath
 do shell script <span style="color:#e6db74">&#34;touch &#34;</span> <span style="color:#f92672">&amp;</span> p</code></pre></div>
-
 <p>The second part of the loop now creates the file handler, writes some of the properties of the mail message into the file, closes the file handler, and iterates our loop counter.</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript"><span style="color:#66d9ef">set</span> theFileReference <span style="color:#66d9ef">to</span> open for access theFilePath with write permission
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript"><span style="color:#66d9ef">set</span> theFileReference <span style="color:#66d9ef">to</span> open for access theFilePath <span style="color:#66d9ef">with</span> write permission
 <span style="color:#66d9ef">set</span> messageText <span style="color:#66d9ef">to</span> <span style="color:#a6e22e">content</span> <span style="color:#66d9ef">of</span> theMessage <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 <span style="color:#66d9ef">set</span> sent <span style="color:#66d9ef">to</span> date sent <span style="color:#66d9ef">of</span> theMessage <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
 write sent <span style="color:#66d9ef">to</span> theFileReference starting at eof

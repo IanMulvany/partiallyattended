@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational Social Science on Partially Attended</title>
+    <title>computational social science on Partially Attended</title>
     <link>http://partiallyattended.com/categories/computational-social-science/</link>
-    <description>Recent content in Computational Social Science on Partially Attended</description>
+    <description>Recent content in computational social science on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0000</lastBuildDate>
@@ -34,17 +34,6 @@ One example that they looked at came from a hedge fund, the data included full I
     </item>
     
     <item>
-      <title>IC2s2 Wikipedia track, Wednesday</title>
-      <link>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
-      <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
-TokTrack - data is available on Zenodo, 13.5B tokens. There is a wikiwho API. This is an accurate dataset of all provennced changes in English wikipedia.
-They can look at survival rates for edits. If an edit survives for 48 hours, then it’s probably safe and will live on in wikipedia.</description>
-    </item>
-    
-    <item>
       <title>ic2s2 Wednesday morning keynotes</title>
       <link>http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
@@ -56,12 +45,22 @@ They also have social network data for these people, so they can connect their s
     </item>
     
     <item>
+      <title>IC2s2 Wikipedia track, Wednesday</title>
+      <link>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
+      <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
+[TokTrack](TokTrack: A Complete Token Provenance and Change Tracking Dataset for the English Wikipedia | Zenodo) - data is available on Zenodo, 13.5B tokens. There is a [wikiwho](GitHub - wikiwho/WikiWho: An algorithm to compute token-level provenance and changes for Wiki revisioned content.</description>
+    </item>
+    
+    <item>
       <title>IC2s2 - Tuesday Morning</title>
       <link>http://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</guid>
-      <description>IC2s2 - Tuesday Morning Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science  opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,  also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
+      <description>IC2s2 - Tuesday Morning  Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science   opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,   also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
     </item>
     
     <item>

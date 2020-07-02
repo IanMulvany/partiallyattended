@@ -31,14 +31,9 @@
 </div>
 
 <div>
-          
-
-<p>On Monday the 14th of January we met at the PLOS offices in Cambridge to hear a talk from <a href="http://genomeinformatician.blogspot.de/">Euan Birney</a> on lessons learned from publishing data rich publications though the <a href="http://encodeproject.org/ENCODE/">encode project</a>.</p>
-
+          <p>On Monday the 14th of January we met at the PLOS offices in Cambridge to hear a talk from <a href="http://genomeinformatician.blogspot.de/">Euan Birney</a> on lessons learned from publishing data rich publications though the <a href="http://encodeproject.org/ENCODE/">encode project</a>.</p>
 <p>This was the first time that Euan was far less worried about the print, and far more worried about how well the online version was going to work.</p>
-
 <h2 id="dimensions-of-the-project">Dimensions of the project</h2>
-
 <ul>
 <li>5 TeraBases</li>
 <li>1715 times the size of the Human Genome</li>
@@ -47,28 +42,19 @@
 <li>6 high profile papers</li>
 <li>~35 companion papers</li>
 </ul>
-
 <p>The output should not be thought of as papers, but as the raw data. The organisation and display of that data required non-paper publication methods.</p>
-
 <h2 id="publishing-innovations">Publishing innovations</h2>
-
 <ul>
 <li>Threads</li>
 <li>iPad app</li>
 <li>Interactive Figures</li>
 <li>Virtual Machine for making the data available</li>
 </ul>
-
 <h3 id="threads">Threads</h3>
-
 <p><a href="http://www.nature.com/encode/">Threads</a> are basically paragraph level tagging. It was built by creating a HTML5 app, and the core interactivity model is the same for the website and the iPad app. A big question in the mind of the authors was would this be useful. Would reading a paragraph and a figure from different papers be too incoherent without the overall narrative of a single paper? Euan was really excited when he talked to someone who had printed an entire thread, and she asked questions about the thread. He has had more people talking to him about their use of threads, over the number of people talking about interactive figures.</p>
-
 <p>One of the main points behind doing threads was to bring the companion papers together with the main papers. To make it work you needed to make all of the papers open access. This could just not be done without the papers being open access. The tagging was done by the authors, they created 13 word documents, and they copy and pasted and curated the threads into these word documents. (it sounds like the worst process in the world, but the reader doesn&rsquo;t care, to Euan this is just an implementation detail). They were never going to be in a position to get the different publishers to align their internal XML tagging processes so they went with the dumbest method that was guaranteed to work.</p>
-
 <p>For Science, Nature etcetera, they needed to make a &ldquo;Special Case&rdquo; to make these papers open access to allow this to work. There is an opportunity for OA publishers to be able to say &ldquo;this is just what we do&rdquo;. CC-BY makes the rights aspect of this trivial.</p>
-
 <h5 id="some-lessons">Some lessons</h5>
-
 <ul>
 <li>Could be supported by an open tagging and mash-up site.</li>
 <li>The tagging must be paragraph level, and not papers</li>
@@ -77,64 +63,38 @@
 <li>The ordering of the tags is interesting.</li>
 <li>A nice well executed site that scales in terms of UI is critical - what to do with thousands of threads?</li>
 </ul>
-
 <p>This sounds like what <a href="http://storify.com/">storify</a> does for Tweets and Blogs.</p>
-
 <p>In this scenario, should one just be publishing at the level of paragraphs and tags? Euan feels that the paper provide an important narrative structure.</p>
-
 <p>It was a decision that the threads did not require independent review, as each atom within them had already been reviewed.</p>
-
 <p>People have started to cite the threads via the URL of the thread, however Nature did not ask for DOI&rsquo;s for the threads. (this would cause a problem for ISI and traditional citation counting practices).</p>
-
 <h3 id="interactive-figures">Interactive figures</h3>
-
 <p>This was not the most successful part of the project. There needs to be more investment into the widget creation process. There needs to be more standardisation.</p>
-
 <p>There was a lot of back and forth between the coders and the academics and the publishers on the creation of the interactive figures, but what does this actually give you? &ldquo;It sort of doesn&rsquo;t really change the world&rdquo;. There could be a lot more if you could click on a data point, and drill down on that point. The authors spent a large amount of time, and created some JavaScript prototypes, and these were then refined, but they didn&rsquo;t really get to a thing that they thought was useful.</p>
-
 <p>They tried to make every figure interactive, but they ran out of time, and perhaps lost a bit of focus around this.</p>
-
 <p>There needs to be an open library of JS with standard formats to go into the backed.</p>
-
 <p><a href="http://www.biojs">Biojs</a> is a ground-up EBI widget group, something like this which is domain specific, targeted at specific standard data sets, could be more useful than doing custom visualisations.</p>
-
 <h3 id="virtual-machine">Virtual machine</h3>
-
 <p>This is the ultimate materials and methods for computational papers. This is not a sophisticated thing to publish, it&rsquo;s just a big file. Euan is very proud of this as a scientist. It should be trivial to do from a publishing point of view.</p>
-
 <p>The only thing you have to worry about is the size of your supplementary file limits. Ideally one should deposit it before review, and allow reviewers to spin up for review.</p>
-
 <p>The thing that has been most used have been the tarballs for each individual figures, rather than the VM of the entire machine.</p>
-
 <p>The biggest piece of computation can&rsquo;t be placed into a single VM, but they did put in one example pipeline (a bit like blue peter - here is one we did earlier).</p>
-
 <h3 id="data-integration">Data integration.</h3>
-
 <ul>
 <li>Majority of structured databases have deposit during review</li>
 <li>A few systems allow reviewer accounts, but they are not much used. The VM concept might be a better approach.</li>
 <li>BioStudy database is piece of re-factoring for all data types - a new project coming out of the EBI in 2013.</li>
 </ul>
-
 <h3 id="biostudy">BioStudy</h3>
-
 <p>This is a new initiative from EBI as a way to allow the weaving of multiple data intensive studies together. Each will have it&rsquo;s own access number. These could be tied to individual papers, but not always.</p>
-
 <h3 id="lessons">Lessons</h3>
-
 <ul>
 <li>This kind of approach only makes sense if it&rsquo;s Open Access.</li>
 <li>The interactive figures will be harder to run if you have to make the data access hack proof.</li>
 </ul>
-
 <p>At the outset, most people were interested in the interactive figures, the threads were known about, but not the main focus, however in the end the threads have been more successful. When they started curating threads they started out with about 26, these were collapsed down to 13 final threads. There was a balance between thin threads and thick threads, where you could think of a thin thread of being a hyper-focussed thread.</p>
-
 <h3 id="message">Message</h3>
-
 <p>He now thinks that digital publishing is truly the future, and for open access publishers this kind of thing should be easy, but it is soul searching for closed access publishers.</p>
-
 <p>This really highlights the difference between free to read and free to use. You can only do this when you are in the free to use domain.</p>
-
 <p>It has to be done generically, it can&rsquo;t be done in a publishing house kind of way, as the science is not published though just one publishing house.</p>
 
  </div>

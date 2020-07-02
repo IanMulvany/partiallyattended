@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flickr on Partially Attended</title>
+    <title>flickr on Partially Attended</title>
     <link>http://partiallyattended.com/categories/flickr/</link>
-    <description>Recent content in Flickr on Partially Attended</description>
+    <description>Recent content in flickr on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Mar 2009 00:00:00 +0000</lastBuildDate>
@@ -41,15 +41,6 @@ I used to live in New York a good few years ago, and now when friends ofmine are
     </item>
     
     <item>
-      <title>Mining social data, what Flickr tells us about place</title>
-      <link>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
-      <description>toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I attended last week it came up frequently as being one of the most over-hyped terms around at the moment, but there is substance behind it, and how that substance appears is fully up to the creativity of people who are willing to get their hands dirty with the actual data that is being produced by social web sites.</description>
-    </item>
-    
-    <item>
       <title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
       <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -58,6 +49,15 @@ I used to live in New York a good few years ago, and now when friends ofmine are
       <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
 we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
 Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding</description>
+    </item>
+    
+    <item>
+      <title>Mining social data, what Flickr tells us about place</title>
+      <link>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
+      <description>toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I attended last week it came up frequently as being one of the most over-hyped terms around at the moment, but there is substance behind it, and how that substance appears is fully up to the creativity of people who are willing to get their hands dirty with the actual data that is being produced by social web sites.</description>
     </item>
     
   </channel>

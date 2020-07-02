@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Funding on Partially Attended</title>
+    <title>funding on Partially Attended</title>
     <link>http://partiallyattended.com/categories/funding/</link>
-    <description>Recent content in Funding on Partially Attended</description>
+    <description>Recent content in funding on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
-      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.
-https://openknowledgemaps.org/viper/</description>
+      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.</description>
     </item>
     
     <item>
@@ -28,9 +27,7 @@ https://openknowledgemaps.org/viper/</description>
       
       <guid>http://partiallyattended.com/2016/12/08/quick-review-covalent-data/</guid>
       <description>Covalent Data is a tool to search over research topics. It seems to have the following features:
- Is a DB of grants, papers, people and institutions.
- claims to use machine learning to tie these entities together.
- search results don’t seem to have a way to be exported, so for example though the grant awards results do list the amount of each grant, to get a total amount against a search term, you would need to do the work of extracting each data point manually.</description>
+ Is a DB of grants, papers, people and institutions. claims to use machine learning to tie these entities together. search results don’t seem to have a way to be exported, so for example though the grant awards results do list the amount of each grant, to get a total amount against a search term, you would need to do the work of extracting each data point manually.</description>
     </item>
     
   </channel>

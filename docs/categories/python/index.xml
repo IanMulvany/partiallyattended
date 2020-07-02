@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Partially Attended</title>
+    <title>python on Partially Attended</title>
     <link>http://partiallyattended.com/categories/python/</link>
-    <description>Recent content in Python on Partially Attended</description>
+    <description>Recent content in python on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
-      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.
-https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
+      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.</description>
     </item>
     
     <item>
@@ -27,19 +26,7 @@ https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/</description>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/06/how_to_visualize_an_xml_sitemap_using_python_-_ayima/</guid>
-      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.
-https://www.ayima.com/blog/how-to-visualize-an-xml-sitemap-using-python.html</description>
-    </item>
-    
-    <item>
-      <title>Hunting for structure in nested JSON with python just got a whole lot easier</title>
-      <link>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</guid>
-      <description>A very common python task that I find myself stumbling over repeatedly is trying to get the syntax right to address or retrieve a specific value to a key in a dented JSON document, in particular if that key is some way down the tree.
-I’ve just found the library https://github.com/mahmoud/glom which is written up really nicely here: https://sedimental.org/glom_restructured_data.html
-Before looking at this modele in detail I had thought that I could pass a reference to a key to glom without specifying its location fully in the structure of the input file, but after looking at this for a moment it became clear that this is not what it does, but rather is good at helping to remap nested data structures into new structures, and accessing the data you want via path like queries.</description>
+      <description>This looks like a great way to quickly get an overview of your site architecture, a vital step when thinking about wide spread changes.</description>
     </item>
     
     <item>
@@ -113,7 +100,7 @@ Setup a virtualenv:
       <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
-      <description> Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39; </description>
+      <description>Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39; </description>
     </item>
     
     <item>
@@ -123,6 +110,16 @@ Setup a virtualenv:
       
       <guid>http://partiallyattended.com/2009/10/19/django-models-vs.-pickling-objects-for-object-persistence./</guid>
       <description>I do a bit of code hacking and I often find myself putting objects into pickle files, and reading and writing them in order to fake object persistence. It&#39;s easy, but messy and it begins to leave lot&#39;s of pickle files sitting around in your path. I&#39;ve decided to finally make the switch towards using a more grown up persistent object solution. I&#39;ve decided to try out Django + SQLite.</description>
+    </item>
+    
+    <item>
+      <title>and while we are at it here are the references from that article</title>
+      <link>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
+      <description>References
+ - &amp;quot;Python Objects&amp;quot;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &amp;quot;How to think like a Pythonista&amp;quot;, Mark Hammond, http://python.net/crew/mwh/hacks/objectthink.html - &amp;quot;Python main() functions&amp;quot;, Guido van Rossum, http://www.artima.com/weblogs/viewpost.jsp?thread=4829 - &amp;quot;Python Idioms and Efficiency&amp;quot;, http://jaynes.colorado.edu/PythonIdioms.html - &amp;quot;Python track: python idioms&amp;quot;, http://www.cs.caltech.edu/courses/cs11/material/python/misc/python_idioms.html - &amp;quot;Be Pythonic&amp;quot;, Shalabh Chaturvedi, http://shalabh.infogami.com/Be_Pythonic2 - &amp;quot;Python Is Not Java&amp;quot;, Phillip J. Eby, http://dirtsimple.org/2004/12/python-is-not-java.html - &amp;quot;What is Pythonic?&amp;quot;, Martijn Faassen, http://faassen.n--tree.net/blog/view/weblog/2005/08/06/0 - &amp;quot;Sorting Mini-HOWTO&amp;quot;, Andrew Dalke, http://wiki.python.org/moin/HowTo/Sorting - &amp;quot;Python Idioms&amp;quot;, http://www.</description>
     </item>
     
     <item>
@@ -165,16 +162,6 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
       
       <guid>http://partiallyattended.com/2008/07/14/installing-python-image-library-on-a-mac/</guid>
       <description>I spent about half an hour trying to install the excellent Python ImageLibrary on my mac. It&#39;s one of those things that is more annying than itshould be. You get libjpeg from herehttp://www.ijg.org/files/jpegsrc.v6b.tar.gz follow the instructions here onhow to patch the makefile and how to install libjpeg:http://www.kyngchaos.com/macosx/install/libjpeg (all this after installingthe developer tools on mac), only to fail and then discover that there is aprebuilt binary package here:http://pythonmac.org/packages/py25-fat/index.html which works perfectly.</description>
-    </item>
-    
-    <item>
-      <title>and while we are at it here are the references from that article</title>
-      <link>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
-      <description>References
- - &amp;quot;Python Objects&amp;quot;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &amp;quot;How to think like a Pythonista&amp;quot;, Mark Hammond, http://python.net/crew/mwh/hacks/objectthink.html - &amp;quot;Python main() functions&amp;quot;, Guido van Rossum, http://www.artima.com/weblogs/viewpost.jsp?thread=4829 - &amp;quot;Python Idioms and Efficiency&amp;quot;, http://jaynes.colorado.edu/PythonIdioms.html - &amp;quot;Python track: python idioms&amp;quot;, http://www.cs.caltech.edu/courses/cs11/material/python/misc/python_idioms.html - &amp;quot;Be Pythonic&amp;quot;, Shalabh Chaturvedi, http://shalabh.infogami.com/Be_Pythonic2 - &amp;quot;Python Is Not Java&amp;quot;, Phillip J. Eby, http://dirtsimple.org/2004/12/python-is-not-java.html - &amp;quot;What is Pythonic?&amp;quot;, Martijn Faassen, http://faassen.n--tree.net/blog/view/weblog/2005/08/06/0 - &amp;quot;Sorting Mini-HOWTO&amp;quot;, Andrew Dalke, http://wiki.python.org/moin/HowTo/Sorting - &amp;quot;Python Idioms&amp;quot;, http://www.</description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning on Partially Attended</title>
+    <title>machine learning on Partially Attended</title>
     <link>http://partiallyattended.com/categories/machine-learning/</link>
-    <description>Recent content in Machine Learning on Partially Attended</description>
+    <description>Recent content in machine learning on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
-      <description>This looks like an interesting corpus of machine learning models. One thing I&amp;rsquo;d not really thought about before is that we will now need to start thinking about how to publish the actual models that are used in scholarly research. Some of the models on this site provide ways to reference the work (e.g. https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks).
-https://modelzoo.co/</description>
+      <description>This looks like an interesting corpus of machine learning models. One thing I&amp;rsquo;d not really thought about before is that we will now need to start thinking about how to publish the actual models that are used in scholarly research. Some of the models on this site provide ways to reference the work (e.g. https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks).</description>
     </item>
     
     <item>
@@ -30,8 +29,8 @@ https://modelzoo.co/</description>
       <description>I got asked to contribute an answer to an upcoming feature looking at trends in scholarly discovery.
 There are four questions and I’ve been asked to think about an answer to the last of these four.
  In a sentence or two, please tell us what you understand is meant by &amp;lsquo;discovery&amp;rsquo;?
-For a researcher, how has the discovery experience developed in recent years?
-How can researchers decide which tools are going to do the right job for them?</description>
+  For a researcher, how has the discovery experience developed in recent years?
+  How can researchers decide which tools are going to do the right job for them?</description>
     </item>
     
     <item>
@@ -46,7 +45,8 @@ Heather Staines Director of Partnerships, Hypothes.is
 Peter Brantley Director of Online Strategy, UC Davis
 Elizabeth Caley Chief of Staff, Meta, Chan Zuckerberg Initiative
 Ruth Pickering Co-founder and Chief Strategy Officer, Yewno
-and myself. It was a pleasure to be on a panel with these amazing people.</description>
+and myself. It was a pleasure to be on a panel with these amazing people.
+There was a lot of interest from the audience, and we didn&amp;rsquo;t get anywhere close to talking through all of the questions that we had discussed as a panel ahead of the session, so I&amp;rsquo;m going to blog the questions that we had prepared.</description>
     </item>
     
     <item>

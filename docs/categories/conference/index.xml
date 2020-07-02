@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference on Partially Attended</title>
+    <title>conference on Partially Attended</title>
     <link>http://partiallyattended.com/categories/conference/</link>
-    <description>Recent content in Conference on Partially Attended</description>
+    <description>Recent content in conference on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
@@ -32,17 +32,6 @@ One example that they looked at came from a hedge fund, the data included full I
     </item>
     
     <item>
-      <title>IC2s2 Wikipedia track, Wednesday</title>
-      <link>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
-      <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
-TokTrack - data is available on Zenodo, 13.5B tokens. There is a wikiwho API. This is an accurate dataset of all provennced changes in English wikipedia.
-They can look at survival rates for edits. If an edit survives for 48 hours, then it’s probably safe and will live on in wikipedia.</description>
-    </item>
-    
-    <item>
       <title>ic2s2 Wednesday morning keynotes</title>
       <link>http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
@@ -54,12 +43,22 @@ They also have social network data for these people, so they can connect their s
     </item>
     
     <item>
+      <title>IC2s2 Wikipedia track, Wednesday</title>
+      <link>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2017/07/12/ic2s2_wikipedia_track/</guid>
+      <description>Ic2s2 wikipedia track Studying Content Survival, Authorship &amp;amp; Controversy – By Tracing Every Word Change on Wikipedia - Fabian Flöck, Kenan Erdogan and Maribel Acosta Arriving late to this talk.
+[TokTrack](TokTrack: A Complete Token Provenance and Change Tracking Dataset for the English Wikipedia | Zenodo) - data is available on Zenodo, 13.5B tokens. There is a [wikiwho](GitHub - wikiwho/WikiWho: An algorithm to compute token-level provenance and changes for Wiki revisioned content.</description>
+    </item>
+    
+    <item>
       <title>IC2s2 - Tuesday Morning</title>
       <link>http://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/07/11/ic2s2_2017_tuesday_morning/</guid>
-      <description>IC2s2 - Tuesday Morning Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science  opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,  also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
+      <description>IC2s2 - Tuesday Morning  Open Remarks, President of GESIS  main note is his call for the potential creation of a new disciple, computational social science   opening session, chaired by Duncan Watts Ciro Cattuto - ISI foundation, director of the data science lab  is behind sociopattersn.org have many deployments over the last 10 years they make the data open at sociopatterns.org/datasets really cool work on interaction patterns in schools and hospitals  can see the gender separation as age going on,   also really interesting network study on depression, gender and social network position I like the dimensional reduction techniques on looking at time resolved graphs.</description>
     </item>
     
     <item>
@@ -68,7 +67,7 @@ They also have social network data for these people, so they can connect their s
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2017/07/11/ic2s2_tuesday_afternoon/</guid>
-      <description>IC2s2 Tuesday afternoon Dashun Wang - Predictive Signals Behind Success Dashun starts by talking about weather predictions, natural phenomena can be observed, modelled and predicted. Can success be measured modelled and predicted? Obviously Dashun thinks so, and we are gong to be looking at the result of a number of studies in this talk.
+      <description>IC2s2 Tuesday afternoon  Dashun Wang - Predictive Signals Behind Success Dashun starts by talking about weather predictions, natural phenomena can be observed, modelled and predicted. Can success be measured modelled and predicted? Obviously Dashun thinks so, and we are gong to be looking at the result of a number of studies in this talk.
 Science of Science Aim is to build on top of the work of others, but add to it the massive data that we now have access to, along with the tools that we have developed.</description>
     </item>
     
@@ -121,7 +120,7 @@ AWS has grown enormously, they are estimated to have five times the compute powe
       <guid>http://partiallyattended.com/2013/10/16/plos-aml-13-day1/</guid>
       <description>## Cameron Neylon - Introduction &amp;amp; Welcome
 Interesting - this is the first PLOS ALM meeting that is a &amp;ldquo;normal&amp;rdquo; scheduled presentation. Time is going to be tight.
-Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch.</description>
+Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch. Web of science didn&amp;rsquo;t tell PLOS until 2010 that PLOS one was being tracked for an impact factor.</description>
     </item>
     
     <item>
@@ -132,7 +131,8 @@ Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not sel
       <guid>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
       <description>Yesterday was awesome, let&amp;rsquo;s see how today goes. I was watching from afar, as my wife attended, and now I&amp;rsquo;m here for the afternoon sessions.
 sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?  now on to the sessions!
-[Incentivising Open Access][ioa]. (top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.</description>
+[Incentivising Open Access][ioa].(top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.
+What do researchers get credit for?</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@ sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?
       <guid>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
       <description>I&amp;rsquo;ll keep a partial, live-idsh blog going during the day. I&amp;rsquo;ve been going to these things, I think, since about 2008. I really like these meetings. I&amp;rsquo;m going to probably keep these notes pretty lightweight.
 sessions:  Ben Goldacre Kamila  Session on whether science journalism will be replaced Altmetric track  now on to the sessions!
-Ben Goldacre - opening keynote, on data. . (top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
+Ben Goldacre - opening keynote, on data. .(top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eu on Partially Attended</title>
+    <title>EU on Partially Attended</title>
     <link>http://partiallyattended.com/categories/eu/</link>
-    <description>Recent content in Eu on Partially Attended</description>
+    <description>Recent content in EU on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jun 2016 14:47:22 +0100</lastBuildDate>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</guid>
-      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene. Sabrina Leonelli - the epistemology of data-intesive science. Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed. Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting. Afternoon breakout session - Life Sciences.</description>
+      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene.  Sabrina Leonelli - the epistemology of data-intesive science. [Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed.](#dr-hans-pfeiffenberger-open-science-opportunities-challenges-datasciencefeedhttpstwittercomdatasciencefeed) Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting.   Afternoon breakout session - Life Sciences.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</guid>
-      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  Paul Ayris - Implementing the Future: the LERU roadmap for research data. Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
+      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  [Paul Ayris - Implementing the Future: the LERU roadmap for research data.](#paul-ayris-implementing-the-future-the-leruhttpleruorg-roadmap-for-research-data) Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ General comments There was not much disagreement throughout the day. There were 
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
-      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
+      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation. I added one slide at the end with a personal view on some of the challenges of getting researchers to share data.</description>
     </item>
     
   </channel>

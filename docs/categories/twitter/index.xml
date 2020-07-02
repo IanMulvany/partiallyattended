@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Twitter on Partially Attended</title>
+    <title>twitter on Partially Attended</title>
     <link>http://partiallyattended.com/categories/twitter/</link>
-    <description>Recent content in Twitter on Partially Attended</description>
+    <description>Recent content in twitter on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jun 2012 00:00:00 +0000</lastBuildDate>
@@ -38,17 +38,6 @@ e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doe
     </item>
     
     <item>
-      <title>Sci - foo lurking</title>
-      <link>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</guid>
-      <description>  I&#39;m a Sci-Foo lurker, as I didn&#39;t make the cut to go this year, but I&#39;vebeen lapping up the news seeping out of the meeting. So far my favoriteTwitter post about the meeting comes from Richard Ackerman&#39;s feed:
-&amp;quot;Timo and Tim are trying to kill us. Doesn&#39;t cult brainwashing start withsleep deprivation? Fun so far, anyway&amp;quot;
- </description>
-    </item>
-    
-    <item>
       <title>live blogging from BarCamp Cambridge, Laura James</title>
       <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
       <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
@@ -59,6 +48,17 @@ might get too corporate.
 trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
 they are going to ship a home security system, but they are actuallybuilding a platofrmthat can connect anything that does not require full audio and video
 using a mesh network that connect to a hub using a &#39;zigby&#39;output can be things like a lamp that has a color dependant state</description>
+    </item>
+    
+    <item>
+      <title>Sci - foo lurking</title>
+      <link>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2008/07/14/sci-foo-lurking/</guid>
+      <description>  I&#39;m a Sci-Foo lurker, as I didn&#39;t make the cut to go this year, but I&#39;vebeen lapping up the news seeping out of the meeting. So far my favoriteTwitter post about the meeting comes from Richard Ackerman&#39;s feed:
+&amp;quot;Timo and Tim are trying to kill us. Doesn&#39;t cult brainwashing start withsleep deprivation? Fun so far, anyway&amp;quot;
+ </description>
     </item>
     
   </channel>
