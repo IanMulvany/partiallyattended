@@ -6,10 +6,37 @@
     <description>Recent content in Categories on Partially Attended</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://partiallyattended.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>coding</title>
+      <link>http://partiallyattended.com/categories/coding/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>http://partiallyattended.com/categories/research/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://partiallyattended.com/categories/software/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/categories/software/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>crossref</title>
@@ -197,15 +224,6 @@
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>http://partiallyattended.com/categories/research/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/research/</guid>
       <description></description>
     </item>
     
@@ -575,15 +593,6 @@
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://partiallyattended.com/categories/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software</title>
-      <link>http://partiallyattended.com/categories/software/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/categories/software/</guid>
       <description></description>
     </item>
     

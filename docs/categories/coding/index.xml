@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/coding/</link>
+    <description>Recent content in coding on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CODECHECK - reviewing code in publications</title>
+      <link>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</guid>
+      <description>CODECHECK is a fascinating service - https://codecheck.org.uk/ That creates a workflow for academics to provide feedback on research code. The project is being led by Stephen Eglen and and Daniel Nüst.
+They describe what they do succinctly as
+ CODECHECK is a process for independent reproduction of computations and awarding of time-stamped certificates for successful reproductions of scholarly articles.
+ Checking software in research is a significant challenge, and I really like CODECHECK because it is an initiative that has emerged from researchers themselves.</description>
+    </item>
+    
+  </channel>
+</rss>
