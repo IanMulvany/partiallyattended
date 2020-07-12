@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exampel on Partially Attended</title>
+    <link>http://partiallyattended.com/categories/exampel/</link>
+    <description>Recent content in exampel on Partially Attended</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://partiallyattended.com/categories/exampel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Profit Trees and making business cases</title>
+      <link>http://partiallyattended.com/2020/07/12/profit_trees_and_making_business_cases_/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://partiallyattended.com/2020/07/12/profit_trees_and_making_business_cases_/</guid>
+      <description>This is a very nice overview of how to create a clear business case for design work, but the general approach of walking a tree to find leverage points to build up the argument can be applied any time that you want to make a business case.</description>
+    </item>
+    
+  </channel>
+</rss>
