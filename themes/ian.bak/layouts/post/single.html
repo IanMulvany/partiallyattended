@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<article id="content">
+
+<h1 class="post-title">{{ .Title }}</h1>
+
+<section>
+      <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+      <h5 id="wordcount"> {{ .WordCount }} Words </h5>
+</section>
+
+<div class="post-entry-tags">
+                          Tags:
+                          {{ range $i, $e := .Params.categories }}{{ if $i }},{{ end }} <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+</div>
+
+<div>
+          {{ .Content }}
+ </div>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+
+ </article>
+
+{{ partial "footer.html" . }}

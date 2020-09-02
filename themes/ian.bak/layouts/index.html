@@ -1,0 +1,26 @@
+
+{{ partial "header.html" . }}
+<div role="main" class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="posts-list">
+            {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
+            {{ range $pag.Pages }}
+              {{ partial "summary_item.html" . }}
+            {{ end }}
+          </div>
+
+          {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+          <ul class="pager main-pager">
+            {{ if .Paginator.HasPrev }}
+              <a href="{{ .URL }}page/{{ .Paginator.Prev.PageNumber }}">&larr; Newer Posts</a>
+            {{ end }}
+            {{ if .Paginator.HasNext }}
+              <a href="{{ .URL }}page/{{ .Paginator.Next.PageNumber }}">Older Posts &rarr;</a>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+{{ partial "footer.html" . }}
