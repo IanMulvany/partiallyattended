@@ -1,15 +1,45 @@
-<htlml>
-<head>
-  <base href='{{ .Site.BaseURL }}'>
-  <!-- <title>{{ partial "data/title" . }}</title> -->
-  <link rel='canonical' href='{{ .Permalink }}'>
-  <link href='{{ .RSSLink }}' rel='alternate' type='application/rss+xml' title='{{ .Site.Title }}' />
-  {{ partial "head/includes.html" . }}
-</head>
-</body>
-<h2><a href="{{ .Site.BaseURL }}">home</a> |
-  <a href="{{ .Site.BaseURL }}/categories">tags</a> |
-  <!-- archive | -->
-  <!-- about | -->
-  <a href="http://mulvany.net">mulvany.net</a></h2>
-<hr/>
+<header>
+	{{ if .Site.Params.Avatar }}
+	<div id="avatar">
+		<a href="{{ .Site.BaseURL }}">
+		  <img src="{{ relURL .Site.Params.Avatar }}" alt="{{ .Site.Title }}">
+		</a>
+	</div>
+	{{ end }}
+	<div id="titletext">
+		{{- if .IsHome -}}
+		<h1 id="title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+		{{- else -}}
+		<h2 id="title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>
+		{{- end -}}
+	</div>
+	<div id="title-description">
+		{{- if isset .Site.Params "subtitle" -}}
+		<p id="subtitle">{{ .Site.Params.Subtitle | markdownify }}</p>
+		{{- end -}}
+		<div id="social">
+			<nav>
+				<ul>
+					{{- range $index, $key := .Site.Params.Social -}}
+					{{- if $key.url }}
+					<li><a href="{{ relURL $key.url }}"><i title="{{ $key.name }}" class="icons {{ $key.icon }}"></i></a></li>
+					{{- else -}}
+					<li><a href="{{ $key.cmd }}"><i title="{{ $key.name }}" class="icons {{ $key.icon }}"></i></a></li>
+					{{- end -}}
+					{{- end -}}
+				</ul>
+			</nav>
+		</div>
+	</div>
+	{{ if isset .Site.Menus "main" }}
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				{{ range .Site.Menus.main }}
+				<li><a href="{{ .URL }}">{{ .Name }}</a></li>
+				{{ end }}
+			</ul>
+		</nav>
+	</div>
+	{{ end }}
+</header>
