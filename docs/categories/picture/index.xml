@@ -1,44 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>picture on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/picture/</link>
-    <description>Recent content in picture on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/picture/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>An idea for an interface for picture search</title>
-      <link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
-      <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
-    </item>
-    
-    <item>
-      <title>Mining social data, what Flickr tells us about place</title>
-      <link>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
-      <description>toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I attended last week it came up frequently as being one of the most over-hyped terms around at the moment, but there is substance behind it, and how that substance appears is fully up to the creativity of people who are willing to get their hands dirty with the actual data that is being produced by social web sites.</description>
-    </item>
-    
-    <item>
-      <title>Tips for switching from Windows to Mac</title>
-      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
-      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
--- Where is the right mouse button?
-This is the biggest obvious first difference.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>picture on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/picture/</link>
+		<description>Recent content in picture on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/picture/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>An idea for an interface for picture search</title>
+			<link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+			<description>
+				
+				  A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Mining social data, what Flickr tells us about place</title>
+			<link>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
+			<description>
+				
+				     toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I atten...
+				
+			</description>
+		</item>
+		<item>
+			<title>Tips for switching from Windows to Mac</title>
+			<link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
+			<description>
+				
+				  I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read t...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

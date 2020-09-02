@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shoreditch on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/shoreditch/</link>
-    <description>Recent content in Shoreditch on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/shoreditch/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hidden In Plain Sight</title>
-      <link>http://partiallyattended.com/2013/12/02/hidden-handholds/</link>
-      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/12/02/hidden-handholds/</guid>
-      <description>I was bouldering yesterday. At my local block - a lump of granite embedded in the middle of shore ditch park. I&amp;rsquo;ve been climbing on this block pretty much since the week it was put in place.
-Yesterday I saw that a hold I&amp;rsquo;d never noticed had been chalked up. It&amp;rsquo;s a great hold, at about shoulder height. It fits that pads of two and a half fingers, and in spite of being quite small, it feels pretty positive.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Shoreditch on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/shoreditch/</link>
+		<description>Recent content in Shoreditch on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 02 Dec 2013 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/shoreditch/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Hidden In Plain Sight</title>
+			<link>http://partiallyattended.com/2013/12/02/hidden-handholds/</link>
+			<pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/12/02/hidden-handholds/</guid>
+			<description>
+				
+				I was bouldering yesterday. At my local block - a lump of granite embedded in the middle of shore ditch park. I’ve...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

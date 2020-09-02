@@ -1,54 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>business on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/business/</link>
-    <description>Recent content in business on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/business/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Grants for Nonprofits | Grants for Researchers | Instrumentl</title>
-      <link>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</guid>
-      <description>A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipeline of info about grants.</description>
-    </item>
-    
-    <item>
-      <title>OA negotiation manifesto from university of California.</title>
-      <link>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
-      <description>This is a really interesting initiative from the university of California. If the scholarly landscape looked like this then publishers would have to generate revenue entirely from services and derivative open products, rather than from content licensing.
-Most of the points is the manifesto are fairly unsurprising but two points stood out as interesting to me.
-Point 10 asks for all metadata to be made available including usage metadata. Are Counter reports sufficient for this, or is anything else needed?</description>
-    </item>
-    
-    <item>
-      <title>After 5 years and $3M, here&#39;s everything we&#39;ve learned from building Ghost</title>
-      <link>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</guid>
-      <description>This is a great overview of how a not for profit open source technology company built a working business providing publishing tools. It speaks to how bad the landscape for publishing tools on the web is.
-Their product was originally created on kickstarter, and I remember when it launched, and being impressed with it back then. They have now pivoted away from trying to server small content individuals and are making money serving needs in the enterprise.</description>
-    </item>
-    
-    <item>
-      <title>friends of mine of TV</title>
-      <link>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
-      <description>A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ais for the first couple of years,but it is looking like things are really working out for her now. She wasrecently featured on TV in Ireland, and she has posted a link to the clipfrom her blog. For a really inspirational view on managing business withchildcare have a loot at the vid:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>business on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/business/</link>
+		<description>Recent content in business on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/business/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Grants for Nonprofits | Grants for Researchers | Instrumentl</title>
+			<link>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</guid>
+			<description>
+				
+				A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipel...
+				
+			</description>
+		</item>
+		<item>
+			<title>OA negotiation manifesto from university of California.</title>
+			<link>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
+			<description>
+				
+				This is a really interesting initiative from the university of California. If the scholarly landscape looked like this t...
+				
+			</description>
+		</item>
+		<item>
+			<title>After 5 years and $3M, here&#39;s everything we&#39;ve learned from building Ghost</title>
+			<link>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</guid>
+			<description>
+				
+				This is a great overview of how a not for profit open source technology company built a working business providing publi...
+				
+			</description>
+		</item>
+		<item>
+			<title>friends of mine of TV</title>
+			<link>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
+			<description>
+				
+				  A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ai...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

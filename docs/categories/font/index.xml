@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>font on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/font/</link>
-    <description>Recent content in font on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/font/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Font, Spring 2011, quick report</title>
-      <link>http://partiallyattended.com/2013/03/24/font-spring-2011/</link>
-      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/03/24/font-spring-2011/</guid>
-      <description>Well, it&amp;rsquo;s been almost a week since I got back from Fontainbleau. It was, as usual, a magical trip. Were took advantage of the row of bank holidays to get in a nice long spell in the forest without having to take too much time off work.
-I&amp;rsquo;d been training like a fair old bastard in order to get fit for Marie Rose, but in the end a couple of injuries stopped me going near the route, which was a pity.</description>
-    </item>
-    
-    <item>
-      <title>Font, Spring 2013, preview</title>
-      <link>http://partiallyattended.com/2013/03/24/font-spring-2013-preview/</link>
-      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/03/24/font-spring-2013-preview/</guid>
-      <description>I&amp;rsquo;m about to head to Fontainbleau for another short climbing trip. I&amp;rsquo;ve been going there since 2003, this will be my 10th anniversary of going to font.
-The first time I went there I brought a lot of expectations with me. I was climbing pretty well and I fully expected that I should be able to run up problems of about font 6a. I think I fell off of that first 3a 6 times before I got it.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>font on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/font/</link>
+		<description>Recent content in font on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 24 Mar 2013 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/font/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Font, Spring 2011, quick report</title>
+			<link>http://partiallyattended.com/2013/03/24/font-spring-2011/</link>
+			<pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/03/24/font-spring-2011/</guid>
+			<description>
+				
+				Well, it’s been almost a week since I got back from Fontainbleau. It was, as usual, a magical trip. Were took adva...
+				
+			</description>
+		</item>
+		<item>
+			<title>Font, Spring 2013, preview</title>
+			<link>http://partiallyattended.com/2013/03/24/font-spring-2013-preview/</link>
+			<pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/03/24/font-spring-2013-preview/</guid>
+			<description>
+				
+				I’m about to head to Fontainbleau for another short climbing trip. I’ve been going there since 2003, this wi...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

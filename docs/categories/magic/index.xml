@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>magic on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/magic/</link>
-    <description>Recent content in magic on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/magic/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>If programming is magic, then the old languages are strong</title>
-      <link>http://partiallyattended.com/2008/07/14/if-programming-is-magic-then-the-old-languages-are-strong/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/if-programming-is-magic-then-the-old-languages-are-strong/</guid>
-      <description>The similarity between magic and programming is never more apparent thanwhen you sit down and watch someone who is truly good on the command line.By virtue of having secret knowledge they can quickly accomplish theapparently impossible. If you start out in the unix world you begin bylearning some simple incantations such as &#39;cd&#39;, &#39;ls&#39; and &#39;top&#39; and &#39;kill&#39;.If you persevere with the art eventually you may master the hidden runesthat bring &#39;sed&#39; and &#39;awk&#39; to life.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>magic on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/magic/</link>
+		<description>Recent content in magic on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/magic/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>If programming is magic, then the old languages are strong</title>
+			<link>http://partiallyattended.com/2008/07/14/if-programming-is-magic-then-the-old-languages-are-strong/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/if-programming-is-magic-then-the-old-languages-are-strong/</guid>
+			<description>
+				
+				  The similarity between magic and programming is never more apparent thanwhen you sit down and watch someone who is tru...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

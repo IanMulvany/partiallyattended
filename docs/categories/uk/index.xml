@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>UK on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/uk/</link>
-    <description>Recent content in UK on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2016 14:47:22 +0100</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/uk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>I’m voting IN, and you should too</title>
-      <link>http://partiallyattended.com/post/2016-06-21-voting-in/</link>
-      <pubDate>Tue, 21 Jun 2016 14:47:22 +0100</pubDate>
-      
-      <guid>http://partiallyattended.com/post/2016-06-21-voting-in/</guid>
-      <description>Well, here we are, two days out from the referendum. I’m voting IN, but that’s not the main point of this post. The fact that we are having this referendum at all, the fact that it is going to be so close, the fact that it has unleashed a wave of ill informed anger across the divide, all of these things have made me worry and despair a little about the state of politics in Britain.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>UK on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/uk/</link>
+		<description>Recent content in UK on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 21 Jun 2016 14:47:22 +0100</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/uk/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>I’m voting IN, and you should too</title>
+			<link>http://partiallyattended.com/post/2016-06-21-voting-in/</link>
+			<pubDate>Tue, 21 Jun 2016 14:47:22 +0100</pubDate>
+			
+			<guid>http://partiallyattended.com/post/2016-06-21-voting-in/</guid>
+			<description>
+				
+				Well, here we are, two days out from the referendum. I’m voting IN, but that’s not the main point of this post. The fact...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>threaded publications on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/threaded-publications/</link>
-    <description>Recent content in threaded publications on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/threaded-publications/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>How to create threads between publications and clinical trial registraion numbers</title>
-      <link>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</link>
-      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</guid>
-      <description>Yesterday I attended an interesting meeting to discuss how to improve the connection between clinical trial registration ids and publications. My raw notes from the meeting follow. This is being discussed as publication threads, but the idea discussed here stands apart from the kind of publication threads that the endcode project worked on.
-attendees ATTENDEES - organisations: eLife f1000 PLOS BMC Springer lancet BMJ crossref
-attendees - people Geoffrey Bilder, CrossRef, Director of Strategic Initiatives Rachael Lammey, CrossRef, Product Manager CrossMark Daniel Shanahan, BioMed Central, Associate Publisher Tim Stevenson, BioMed Central, Product Manager Deborah Kahn, BioMed Central, EVP Publishing Caroline Black, BioMed Central, Senior Publisher Katherine Barton, BMJ, Operations Manager Josie Breen, BMJ, Head of Editorial Production Isaac Jones, BMJ, Production Manager Ian Mulvany, eLife, Head of Technology Iain Hrynaszkiewicz, F1000, Outreach Director Karen Rowlett, F1000Research, Managing Editor Helene Faure, ISRCTN Database Manager Hannah Jones, The Lancet, Managing Editor Dan Lewsley, The Lancet, Head of Production Joseph Brown, PLoS, Senior Editorial Manager Volker Boeing, Springer, Director, Process and Content Management Mirjam Kessler, Springer, Bibliographic Metadata Manager</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>threaded publications on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/threaded-publications/</link>
+		<description>Recent content in threaded publications on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 31 Jan 2014 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/threaded-publications/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>How to create threads between publications and clinical trial registraion numbers</title>
+			<link>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</link>
+			<pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</guid>
+			<description>
+				
+				Yesterday I attended an interesting meeting to discuss how to improve the connection between clinical trial registration...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

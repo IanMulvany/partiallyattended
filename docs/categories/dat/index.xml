@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dat on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/dat/</link>
-    <description>Recent content in dat on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/dat/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Internet Archive, Code for Science and Society, and California Digital Library to Partner on a Data Sharing and Preservation Pilot Project</title>
-      <link>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</guid>
-      <description>Some major players are getting together to trial decentralised data sharing using the Dat protocol - https://datproject.org. Dat for me is one of the dark horses of the infrastructure landscape. It has great power, some amazing developers, has already created some great value, and is still not known by many people yet.
-Also, this is not blockchain based, and yet manages to be decentralised. Those of you who know me will know why that pleases me.</description>
-    </item>
-    
-    <item>
-      <title>Where once we dreamt of many gardens, now we have many walls</title>
-      <link>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</guid>
-      <description>I’m reading through Anil Dash’s great blog post looking back at the way the web used to be in terms of how we thought of it, and how it was implemented. (As an aside, I’m deeply fascinated by Glitch, but have not had the time to date to spend on it that I would have wished).
-In addition to his comment about how websites are now assembled, component by component, there is another aspect to modern development that I’ve strongly noticed, and that is of specialisation.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>dat on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/dat/</link>
+		<description>Recent content in dat on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/dat/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Internet Archive, Code for Science and Society, and California Digital Library to Partner on a Data Sharing and Preservation Pilot Project</title>
+			<link>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</guid>
+			<description>
+				
+				Some major players are getting together to trial decentralised data sharing using the Dat protocol - https://datproject....
+				
+			</description>
+		</item>
+		<item>
+			<title>Where once we dreamt of many gardens, now we have many walls</title>
+			<link>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</link>
+			<pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</guid>
+			<description>
+				
+				I’m reading through Anil Dash’s great blog post looking back at the way the web used to be in terms of how we thought of...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

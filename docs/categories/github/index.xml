@@ -1,45 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>github on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/github/</link>
-    <description>Recent content in github on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/github/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>The Cost of Developers – by Ben Thompson</title>
-      <link>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</guid>
-      <description>This is a fascinating post on what dynamics are in place between large companies and developers. The bottom line is that Microsoft has had to pay a large sum (&amp;gt;$7B) to acquire a developer friendly platform because they currently don&amp;rsquo;t really have one. In contrast Apple has a lot of leverage over developers on iOS, but not on other platforms.
-I&amp;rsquo;m not sure if there is a connection to researchers in the STM space, but some journals certainly have a lot of leverage over researchers.</description>
-    </item>
-    
-    <item>
-      <title>The 70/90 Rule</title>
-      <link>http://partiallyattended.com/2015/02/04/the-70-90-rule/</link>
-      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/02/04/the-70-90-rule/</guid>
-      <description>I was having a conversation last week with a good friend who works in the financial services sector. We were discussing technical debt, and the tendency of certain teams to want to do everything themselves. He described some colleagues in a team that is tasked with managing a large data pipeline for calculation of risks in a particular market. This is central to the bottom line of the company. Oh, they also used to run their own mailing list server!</description>
-    </item>
-    
-    <item>
-      <title>Some advice on learning web development.</title>
-      <link>http://partiallyattended.com/2013/07/29/web-dev-advice/</link>
-      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/07/29/web-dev-advice/</guid>
-      <description>Here is some advice I gave a few months ago to a friend on becoming a web dev. I think it still holds up.
-The most important thing I have lots of advice, it I think the most important advice that I have boils down to do work. Build up a portfolio, and get comfortable and fluid with the tools that you will use to do web development.
-We look for skilled passionate people, and the best way to show that, is to show projects that you have been working on.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>github on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/github/</link>
+		<description>Recent content in github on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/github/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>The Cost of Developers – by Ben Thompson</title>
+			<link>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</guid>
+			<description>
+				
+				This is a fascinating post on what dynamics are in place between large companies and developers. The bottom line is that...
+				
+			</description>
+		</item>
+		<item>
+			<title>The 70/90 Rule</title>
+			<link>http://partiallyattended.com/2015/02/04/the-70-90-rule/</link>
+			<pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/02/04/the-70-90-rule/</guid>
+			<description>
+				
+				I was having a conversation last week with a good friend who works in the financial services sector. We were discussing ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Some advice on learning web development.</title>
+			<link>http://partiallyattended.com/2013/07/29/web-dev-advice/</link>
+			<pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/07/29/web-dev-advice/</guid>
+			<description>
+				
+				Here is some advice I gave a few months ago to a friend on becoming a web dev. I think it still holds up.
+The most impor...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

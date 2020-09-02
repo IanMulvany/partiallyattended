@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>patents on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/patents/</link>
-    <description>Recent content in patents on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/patents/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Patents and Peer Review, kissing cousins?</title>
-      <link>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</guid>
-      <description>Below follows a long comment that I posted to an article on O&#39;Reilly Radar about patents.
-The original blog post is here
-There is an interesting compliment to the patent system in the domain of assigning credit to ideas, which is the academic peer-review system.
-The inventor of the idea in the case of academia is the author. The equivalent to the patent office is the editorial board of the academic journal that the author submits to.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>patents on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/patents/</link>
+		<description>Recent content in patents on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/patents/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Patents and Peer Review, kissing cousins?</title>
+			<link>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/patents-and-peer-review/</guid>
+			<description>
+				
+				  Below follows a long comment that I posted to an article on O&#39;Reilly Radar about patents.
+The original blog post is he...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>epistimology on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/epistimology/</link>
-    <description>Recent content in epistimology on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/epistimology/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Robert Bunsen&#39;s Birthday</title>
-      <link>http://partiallyattended.com/2011/03/31/bunsen/</link>
-      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/03/31/bunsen/</guid>
-      <description>Google&amp;rsquo;s homepage cartoon today tells me that it&amp;rsquo;s Robert Bunsen&amp;rsquo;s birthday. He is famous for the invention of the burner named after him, but his contribution to our understanding of the universe around us runs much much deeper than that. He co-created the science of spectroscopy with Gustav Kirchhoff. This is something I learned about when I was living for a while in Heidelberg, one of the university building&amp;rsquo;s along the Hauptstrasse is named after Bunsen.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>epistimology on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/epistimology/</link>
+		<description>Recent content in epistimology on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/epistimology/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Robert Bunsen&#39;s Birthday</title>
+			<link>http://partiallyattended.com/2011/03/31/bunsen/</link>
+			<pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/03/31/bunsen/</guid>
+			<description>
+				
+				Google’s homepage cartoon today tells me that it’s Robert Bunsen’s birthday. He is famous for the inve...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

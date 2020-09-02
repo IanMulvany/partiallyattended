@@ -1,46 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>product management on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/product-management/</link>
-    <description>Recent content in product management on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Strategy in a Lean Enterprise - lean value tree.</title>
-      <link>http://partiallyattended.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</guid>
-      <description>I&amp;rsquo;ve been working with lean value tree as a framework for some time now, but there are few online resources about this. The linked presentation does a great job of giving an overview of the tool. In particular I like how they call out the need to describe the promise of value to the customer, something that we could definitely do more of.
-Another presentation on the same topic is this one: https://www.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;m hiring a product manager</title>
-      <link>http://partiallyattended.com/2017/07/20/im-hiring/</link>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/07/20/im-hiring/</guid>
-      <description>So, I&amp;rsquo;m hiring a product manager. We are working on developing new green field products. We have a small, really fun team, and we are using a lot of lean tools to try to get to product-market fit with relativly low risk.
-To apply submit a CV using our [hiring portal](https://uk.sagepub.com/en-gb/eur/sage-vacancies].
-Here are some more details about the role:
-What we are doing SAGE is innovating around how we might support social science researchers engaging with big data and new technology.</description>
-    </item>
-    
-    <item>
-      <title>Some thoughts about product management</title>
-      <link>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
-      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
-      <description>I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I&amp;rsquo;ve been learning on the job. There are a huge number of resources out there, great lectures, books, conferences, blog posts. In this short post I just want to reflect a bit on what I&amp;rsquo;ve learned on this topic through direct personal experience. I continue to learn, and my thinking continues to evolve, so this post is more of a look back, than a look to the future.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>product management on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/product-management/</link>
+		<description>Recent content in product management on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Strategy in a Lean Enterprise - lean value tree.</title>
+			<link>http://partiallyattended.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</guid>
+			<description>
+				
+				I’ve been working with lean value tree as a framework for some time now, but there are few online resources about ...
+				
+			</description>
+		</item>
+		<item>
+			<title>I&#39;m hiring a product manager</title>
+			<link>http://partiallyattended.com/2017/07/20/im-hiring/</link>
+			<pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/07/20/im-hiring/</guid>
+			<description>
+				
+				So, I’m hiring a product manager. We are working on developing new green field products. We have a small, really f...
+				
+			</description>
+		</item>
+		<item>
+			<title>Some thoughts about product management</title>
+			<link>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
+			<pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
+			<description>
+				
+				I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I’...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

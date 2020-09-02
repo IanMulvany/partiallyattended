@@ -1,47 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>asilearn on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/asilearn/</link>
-    <description>Recent content in asilearn on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/asilearn/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hunting for structure in nested JSON with python just got a whole lot easier</title>
-      <link>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</guid>
-      <description>A very common python task that I find myself stumbling over repeatedly is trying to get the syntax right to address or retrieve a specific value to a key in a dented JSON document, in particular if that key is some way down the tree.
-I’ve just found the library https://github.com/mahmoud/glom which is written up really nicely here: https://sedimental.org/glom_restructured_data.html
-Before looking at this modele in detail I had thought that I could pass a reference to a key to glom without specifying its location fully in the structure of the input file, but after looking at this for a moment it became clear that this is not what it does, but rather is good at helping to remap nested data structures into new structures, and accessing the data you want via path like queries.</description>
-    </item>
-    
-    <item>
-      <title>python - running commands from within a directory</title>
-      <link>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</guid>
-      <description>A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
-from subprocess import Popen, PIPE import os import sys class cd: &amp;#34;&amp;#34;&amp;#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &amp;#34;&amp;#34;&amp;#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&amp;#34;~/blog/partiallyattended&amp;#34;): title = new_post.title process = subprocess.</description>
-    </item>
-    
-    <item>
-      <title>Where should you host your Kubernetes solution?</title>
-      <link>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</guid>
-      <description>I previously Kicked the tyres on kubernetes, with an example of how to deploy it onto Google’s infrastructure, but if you want to scale out and start dong some real work with this piece of infrastructure where should you go to have a hosted Kubernetes solution?
-I honestly don’t have an answer to that. The Kubernetes site provides a large list of providers.
-A friend of mine has been considering between https://stackpoint.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>asilearn on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/asilearn/</link>
+		<description>Recent content in asilearn on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/asilearn/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Hunting for structure in nested JSON with python just got a whole lot easier</title>
+			<link>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</link>
+			<pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/11/hunting_for_structure_in_nested_json_with_python_just_got_a_whole_lot_easier_/</guid>
+			<description>
+				
+				A very common python task that I find myself stumbling over repeatedly is trying to get the syntax right to address or r...
+				
+			</description>
+		</item>
+		<item>
+			<title>python - running commands from within a directory</title>
+			<link>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</link>
+			<pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/</guid>
+			<description>
+				
+				A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, pro...
+				
+			</description>
+		</item>
+		<item>
+			<title>Where should you host your Kubernetes solution?</title>
+			<link>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</link>
+			<pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</guid>
+			<description>
+				
+				I previously Kicked the tyres on kubernetes, with an example of how to deploy it onto Google’s infrastructure, but if yo...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

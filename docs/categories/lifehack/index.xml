@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>lifehack on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/lifehack/</link>
-    <description>Recent content in lifehack on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/lifehack/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>The 70/90 Rule</title>
-      <link>http://partiallyattended.com/2015/02/04/the-70-90-rule/</link>
-      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/02/04/the-70-90-rule/</guid>
-      <description>I was having a conversation last week with a good friend who works in the financial services sector. We were discussing technical debt, and the tendency of certain teams to want to do everything themselves. He described some colleagues in a team that is tasked with managing a large data pipeline for calculation of risks in a particular market. This is central to the bottom line of the company. Oh, they also used to run their own mailing list server!</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>lifehack on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/lifehack/</link>
+		<description>Recent content in lifehack on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 04 Feb 2015 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/lifehack/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>The 70/90 Rule</title>
+			<link>http://partiallyattended.com/2015/02/04/the-70-90-rule/</link>
+			<pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/02/04/the-70-90-rule/</guid>
+			<description>
+				
+				I was having a conversation last week with a good friend who works in the financial services sector. We were discussing ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

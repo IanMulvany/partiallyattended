@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>solo13 on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/solo13/</link>
-    <description>Recent content in solo13 on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/solo13/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Spoton13</title>
-      <link>http://partiallyattended.com/2013/11/10/solo13-friday/</link>
-      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/11/10/solo13-friday/</guid>
-      <description>I managed to squeeze in a few hours on Friday attending the spoton conference in London. I&amp;rsquo;ve been at each one since 2008, and have had the good fortune to present something at most of them. This time I had been asked to sit in on a panel to talk about elife&amp;rsquo;s policy around media relations, but as I was flying in that morning from an editorial board meeting held in Washington it was not clear to me that I would make it in time, so the fantastic @sciencescoops (Jennifer Mitchell) represented for eLife in my place.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>solo13 on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/solo13/</link>
+		<description>Recent content in solo13 on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 10 Nov 2013 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/solo13/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Spoton13</title>
+			<link>http://partiallyattended.com/2013/11/10/solo13-friday/</link>
+			<pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/11/10/solo13-friday/</guid>
+			<description>
+				
+				I managed to squeeze in a few hours on Friday attending the spoton conference in London. I’ve been at each one sin...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

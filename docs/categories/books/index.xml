@@ -1,36 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>books on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/books/</link>
-    <description>Recent content in books on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Book review - Tiamat’s wrath - book nine of the expanse series.</title>
-      <link>http://partiallyattended.com/2019/09/10/book_review_-_tiamats_wrath_-_book_nine_of_the_expanse_series._/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/09/10/book_review_-_tiamats_wrath_-_book_nine_of_the_expanse_series._/</guid>
-      <description>This book review is really only for people who have been reading all of the expanse book series. If you have not then there are some spoilers in here.
-I finished this over my summer holiday, and it was a ton of fun.
-I noted that In the first few books of the series when the action was contained within the solar system a lot of book time was taken up describing the time it took to travel around the solar system, and the intricacies if the orbital mechanics that went into that.</description>
-    </item>
-    
-    <item>
-      <title>Today at lunch duplicators and instantiators</title>
-      <link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
-      <description>I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last time I can recall having somany interesting discussions over lunch and breaks was way back when I wasin my first undergraduate degree, but the topics of conversation that tendto come up at my current place of employment are really worth trying torecord.
-Today we started off having a couple of split conversation, Euan describingchatting to Martha at Sci-Foo and Euan and I talking about Euler, as you do.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>books on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/books/</link>
+		<description>Recent content in books on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Book review - Tiamat’s wrath - book nine of the expanse series.</title>
+			<link>http://partiallyattended.com/2019/09/10/book_review_-_tiamats_wrath_-_book_nine_of_the_expanse_series._/</link>
+			<pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/09/10/book_review_-_tiamats_wrath_-_book_nine_of_the_expanse_series._/</guid>
+			<description>
+				
+				This book review is really only for people who have been reading all of the expanse book series. If you have not then th...
+				
+			</description>
+		</item>
+		<item>
+			<title>Today at lunch duplicators and instantiators</title>
+			<link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
+			<description>
+				
+				  I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last ti...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,34 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>scripting on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/scripting/</link>
-    <description>Recent content in scripting on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/scripting/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Moving from Jekyll to Hugo - urls</title>
-      <link>http://partiallyattended.com/2017/09/13/moving_from_jekyll_to_hugo_-_urls/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/09/13/moving_from_jekyll_to_hugo_-_urls/</guid>
-      <description>I&amp;rsquo;ve been changing the static blog generator that I use and am slowly moving from Jekyll to Hugo. My main reason is the better support for tags and categories that Hugo supports, but I&amp;rsquo;m not finding the templating as intuitive in Hugo as in Jekyll, so it&amp;rsquo;s not a slam-dunk.
-There are a couple of small differences between the two systems that are making me reconfigure my blogging workflow a bit.</description>
-    </item>
-    
-    <item>
-      <title>science scraping with YQL</title>
-      <link>http://partiallyattended.com/2010/09/06/science-scraping-with-yql/</link>
-      <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/09/06/science-scraping-with-yql/</guid>
-      <description>Last Saturday at Science Online London I gave a quick tutorial on YQL, and how it might be used to mash up scientific data sets. Below I list some of the sample queries that I was playing with. Before you get started with the console have a look through the documentation. I got a lot of milage out of the part about filters and joins. The blog post by Paul Hogan on using YQL for library maships was also very helpful.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>scripting on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/scripting/</link>
+		<description>Recent content in scripting on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/scripting/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Moving from Jekyll to Hugo - urls</title>
+			<link>http://partiallyattended.com/2017/09/13/moving_from_jekyll_to_hugo_-_urls/</link>
+			<pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/09/13/moving_from_jekyll_to_hugo_-_urls/</guid>
+			<description>
+				
+				I’ve been changing the static blog generator that I use and am slowly moving from Jekyll to Hugo. My main reason i...
+				
+			</description>
+		</item>
+		<item>
+			<title>science scraping with YQL</title>
+			<link>http://partiallyattended.com/2010/09/06/science-scraping-with-yql/</link>
+			<pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/09/06/science-scraping-with-yql/</guid>
+			<description>
+				
+				Last Saturday at Science Online London I gave a quick tutorial on YQL, and how it might be used to mash up scientific da...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

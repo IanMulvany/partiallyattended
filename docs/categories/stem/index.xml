@@ -1,48 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>stem on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/stem/</link>
-    <description>Recent content in stem on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/stem/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Are scholarly publishers technology companies?</title>
-      <link>http://partiallyattended.com/2019/09/05/are_scholarly_publishers_technology_companies_/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/09/05/are_scholarly_publishers_technology_companies_/</guid>
-      <description>There is tension in this question that gets to the heart of where a publisher should be putting its resources, and perhaps more importantly what the reasons are behind those investment decisions.
-The side of the argument that says they are not technology companies might say that at the heart of what publishers do is content, and so they are content and service companies. Invest then in acquisition, in reach, in marketing, in branding, in distribution and in making the sales process as cost effective asa possible.</description>
-    </item>
-    
-    <item>
-      <title>blockchain in STEM - part 3</title>
-      <link>http://partiallyattended.com/2018/07/04/blockchain_in_stem_-_part_3__/</link>
-      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/07/04/blockchain_in_stem_-_part_3__/</guid>
-      <description>Over the last few weeks I’ve been writing up some thoughts on the uses of blockchain in STEM.
-The first post I gave a general overview of my understand of blockchain.
-In the second post I looked at potential use cases of blockchain in STEM, and came up somewhat short.
-That said, a lot, really, a lot of very smart people are talking about this, and doing things in this space, so in this post I wanted to look at a few of those efforts and see how their thinking lines up or diverges from mine.</description>
-    </item>
-    
-    <item>
-      <title>blockchain in STEM - part 2</title>
-      <link>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</link>
-      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</guid>
-      <description>In my last post I gave an overview of what blockchain is, while also confusing House of Pain and Cypress Hill. (These posts are probably best read whilst listening to either of those songs).
-In this post I’m going to look at potential use cases for blockchain in STEM and scholarly publishing.
-Scholarly communications use cases. When thinking about any use cases in STEM I think the questions we need to answer are:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>stem on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/stem/</link>
+		<description>Recent content in stem on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/stem/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Are scholarly publishers technology companies?</title>
+			<link>http://partiallyattended.com/2019/09/05/are_scholarly_publishers_technology_companies_/</link>
+			<pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/09/05/are_scholarly_publishers_technology_companies_/</guid>
+			<description>
+				
+				There is tension in this question that gets to the heart of where a publisher should be putting its resources, and perha...
+				
+			</description>
+		</item>
+		<item>
+			<title>blockchain in STEM - part 3</title>
+			<link>http://partiallyattended.com/2018/07/04/blockchain_in_stem_-_part_3__/</link>
+			<pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/07/04/blockchain_in_stem_-_part_3__/</guid>
+			<description>
+				
+				Over the last few weeks I’ve been writing up some thoughts on the uses of blockchain in STEM.
+The first post I gave a ge...
+				
+			</description>
+		</item>
+		<item>
+			<title>blockchain in STEM - part 2</title>
+			<link>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</link>
+			<pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</guid>
+			<description>
+				
+				In my last post I gave an overview of what blockchain is, while also confusing House of Pain and Cypress Hill. (These po...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

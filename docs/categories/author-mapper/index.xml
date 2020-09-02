@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>author mapper on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/author-mapper/</link>
-    <description>Recent content in author mapper on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2009 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/author-mapper/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>World War II, Science and Springer Authors</title>
-      <link>http://partiallyattended.com/2009/01/09/world-war-ii-science-and-springer-authors/</link>
-      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/01/09/world-war-ii-science-and-springer-authors/</guid>
-      <description>Springer have just launched a web app that lets you search for
+	<channel>
+		<title>author mapper on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/author-mapper/</link>
+		<description>Recent content in author mapper on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 09 Jan 2009 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/author-mapper/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>World War II, Science and Springer Authors</title>
+			<link>http://partiallyattended.com/2009/01/09/world-war-ii-science-and-springer-authors/</link>
+			<pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2009/01/09/world-war-ii-science-and-springer-authors/</guid>
+			<description>
+				
+				 
+Springer have just launched a web app that lets you search for
 locations of authors, AuthorMapper. They
-have done this by building an XML database with the citation metadata
-for all of their papers. You search for terms or authors and it will
-generate a google map with the locations for your search terms, or
-people. The site also has some other infoporn, including a histogram
-for authors published by year for your search term.</description>
-    </item>
-    
-  </channel>
+have done this...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>the future is coming on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/the-future-is-coming/</link>
-    <description>Recent content in the future is coming on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 11 Nov 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/the-future-is-coming/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>The new food.</title>
-      <link>http://partiallyattended.com/2012/11/11/cheese-not-jectpacks/</link>
-      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/11/11/cheese-not-jectpacks/</guid>
-      <description>I got to spend a really fun forty minutes or so this morning with Pat Brown, down at the home of Lyrical Foods, the new project that he is involved in. They are aiming to replace the dairy and cattle industry by producing food from plant derived products that is indistinguisable from the original products. They have already created artisinal cheeses that are indistingushable from milk-based cheeses, and I understand that they are currently working on fake blood, that has the same response profile to cooking, as real blood does.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>the future is coming on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/the-future-is-coming/</link>
+		<description>Recent content in the future is coming on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 11 Nov 2012 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/the-future-is-coming/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>The new food.</title>
+			<link>http://partiallyattended.com/2012/11/11/cheese-not-jectpacks/</link>
+			<pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/11/11/cheese-not-jectpacks/</guid>
+			<description>
+				
+				I got to spend a really fun forty minutes or so this morning with Pat Brown, down at the home of Lyrical Foods, the new ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

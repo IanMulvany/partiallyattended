@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>datascience on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/datascience/</link>
-    <description>Recent content in datascience on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/datascience/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Cool slide deck about the advantages of using the shell for data science.</title>
-      <link>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</guid>
-      <description>I love this short presentation on using the shell for data science. Many of the things hat are described in the presentation are just plain useful anyway, searching over csv files, finding things, renaming things.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>datascience on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/datascience/</link>
+		<description>Recent content in datascience on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/datascience/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Cool slide deck about the advantages of using the shell for data science.</title>
+			<link>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</link>
+			<pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</guid>
+			<description>
+				
+				I love this short presentation on using the shell for data science. Many of the things hat are described in the presenta...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

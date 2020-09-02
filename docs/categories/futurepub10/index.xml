@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>futurepub10 on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/futurepub10/</link>
-    <description>Recent content in futurepub10 on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/futurepub10/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Futurepub10</title>
-      <link>http://partiallyattended.com/2017/03/16/future-pub-10/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/03/16/future-pub-10/</guid>
-      <description>This week I attended futurepub10, I love these events, I&amp;rsquo;ve been to a bunch, and the format of short talks, and lots of time to catchup with people is just great.
-# A new Cartography of Collaboration - Daniel Hook, CEO Digital Science (work with Ian Calvert).
-Digital science have produced a report on collaboration, and this talk was covering one of chapters from that.
-I was interested to see what the key takeaways are that you can describe in a five minute talk.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>futurepub10 on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/futurepub10/</link>
+		<description>Recent content in futurepub10 on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/futurepub10/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Futurepub10</title>
+			<link>http://partiallyattended.com/2017/03/16/future-pub-10/</link>
+			<pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/03/16/future-pub-10/</guid>
+			<description>
+				
+				This week I attended futurepub10, I love these events, I’ve been to a bunch, and the format of short talks, and lo...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,125 +1,151 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>software on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/software/</link>
-    <description>Recent content in software on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>CODECHECK - reviewing code in publications</title>
-      <link>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</guid>
-      <description>CODECHECK is a fascinating service - https://codecheck.org.uk/ That creates a workflow for academics to provide feedback on research code. The project is being led by Stephen Eglen and and Daniel Nüst.
-They describe what they do succinctly as
- CODECHECK is a process for independent reproduction of computations and awarding of time-stamped certificates for successful reproductions of scholarly articles.
- Checking software in research is a significant challenge, and I really like CODECHECK because it is an initiative that has emerged from researchers themselves.</description>
-    </item>
-    
-    <item>
-      <title>AGILE or agile?</title>
-      <link>http://partiallyattended.com/2018/11/29/agile_or_agile_/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/11/29/agile_or_agile_/</guid>
-      <description>Three links today looking at the state of agile as a software development practice.
-Flavours of Agile In Flavours of Agile Pat Kua briefly describes and rates a number of agile processes. There are a ton here, and loads that I’d not heard of. One of the key messages that I get from reading this is that “AGILE” as a fixed practice has been growing, especially within in enterprise, and perhaps not to the benefit of actually delivering or simplifying the delivery of complex processes.</description>
-    </item>
-    
-    <item>
-      <title>JavaScript End to End Testing Framework | Cypress.io</title>
-      <link>http://partiallyattended.com/2018/06/29/javascript_end_to_end_testing_framework__cypress.io/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/javascript_end_to_end_testing_framework__cypress.io/</guid>
-      <description>https://www.cypress.io/</description>
-    </item>
-    
-    <item>
-      <title>Sentry | Error Tracking Software — JavaScript, Python, PHP, Ruby, more</title>
-      <link>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</guid>
-      <description>https://sentry.io/welcome/</description>
-    </item>
-    
-    <item>
-      <title>Limiting “Software Infant mortality” rate — decoding GO-JEK’s Deployment Checklist</title>
-      <link>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</guid>
-      <description>A great example of using a &amp;ldquo;flight plan checklist&amp;rdquo; to reduce risk in software development.</description>
-    </item>
-    
-    <item>
-      <title>Research Software Engineering conference 2018 workshop abstract</title>
-      <link>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</guid>
-      <description>About As SAGE is sponsoring the Research Software Engineers conference in September we get to submit a workshop. I’m thrilled to be able to attend this conference. Many years ago I used to write research software in astrophysics. Over the years I have learnt how complex the interplay is between specification, software writing and getting to the heart of user needs. Along with this is the critical question of how we find sustainable models for these kinds of activities.</description>
-    </item>
-    
-    <item>
-      <title>Is caution justified when thinking about docker?</title>
-      <link>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</guid>
-      <description>I’ve been fascinated by docker for the past few years, and there is clearly a “rush to dockerise” I’ve been Neville’s by how easy it is to get complex systems up and running locally, so perhaps it’s time to read with some caution some of the potential downsides.
-http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret Argues about those.
-He article highlights exactly why I like docker:
- Me: “I can write a bash script. Or “make”. Or any other kind of installer, of which there are dozens.</description>
-    </item>
-    
-    <item>
-      <title>choice magazine podcast Questions</title>
-      <link>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</guid>
-      <description>This week I was interviewed for the ALA choice podcast, a podcast that the that is
- a weekly program featuring in-depth conversations about contemporary trends, best practices, and case studies important to academic librarians. Hosted by Bill Mickey, the Editorial Director at Choice
- The topic was about trends in big data and the role of the library, and it was really fun to participate in, and the panel I was on included Caroline Muglia from the University of Southern California Libraries as well as Andy Rutkowski and Eimmy Karina Solis from USC libraries.</description>
-    </item>
-    
-    <item>
-      <title>Software Publishing To Maximise Data Value, slides from ALPSP</title>
-      <link>http://partiallyattended.com/2017/09/14/software_publishing_to_maximise_data_value_slides_from_alpsp/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/09/14/software_publishing_to_maximise_data_value_slides_from_alpsp/</guid>
-      <description>Here are some annotated slides from my ALPSP talk today.</description>
-    </item>
-    
-    <item>
-      <title>Something broke in a Jekyll upgrade (a.k.a, sometimes I hate software)</title>
-      <link>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</link>
-      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</guid>
-      <description>This is a short story about software, some of the things I hate about it, my lack of knowledge of ruby, and a desire to own my own words.
-For various reasons I&amp;rsquo;m working on a brand new machine, I decided that I want to start posting to my own blog again (as well as cross posting to Medium, because fuck it, why not).
-That involved dusting down my Jekyll site and seeing if I could get it to work again.</description>
-    </item>
-    
-    <item>
-      <title>Some thoughts about product management</title>
-      <link>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
-      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
-      <description>I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I&amp;rsquo;ve been learning on the job. There are a huge number of resources out there, great lectures, books, conferences, blog posts. In this short post I just want to reflect a bit on what I&amp;rsquo;ve learned on this topic through direct personal experience. I continue to learn, and my thinking continues to evolve, so this post is more of a look back, than a look to the future.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>software on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/software/</link>
+		<description>Recent content in software on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/software/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>CODECHECK - reviewing code in publications</title>
+			<link>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</link>
+			<pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</guid>
+			<description>
+				
+				CODECHECK is a fascinating service - https://codecheck.org.uk/ That creates a workflow for academics to provide feedback...
+				
+			</description>
+		</item>
+		<item>
+			<title>AGILE or agile?</title>
+			<link>http://partiallyattended.com/2018/11/29/agile_or_agile_/</link>
+			<pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/11/29/agile_or_agile_/</guid>
+			<description>
+				
+				Three links today looking at the state of agile as a software development practice.
+Flavours of Agile In Flavours of Agi...
+				
+			</description>
+		</item>
+		<item>
+			<title>JavaScript End to End Testing Framework | Cypress.io</title>
+			<link>http://partiallyattended.com/2018/06/29/javascript_end_to_end_testing_framework__cypress.io/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/javascript_end_to_end_testing_framework__cypress.io/</guid>
+			<description>
+				
+				https://www.cypress.io/
+				
+			</description>
+		</item>
+		<item>
+			<title>Sentry | Error Tracking Software — JavaScript, Python, PHP, Ruby, more</title>
+			<link>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</guid>
+			<description>
+				
+				https://sentry.io/welcome/
+				
+			</description>
+		</item>
+		<item>
+			<title>Limiting “Software Infant mortality” rate — decoding GO-JEK’s Deployment Checklist</title>
+			<link>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/limiting_software_infant_mortality_rate__decoding_go-jeks_deployment_checklist/</guid>
+			<description>
+				
+				A great example of using a “flight plan checklist” to reduce risk in software development.
+https://blog.goje...
+				
+			</description>
+		</item>
+		<item>
+			<title>Research Software Engineering conference 2018 workshop abstract</title>
+			<link>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</guid>
+			<description>
+				
+				About As SAGE is sponsoring the Research Software Engineers conference in September we get to submit a workshop. I’m thr...
+				
+			</description>
+		</item>
+		<item>
+			<title>Is caution justified when thinking about docker?</title>
+			<link>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</guid>
+			<description>
+				
+				I’ve been fascinated by docker for the past few years, and there is clearly a “rush to dockerise” I’ve been Neville’s by...
+				
+			</description>
+		</item>
+		<item>
+			<title>choice magazine podcast Questions</title>
+			<link>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</link>
+			<pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</guid>
+			<description>
+				
+				This week I was interviewed for the ALA choice podcast, a podcast that the that is
+ a weekly program featuring in-depth ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Software Publishing To Maximise Data Value, slides from ALPSP</title>
+			<link>http://partiallyattended.com/2017/09/14/software_publishing_to_maximise_data_value_slides_from_alpsp/</link>
+			<pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/09/14/software_publishing_to_maximise_data_value_slides_from_alpsp/</guid>
+			<description>
+				
+				Here are some annotated slides from my ALPSP talk today.
+
+				
+			</description>
+		</item>
+		<item>
+			<title>Something broke in a Jekyll upgrade (a.k.a, sometimes I hate software)</title>
+			<link>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</link>
+			<pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</guid>
+			<description>
+				
+				This is a short story about software, some of the things I hate about it, my lack of knowledge of ruby, and a desire to ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Some thoughts about product management</title>
+			<link>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
+			<pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
+			<description>
+				
+				I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I’...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

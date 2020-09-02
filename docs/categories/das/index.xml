@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>das on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/das/</link>
-    <description>Recent content in das on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/das/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>das on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/das/</link>
+		<description>Recent content in das on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/das/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
+			<pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
+			<pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

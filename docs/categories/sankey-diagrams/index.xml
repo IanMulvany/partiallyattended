@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>sankey diagrams on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/sankey-diagrams/</link>
-    <description>Recent content in sankey diagrams on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2009 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/sankey-diagrams/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Neat blog on Sankey diagrams.</title>
-      <link>http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</link>
-      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</guid>
-      <description>I just noticed a very nice blog dedicated to Sankey diagrams. As Phineas mentions in one post: Sankey diagrams are directed graphs.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>sankey diagrams on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/sankey-diagrams/</link>
+		<description>Recent content in sankey diagrams on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 14 Apr 2009 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/sankey-diagrams/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Neat blog on Sankey diagrams.</title>
+			<link>http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</link>
+			<pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2009/04/14/neat-blog-on-sankey-diagrams/</guid>
+			<description>
+				
+				 I just noticed a very nice blog dedicated to Sankey diagrams. As Phineas mentions in one post: Sankey diagrams are dire...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

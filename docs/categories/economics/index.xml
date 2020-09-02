@@ -1,35 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>economics on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/economics/</link>
-    <description>Recent content in economics on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2006 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/economics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Economics and The New World Order,</title>
-      <link>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</link>
-      <pubDate>Mon, 26 Jun 2006 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</guid>
-      <description>Economics and The New World Order,
-I had a rather detailed and engaging conversation on Friday night with a couple of good friends of mine about Economics, and it&#39;s explanatory power. My friend Brain holds that economics explains everything, except perhaps for the laws of physics. Now I am also tempted to buy into his arguments, he is quite a persuasive fellow, however I intrinsically feel some caution in doing so, and I have been trying to figure out why.</description>
-    </item>
-    
-    <item>
-      <title>Economics and The New World Order,</title>
-      <link>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</link>
-      <pubDate>Mon, 26 Jun 2006 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</guid>
-      <description>Economics and The New World Order,
-I had a rather detailed and engaging conversation on Friday night with a couple of good friends of mine about Economics, and it&#39;s explanatory power. My friend Brain holds that economics explains everything, except perhaps for the laws of physics. Now I am also tempted to buy into his arguments, he is quite a persuasive fellow, however I intrinsically feel some caution in doing so, and I have been trying to figure out why.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>economics on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/economics/</link>
+		<description>Recent content in economics on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 26 Jun 2006 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Economics and The New World Order,</title>
+			<link>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</link>
+			<pubDate>Mon, 26 Jun 2006 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</guid>
+			<description>
+				
+				Economics and The New World Order,
+I had a rather detailed and engaging conversation on Friday night with a couple of go...
+				
+			</description>
+		</item>
+		<item>
+			<title>Economics and The New World Order,</title>
+			<link>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</link>
+			<pubDate>Mon, 26 Jun 2006 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2006/06/26/economics-and-the-new-world-order/</guid>
+			<description>
+				
+				Economics and The New World Order,
+I had a rather detailed and engaging conversation on Friday night with a couple of go...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

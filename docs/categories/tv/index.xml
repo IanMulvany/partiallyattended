@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>tv on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/tv/</link>
-    <description>Recent content in tv on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/tv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Potter prediction</title>
-      <link>http://partiallyattended.com/2008/07/14/potter-prediction/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/potter-prediction/</guid>
-      <description>  I wonder how long it&#39;s going to be before we see a children&#39;s TV series setat Hogwarts. I predict within the next 5 years.
-tags: Harry Potter, TV
- </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>tv on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/tv/</link>
+		<description>Recent content in tv on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/tv/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Potter prediction</title>
+			<link>http://partiallyattended.com/2008/07/14/potter-prediction/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/potter-prediction/</guid>
+			<description>
+				
+				  I wonder how long it&#39;s going to be before we see a children&#39;s TV series setat Hogwarts. I predict within the next 5 ye...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

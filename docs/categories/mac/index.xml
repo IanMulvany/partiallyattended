@@ -1,143 +1,155 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>mac on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/mac/</link>
-    <description>Recent content in mac on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/mac/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
-      <link>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
-      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
-      <description>I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I&amp;rsquo;m working on OSX Mavericks, and I want to get as clean an install as possible. For the most part I am also using the fish shell. This is what I&amp;rsquo;ve just run through over the last 20 minutes.
- Install command line tools from the terminal
-$ xcode-select --install  Next we are going to install homebrew, with homebrew we will install rvm and with rvm we will install ruby.</description>
-    </item>
-    
-    <item>
-      <title>Wrangling image metadata</title>
-      <link>http://partiallyattended.com/2010/12/13/wrangling-image-metadata/</link>
-      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/12/13/wrangling-image-metadata/</guid>
-      <description>I&amp;rsquo;m trying to move away from iPhoto because I have lost too many pictures over the years from having multiple versions of an image lying around, from metadata being plopped all over the place. It is time to move to a more sustainable simple way of naming foldering and tagging my image archive.
-In the course of looking at this I have been playing around with Lightroom, and I want to ensure that I can add tags at a system level on my mac, and have them show up in Lightroom, and at the same time have Lightroom tags discoverable through spotlight searches.</description>
-    </item>
-    
-    <item>
-      <title>Video workflow with a mac using iMovie and capturing with a Lumix GF1</title>
-      <link>http://partiallyattended.com/2010/11/14/mac-gf1-video-workflow/</link>
-      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/11/14/mac-gf1-video-workflow/</guid>
-      <description>I&amp;rsquo;m figuring out the best way to shoot video with my Lumix GF1 on a mac using iMovie. The GF1 offers two main options for video capture, HD JPEG, and AVCHD. There is a great post describing the pros and cons of these two formats here [], and based on that I decided to experiment with AVCHD. After playing around a little I found a few oddities. JPEG capture writes the files onto the device as .</description>
-    </item>
-    
-    <item>
-      <title>Read mail in intervals on OS X</title>
-      <link>http://partiallyattended.com/2010/07/05/checking-mail-infrequently/</link>
-      <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/07/05/checking-mail-infrequently/</guid>
-      <description>In order to check mail less frequently than the options available, following a hint from macosxhints:
- set up an applescript to tell mail to check for mail. put that script under a launchd deamon with an interval use lingon to setup the deamon  so far it seems to be working, yay!
-http://www.macosxhints.com/article.php?story=20010427022452992
-use</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
-      <description>Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
-the idea was to have an open source human genome
-companies would have to do some work before they could make money off ofsequences.
-the ensemble projects takes the raw data from the genes and adds other datato this, such as reference data from other experiments
-there is enemble codeand there is the data</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge, ARM microcontroler</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
-      <description>ARM microcontroler dev guy.
-hard to use these processors, whanted to make something like this availableto normal peoplewant internet bluetooth connected devices
-so they built something
-he just plugged in a microcontoler with a wireless sensorhis machine things that it&#39;s a flash drive
-he dregged over a binarythe device started blinking, this is the hello world of hardware hacking,cool
-what can you do now? well cool stuff obviously!</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
-      <description>what&#39;s cool about microformats web?
+	<channel>
+		<title>mac on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/mac/</link>
+		<description>Recent content in mac on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 19 Nov 2013 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/mac/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
+			<link>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
+			<pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
+			<description>
+				
+				I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I’m working...
+				
+			</description>
+		</item>
+		<item>
+			<title>Wrangling image metadata</title>
+			<link>http://partiallyattended.com/2010/12/13/wrangling-image-metadata/</link>
+			<pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/12/13/wrangling-image-metadata/</guid>
+			<description>
+				
+				I’m trying to move away from iPhoto because I have lost too many pictures over the years from having multiple vers...
+				
+			</description>
+		</item>
+		<item>
+			<title>Video workflow with a mac using iMovie and capturing with a Lumix GF1</title>
+			<link>http://partiallyattended.com/2010/11/14/mac-gf1-video-workflow/</link>
+			<pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/11/14/mac-gf1-video-workflow/</guid>
+			<description>
+				
+				I’m figuring out the best way to shoot video with my Lumix GF1 on a mac using iMovie. The GF1 offers two main opti...
+				
+			</description>
+		</item>
+		<item>
+			<title>Read mail in intervals on OS X</title>
+			<link>http://partiallyattended.com/2010/07/05/checking-mail-infrequently/</link>
+			<pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/07/05/checking-mail-infrequently/</guid>
+			<description>
+				
+				In order to check mail less frequently than the options available, following a hint from macosxhints:
+ set up an applesc...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
+			<description>
+				
+				  Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
+the idea ...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge, ARM microcontroler</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
+			<description>
+				
+				  ARM microcontroler dev guy.
+hard to use these processors, whanted to make something like this availableto normal peopl...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+			<description>
+				
+				  what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
-personal information disastertravel airlines don&#39;t talk to railroads
- microformats say, what problem does it solve?
- perhaps there is no problem at all
-what problem does blogging solve?Twitter for christ&#39;s sake?
-no one knows what they do until they are popular
-e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doesn&#39;t have a clear defined purpose</description>
-    </item>
-    
-    <item>
-      <title>CPANPLUS and Mac OSX</title>
-      <link>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</guid>
-      <description>OK, so I&#39;m interested in installing the Connotea code base on my mac fordevelopment reasons. It will be the first time that I am going to startplaying around with a largish perl installation on my macine and there are alot of perl dependencies to be installed. Rather than going through CPANmodule by module, and rather than writing a bundle file for the connoteadependancies (because I don&#39;t know how to do that yet) I decided to try touse CPANPLUS, due to the tips on perl administration withCPANPLUS</description>
-    </item>
-    
-    <item>
-      <title>Installing Python Image Library on a Mac</title>
-      <link>http://partiallyattended.com/2008/07/14/installing-python-image-library-on-a-mac/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/installing-python-image-library-on-a-mac/</guid>
-      <description>I spent about half an hour trying to install the excellent Python ImageLibrary on my mac. It&#39;s one of those things that is more annying than itshould be. You get libjpeg from herehttp://www.ijg.org/files/jpegsrc.v6b.tar.gz follow the instructions here onhow to patch the makefile and how to install libjpeg:http://www.kyngchaos.com/macosx/install/libjpeg (all this after installingthe developer tools on mac), only to fail and then discover that there is aprebuilt binary package here:http://pythonmac.org/packages/py25-fat/index.html which works perfectly.</description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge, Laura James</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
-      <description>Laura JamesAlert Me.Com
+personal informati...
+				
+			</description>
+		</item>
+		<item>
+			<title>CPANPLUS and Mac OSX</title>
+			<link>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</guid>
+			<description>
+				
+				  OK, so I&#39;m interested in installing the Connotea code base on my mac fordevelopment reasons. It will be the first time...
+				
+			</description>
+		</item>
+		<item>
+			<title>Installing Python Image Library on a Mac</title>
+			<link>http://partiallyattended.com/2008/07/14/installing-python-image-library-on-a-mac/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/installing-python-image-library-on-a-mac/</guid>
+			<description>
+				
+				  I spent about half an hour trying to install the excellent Python ImageLibrary on my mac. It&#39;s one of those things tha...
+				
+			</description>
+		</item>
+		<item>
+			<title>live blogging from BarCamp Cambridge, Laura James</title>
+			<link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
+			<description>
+				
+				  Laura JamesAlert Me.Com
 might get too corporate.
-trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
-they are going to ship a home security system, but they are actuallybuilding a platofrmthat can connect anything that does not require full audio and video
-using a mesh network that connect to a hub using a &#39;zigby&#39;output can be things like a lamp that has a color dependant state</description>
-    </item>
-    
-    <item>
-      <title>Tips for switching from Windows to Mac</title>
-      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
-      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
--- Where is the right mouse button?
-This is the biggest obvious first difference.</description>
-    </item>
-    
-  </channel>
+trying to do the internet of things, internet access to small devices...
+				
+			</description>
+		</item>
+		<item>
+			<title>Tips for switching from Windows to Mac</title>
+			<link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
+			<description>
+				
+				  I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read t...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>OA on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/oa/</link>
-    <description>Recent content in OA on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/oa/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Some thoughts on the Taylor and Francis Survey.</title>
-      <link>http://partiallyattended.com/2013/04/27/tf-survey/</link>
-      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/04/27/tf-survey/</guid>
-      <description>I took a look at the T&amp;amp;F survey with interest. I&amp;rsquo;m also very aware of the concerns and confusions that exist around licensing. I&amp;rsquo;m also aware of the &amp;ldquo;one size doesn&amp;rsquo;t fit all&amp;rdquo; argument.
-I&amp;rsquo;ll address the T&amp;amp;F survey first, and then I&amp;rsquo;ll briefly discuss CC-BY pros and cons, purely from the point of view of my own understanding of these issues - I might be very wrong on this.</description>
-    </item>
-    
-    <item>
-      <title>SOPA and PIPA stink, but the RWA is more dangerous to science.</title>
-      <link>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</link>
-      <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</guid>
-      <description>There are three bills up for consideration in the US Government which if passed will have a significant negative impact on academic research. These are the Stop Online Piracy Act (SOPA), the Protect IP Act (PIPA), and the Research Works Act (RWA).
-SOPA and PIPA will have a negative impact by putting censorship controls into the hands of the entertainment industry, and permitting legal process to affect the underlying architecture of the web.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>OA on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/oa/</link>
+		<description>Recent content in OA on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 27 Apr 2013 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/oa/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Some thoughts on the Taylor and Francis Survey.</title>
+			<link>http://partiallyattended.com/2013/04/27/tf-survey/</link>
+			<pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/04/27/tf-survey/</guid>
+			<description>
+				
+				I took a look at the T&amp;F survey with interest. I’m also very aware of the concerns and confusions that exist a...
+				
+			</description>
+		</item>
+		<item>
+			<title>SOPA and PIPA stink, but the RWA is more dangerous to science.</title>
+			<link>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</link>
+			<pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</guid>
+			<description>
+				
+				There are three bills up for consideration in the US Government which if passed will have a significant negative impact ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

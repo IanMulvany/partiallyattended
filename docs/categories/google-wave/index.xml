@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>google-wave on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/google-wave/</link>
-    <description>Recent content in google-wave on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2009 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/google-wave/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Notes from the Google Wave London roadshow</title>
-      <link>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</link>
-      <pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</guid>
-      <description>Gtug blog post
-On Monday I was at the London Google wave roadshow presented by Lars and Stephanie. The previous Friday I had helped to run a hack day for science applications in wave, so with that experience fresh in my mind I was particularly interested to see what they would say about a few particular topics.
-We had a few problems in the hack day which could be summarised as follows:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>google-wave on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/google-wave/</link>
+		<description>Recent content in google-wave on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 31 Oct 2009 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/google-wave/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Notes from the Google Wave London roadshow</title>
+			<link>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</link>
+			<pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</guid>
+			<description>
+				
+				 Gtug blog post
+On Monday I was at the London Google wave roadshow presented by Lars and Stephanie. The previous Friday ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

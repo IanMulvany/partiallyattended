@@ -1,67 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SAGE on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/sage/</link>
-    <description>Recent content in SAGE on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/sage/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Goodbye SAGE, hello BMJ!</title>
-      <link>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</guid>
-      <description>I’m excited to share the news that from mid-April I will be joining the BMJ as their new CTO. I’ll be leaving SAGE on great terms with the teams here, and for sure there will be a little sadness and I’ll definitely miss my colleagues, but equally I’m super excited about the new challenges ahead.
-Crucially, at SAGE we are hiring for my replacement, so if you are interested in applying for one of the most fun roles in the Scholarly Publishing industry at the moment then reach out, I’m happy to chat about what we have been up to!</description>
-    </item>
-    
-    <item>
-      <title>scholarly comms product meetup - V2 - announcement</title>
-      <link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
-      <description>Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots of great meetups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies, but solely on the product management work that is required to develop these kinds of tools.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;m hiring a product manager</title>
-      <link>http://partiallyattended.com/2017/07/20/im-hiring/</link>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/07/20/im-hiring/</guid>
-      <description>So, I&amp;rsquo;m hiring a product manager. We are working on developing new green field products. We have a small, really fun team, and we are using a lot of lean tools to try to get to product-market fit with relativly low risk.
-To apply submit a CV using our [hiring portal](https://uk.sagepub.com/en-gb/eur/sage-vacancies].
-Here are some more details about the role:
-What we are doing SAGE is innovating around how we might support social science researchers engaging with big data and new technology.</description>
-    </item>
-    
-    <item>
-      <title>IC2s2 2017, conference preview</title>
-      <link>http://partiallyattended.com/2017/07/10/ic2s2-preview/</link>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/07/10/ic2s2-preview/</guid>
-      <description>I&amp;rsquo;m about to head to Köln for the International Conference on Computational Social Science (IC2S2) and I&amp;rsquo;m pretty excited for a whole bunch of reasons.
-I&amp;rsquo;ve been fascinated by network science, and the potential application of techniques from that science to the rest of research, for quite a while, but generally this has been an interest that I have entertained from a distance.
-I had the pleasure of attending an early instance of the NetSci conference series back in 2008, and even contributed to a working paper looking at the implications of the intersection between social data and network algorithms (Mining for Social Serendipity), however the academic track has not been my track at all, and with one thing or another this was a community that my career moved me away from for some time.</description>
-    </item>
-    
-    <item>
-      <title>Hello SAGE!</title>
-      <link>http://partiallyattended.com/2016/12/15/hello-sage/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2016/12/15/hello-sage/</guid>
-      <description>Hello SAGE! I joined SAGE at the start of September. Hello SAGE!! Here I outline some of my initial impressions.
-First up, I&amp;rsquo;ve been really delighted to meet so many great people at SAGE. I&amp;rsquo;ve received great support from everyone in the company. I generally find publishing folk to be very friendly. This is a friendly industry, working on the fabric of knowledge, knowing that your work can help to make a difference, trying to make the work of academics a bit easier.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>SAGE on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/sage/</link>
+		<description>Recent content in SAGE on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/sage/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Goodbye SAGE, hello BMJ!</title>
+			<link>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</link>
+			<pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</guid>
+			<description>
+				
+				I’m excited to share the news that from mid-April I will be joining the BMJ as their new CTO. I’ll be leaving SAGE on gr...
+				
+			</description>
+		</item>
+		<item>
+			<title>scholarly comms product meetup - V2 - announcement</title>
+			<link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
+			<pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
+			<description>
+				
+				Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots...
+				
+			</description>
+		</item>
+		<item>
+			<title>I&#39;m hiring a product manager</title>
+			<link>http://partiallyattended.com/2017/07/20/im-hiring/</link>
+			<pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/07/20/im-hiring/</guid>
+			<description>
+				
+				So, I’m hiring a product manager. We are working on developing new green field products. We have a small, really f...
+				
+			</description>
+		</item>
+		<item>
+			<title>IC2s2 2017, conference preview</title>
+			<link>http://partiallyattended.com/2017/07/10/ic2s2-preview/</link>
+			<pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/07/10/ic2s2-preview/</guid>
+			<description>
+				
+				I’m about to head to Köln for the International Conference on Computational Social Science (IC2S2) and I’m p...
+				
+			</description>
+		</item>
+		<item>
+			<title>Hello SAGE!</title>
+			<link>http://partiallyattended.com/2016/12/15/hello-sage/</link>
+			<pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2016/12/15/hello-sage/</guid>
+			<description>
+				
+				Hello SAGE! I joined SAGE at the start of September. Hello SAGE!! Here I outline some of my initial impressions.
+First u...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

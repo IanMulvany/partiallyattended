@@ -1,60 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>big data on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/big-data/</link>
-    <description>Recent content in big data on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>US phone companies are selling your real time location data.</title>
-      <link>http://partiallyattended.com/2018/05/16/us_phone_companies_are_selling_your_real_time_location_data._/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/us_phone_companies_are_selling_your_real_time_location_data._/</guid>
-      <description>https://www.zdnet.com/article/us-cell-carriers-selling-access-to-real-time-location-data/
-File this one under “you do it to yourself”
-Of course the key thing here is that directly selling this data to law enforcement is illegal, but indirectly selling it is not. The market is acting as an evolutionary force to find ways to extract money by moving around laws that are out in place to protect citizens. In this case the economy can move at a faster pace with business innovation that the law can to protect citizens.</description>
-    </item>
-    
-    <item>
-      <title>choice magazine podcast Questions</title>
-      <link>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</guid>
-      <description>This week I was interviewed for the ALA choice podcast, a podcast that the that is
- a weekly program featuring in-depth conversations about contemporary trends, best practices, and case studies important to academic librarians. Hosted by Bill Mickey, the Editorial Director at Choice
- The topic was about trends in big data and the role of the library, and it was really fun to participate in, and the panel I was on included Caroline Muglia from the University of Southern California Libraries as well as Andy Rutkowski and Eimmy Karina Solis from USC libraries.</description>
-    </item>
-    
-    <item>
-      <title>What do we mean when we talk about Big Data?</title>
-      <link>http://partiallyattended.com/2016/12/15/what-is-big-data/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
-      <description>What do we mean when we talk about Big Data?
-The following blog post about this article provides the following definition of big data:
- “High volume data that frequently combines highly structured administrative data actively collected by public sector organisations with continuously and automatically collected structured and unstructured real-time data that are often passively created by public and private entities through their internet.”
- The article is behind a paywall, but the blog is pretty clearly laid out.</description>
-    </item>
-    
-    <item>
-      <title>Textometrica, a tool review</title>
-      <link>http://partiallyattended.com/2016/12/09/textometrica-quick-review/</link>
-      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2016/12/09/textometrica-quick-review/</guid>
-      <description>A quick spin with Textometrica Yesterday I had a good conversation with Simon Lindgren, the creator of textometrica. I decided to try out the tool before chatting to him.
-Textometrica encapsulates a process for understanding the relationship and distribution of the occurrence of concepts in a body of plain text. It provides a multi-step online tool for the analysis.
-The advantage of using this tool is that you don&amp;rsquo;t need to be able to do any coding to get to a point where you have some quite interesting analysis of your corpus.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>big data on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/big-data/</link>
+		<description>Recent content in big data on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>US phone companies are selling your real time location data.</title>
+			<link>http://partiallyattended.com/2018/05/16/us_phone_companies_are_selling_your_real_time_location_data._/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/us_phone_companies_are_selling_your_real_time_location_data._/</guid>
+			<description>
+				
+				https://www.zdnet.com/article/us-cell-carriers-selling-access-to-real-time-location-data/
+File this one under “you do it...
+				
+			</description>
+		</item>
+		<item>
+			<title>choice magazine podcast Questions</title>
+			<link>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</link>
+			<pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</guid>
+			<description>
+				
+				This week I was interviewed for the ALA choice podcast, a podcast that the that is
+ a weekly program featuring in-depth ...
+				
+			</description>
+		</item>
+		<item>
+			<title>What do we mean when we talk about Big Data?</title>
+			<link>http://partiallyattended.com/2016/12/15/what-is-big-data/</link>
+			<pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
+			<description>
+				
+				What do we mean when we talk about Big Data?
+The following blog post about this article provides the following definitio...
+				
+			</description>
+		</item>
+		<item>
+			<title>Textometrica, a tool review</title>
+			<link>http://partiallyattended.com/2016/12/09/textometrica-quick-review/</link>
+			<pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2016/12/09/textometrica-quick-review/</guid>
+			<description>
+				
+				A quick spin with Textometrica Yesterday I had a good conversation with Simon Lindgren, the creator of textometrica. I d...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>WriteLaTeX on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/writelatex/</link>
-    <description>Recent content in WriteLaTeX on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/writelatex/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>WriteLateX/Overleaf launch event at the British Library</title>
-      <link>http://partiallyattended.com/2014/01/18/writelatex-overleaf-launch/</link>
-      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/01/18/writelatex-overleaf-launch/</guid>
-      <description>Last Thursday I attended the launch event for OverLeaf. The event was composed of a set of very short talks, followed by a good chance to chat to people. It was a pretty nice evening.
-Dr Bibiana Campos Seijo - MRSC - magazines publisher and editor of chemistry world. Science is changing, publising is changing, a lot of this is being driven by technology. There is information overlaod. Publishers need to try to provide solutions to these issues.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>WriteLaTeX on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/writelatex/</link>
+		<description>Recent content in WriteLaTeX on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 18 Jan 2014 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/writelatex/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>WriteLateX/Overleaf launch event at the British Library</title>
+			<link>http://partiallyattended.com/2014/01/18/writelatex-overleaf-launch/</link>
+			<pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/01/18/writelatex-overleaf-launch/</guid>
+			<description>
+				
+				Last Thursday I attended the launch event for OverLeaf. The event was composed of a set of very short talks, followed by...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

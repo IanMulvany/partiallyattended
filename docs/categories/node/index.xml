@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>node on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/node/</link>
-    <description>Recent content in node on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/node/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Architect, The Killer Serverless Framework – Reify</title>
-      <link>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</guid>
-      <description>A nice overview of an npm framework for creating server-less applications on AWS. It abstracts away a lot of the plumbing, which can have upsides and downsides. I&amp;rsquo;d love to see something equivalent in python.
-The actual framework is here: https://arc.codes</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>node on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/node/</link>
+		<description>Recent content in node on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/node/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Architect, The Killer Serverless Framework – Reify</title>
+			<link>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</guid>
+			<description>
+				
+				A nice overview of an npm framework for creating server-less applications on AWS. It abstracts away a lot of the plumbin...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

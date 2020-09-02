@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>citations on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/citations/</link>
-    <description>Recent content in citations on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/citations/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Reverse DOI lookups with Crossref</title>
-      <link>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</link>
-      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</guid>
-      <description>Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.
-@CrossrefOrg helped out and pointed me to the reverse api endpoint. It workes like this:
-http://api.crossref.org/reverse
-Created a json payload file “citation.json” formatted as follows:
-[ &amp;#34;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
-    </item>
-    
-    <item>
-      <title>Mendeley, an investment branch of the citation bank.</title>
-      <link>http://partiallyattended.com/2012/01/18/mendeley-citebank/</link>
-      <pubDate>Wed, 18 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/01/18/mendeley-citebank/</guid>
-      <description>The awesome Rod Page has a great post on utilising Mendeley as a bank for citation data. He recommends that projects such as the Biodiversity Heritage Library should build on top of the kind of infrastructure that we have already created at Mendeley. I&amp;rsquo;m a big fan of this as an idea, and indeed one of my goals for Mendeley is for us to create a system that makes it easier for others to build great tools for researchers.</description>
-    </item>
-    
-    <item>
-      <title>Citation Style Language</title>
-      <link>http://partiallyattended.com/2010/09/24/csl/</link>
-      <pubDate>Fri, 24 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/09/24/csl/</guid>
-      <description>Martin Fenner asked me to comment on Mendeley&amp;rsquo;s relationship with the Citation Style Language, so I thought I would pop up my thoughts on the blog too. Martin&amp;rsquo;s post below is the original message that I sent over to him.
-Hi Martin, thanks for getting in touch and asking about Mendeley&amp;rsquo;s relationship with CSL. There are basically three aspects of citation styling that I&amp;rsquo;d like to discuss, the first is about Mendeley&amp;rsquo;s involvement, the second is about the use of citation styling in the community, and amongst publishers, and the third is about how we identify things in academia, and how we format those identifiers.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>citations on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/citations/</link>
+		<description>Recent content in citations on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/citations/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Reverse DOI lookups with Crossref</title>
+			<link>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</link>
+			<pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</guid>
+			<description>
+				
+				Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.
+@CrossrefOrg helped ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Mendeley, an investment branch of the citation bank.</title>
+			<link>http://partiallyattended.com/2012/01/18/mendeley-citebank/</link>
+			<pubDate>Wed, 18 Jan 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/01/18/mendeley-citebank/</guid>
+			<description>
+				
+				The awesome Rod Page has a great post on utilising Mendeley as a bank for citation data. He recommends that projects suc...
+				
+			</description>
+		</item>
+		<item>
+			<title>Citation Style Language</title>
+			<link>http://partiallyattended.com/2010/09/24/csl/</link>
+			<pubDate>Fri, 24 Sep 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/09/24/csl/</guid>
+			<description>
+				
+				Martin Fenner asked me to comment on Mendeley’s relationship with the Citation Style Language, so I thought I woul...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

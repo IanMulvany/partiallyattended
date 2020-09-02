@@ -1,42 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ERC on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/erc/</link>
-    <description>Recent content in ERC on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 24 Sep 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/erc/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>thoughts on the ERC data workshop</title>
-      <link>http://partiallyattended.com/2014/09/24/erc-workshop-thought/</link>
-      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/09/24/erc-workshop-thought/</guid>
-      <description>On Thursday and Friday of last week I attended a European Research Council workshop on managing research data. It was well attended with about 130 participants brining views from across the academic disciplines. I&amp;rsquo;ve blogged my raw notes from day one and day two. In this post I reflect on the points I noticed that were raised over the two days. People have been talking about the increasing importance of research information for many years now, and a hope was raised in the opening comments that we might be able to provide solutions to the problems posed by the issues of research data, by the end of the workshop.</description>
-    </item>
-    
-    <item>
-      <title>ERC data management workshop, day 1</title>
-      <link>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</link>
-      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</guid>
-      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene.  Sabrina Leonelli - the epistemology of data-intesive science. [Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed.](#dr-hans-pfeiffenberger-open-science-opportunities-challenges-datasciencefeedhttpstwittercomdatasciencefeed) Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting.   Afternoon breakout session - Life Sciences.</description>
-    </item>
-    
-    <item>
-      <title>ERC data management workshop, day 2</title>
-      <link>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</link>
-      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</guid>
-      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  [Paul Ayris - Implementing the Future: the LERU roadmap for research data.](#paul-ayris-implementing-the-future-the-leruhttpleruorg-roadmap-for-research-data) Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>ERC on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/erc/</link>
+		<description>Recent content in ERC on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 24 Sep 2014 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/erc/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>thoughts on the ERC data workshop</title>
+			<link>http://partiallyattended.com/2014/09/24/erc-workshop-thought/</link>
+			<pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/09/24/erc-workshop-thought/</guid>
+			<description>
+				
+				On Thursday and Friday of last week I attended a European Research Council workshop on managing research data. It was we...
+				
+			</description>
+		</item>
+		<item>
+			<title>ERC data management workshop, day 1</title>
+			<link>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</link>
+			<pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/09/21/erc-workshop-day1/</guid>
+			<description>
+				
+				 initial thoughts about the workshop.  Opening remarks. Setting the scene.  Sabrina Leonelli - the epistemology of data-...
+				
+			</description>
+		</item>
+		<item>
+			<title>ERC data management workshop, day 2</title>
+			<link>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</link>
+			<pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/09/21/erc-workshop-day2/</guid>
+			<description>
+				
+				 Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open di...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

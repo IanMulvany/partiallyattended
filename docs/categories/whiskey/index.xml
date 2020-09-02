@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>whiskey on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/whiskey/</link>
-    <description>Recent content in whiskey on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/whiskey/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Nature, Whiskey and me</title>
-      <link>http://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</link>
-      <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</guid>
-      <description>In my earlier post on Megajournals I hinted that I felt that there could be a future in which this business model provided sufficient funds to allow a publishing house like NPG to make it&amp;rsquo;s flagship journal Nature an open access journal.
-This topic came up late one evening at coasp and I ended up making a bet with Matias Piipari. I bet that within 10 years Nature would become a fully open access journal.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>whiskey on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/whiskey/</link>
+		<description>Recent content in whiskey on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 07 Oct 2011 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/whiskey/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Nature, Whiskey and me</title>
+			<link>http://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</link>
+			<pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/10/07/nature-whiskey-and-me/</guid>
+			<description>
+				
+				In my earlier post on Megajournals I hinted that I felt that there could be a future in which this business model provid...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

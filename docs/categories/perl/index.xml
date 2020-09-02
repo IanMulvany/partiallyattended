@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>perl on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/perl/</link>
-    <description>Recent content in perl on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/perl/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
-      <description>Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
-the idea was to have an open source human genome
-companies would have to do some work before they could make money off ofsequences.
-the ensemble projects takes the raw data from the genes and adds other datato this, such as reference data from other experiments
-there is enemble codeand there is the data</description>
-    </item>
-    
-    <item>
-      <title>CPANPLUS and Mac OSX</title>
-      <link>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</guid>
-      <description>OK, so I&#39;m interested in installing the Connotea code base on my mac fordevelopment reasons. It will be the first time that I am going to startplaying around with a largish perl installation on my macine and there are alot of perl dependencies to be installed. Rather than going through CPANmodule by module, and rather than writing a bundle file for the connoteadependancies (because I don&#39;t know how to do that yet) I decided to try touse CPANPLUS, due to the tips on perl administration withCPANPLUS</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>perl on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/perl/</link>
+		<description>Recent content in perl on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/perl/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
+			<description>
+				
+				  Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
+the idea ...
+				
+			</description>
+		</item>
+		<item>
+			<title>CPANPLUS and Mac OSX</title>
+			<link>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/cpanplus-and-mac-osx/</guid>
+			<description>
+				
+				  OK, so I&#39;m interested in installing the Connotea code base on my mac fordevelopment reasons. It will be the first time...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,48 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>aws on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/aws/</link>
-    <description>Recent content in aws on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Architect, The Killer Serverless Framework – Reify</title>
-      <link>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</guid>
-      <description>A nice overview of an npm framework for creating server-less applications on AWS. It abstracts away a lot of the plumbing, which can have upsides and downsides. I&amp;rsquo;d love to see something equivalent in python.
-The actual framework is here: https://arc.codes</description>
-    </item>
-    
-    <item>
-      <title>aws london summit notes</title>
-      <link>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</link>
-      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</guid>
-      <description>Amazon Web Summit London 2015 ## Keynote
-There were about three thousand people at the summit. I chatted to a few people throughout the day. Their experience with AWS ranged from moderate use through to just being at the evaluation stage.
-The keynote highlighted AWS&amp;rsquo;s approach of wanting to put the customer in control, and to remove all unnecessary work from the customer in terms of managing IT.
-AWS has grown enormously, they are estimated to have five times the compute power on hand than all other cloud providers combined.</description>
-    </item>
-    
-    <item>
-      <title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
-      <link>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
-      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
-      <description>I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I&amp;rsquo;m working on OSX Mavericks, and I want to get as clean an install as possible. For the most part I am also using the fish shell. This is what I&amp;rsquo;ve just run through over the last 20 minutes.
- Install command line tools from the terminal
-$ xcode-select --install  Next we are going to install homebrew, with homebrew we will install rvm and with rvm we will install ruby.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>aws on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/aws/</link>
+		<description>Recent content in aws on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Architect, The Killer Serverless Framework – Reify</title>
+			<link>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/architect_the_killer_serverless_framework__reify/</guid>
+			<description>
+				
+				A nice overview of an npm framework for creating server-less applications on AWS. It abstracts away a lot of the plumbin...
+				
+			</description>
+		</item>
+		<item>
+			<title>aws london summit notes</title>
+			<link>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</link>
+			<pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</guid>
+			<description>
+				
+				Amazon Web Summit London 2015 ## Keynote
+There were about three thousand people at the summit. I chatted to a few people...
+				
+			</description>
+		</item>
+		<item>
+			<title>Setting up Vagrant, Librarian-Chef and Vagrant aws plugins on OSX Mavericks.</title>
+			<link>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</link>
+			<pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/11/19/osx-mavericks-vagrant-librarian/</guid>
+			<description>
+				
+				I have a new macbook pro. I want to install vagrant, chef and librarian, with the vagrant-aws plugins. I’m working...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

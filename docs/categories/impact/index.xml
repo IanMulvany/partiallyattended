@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>impact on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/impact/</link>
-    <description>Recent content in impact on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/impact/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>Where is research going - a Kudos report</title>
-      <link>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</guid>
-      <description>I’ve finally gotten around to looking at the report that Kudos developed earlier this year looking into where research outputs go to, and where they get consumed, after they have been published.
-You get grab a copy of the report here How to build a global, engaged audience for your research..
-The report is based on a survey of 10k researchers, supported with interviews and desk research.
-It’s a short read (19 pages), so go ahead and grab the report and have a look.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>impact on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/impact/</link>
+		<description>Recent content in impact on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/impact/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
+			<pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
+			<pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>Where is research going - a Kudos report</title>
+			<link>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</link>
+			<pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</guid>
+			<description>
+				
+				I’ve finally gotten around to looking at the report that Kudos developed earlier this year looking into where research o...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,88 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>scienceontheweb on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/scienceontheweb/</link>
-    <description>Recent content in scienceontheweb on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/scienceontheweb/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Grants for Nonprofits | Grants for Researchers | Instrumentl</title>
-      <link>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</guid>
-      <description>A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipeline of info about grants.</description>
-    </item>
-    
-    <item>
-      <title>Ongoing experiment in ‘Extreme Open Science’ announced at Structural Genomics Consortium - HBGDki</title>
-      <link>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</guid>
-      <description>It&amp;rsquo;s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like the researchers are actively making their results available (https://opennotebook.thesgc.org).</description>
-    </item>
-    
-    <item>
-      <title>Advanced computing with IPython</title>
-      <link>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
-      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.</description>
-    </item>
-    
-    <item>
-      <title>Internet Archive, Code for Science and Society, and California Digital Library to Partner on a Data Sharing and Preservation Pilot Project</title>
-      <link>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</guid>
-      <description>Some major players are getting together to trial decentralised data sharing using the Dat protocol - https://datproject.org. Dat for me is one of the dark horses of the infrastructure landscape. It has great power, some amazing developers, has already created some great value, and is still not known by many people yet.
-Also, this is not blockchain based, and yet manages to be decentralised. Those of you who know me will know why that pleases me.</description>
-    </item>
-    
-    <item>
-      <title>Open Knowledge Maps - social science map</title>
-      <link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
-      <description>Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for some time now (originally built on top of Mendeley data). I ran into them again this week as we start to think about how to visualise the relationship between different aspects of research. The one linked to here is for social science and here is one for &amp;ldquo;computational social science&amp;rdquo;: https://openknowledgemaps.org/map/70627a849484345cdfd04c914de0a2e2. Their news pages shows that the project and team are still active, which is great.</description>
-    </item>
-    
-    <item>
-      <title>VIPER - The Visual Project Explorer</title>
-      <link>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
-      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.</description>
-    </item>
-    
-    <item>
-      <title>About Backyard Brains</title>
-      <link>http://partiallyattended.com/2018/06/06/about_backyard_brains/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/06/about_backyard_brains/</guid>
-      <description>https://backyardbrains.com/about/</description>
-    </item>
-    
-    <item>
-      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
-      <link>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
-      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>scienceontheweb on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/scienceontheweb/</link>
+		<description>Recent content in scienceontheweb on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/scienceontheweb/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Grants for Nonprofits | Grants for Researchers | Instrumentl</title>
+			<link>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/grants_for_nonprofits__grants_for_researchers__instrumentl/</guid>
+			<description>
+				
+				A startup to help you fast-track you grant application process. The hard thing here is building a robust and clean pipel...
+				
+			</description>
+		</item>
+		<item>
+			<title>Ongoing experiment in ‘Extreme Open Science’ announced at Structural Genomics Consortium - HBGDki</title>
+			<link>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/ongoing_experiment_in_extreme_open_science_announced_at_structural_genomics_consortium_-_hbgdki/</guid>
+			<description>
+				
+				It’s really encouraging to see the concept of open notebook Sciecne still being picked and adopted. It looks like ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Advanced computing with IPython</title>
+			<link>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
+			<description>
+				
+				This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Internet Archive, Code for Science and Society, and California Digital Library to Partner on a Data Sharing and Preservation Pilot Project</title>
+			<link>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</guid>
+			<description>
+				
+				Some major players are getting together to trial decentralised data sharing using the Dat protocol - https://datproject....
+				
+			</description>
+		</item>
+		<item>
+			<title>Open Knowledge Maps - social science map</title>
+			<link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
+			<description>
+				
+				Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for s...
+				
+			</description>
+		</item>
+		<item>
+			<title>VIPER - The Visual Project Explorer</title>
+			<link>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
+			<description>
+				
+				This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. Fo...
+				
+			</description>
+		</item>
+		<item>
+			<title>About Backyard Brains</title>
+			<link>http://partiallyattended.com/2018/06/06/about_backyard_brains/</link>
+			<pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/06/about_backyard_brains/</guid>
+			<description>
+				
+				https://backyardbrains.com/about/
+				
+			</description>
+		</item>
+		<item>
+			<title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
+			<link>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
+			<pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
+			<description>
+				
+				paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
+https://www.s...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

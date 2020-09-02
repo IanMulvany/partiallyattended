@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>tags on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/tags/</link>
-    <description>Recent content in tags on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2009 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Adding a tag cloud to blogger</title>
-      <link>http://partiallyattended.com/2009/04/12/adding-a-tag-cloud-to-blogger/</link>
-      <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/04/12/adding-a-tag-cloud-to-blogger/</guid>
-      <description>I&#39;ve been thinking about neat ways to make blogs approach research articles; about how to make some of the core features of a journal be more apparent in a blog, which has led me to think about blogger widgets. That led me to the Phydeaux3 blog where there is a kick ass implementation of a widget to display a tag cloud for blogger. Hopefully you can see that it works pretty well.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>tags on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/tags/</link>
+		<description>Recent content in tags on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 12 Apr 2009 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/tags/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Adding a tag cloud to blogger</title>
+			<link>http://partiallyattended.com/2009/04/12/adding-a-tag-cloud-to-blogger/</link>
+			<pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2009/04/12/adding-a-tag-cloud-to-blogger/</guid>
+			<description>
+				
+				 I&#39;ve been thinking about neat ways to make blogs approach research articles; about how to make some of the core feature...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

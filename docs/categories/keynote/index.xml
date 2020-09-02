@@ -1,35 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>keynote on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/keynote/</link>
-    <description>Recent content in keynote on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 Sep 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/keynote/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Science Online London Keynote, Michael Nielson on Open Sciecne</title>
-      <link>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</link>
-      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</guid>
-      <description>Michael Nielson Keynote on Open Science He rightly points out that he is probably going to be talking to the converted, so his talk is aimed at looking for resources that can help us to find answers about how to make open science works. He starts talking about an example of failure in open science. his example is an open notebook science from Tobias J Osbourne. He built up a readership of about 100 readers on a highly technical field, but he was not getting much participation, and very little feedback.</description>
-    </item>
-    
-    <item>
-      <title>DLF opening keynote, beyond buckets and boxes</title>
-      <link>http://partiallyattended.com/2010/11/02/dlf2010-keynote/</link>
-      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/11/02/dlf2010-keynote/</guid>
-      <description>(notes taken yesterday)
-The keynote is starting, the DLF has grown by 15 new member organisations, and this is one of the best attended events that they have run, the room is packed, i didn&amp;rsquo;t realise that there were so many people in the hotel, its looking like its going to be an interesting meeting.
-The original vision for this group is to create a national digital library, they have been talking about this since 1994 (goodness, so much that needs to be cut through to get to where we know we need to get to).</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>keynote on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/keynote/</link>
+		<description>Recent content in keynote on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 02 Sep 2011 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/keynote/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Science Online London Keynote, Michael Nielson on Open Sciecne</title>
+			<link>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</link>
+			<pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/09/02/solo11-day1-keynote/</guid>
+			<description>
+				
+				Michael Nielson Keynote on Open Science He rightly points out that he is probably going to be talking to the converted, ...
+				
+			</description>
+		</item>
+		<item>
+			<title>DLF opening keynote, beyond buckets and boxes</title>
+			<link>http://partiallyattended.com/2010/11/02/dlf2010-keynote/</link>
+			<pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/11/02/dlf2010-keynote/</guid>
+			<description>
+				
+				(notes taken yesterday)
+The keynote is starting, the DLF has grown by 15 new member organisations, and this is one of th...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

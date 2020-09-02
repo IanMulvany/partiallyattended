@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>inspirational on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/inspirational/</link>
-    <description>Recent content in inspirational on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/inspirational/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>friends of mine of TV</title>
-      <link>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
-      <description>A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ais for the first couple of years,but it is looking like things are really working out for her now. She wasrecently featured on TV in Ireland, and she has posted a link to the clipfrom her blog. For a really inspirational view on managing business withchildcare have a loot at the vid:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>inspirational on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/inspirational/</link>
+		<description>Recent content in inspirational on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/inspirational/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>friends of mine of TV</title>
+			<link>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
+			<description>
+				
+				  A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ai...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

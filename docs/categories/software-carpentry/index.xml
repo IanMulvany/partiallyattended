@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>software carpentry on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/software-carpentry/</link>
-    <description>Recent content in software carpentry on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/software-carpentry/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>advice on publishing research online</title>
-      <link>http://partiallyattended.com/2014/01/08/advice-on-publishing-online/</link>
-      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/01/08/advice-on-publishing-online/</guid>
-      <description>I have posted this post as a comment on the thread over at software carpentry in answer to the question What do we teach about writing/publishing papers in a webby world?
-I ended up writing a bit more than I expected, so here are the main peices of advice:
-tl;dr:
-- use a reference management tool
-- try to find the fastest venue to publish in
-- try to publish in an OA journal</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>software carpentry on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/software-carpentry/</link>
+		<description>Recent content in software carpentry on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 08 Jan 2014 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/software-carpentry/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>advice on publishing research online</title>
+			<link>http://partiallyattended.com/2014/01/08/advice-on-publishing-online/</link>
+			<pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/01/08/advice-on-publishing-online/</guid>
+			<description>
+				
+				I have posted this post as a comment on the thread over at software carpentry in answer to the question What do we teach...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

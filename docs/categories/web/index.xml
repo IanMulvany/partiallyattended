@@ -1,209 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>web on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/web/</link>
-    <description>Recent content in web on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/web/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Where once we dreamt of many gardens, now we have many walls</title>
-      <link>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</guid>
-      <description>I’m reading through Anil Dash’s great blog post looking back at the way the web used to be in terms of how we thought of it, and how it was implemented. (As an aside, I’m deeply fascinated by Glitch, but have not had the time to date to spend on it that I would have wished).
-In addition to his comment about how websites are now assembled, component by component, there is another aspect to modern development that I’ve strongly noticed, and that is of specialisation.</description>
-    </item>
-    
-    <item>
-      <title>Some advice on learning web development.</title>
-      <link>http://partiallyattended.com/2013/07/29/web-dev-advice/</link>
-      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/07/29/web-dev-advice/</guid>
-      <description>Here is some advice I gave a few months ago to a friend on becoming a web dev. I think it still holds up.
-The most important thing I have lots of advice, it I think the most important advice that I have boils down to do work. Build up a portfolio, and get comfortable and fluid with the tools that you will use to do web development.
-We look for skilled passionate people, and the best way to show that, is to show projects that you have been working on.</description>
-    </item>
-    
-    <item>
-      <title>Mind the product 2012, notes.</title>
-      <link>http://partiallyattended.com/2012/10/03/mtpcon/</link>
-      <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/10/03/mtpcon/</guid>
-      <description>Last Friday I attended the amazing Mind the product conference in London. It was really inspirational. There were about 500 attendees, and having so many people with a concern for the same aspect of the product development process in one room led to a real buzz. The speakers were excellent, sadly I had to leave a little after lunch. The videos will be posted, keep an eye on the mind the product main site.</description>
-    </item>
-    
-    <item>
-      <title>The slow web, more thoughtful experiences.</title>
-      <link>http://partiallyattended.com/2012/08/22/the-slow-web/</link>
-      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/08/22/the-slow-web/</guid>
-      <description>I&amp;rsquo;ve been concerned for a few years about the flow of data that we are producing, and how to handle the angst of not being able to keep up with everything, ever. I think it started when I became a very heavy user of google reader back in 2006 or so.
-There is little doubt that the web is moving more in this direction, Anil Dash recently called for people to stop creating web pages, and to start creating only streams.</description>
-    </item>
-    
-    <item>
-      <title>and while we are at it here are the references from that article</title>
-      <link>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
-      <description>References
- - &amp;quot;Python Objects&amp;quot;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &amp;quot;How to think like a Pythonista&amp;quot;, Mark Hammond, http://python.net/crew/mwh/hacks/objectthink.html - &amp;quot;Python main() functions&amp;quot;, Guido van Rossum, http://www.artima.com/weblogs/viewpost.jsp?thread=4829 - &amp;quot;Python Idioms and Efficiency&amp;quot;, http://jaynes.colorado.edu/PythonIdioms.html - &amp;quot;Python track: python idioms&amp;quot;, http://www.cs.caltech.edu/courses/cs11/material/python/misc/python_idioms.html - &amp;quot;Be Pythonic&amp;quot;, Shalabh Chaturvedi, http://shalabh.infogami.com/Be_Pythonic2 - &amp;quot;Python Is Not Java&amp;quot;, Phillip J. Eby, http://dirtsimple.org/2004/12/python-is-not-java.html - &amp;quot;What is Pythonic?&amp;quot;, Martijn Faassen, http://faassen.n--tree.net/blog/view/weblog/2005/08/06/0 - &amp;quot;Sorting Mini-HOWTO&amp;quot;, Andrew Dalke, http://wiki.python.org/moin/HowTo/Sorting - &amp;quot;Python Idioms&amp;quot;, http://www.</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
-      <description>Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
-the idea was to have an open source human genome
-companies would have to do some work before they could make money off ofsequences.
-the ensemble projects takes the raw data from the genes and adds other datato this, such as reference data from other experiments
-there is enemble codeand there is the data</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge - James talking about HTML5</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</guid>
-      <description>James is just an interested bysander on the HTML 5 mailing list, hey, it&#39;s abarcamp
+	<channel>
+		<title>web on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/web/</link>
+		<description>Recent content in web on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/web/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Where once we dreamt of many gardens, now we have many walls</title>
+			<link>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</link>
+			<pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</guid>
+			<description>
+				
+				I’m reading through Anil Dash’s great blog post looking back at the way the web used to be in terms of how we thought of...
+				
+			</description>
+		</item>
+		<item>
+			<title>Some advice on learning web development.</title>
+			<link>http://partiallyattended.com/2013/07/29/web-dev-advice/</link>
+			<pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/07/29/web-dev-advice/</guid>
+			<description>
+				
+				Here is some advice I gave a few months ago to a friend on becoming a web dev. I think it still holds up.
+The most impor...
+				
+			</description>
+		</item>
+		<item>
+			<title>Mind the product 2012, notes.</title>
+			<link>http://partiallyattended.com/2012/10/03/mtpcon/</link>
+			<pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/10/03/mtpcon/</guid>
+			<description>
+				
+				Last Friday I attended the amazing Mind the product conference in London. It was really inspirational. There were about ...
+				
+			</description>
+		</item>
+		<item>
+			<title>The slow web, more thoughtful experiences.</title>
+			<link>http://partiallyattended.com/2012/08/22/the-slow-web/</link>
+			<pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/08/22/the-slow-web/</guid>
+			<description>
+				
+				I’ve been concerned for a few years about the flow of data that we are producing, and how to handle the angst of n...
+				
+			</description>
+		</item>
+		<item>
+			<title>and while we are at it here are the references from that article</title>
+			<link>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/and-while-we-are-at-it-here-are-the-references-from-that-article/</guid>
+			<description>
+				
+				   References
+ - &#34;Python Objects&#34;, Fredrik Lundh, http://www.effbot.org/zone/python-objects.htm - &#34;How to...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
+			<description>
+				
+				  Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
+the idea ...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge - James talking about HTML5</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</guid>
+			<description>
+				
+				  James is just an interested bysander on the HTML 5 mailing list, hey, it&#39;s abarcamp
 html5 is th enew verison of html
-applemozillaoperaanyone who joins the mailing list
-and
-w3c (which means MS, which means this is going to work in IE)
-if you have ideas, then you can joing hte mailing list and put ideasforwards for the specification
-why should we?
-lots of information is locked up in HTML, not XML, not SVGL</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge, ARM microcontroler</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
-      <description>ARM microcontroler dev guy.
-hard to use these processors, whanted to make something like this availableto normal peoplewant internet bluetooth connected devices
-so they built something
-he just plugged in a microcontoler with a wireless sensorhis machine things that it&#39;s a flash drive
-he dregged over a binarythe device started blinking, this is the hello world of hardware hacking,cool
-what can you do now? well cool stuff obviously!</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
-      <description>what&#39;s cool about microformats web?
+a...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge, ARM microcontroler</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
+			<description>
+				
+				  ARM microcontroler dev guy.
+hard to use these processors, whanted to make something like this availableto normal peopl...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+			<description>
+				
+				  what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
-personal information disastertravel airlines don&#39;t talk to railroads
- microformats say, what problem does it solve?
- perhaps there is no problem at all
-what problem does blogging solve?Twitter for christ&#39;s sake?
-no one knows what they do until they are popular
-e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doesn&#39;t have a clear defined purpose</description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge, Laura James</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
-      <description>Laura JamesAlert Me.Com
+personal informati...
+				
+			</description>
+		</item>
+		<item>
+			<title>live blogging from BarCamp Cambridge, Laura James</title>
+			<link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
+			<description>
+				
+				  Laura JamesAlert Me.Com
 might get too corporate.
-trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
-they are going to ship a home security system, but they are actuallybuilding a platofrmthat can connect anything that does not require full audio and video
-using a mesh network that connect to a hub using a &#39;zigby&#39;output can be things like a lamp that has a color dependant state</description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
-      <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
-we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
-Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding</description>
-    </item>
-    
-    <item>
-      <title>Mining social data, what Flickr tells us about place</title>
-      <link>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
-      <description>toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I attended last week it came up frequently as being one of the most over-hyped terms around at the moment, but there is substance behind it, and how that substance appears is fully up to the creativity of people who are willing to get their hands dirty with the actual data that is being produced by social web sites.</description>
-    </item>
-    
-    <item>
-      <title>Money Saving Web Sites for Living in the UK</title>
-      <link>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</guid>
-      <description>  The Guardian ran an article this week listing 10. As a placeholder here aresome of them that I might find useful:
-https://www.mysupermarket.co.uk/
-http://www.saynoto0870.com/
-http://www.quidco.com/
-http://www.energysavingtrust.org.uk/
- </description>
-    </item>
-    
-    <item>
-      <title>restaurant BAYOU Berlin</title>
-      <link>http://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</guid>
-      <description>I got the email below a few days ago:
-Hello to you all,Please forgive the bulk email! We hope all is well with you.We will be opening our new restaurant on December 1st. Please visit our newwebsite at www.bayou-berlin.com You are able to book hotel reservations onour site using our corporate discount rate. We hope to see you sometimesoon,All the best,Steve and Brandon
-Earlier this year I was on holiday in Nerja in the south of Spain.</description>
-    </item>
-    
-    <item>
-      <title>The Laboratory Website and Video Awards</title>
-      <link>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</guid>
-      <description>  Attila Csordas sent along links about these awards, looks nice,
+trying to do the internet of things, internet access to small devices...
+				
+			</description>
+		</item>
+		<item>
+			<title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
+			<link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
+			<description>
+				
+				   Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued...
+				
+			</description>
+		</item>
+		<item>
+			<title>Mining social data, what Flickr tells us about place</title>
+			<link>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/mining-social-data-what-flickr-tells-us-about-place/</guid>
+			<description>
+				
+				     toscany activity spikes with R Originally uploaded by fgirardin Web 2.0 is a buz word. At a conference that I atten...
+				
+			</description>
+		</item>
+		<item>
+			<title>Money Saving Web Sites for Living in the UK</title>
+			<link>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/money-saving-web-sites-for-living-in-the-uk/</guid>
+			<description>
+				
+				  The Guardian ran an article this week listing 10. As a placeholder here aresome of them that I might find useful:
+http...
+				
+			</description>
+		</item>
+		<item>
+			<title>restaurant BAYOU Berlin</title>
+			<link>http://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/restaurant-bayou-berlin/</guid>
+			<description>
+				
+				  I got the email below a few days ago:
+Hello to you all,Please forgive the bulk email! We hope all is well with you.We ...
+				
+			</description>
+		</item>
+		<item>
+			<title>The Laboratory Website and Video Awards</title>
+			<link>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/the-laboratory-website-and-video-awards/</guid>
+			<description>
+				
+				  Attila Csordas sent along links about these awards, looks nice,
 http://www.the-scientist.com/lawva/
-and a blog link about them:
-http://pimm.wordpress.com/2007/10/09/the-laboratory-website-and-video-awards-by-the-scientist
-
-tags: science
- </description>
-    </item>
-    
-    <item>
-      <title>Tips for switching from Windows to Mac</title>
-      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
-      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
--- Where is the right mouse button?
-This is the biggest obvious first difference.</description>
-    </item>
-    
-  </channel>
+and a blog link ab...
+				
+			</description>
+		</item>
+		<item>
+			<title>Tips for switching from Windows to Mac</title>
+			<link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
+			<description>
+				
+				  I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read t...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

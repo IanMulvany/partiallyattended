@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>unix on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/unix/</link>
-    <description>Recent content in unix on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/unix/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Converting between dates and unix time in Python</title>
-      <link>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</link>
-      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
-      <description>Going from a date to a unix time: &amp;gt;&amp;gt;&amp;gt; from datetime import date &amp;gt;&amp;gt;&amp;gt; from time import mktime &amp;gt;&amp;gt;&amp;gt; start = date(2011, 9, 26) &amp;gt;&amp;gt;&amp;gt; mktime(start.timetuple()) 1316991600.0 Going from a unix time to a date: &amp;gt;&amp;gt;&amp;gt; from time import strftime &amp;gt;&amp;gt;&amp;gt; from datetime import datetime &amp;gt;&amp;gt;&amp;gt; datetime.fromtimestamp(int(&amp;#34;1284101485&amp;#34;)).strftime(&amp;#39;%Y-%m-%d%H:%M:%S&amp;#39;) &amp;#39;2010-09-10 07:51:25&amp;#39; </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>unix on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/unix/</link>
+		<description>Recent content in unix on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 13 Oct 2011 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/unix/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Converting between dates and unix time in Python</title>
+			<link>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</link>
+			<pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/10/13/managing-unix-time-in-python/</guid>
+			<description>
+				
+				Going from a date to a unix time: &gt;&gt;&gt; from datetime import date &gt;&gt;&gt; from time import mktime &gt;&gt;&amp;g...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

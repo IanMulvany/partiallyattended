@@ -1,120 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>research on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/research/</link>
-    <description>Recent content in research on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/research/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>CODECHECK - reviewing code in publications</title>
-      <link>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</guid>
-      <description>CODECHECK is a fascinating service - https://codecheck.org.uk/ That creates a workflow for academics to provide feedback on research code. The project is being led by Stephen Eglen and and Daniel Nüst.
-They describe what they do succinctly as
- CODECHECK is a process for independent reproduction of computations and awarding of time-stamped certificates for successful reproductions of scholarly articles.
- Checking software in research is a significant challenge, and I really like CODECHECK because it is an initiative that has emerged from researchers themselves.</description>
-    </item>
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>Where is research going - a Kudos report</title>
-      <link>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</guid>
-      <description>I’ve finally gotten around to looking at the report that Kudos developed earlier this year looking into where research outputs go to, and where they get consumed, after they have been published.
-You get grab a copy of the report here How to build a global, engaged audience for your research..
-The report is based on a survey of 10k researchers, supported with interviews and desk research.
-It’s a short read (19 pages), so go ahead and grab the report and have a look.</description>
-    </item>
-    
-    <item>
-      <title>Belmont Forum Round Table - data accessibility statements</title>
-      <link>http://partiallyattended.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</guid>
-      <description>Yesterday I attended a round table discussion hosted by the Belmont Forum about the release of their position on data accessibility statements and digital objects management plans. (It’s a bit of a mouthful, but the reason is that they are aiming to be clear and comprehensive around what they are asking to make it easier for researchers, publishers and other stakeholders to get to compliance around this policy.)
-You can read their position paper — Draft DAS Statement and Policy for October 2018 Plenary - Google Docs.</description>
-    </item>
-    
-    <item>
-      <title>Distill is dedicated to making machine learning clear and dynamic</title>
-      <link>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</guid>
-      <description>Distill is an experiment in bringing interactive documents and scholarly documents together. I&amp;rsquo;m often asked what the future of publishing might look like, and were we to embrace what the web offers it might look like distill.
-Two things though, make it look like a nice product. Right now paper flow into this journal is very low, and secondly they have advertised a large prize to attract work in this format.</description>
-    </item>
-    
-    <item>
-      <title>choice magazine podcast Questions</title>
-      <link>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</guid>
-      <description>This week I was interviewed for the ALA choice podcast, a podcast that the that is
- a weekly program featuring in-depth conversations about contemporary trends, best practices, and case studies important to academic librarians. Hosted by Bill Mickey, the Editorial Director at Choice
- The topic was about trends in big data and the role of the library, and it was really fun to participate in, and the panel I was on included Caroline Muglia from the University of Southern California Libraries as well as Andy Rutkowski and Eimmy Karina Solis from USC libraries.</description>
-    </item>
-    
-    <item>
-      <title>What do we mean when we talk about Big Data?</title>
-      <link>http://partiallyattended.com/2016/12/15/what-is-big-data/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
-      <description>What do we mean when we talk about Big Data?
-The following blog post about this article provides the following definition of big data:
- “High volume data that frequently combines highly structured administrative data actively collected by public sector organisations with continuously and automatically collected structured and unstructured real-time data that are often passively created by public and private entities through their internet.”
- The article is behind a paywall, but the blog is pretty clearly laid out.</description>
-    </item>
-    
-    <item>
-      <title>Covalent Data, first impressions</title>
-      <link>http://partiallyattended.com/2016/12/08/quick-review-covalent-data/</link>
-      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2016/12/08/quick-review-covalent-data/</guid>
-      <description>Covalent Data is a tool to search over research topics. It seems to have the following features:
- Is a DB of grants, papers, people and institutions. claims to use machine learning to tie these entities together. search results don’t seem to have a way to be exported, so for example though the grant awards results do list the amount of each grant, to get a total amount against a search term, you would need to do the work of extracting each data point manually.</description>
-    </item>
-    
-    <item>
-      <title>academic ghost towns, Google scholar and Mendeley</title>
-      <link>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</link>
-      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</guid>
-      <description>I&amp;rsquo;m on a mission to clear out my instapapper backlocg, so I&amp;rsquo;m going to be blogging olds rather than news. There was a nice piece in the Atlantic last month talking about how Google could provide a better social experience by activating it&amp;rsquo;s latent networks, rather than mimicking facebook.
- But think about Scholar as a latent social network. Each paper contains its own social network that Google already crawls. Every bibliography is filled with other social networks.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>research on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/research/</link>
+		<description>Recent content in research on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/research/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>CODECHECK - reviewing code in publications</title>
+			<link>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</link>
+			<pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/07/03/codecheck_-_reviewing_code_in_publications/</guid>
+			<description>
+				
+				CODECHECK is a fascinating service - https://codecheck.org.uk/ That creates a workflow for academics to provide feedback...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
+			<pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
+			<pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>Where is research going - a Kudos report</title>
+			<link>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</link>
+			<pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/11/12/where_is_research_going_-_a_kudos_report/</guid>
+			<description>
+				
+				I’ve finally gotten around to looking at the report that Kudos developed earlier this year looking into where research o...
+				
+			</description>
+		</item>
+		<item>
+			<title>Belmont Forum Round Table - data accessibility statements</title>
+			<link>http://partiallyattended.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</link>
+			<pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</guid>
+			<description>
+				
+				Yesterday I attended a round table discussion hosted by the Belmont Forum about the release of their position on data ac...
+				
+			</description>
+		</item>
+		<item>
+			<title>Distill is dedicated to making machine learning clear and dynamic</title>
+			<link>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</guid>
+			<description>
+				
+				Distill is an experiment in bringing interactive documents and scholarly documents together. I’m often asked what ...
+				
+			</description>
+		</item>
+		<item>
+			<title>choice magazine podcast Questions</title>
+			<link>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</link>
+			<pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/04/choice_magazine_podcast_questions_/</guid>
+			<description>
+				
+				This week I was interviewed for the ALA choice podcast, a podcast that the that is
+ a weekly program featuring in-depth ...
+				
+			</description>
+		</item>
+		<item>
+			<title>What do we mean when we talk about Big Data?</title>
+			<link>http://partiallyattended.com/2016/12/15/what-is-big-data/</link>
+			<pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
+			<description>
+				
+				What do we mean when we talk about Big Data?
+The following blog post about this article provides the following definitio...
+				
+			</description>
+		</item>
+		<item>
+			<title>Covalent Data, first impressions</title>
+			<link>http://partiallyattended.com/2016/12/08/quick-review-covalent-data/</link>
+			<pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2016/12/08/quick-review-covalent-data/</guid>
+			<description>
+				
+				Covalent Data is a tool to search over research topics. It seems to have the following features:
+ Is a DB of grants, pap...
+				
+			</description>
+		</item>
+		<item>
+			<title>academic ghost towns, Google scholar and Mendeley</title>
+			<link>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</link>
+			<pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</guid>
+			<description>
+				
+				I’m on a mission to clear out my instapapper backlocg, so I’m going to be blogging olds rather than news. Th...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

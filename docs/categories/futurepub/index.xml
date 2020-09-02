@@ -1,50 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>futurepub on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/futurepub/</link>
-    <description>Recent content in futurepub on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/futurepub/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Futurepub10</title>
-      <link>http://partiallyattended.com/2017/03/16/future-pub-10/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/03/16/future-pub-10/</guid>
-      <description>This week I attended futurepub10, I love these events, I&amp;rsquo;ve been to a bunch, and the format of short talks, and lots of time to catchup with people is just great.
-# A new Cartography of Collaboration - Daniel Hook, CEO Digital Science (work with Ian Calvert).
-Digital science have produced a report on collaboration, and this talk was covering one of chapters from that.
-I was interested to see what the key takeaways are that you can describe in a five minute talk.</description>
-    </item>
-    
-    <item>
-      <title>FuturePub3 - September 2014 event</title>
-      <link>http://partiallyattended.com/2014/09/24/futurepub3/</link>
-      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/09/24/futurepub3/</guid>
-      <description>Welcome back for the next installment of FuturePub. There are tons of people at the meeting tonight, pizza and beers care of WriteLaTeX!!
-# Sumika Sakanishi - Product Manager - ODI
-They aim to encourage organisations to unlock data. They also work with individuals to help them unlock the value of open data.
-Open data is free to use, reuse and redistribute it, e.g. CC-BY.
-The open data instutute have created the open data certificate, an online tool to help open data owners publish their data.</description>
-    </item>
-    
-    <item>
-      <title>FuturePub - future of publishing event, hosted by NESTA and WriteLaTeX</title>
-      <link>http://partiallyattended.com/2014/05/30/future-pub2/</link>
-      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/05/30/future-pub2/</guid>
-      <description>This is the second #futurepub event that I&amp;rsquo;ve been to. I also attended the last one
-The event was hosted by Nesta. Nesta have just launched the &amp;ldquo;new longitude&amp;rdquo; prize - which looks pretty interesting. There were six rapid fire talks, and I found the presentation format to be excellent. As with the previous event, this one was organised by the WriteLaTeX guys, and I&amp;rsquo;d just like to extend a big thanks to them for again putting on a great little event.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>futurepub on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/futurepub/</link>
+		<description>Recent content in futurepub on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/futurepub/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Futurepub10</title>
+			<link>http://partiallyattended.com/2017/03/16/future-pub-10/</link>
+			<pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/03/16/future-pub-10/</guid>
+			<description>
+				
+				This week I attended futurepub10, I love these events, I’ve been to a bunch, and the format of short talks, and lo...
+				
+			</description>
+		</item>
+		<item>
+			<title>FuturePub3 - September 2014 event</title>
+			<link>http://partiallyattended.com/2014/09/24/futurepub3/</link>
+			<pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/09/24/futurepub3/</guid>
+			<description>
+				
+				Welcome back for the next installment of FuturePub. There are tons of people at the meeting tonight, pizza and beers car...
+				
+			</description>
+		</item>
+		<item>
+			<title>FuturePub - future of publishing event, hosted by NESTA and WriteLaTeX</title>
+			<link>http://partiallyattended.com/2014/05/30/future-pub2/</link>
+			<pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/05/30/future-pub2/</guid>
+			<description>
+				
+				This is the second #futurepub event that I’ve been to. I also attended the last one
+The event was hosted by Nesta....
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>statistics on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/statistics/</link>
-    <description>Recent content in statistics on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Adequate statistical power in clinical trials is associated with the combination of a male first author and a female last author.</title>
-      <link>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</guid>
-      <description>So if your last author is female the quality of the science is statistically better. I don&amp;rsquo;t know exactly what to make of this. We also have to understand a bit about the role of last authorship. In life sciences this is usually the corresponding author. I would not be surprised (given the study looks over a 40 year period) that what we are seeing is that women just produce more carful better science, but are being restricted from first authorship positions because of bias.</description>
-    </item>
-    
-    <item>
-      <title>data science vs statistics talk at the RSS</title>
-      <link>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</link>
-      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</guid>
-      <description>Tonight I attend a debate held at the Royal Statistics Society. It was en entertaining, and wide ranging discussion with a great panel, and fairly intelligent questions from the floor.
-Two fun facts:
- One of the founding members of the society was Charles Babbage The society is located within spitting distance of the grave of William Thomas Bayes  So, here are the notes, rough and ready, and I missed a lot in my note taking, but I hope I get a flavour of the discussion across.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>statistics on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/statistics/</link>
+		<description>Recent content in statistics on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Adequate statistical power in clinical trials is associated with the combination of a male first author and a female last author.</title>
+			<link>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</guid>
+			<description>
+				
+				So if your last author is female the quality of the science is statistically better. I don’t know exactly what to ...
+				
+			</description>
+		</item>
+		<item>
+			<title>data science vs statistics talk at the RSS</title>
+			<link>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</link>
+			<pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</guid>
+			<description>
+				
+				Tonight I attend a debate held at the Royal Statistics Society. It was en entertaining, and wide ranging discussion with...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

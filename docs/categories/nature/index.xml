@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>nature on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/nature/</link>
-    <description>Recent content in nature on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/nature/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Some thoughts about product management</title>
-      <link>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
-      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
-      <description>I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I&amp;rsquo;ve been learning on the job. There are a huge number of resources out there, great lectures, books, conferences, blog posts. In this short post I just want to reflect a bit on what I&amp;rsquo;ve learned on this topic through direct personal experience. I continue to learn, and my thinking continues to evolve, so this post is more of a look back, than a look to the future.</description>
-    </item>
-    
-    <item>
-      <title>Megajournals</title>
-      <link>http://partiallyattended.com/2011/10/03/megajournals/</link>
-      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/10/03/megajournals/</guid>
-      <description>The idea of megajournals had not really formalised in my head before, but at the COASP meeting the talk was all about &amp;ldquo;Megajournals&amp;rdquo;. [PLoSOne][plosone] is the archetype for this kind of journal, and it had not really struck me before as a huge revolution in the publishing industry, but after listening to a couple of days worth of talks on the topic I&amp;rsquo;m convincible.
-Megajournals are so called because they are structured to be able to publish many more articles than has been the normal practice with traditional journals.</description>
-    </item>
-    
-    <item>
-      <title>SOLO11, day1, morning sessions.</title>
-      <link>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</link>
-      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</guid>
-      <description>Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points that arose during the discussion:
- discussions with the public needs to happen where the public is being half assed about engaging the public discourse around papers, and then hiding behind peer review when you run into criticism is really bad, as for example what happened with the arsenic story nasa and science the public needs to be educated that peer review is not binary peer review comments should be made public (not everyone agrees) where we have representations of papers we should look to link to conversations about those papers (trackbacks and so forth)  There is a very interesting comment in the Q&amp;amp;A from [Martin Fenner][mf] about peer review in clinical medicine.</description>
-    </item>
-    
-    <item>
-      <title>Open Reviewing</title>
-      <link>http://partiallyattended.com/2008/07/14/open-reviewing/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/open-reviewing/</guid>
-      <description>Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a description here about theconsortium and a list ofparticipating journals. I have no doubt that this is the future of peerreview. At the moment the peer review system is horribly inefficient forpapers that get rejected. Rejection from a journal can occur because a paperis crap, but often it happens for many other reasons, because the journalhas already met it&#39;s pagequota, the journal is publishing a set of special issues on another topic,the editors of the journal are interested in shifting the focus of thejournal, the topic of the paper is slightly away from the main interests ofthe editorial board, the paper is good, but just gets edged out by a set ofbetter papers that come in.</description>
-    </item>
-    
-    <item>
-      <title>Tips for switching from Windows to Mac</title>
-      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
-      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
--- Where is the right mouse button?
-This is the biggest obvious first difference.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>nature on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/nature/</link>
+		<description>Recent content in nature on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 05 Mar 2015 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Some thoughts about product management</title>
+			<link>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
+			<pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
+			<description>
+				
+				I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I’...
+				
+			</description>
+		</item>
+		<item>
+			<title>Megajournals</title>
+			<link>http://partiallyattended.com/2011/10/03/megajournals/</link>
+			<pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/10/03/megajournals/</guid>
+			<description>
+				
+				The idea of megajournals had not really formalised in my head before, but at the COASP meeting the talk was all about &amp;l...
+				
+			</description>
+		</item>
+		<item>
+			<title>SOLO11, day1, morning sessions.</title>
+			<link>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</link>
+			<pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</guid>
+			<description>
+				
+				Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points...
+				
+			</description>
+		</item>
+		<item>
+			<title>Open Reviewing</title>
+			<link>http://partiallyattended.com/2008/07/14/open-reviewing/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/open-reviewing/</guid>
+			<description>
+				
+				  Arecent blog post on Action Potential pointed me towards the neuroscience peer review consortium. Theyhave a descripti...
+				
+			</description>
+		</item>
+		<item>
+			<title>Tips for switching from Windows to Mac</title>
+			<link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
+			<description>
+				
+				  I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read t...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

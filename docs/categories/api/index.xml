@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>API on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/api/</link>
-    <description>Recent content in API on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 Sep 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/api/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>SOLO11, day1, morning sessions.</title>
-      <link>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</link>
-      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</guid>
-      <description>Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points that arose during the discussion:
- discussions with the public needs to happen where the public is being half assed about engaging the public discourse around papers, and then hiding behind peer review when you run into criticism is really bad, as for example what happened with the arsenic story nasa and science the public needs to be educated that peer review is not binary peer review comments should be made public (not everyone agrees) where we have representations of papers we should look to link to conversations about those papers (trackbacks and so forth)  There is a very interesting comment in the Q&amp;amp;A from [Martin Fenner][mf] about peer review in clinical medicine.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>API on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/api/</link>
+		<description>Recent content in API on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 02 Sep 2011 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/api/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>SOLO11, day1, morning sessions.</title>
+			<link>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</link>
+			<pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/09/02/solo11-day1-morning-sessions/</guid>
+			<description>
+				
+				Session on engaging with peer review This is a very nice panel discussion. For my money there are a number of key points...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

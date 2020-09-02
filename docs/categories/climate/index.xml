@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>climate on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/climate/</link>
-    <description>Recent content in climate on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/climate/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Some brief thoughts on scholarly publishing and climate change.</title>
-      <link>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</guid>
-      <description>Who’s job is it to address the crisis of climate change? This question came up at an STM Tech Leaders workshop that I attended earlier this week? The answer is that we all are, and in that context we had a very interesting conversation on the topic.
-This is the first time that I’ve seen this topic come up in a forum like this, so a bit thank you to Dave Smith from the IET for pushing the topic forward.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>climate on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/climate/</link>
+		<description>Recent content in climate on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/climate/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Some brief thoughts on scholarly publishing and climate change.</title>
+			<link>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</link>
+			<pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</guid>
+			<description>
+				
+				Who’s job is it to address the crisis of climate change? This question came up at an STM Tech Leaders workshop that I at...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

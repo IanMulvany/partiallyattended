@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>xmp on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/xmp/</link>
-    <description>Recent content in xmp on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jul 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/xmp/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>XMP wrangling on OS X</title>
-      <link>http://partiallyattended.com/2012/07/11/getting-to-grips-with-xmp-on-osx/</link>
-      <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/07/11/getting-to-grips-with-xmp-on-osx/</guid>
-      <description>XMP XMP is the extensible metadata platform from Adobe. It can be used to embed structured metadata into a file. I think it&amp;rsquo;s most common usage is for storing image metadata in image files, but it also has a use in embedding metadata in PDF files.
-Adobe provide an SDK that you can use to start coding applications for working with XMP. They provide a guide for developers, and I&amp;rsquo;ve posted a copy so you can have a quick look if you are interested, without downloading the full SDK.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>xmp on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/xmp/</link>
+		<description>Recent content in xmp on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 11 Jul 2012 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/xmp/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>XMP wrangling on OS X</title>
+			<link>http://partiallyattended.com/2012/07/11/getting-to-grips-with-xmp-on-osx/</link>
+			<pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/07/11/getting-to-grips-with-xmp-on-osx/</guid>
+			<description>
+				
+				XMP XMP is the extensible metadata platform from Adobe. It can be used to embed structured metadata into a file. I think...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

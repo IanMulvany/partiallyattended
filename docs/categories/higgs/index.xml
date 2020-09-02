@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>higgs on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/higgs/</link>
-    <description>Recent content in higgs on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jul 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/higgs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>What use metaphor?</title>
-      <link>http://partiallyattended.com/2012/07/08/what-use-metaphor/</link>
-      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/07/08/what-use-metaphor/</guid>
-      <description>I watched a little of the q&amp;amp;a at CERN this week. One question stood out. A journalist, who didn&amp;rsquo;t want to be named, asked the panel a question along the following lines: &amp;ldquo;what were the panel&amp;rsquo;s favourite and least favourite metaphor for the Higgs boson, and what were their thoughts on the god-particle expression.&amp;rdquo; He pointed out that given such a complex story many who will b e explaining it to the general public will need to reach for metaphor, and when it comes to the god particle term, as much as some may not like it, it has to be recognised that it has entered public consciousness.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>higgs on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/higgs/</link>
+		<description>Recent content in higgs on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 08 Jul 2012 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/higgs/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>What use metaphor?</title>
+			<link>http://partiallyattended.com/2012/07/08/what-use-metaphor/</link>
+			<pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/07/08/what-use-metaphor/</guid>
+			<description>
+				
+				I watched a little of the q&amp;a at CERN this week. One question stood out. A journalist, who didn’t want to be n...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

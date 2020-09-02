@@ -1,79 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>interesting on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/interesting/</link>
-    <description>Recent content in interesting on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/interesting/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>testing a new form of peer review - again</title>
-      <link>http://partiallyattended.com/2018/07/04/testing_a_new_form_of_peer_review_-_again_/</link>
-      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/07/04/testing_a_new_form_of_peer_review_-_again_/</guid>
-      <description>eLife is trying another experiment in peer review. When they launched back in 2012 they introduced a form of peer review known as consultative peer review. They are now looking at a new iteration on the peer review idea.
-Trials in how peer review is done are quite rare, so I think this is going to be interesting to keep track of.
-The new idea is that once an article has been accepted for full review by one of the editors, the journal is going to publish the article, along with all comments.</description>
-    </item>
-    
-    <item>
-      <title>Model Zoo - Pretrained deep learning models for transfer learning, educational purposes, and more</title>
-      <link>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
-      <description>This looks like an interesting corpus of machine learning models. One thing I&amp;rsquo;d not really thought about before is that we will now need to start thinking about how to publish the actual models that are used in scholarly research. Some of the models on this site provide ways to reference the work (e.g. https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks).</description>
-    </item>
-    
-    <item>
-      <title>OA negotiation manifesto from university of California.</title>
-      <link>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
-      <description>This is a really interesting initiative from the university of California. If the scholarly landscape looked like this then publishers would have to generate revenue entirely from services and derivative open products, rather than from content licensing.
-Most of the points is the manifesto are fairly unsurprising but two points stood out as interesting to me.
-Point 10 asks for all metadata to be made available including usage metadata. Are Counter reports sufficient for this, or is anything else needed?</description>
-    </item>
-    
-    <item>
-      <title>Adequate statistical power in clinical trials is associated with the combination of a male first author and a female last author.</title>
-      <link>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</guid>
-      <description>So if your last author is female the quality of the science is statistically better. I don&amp;rsquo;t know exactly what to make of this. We also have to understand a bit about the role of last authorship. In life sciences this is usually the corresponding author. I would not be surprised (given the study looks over a 40 year period) that what we are seeing is that women just produce more carful better science, but are being restricted from first authorship positions because of bias.</description>
-    </item>
-    
-    <item>
-      <title>The Cost of Developers – by Ben Thompson</title>
-      <link>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</guid>
-      <description>This is a fascinating post on what dynamics are in place between large companies and developers. The bottom line is that Microsoft has had to pay a large sum (&amp;gt;$7B) to acquire a developer friendly platform because they currently don&amp;rsquo;t really have one. In contrast Apple has a lot of leverage over developers on iOS, but not on other platforms.
-I&amp;rsquo;m not sure if there is a connection to researchers in the STM space, but some journals certainly have a lot of leverage over researchers.</description>
-    </item>
-    
-    <item>
-      <title>STM brainstorming session - 2013</title>
-      <link>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</link>
-      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</guid>
-      <description>Just attended the STM brainstroming session. I&amp;rsquo;ll update these notes in due course, and fix spelling issues, but I wanted to get the post live first.
-Notes I&amp;rsquo;ll just mention the things that I found interesting. ## Round1
-Science Gists get a mention, yay!!
-Google scholar library gets a mention.
-Visualising data as maps is mentioned, mentions that there are no standards
-Howard mentions much richer tagging in the article, and upfront semantic tagging.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>interesting on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/interesting/</link>
+		<description>Recent content in interesting on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/interesting/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>testing a new form of peer review - again</title>
+			<link>http://partiallyattended.com/2018/07/04/testing_a_new_form_of_peer_review_-_again_/</link>
+			<pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/07/04/testing_a_new_form_of_peer_review_-_again_/</guid>
+			<description>
+				
+				eLife is trying another experiment in peer review. When they launched back in 2012 they introduced a form of peer review...
+				
+			</description>
+		</item>
+		<item>
+			<title>Model Zoo - Pretrained deep learning models for transfer learning, educational purposes, and more</title>
+			<link>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
+			<description>
+				
+				This looks like an interesting corpus of machine learning models. One thing I’d not really thought about before is...
+				
+			</description>
+		</item>
+		<item>
+			<title>OA negotiation manifesto from university of California.</title>
+			<link>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
+			<description>
+				
+				This is a really interesting initiative from the university of California. If the scholarly landscape looked like this t...
+				
+			</description>
+		</item>
+		<item>
+			<title>Adequate statistical power in clinical trials is associated with the combination of a male first author and a female last author.</title>
+			<link>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/adequate_statistical_power_in_clinical_trials_is_associated_with_the_combination_of_a_male_first_author_and_a_female_last_author./</guid>
+			<description>
+				
+				So if your last author is female the quality of the science is statistically better. I don’t know exactly what to ...
+				
+			</description>
+		</item>
+		<item>
+			<title>The Cost of Developers – by Ben Thompson</title>
+			<link>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</guid>
+			<description>
+				
+				This is a fascinating post on what dynamics are in place between large companies and developers. The bottom line is that...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM brainstorming session - 2013</title>
+			<link>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</link>
+			<pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</guid>
+			<description>
+				
+				Just attended the STM brainstroming session. I’ll update these notes in due course, and fix spelling issues, but I...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

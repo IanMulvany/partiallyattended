@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>probability on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/probability/</link>
-    <description>Recent content in probability on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/probability/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Probabilistic language models, auto-correction tools and scientific discovery.</title>
-      <link>http://partiallyattended.com/2010/02/10/probabilistic-language-models-auto-correction-tools-and-scientific-discovery/</link>
-      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/02/10/probabilistic-language-models-auto-correction-tools-and-scientific-discovery/</guid>
-      <description>Probabilistic language models, auto-correction tools and scientific discovery.
-&#34;Durgesh Kumar Dwivedi&#34;:http://network.nature.com/people/U56CB3E51/profile over on Nature Network just asked &#34;Does anyone have any software or web address which corrects English grammar, preposition, edit and shortened the paragraphs?&#34;. This question brought to mind and idea that I had a few years ago.
-The idea is simple enough, use a large corpus of pre-vetted grammatically correct text as a training tool to compare sentences against.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>probability on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/probability/</link>
+		<description>Recent content in probability on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 10 Feb 2010 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/probability/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Probabilistic language models, auto-correction tools and scientific discovery.</title>
+			<link>http://partiallyattended.com/2010/02/10/probabilistic-language-models-auto-correction-tools-and-scientific-discovery/</link>
+			<pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/02/10/probabilistic-language-models-auto-correction-tools-and-scientific-discovery/</guid>
+			<description>
+				
+				 Probabilistic language models, auto-correction tools and scientific discovery.
+&#34;Durgesh Kumar Dwivedi&#34;:http://network.n...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

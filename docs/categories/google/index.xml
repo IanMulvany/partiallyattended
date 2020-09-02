@@ -1,87 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>google on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/google/</link>
-    <description>Recent content in google on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/google/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Google data set search.</title>
-      <link>http://partiallyattended.com/2019/11/19/google_data_set_search._/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/11/19/google_data_set_search._/</guid>
-      <description>I’ve just got back from a fantastic workshop looking at infrastructure for research data discovery. I’ll blog about the workshop in due course, but I was asked to comment about Google Dataset Search - Dataset Search.
-I had the change to meet with Natasha Noi from Google who is behind the service. Natasha Noy – Google AI.
-As with many google services, it has been created by a small team, but with the underlying web scale infrastructure of Google to build on top of.</description>
-    </item>
-    
-    <item>
-      <title>Google employees resigning in protest at potential militarisation of AI</title>
-      <link>http://partiallyattended.com/2018/05/16/google_employees_resigning_in_protest_at_potential_militarisation_of_ai_/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/google_employees_resigning_in_protest_at_potential_militarisation_of_ai_/</guid>
-      <description>https://gizmodo.com/google-employees-resign-in-protest-against-pentagon-con-1825729300
-File this one under “don’t be evil”.
-Of course what is also interesting is that there is actual pushback from the employees, within an industry that has sometimes been called a “morality free zone”.</description>
-    </item>
-    
-    <item>
-      <title>academic ghost towns, Google scholar and Mendeley</title>
-      <link>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</link>
-      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</guid>
-      <description>I&amp;rsquo;m on a mission to clear out my instapapper backlocg, so I&amp;rsquo;m going to be blogging olds rather than news. There was a nice piece in the Atlantic last month talking about how Google could provide a better social experience by activating it&amp;rsquo;s latent networks, rather than mimicking facebook.
- But think about Scholar as a latent social network. Each paper contains its own social network that Google already crawls. Every bibliography is filled with other social networks.</description>
-    </item>
-    
-    <item>
-      <title>sharing documents with google apps for your domain</title>
-      <link>http://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</link>
-      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</guid>
-      <description>I&amp;rsquo;ve just rolled out google apps for your domain for eLife. At about the same time google rolled out gdrive. We were having difficulty figuring out how to share documents across the domain without having to invite people individually to the document. The document sharing options provide the ability to make documents findable by other members of the domain, but when we tried to search for these documents, we were not finding them.</description>
-    </item>
-    
-    <item>
-      <title>mini-review of &#34;Measuring the User Experience on a Large Scale&#34;</title>
-      <link>http://partiallyattended.com/2011/03/29/measuring_ux/</link>
-      <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/03/29/measuring_ux/</guid>
-      <description>Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications by Kerry Rodden, Hilary Hutchinson, and Xin Fu
-Rodden, Hutchinson and Fu describe a framework for measuring the user experience of web apps through mining server logs. Since they are based at Google one assumes that the framework that they are describing has been battle tested.
-They focus on metrics that measure user centric aspects of the online experience, in contrast to business centric (such as PULSE metrics: Page-views, Uptime, Latency, Seven day actives, Earnings).</description>
-    </item>
-    
-    <item>
-      <title>Notes from the Google Wave London roadshow</title>
-      <link>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</link>
-      <pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</guid>
-      <description>Gtug blog post
-On Monday I was at the London Google wave roadshow presented by Lars and Stephanie. The previous Friday I had helped to run a hack day for science applications in wave, so with that experience fresh in my mind I was particularly interested to see what they would say about a few particular topics.
-We had a few problems in the hack day which could be summarised as follows:</description>
-    </item>
-    
-    <item>
-      <title>Moving over to the googleverse</title>
-      <link>http://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</link>
-      <pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</guid>
-      <description>Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal domain to google app engine with email being managed by google apps for my domain. http://www.mulvany.net is now a google app engine site. At the moment there is not much content there, but the google app engine tool allows me to run a perfect cop of my site off line, and to edit locally and then push live.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>google on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/google/</link>
+		<description>Recent content in google on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/google/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Google data set search.</title>
+			<link>http://partiallyattended.com/2019/11/19/google_data_set_search._/</link>
+			<pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/11/19/google_data_set_search._/</guid>
+			<description>
+				
+				I’ve just got back from a fantastic workshop looking at infrastructure for research data discovery. I’ll blog about the ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Google employees resigning in protest at potential militarisation of AI</title>
+			<link>http://partiallyattended.com/2018/05/16/google_employees_resigning_in_protest_at_potential_militarisation_of_ai_/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/google_employees_resigning_in_protest_at_potential_militarisation_of_ai_/</guid>
+			<description>
+				
+				https://gizmodo.com/google-employees-resign-in-protest-against-pentagon-con-1825729300
+File this one under “don’t be evi...
+				
+			</description>
+		</item>
+		<item>
+			<title>academic ghost towns, Google scholar and Mendeley</title>
+			<link>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</link>
+			<pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/07/17/academic-ghost-towns/</guid>
+			<description>
+				
+				I’m on a mission to clear out my instapapper backlocg, so I’m going to be blogging olds rather than news. Th...
+				
+			</description>
+		</item>
+		<item>
+			<title>sharing documents with google apps for your domain</title>
+			<link>http://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</link>
+			<pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/07/17/docs-and-apps-for-your-domain/</guid>
+			<description>
+				
+				I’ve just rolled out google apps for your domain for eLife. At about the same time google rolled out gdrive. We we...
+				
+			</description>
+		</item>
+		<item>
+			<title>mini-review of &#34;Measuring the User Experience on a Large Scale&#34;</title>
+			<link>http://partiallyattended.com/2011/03/29/measuring_ux/</link>
+			<pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/03/29/measuring_ux/</guid>
+			<description>
+				
+				Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications by Kerry Rodden, Hilary Hutch...
+				
+			</description>
+		</item>
+		<item>
+			<title>Notes from the Google Wave London roadshow</title>
+			<link>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</link>
+			<pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2009/10/31/notes-from-the-google-wave-london-roadshow/</guid>
+			<description>
+				
+				 Gtug blog post
+On Monday I was at the London Google wave roadshow presented by Lars and Stephanie. The previous Friday ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Moving over to the googleverse</title>
+			<link>http://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</link>
+			<pubDate>Mon, 13 Apr 2009 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/</guid>
+			<description>
+				
+				 
+Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

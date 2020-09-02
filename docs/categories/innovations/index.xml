@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>innovations on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/innovations/</link>
-    <description>Recent content in innovations on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/innovations/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>RAVE publishing technology conference 2018</title>
-      <link>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</guid>
-      <description>I took some notes on some of the sessions at the conference yesterday.
-Dave Smith - object oriented publishing. Dave makes a good case here about how we should think about the future of scholarly publishing — in terms of objects that can be reformed based on the needs and competencies of the readers. He points out that while we do have in place good ontologies and domain models, our entire view of publishing and our publishing infrastructures, remain laggy and are a barrier to moving in this direction.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>innovations on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/innovations/</link>
+		<description>Recent content in innovations on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/innovations/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>RAVE publishing technology conference 2018</title>
+			<link>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</link>
+			<pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/10/24/rave_publishing_technology_conference_2018_/</guid>
+			<description>
+				
+				I took some notes on some of the sessions at the conference yesterday.
+Dave Smith - object oriented publishing. Dave mak...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

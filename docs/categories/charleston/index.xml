@@ -1,31 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>charleston on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/charleston/</link>
-    <description>Recent content in charleston on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/charleston/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>The robots are coming, the promise and perils of AI - questions</title>
-      <link>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</link>
-      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</guid>
-      <description>I&amp;rsquo;m at the Charleston conference, my first time, and we had a panel discussion this morning talking about AI.
-On the panel were:
-Heather Staines Director of Partnerships, Hypothes.is
-Peter Brantley Director of Online Strategy, UC Davis
-Elizabeth Caley Chief of Staff, Meta, Chan Zuckerberg Initiative
-Ruth Pickering Co-founder and Chief Strategy Officer, Yewno
-and myself. It was a pleasure to be on a panel with these amazing people.
-There was a lot of interest from the audience, and we didn&amp;rsquo;t get anywhere close to talking through all of the questions that we had discussed as a panel ahead of the session, so I&amp;rsquo;m going to blog the questions that we had prepared.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>charleston on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/charleston/</link>
+		<description>Recent content in charleston on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/charleston/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>The robots are coming, the promise and perils of AI - questions</title>
+			<link>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</link>
+			<pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</guid>
+			<description>
+				
+				I’m at the Charleston conference, my first time, and we had a panel discussion this morning talking about AI.
+On t...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

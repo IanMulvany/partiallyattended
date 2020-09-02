@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>organisations on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/organisations/</link>
-    <description>Recent content in organisations on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/organisations/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Things holding back your analytics.</title>
-      <link>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</guid>
-      <description>One of my colleagues sent me over this short report “”3 Things Are Holding Back Your Analytics, and Technology Isn’t One of Them.
-They think the following elements should be considered:
-  How the analysis teams are structured - they need to report in a way that is understandable (i.e. not be too separate from the business), but at the same time be independent enough to provide unbiassed views.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>organisations on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/organisations/</link>
+		<description>Recent content in organisations on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/organisations/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Things holding back your analytics.</title>
+			<link>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</link>
+			<pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</guid>
+			<description>
+				
+				One of my colleagues sent me over this short report “”3 Things Are Holding Back Your Analytics, and Technology Isn’t One...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

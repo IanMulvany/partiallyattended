@@ -1,52 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>test on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/test/</link>
-    <description>Recent content in test on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/test/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>test blog post</title>
-      <link>http://partiallyattended.com/2019/08/01/test_blog_post/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/08/01/test_blog_post/</guid>
-      <description>This is a test post while trying to fix some domain issues with the blog.</description>
-    </item>
-    
-    <item>
-      <title>Testing Code Hilighting</title>
-      <link>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</link>
-      <pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</guid>
-      <description>testing ruby def foo puts &amp;#39;foo&amp;#39; end testing python for nice in this: print &amp;#34;how interesting&amp;#34; testing latex \[ \sum_{n=1}^\infty \frac{1}{n} \text{ is divergent, but } \lim_{n \to \infty} \sum_{i=1}^n \frac{1}{i} - \ln n \text{exists.} \] </description>
-    </item>
-    
-    <item>
-      <title>my first post</title>
-      <link>http://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</link>
-      <pubDate>Sat, 03 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</guid>
-      <description>I&amp;rsquo;m trying to understand jekyll here It seems to be quite nice, let&amp;rsquo;s see how we get on!</description>
-    </item>
-    
-    <item>
-      <title>Volvox</title>
-      <link>http://partiallyattended.com/2006/06/29/volvox/</link>
-      <pubDate>Thu, 29 Jun 2006 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2006/06/29/volvox/</guid>
-      <description>&amp;ldquo;Volvox&amp;rdquo;:img:img:http://www.mulvany.net/photo/blogPics/volvox
-The very first thing to die on it&amp;rsquo;s own, without the intervention of an outside agent, was an organism called Volvox. The first life that we know of whose cells perish from old age, rather than misfortune. Before humble Volvox all other living things would go on forever, the immortal bacteria, the barely describable virus. Volvox introduced death by natural causes to the world, and all living things that came after that were as complex, or more so, followed suit, and found programmed within them some pace maker, set to expire after they had done their duty on the earth.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>test on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/test/</link>
+		<description>Recent content in test on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/test/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>test blog post</title>
+			<link>http://partiallyattended.com/2019/08/01/test_blog_post/</link>
+			<pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/08/01/test_blog_post/</guid>
+			<description>
+				
+				This is a test post while trying to fix some domain issues with the blog.
+
+				
+			</description>
+		</item>
+		<item>
+			<title>Testing Code Hilighting</title>
+			<link>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</link>
+			<pubDate>Sun, 15 Aug 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/08/15/testing-code-hilighting/</guid>
+			<description>
+				
+				testing ruby def foo puts &#39;foo&#39; end testing python for nice in this: print &#34;how interesting&#34; testing lat...
+				
+			</description>
+		</item>
+		<item>
+			<title>my first post</title>
+			<link>http://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</link>
+			<pubDate>Sat, 03 Jul 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/07/03/my-very-first-test-post-with-jekyll/</guid>
+			<description>
+				
+				I’m trying to understand jekyll here It seems to be quite nice, let’s see how we get on!
+
+				
+			</description>
+		</item>
+		<item>
+			<title>Volvox</title>
+			<link>http://partiallyattended.com/2006/06/29/volvox/</link>
+			<pubDate>Thu, 29 Jun 2006 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2006/06/29/volvox/</guid>
+			<description>
+				
+				“Volvox”:img:img:http://www.mulvany.net/photo/blogPics/volvox
+The very first thing to die on it’s own,...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

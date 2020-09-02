@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>open source on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/open-source/</link>
-    <description>Recent content in open source on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>After 5 years and $3M, here&#39;s everything we&#39;ve learned from building Ghost</title>
-      <link>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</guid>
-      <description>This is a great overview of how a not for profit open source technology company built a working business providing publishing tools. It speaks to how bad the landscape for publishing tools on the web is.
-Their product was originally created on kickstarter, and I remember when it launched, and being impressed with it back then. They have now pivoted away from trying to server small content individuals and are making money serving needs in the enterprise.</description>
-    </item>
-    
-    <item>
-      <title>April digital strategy forum</title>
-      <link>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</link>
-      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</guid>
-      <description>On the 1st of April I had the pleasure of being invited to a digital strategy forum event hosted by the Wellcome Trust. People involved in digital and online projects from across a number of not for profit organisations gathered to hear some short talks about using, and contributing to, open source, agile project development and responsive design.
-Open Source development. Open Sourcing Wellcome Library Player – Tom Crane, Digirati agency The player can be embedded in other sites.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>open source on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/open-source/</link>
+		<description>Recent content in open source on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>After 5 years and $3M, here&#39;s everything we&#39;ve learned from building Ghost</title>
+			<link>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/after_5_years_and_3m_heres_everything_weve_learned_from_building_ghost/</guid>
+			<description>
+				
+				This is a great overview of how a not for profit open source technology company built a working business providing publi...
+				
+			</description>
+		</item>
+		<item>
+			<title>April digital strategy forum</title>
+			<link>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</link>
+			<pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</guid>
+			<description>
+				
+				On the 1st of April I had the pleasure of being invited to a digital strategy forum event hosted by the Wellcome Trust. ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

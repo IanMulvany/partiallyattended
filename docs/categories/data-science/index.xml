@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>data science on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/data-science/</link>
-    <description>Recent content in data science on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Things holding back your analytics.</title>
-      <link>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</guid>
-      <description>One of my colleagues sent me over this short report “”3 Things Are Holding Back Your Analytics, and Technology Isn’t One of Them.
-They think the following elements should be considered:
-  How the analysis teams are structured - they need to report in a way that is understandable (i.e. not be too separate from the business), but at the same time be independent enough to provide unbiassed views.</description>
-    </item>
-    
-    <item>
-      <title>data science vs statistics talk at the RSS</title>
-      <link>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</link>
-      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</guid>
-      <description>Tonight I attend a debate held at the Royal Statistics Society. It was en entertaining, and wide ranging discussion with a great panel, and fairly intelligent questions from the floor.
-Two fun facts:
- One of the founding members of the society was Charles Babbage The society is located within spitting distance of the grave of William Thomas Bayes  So, here are the notes, rough and ready, and I missed a lot in my note taking, but I hope I get a flavour of the discussion across.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>data science on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/data-science/</link>
+		<description>Recent content in data science on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Things holding back your analytics.</title>
+			<link>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</link>
+			<pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/11/04/things_holding_back_your_analytics._/</guid>
+			<description>
+				
+				One of my colleagues sent me over this short report “”3 Things Are Holding Back Your Analytics, and Technology Isn’t One...
+				
+			</description>
+		</item>
+		<item>
+			<title>data science vs statistics talk at the RSS</title>
+			<link>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</link>
+			<pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/05/11/rss-data-science-talk/</guid>
+			<description>
+				
+				Tonight I attend a debate held at the Royal Statistics Society. It was en entertaining, and wide ranging discussion with...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

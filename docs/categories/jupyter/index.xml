@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>jupyter on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/jupyter/</link>
-    <description>Recent content in jupyter on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/jupyter/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Using Datasette to publish data</title>
-      <link>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</guid>
-      <description>In my department we have started to make a bit of space to allow for self learning to happen. I took the time to look at https://datasette.readthedocs.io/en/stable/, an ecosystem of tools that support data publishing. These tools are from Simon Willison, and they are fantastic.
-I&amp;rsquo;d been meaning to look at the them for some time now. I used a jupyter notebook to work my way around getting some data together, and working with the tool.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>jupyter on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/jupyter/</link>
+		<description>Recent content in jupyter on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/jupyter/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Using Datasette to publish data</title>
+			<link>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</link>
+			<pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</guid>
+			<description>
+				
+				In my department we have started to make a bit of space to allow for self learning to happen. I took the time to look at...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

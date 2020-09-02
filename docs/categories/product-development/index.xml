@@ -1,127 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>product development on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/product-development/</link>
-    <description>Recent content in product development on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/product-development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Strategies to reduce cognitive load, and make systems more robust whilst doing so, and why that’s important for product development.</title>
-      <link>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</guid>
-      <description>At my current company we are looking at strategies for improving the resilience of our core systems, and looking at the issue of disaster recovery from a broad perspective. This comes under the heading business continuity management.
-From a product development perspective these considerations are also important.
-For successful products / product organisations consider these two perspectives:
- Most new business value that we create from innovation projects comes from improvements or iterations to existing products over the creation of totally new products (from an evolutionary perspective this makes sense, products or services that are already making revenue have proved they they have an environmental fitness function that works, whereas new products are like genetic modifications, the vast majority of which lead towards extinct endpoints.</description>
-    </item>
-    
-    <item>
-      <title>One Two Four All - a technique for getting insights from groups</title>
-      <link>http://partiallyattended.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</guid>
-      <description>I’ve started working my way through The Surprising Power of Liberating Structures - a hand book of techniques for collaborative work.
-So far I’ve tried one technique from the book - one two four all.
-The idea is super simple and is an alternative to open brainstorming or post-it note sessions. Before describing the technique with a few comments, I’ll just point out one of the weaknesses of a group work activity like a retrospective.</description>
-    </item>
-    
-    <item>
-      <title>One Two Four All - a technique for getting insights from groups.</title>
-      <link>http://partiallyattended.com/2018/10/17/one_two_four_all_-_a_technique_for_getting_insights_from_groups._/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/10/17/one_two_four_all_-_a_technique_for_getting_insights_from_groups._/</guid>
-      <description>I’ve started working my way through The Surprising Power of Liberating Strucutres - a hand book of techniques for collaborative work.
-So far I’ve tried one technique from the book - one two four all.
-The idea is super simple and is an alternative to open brain storming or post-it note sessions. Before describing the technique with a few comments, I’ll just point out one of the weaknesses of a group work activity like a group retrospective.</description>
-    </item>
-    
-    <item>
-      <title>notes on notes on “crossing the chasam”</title>
-      <link>http://partiallyattended.com/2018/07/03/notes_on_notes_on_crossing_the_chasam/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/07/03/notes_on_notes_on_crossing_the_chasam/</guid>
-      <description>The following is not about scholarly communication, but is a post about one tool from the world of product development, how to think about marketing your product or service so that you can cross the chasm. Academic researchers are simultaneously the most innovative and conservative of users.
-There is so much pain in the process of academic research that there is a constant re-invention and invention of tools and proceeds, but at the same time there is also a huge time pressure, so for any new tool, technique or service to get wide spread traction is really hard in the academic market place.</description>
-    </item>
-    
-    <item>
-      <title>Jobs to be Done A Case Study in the NHS | Digital transformation blog</title>
-      <link>http://partiallyattended.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</guid>
-      <description>This is a great post on using the jobs to be done framework. There are two specific enhancements that are discussed - how to weight those jobs, and how to use granularity of the jobs to aid the design process (less granularity gives more freedom in the design phase).
-The authors wanted to use surveys to get a sense of importance of the under served needs, but in the end had to resort to a simple variant of card sorting.</description>
-    </item>
-    
-    <item>
-      <title>Reaktor Breakpoint 2018 Ben Sauer, The rise of voice, and how to design for it - YouTube</title>
-      <link>http://partiallyattended.com/2018/06/29/reaktor_breakpoint_2018_ben_sauer_the_rise_of_voice_and_how_to_design_for_it_-_youtube/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/reaktor_breakpoint_2018_ben_sauer_the_rise_of_voice_and_how_to_design_for_it_-_youtube/</guid>
-      <description>This is a great overview of the sate of designing for voice. Ben is one the best designers / tech thinkers that I&amp;rsquo;ve ever worked with, and he gives a great overview of how to think about designing for voice in this talk.
-&amp;lt;a href=https://www.</description>
-    </item>
-    
-    <item>
-      <title>Research Software Engineering conference 2018 workshop abstract</title>
-      <link>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</guid>
-      <description>About As SAGE is sponsoring the Research Software Engineers conference in September we get to submit a workshop. I’m thrilled to be able to attend this conference. Many years ago I used to write research software in astrophysics. Over the years I have learnt how complex the interplay is between specification, software writing and getting to the heart of user needs. Along with this is the critical question of how we find sustainable models for these kinds of activities.</description>
-    </item>
-    
-    <item>
-      <title>scholarly comms product meetup - V2 - announcement</title>
-      <link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
-      <description>Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots of great meetups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies, but solely on the product management work that is required to develop these kinds of tools.</description>
-    </item>
-    
-    <item>
-      <title>Three posts about product development</title>
-      <link>http://partiallyattended.com/2017/03/15/three_posts_product_dev/</link>
-      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/03/15/three_posts_product_dev/</guid>
-      <description>I&amp;rsquo;m catching up on some reading at the moment. Trying to make headway on some other work while jet lagged is proving a challenge. Anyway, here are a couple of nice posts about product development that popped up in my feed (hat tip to Mind the Product Weekly Newsletter.
-## What do people do in the spaces in between?
-When thinking about what people do with your product, also think about what they don’t do, and how to help them get to where they are going.</description>
-    </item>
-    
-    <item>
-      <title>Some thoughts about product management</title>
-      <link>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
-      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
-      <description>I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I&amp;rsquo;ve been learning on the job. There are a huge number of resources out there, great lectures, books, conferences, blog posts. In this short post I just want to reflect a bit on what I&amp;rsquo;ve learned on this topic through direct personal experience. I continue to learn, and my thinking continues to evolve, so this post is more of a look back, than a look to the future.</description>
-    </item>
-    
-    <item>
-      <title>April digital strategy forum</title>
-      <link>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</link>
-      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</guid>
-      <description>On the 1st of April I had the pleasure of being invited to a digital strategy forum event hosted by the Wellcome Trust. People involved in digital and online projects from across a number of not for profit organisations gathered to hear some short talks about using, and contributing to, open source, agile project development and responsive design.
-Open Source development. Open Sourcing Wellcome Library Player – Tom Crane, Digirati agency The player can be embedded in other sites.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>product development on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/product-development/</link>
+		<description>Recent content in product development on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/product-development/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Strategies to reduce cognitive load, and make systems more robust whilst doing so, and why that’s important for product development.</title>
+			<link>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</link>
+			<pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</guid>
+			<description>
+				
+				At my current company we are looking at strategies for improving the resilience of our core systems, and looking at the ...
+				
+			</description>
+		</item>
+		<item>
+			<title>One Two Four All - a technique for getting insights from groups</title>
+			<link>http://partiallyattended.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</link>
+			<pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</guid>
+			<description>
+				
+				I’ve started working my way through The Surprising Power of Liberating Structures - a hand book of techniques for collab...
+				
+			</description>
+		</item>
+		<item>
+			<title>One Two Four All - a technique for getting insights from groups.</title>
+			<link>http://partiallyattended.com/2018/10/17/one_two_four_all_-_a_technique_for_getting_insights_from_groups._/</link>
+			<pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/10/17/one_two_four_all_-_a_technique_for_getting_insights_from_groups._/</guid>
+			<description>
+				
+				I’ve started working my way through The Surprising Power of Liberating Strucutres - a hand book of techniques for collab...
+				
+			</description>
+		</item>
+		<item>
+			<title>notes on notes on “crossing the chasam”</title>
+			<link>http://partiallyattended.com/2018/07/03/notes_on_notes_on_crossing_the_chasam/</link>
+			<pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/07/03/notes_on_notes_on_crossing_the_chasam/</guid>
+			<description>
+				
+				The following is not about scholarly communication, but is a post about one tool from the world of product development, ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Jobs to be Done A Case Study in the NHS | Digital transformation blog</title>
+			<link>http://partiallyattended.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</guid>
+			<description>
+				
+				This is a great post on using the jobs to be done framework. There are two specific enhancements that are discussed - ho...
+				
+			</description>
+		</item>
+		<item>
+			<title>Reaktor Breakpoint 2018 Ben Sauer, The rise of voice, and how to design for it - YouTube</title>
+			<link>http://partiallyattended.com/2018/06/29/reaktor_breakpoint_2018_ben_sauer_the_rise_of_voice_and_how_to_design_for_it_-_youtube/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/reaktor_breakpoint_2018_ben_sauer_the_rise_of_voice_and_how_to_design_for_it_-_youtube/</guid>
+			<description>
+				
+				This is a great overview of the sate of designing for voice. Ben is one the best designers / tech thinkers that I’...
+				
+			</description>
+		</item>
+		<item>
+			<title>Research Software Engineering conference 2018 workshop abstract</title>
+			<link>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/research_software_engineering_conference_2018_workshop_abstract/</guid>
+			<description>
+				
+				About As SAGE is sponsoring the Research Software Engineers conference in September we get to submit a workshop. I’m thr...
+				
+			</description>
+		</item>
+		<item>
+			<title>scholarly comms product meetup - V2 - announcement</title>
+			<link>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
+			<pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
+			<description>
+				
+				Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots...
+				
+			</description>
+		</item>
+		<item>
+			<title>Three posts about product development</title>
+			<link>http://partiallyattended.com/2017/03/15/three_posts_product_dev/</link>
+			<pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/03/15/three_posts_product_dev/</guid>
+			<description>
+				
+				I’m catching up on some reading at the moment. Trying to make headway on some other work while jet lagged is provi...
+				
+			</description>
+		</item>
+		<item>
+			<title>Some thoughts about product management</title>
+			<link>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</link>
+			<pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/03/05/thoughts-on-product-management/</guid>
+			<description>
+				
+				I moved into digital product management in 2007. I had no formal training, and for much of the last eight years I’...
+				
+			</description>
+		</item>
+		<item>
+			<title>April digital strategy forum</title>
+			<link>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</link>
+			<pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/04/14/digital-strategy-forum-april-2014/</guid>
+			<description>
+				
+				On the 1st of April I had the pleasure of being invited to a digital strategy forum event hosted by the Wellcome Trust. ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>bmj on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/bmj/</link>
-    <description>Recent content in bmj on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/bmj/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Goodbye SAGE, hello BMJ!</title>
-      <link>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</guid>
-      <description>I’m excited to share the news that from mid-April I will be joining the BMJ as their new CTO. I’ll be leaving SAGE on great terms with the teams here, and for sure there will be a little sadness and I’ll definitely miss my colleagues, but equally I’m super excited about the new challenges ahead.
-Crucially, at SAGE we are hiring for my replacement, so if you are interested in applying for one of the most fun roles in the Scholarly Publishing industry at the moment then reach out, I’m happy to chat about what we have been up to!</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>bmj on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/bmj/</link>
+		<description>Recent content in bmj on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/bmj/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Goodbye SAGE, hello BMJ!</title>
+			<link>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</link>
+			<pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</guid>
+			<description>
+				
+				I’m excited to share the news that from mid-April I will be joining the BMJ as their new CTO. I’ll be leaving SAGE on gr...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

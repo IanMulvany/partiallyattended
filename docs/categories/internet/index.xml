@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>internet on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/internet/</link>
-    <description>Recent content in internet on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/internet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Where once we dreamt of many gardens, now we have many walls</title>
-      <link>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</guid>
-      <description>I’m reading through Anil Dash’s great blog post looking back at the way the web used to be in terms of how we thought of it, and how it was implemented. (As an aside, I’m deeply fascinated by Glitch, but have not had the time to date to spend on it that I would have wished).
-In addition to his comment about how websites are now assembled, component by component, there is another aspect to modern development that I’ve strongly noticed, and that is of specialisation.</description>
-    </item>
-    
-    <item>
-      <title>SOPA and PIPA stink, but the RWA is more dangerous to science.</title>
-      <link>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</link>
-      <pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</guid>
-      <description>There are three bills up for consideration in the US Government which if passed will have a significant negative impact on academic research. These are the Stop Online Piracy Act (SOPA), the Protect IP Act (PIPA), and the Research Works Act (RWA).
-SOPA and PIPA will have a negative impact by putting censorship controls into the hands of the entertainment industry, and permitting legal process to affect the underlying architecture of the web.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>internet on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/internet/</link>
+		<description>Recent content in internet on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/internet/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Where once we dreamt of many gardens, now we have many walls</title>
+			<link>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</link>
+			<pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/27/where_once_we_dreamt_of_many_gardens_now_we_have_many_walls/</guid>
+			<description>
+				
+				I’m reading through Anil Dash’s great blog post looking back at the way the web used to be in terms of how we thought of...
+				
+			</description>
+		</item>
+		<item>
+			<title>SOPA and PIPA stink, but the RWA is more dangerous to science.</title>
+			<link>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</link>
+			<pubDate>Tue, 17 Jan 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/01/17/sopa-pipia-rwa-dangers/</guid>
+			<description>
+				
+				There are three bills up for consideration in the US Government which if passed will have a significant negative impact ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

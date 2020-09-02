@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>network science on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/network-science/</link>
-    <description>Recent content in network science on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2009 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/network-science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>notes on &#34;Classes of complex networks deﬁned by role-to-role connectivity proﬁles&#34;</title>
-      <link>http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/</link>
-      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/</guid>
-      <description>Looking for algorithms to do community detection (there are a bunch from the famous Girvan-Newman algorithm doi:10.1073/pnas.122653799 which seems to have gained popularity through being very simple, effiencet and usually pretty powerfull, through to a method doi:10.1103/PhysRevE.71.046117 by Ziv, Middendorf and Wiggins. I have to admit I don&#39;t understand that paper yet, but hope to come back to it.) I was pointed to a paper by Guimera, Sales-Pardo and Amaral.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>network science on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/network-science/</link>
+		<description>Recent content in network science on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 14 Apr 2009 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/network-science/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>notes on &#34;Classes of complex networks deﬁned by role-to-role connectivity proﬁles&#34;</title>
+			<link>http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/</link>
+			<pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/</guid>
+			<description>
+				
+				 Looking for algorithms to do community detection (there are a bunch from the famous Girvan-Newman algorithm doi:10.1073...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

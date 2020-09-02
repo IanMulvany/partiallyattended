@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>physics on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/physics/</link>
-    <description>Recent content in physics on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/physics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Wittgenstein and Physics, Cross College Oxford one day seminar</title>
-      <link>http://partiallyattended.com/2015/02/19/wittgenstein-and-physics/</link>
-      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/02/19/wittgenstein-and-physics/</guid>
-      <description>(image via peternijenhuis)Last year I attended a one day seminar on Wittgenstein and Physics. It was held at Cross College Oxford and was the first in a planned series of talks on the history and philosophy of science. It&amp;rsquo;s been a long time since I&amp;rsquo;ve done physics seriously, and longer still since I took classes on the history and philosophy of science, so I attended very much in the mode of the interested outsider.</description>
-    </item>
-    
-    <item>
-      <title>ArXiV at 20, a brief review.</title>
-      <link>http://partiallyattended.com/2011/08/30/arxiv-20-years-on-review/</link>
-      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2011/08/30/arxiv-20-years-on-review/</guid>
-      <description>I just read the brief article by Paul Ginsparg about 20 years of the ArXiV. I think the article is a must read for anyone who is thinking about scientific communication. It&amp;rsquo;s short, and very readable.
-The things that stand out for me from this article are the following:
-There are real costs associated with running services on the web. Ginsparg originally imagined that the service that he created could run automatically and that he would be able to get back to his research projects very quickly.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>physics on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/physics/</link>
+		<description>Recent content in physics on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/physics/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Wittgenstein and Physics, Cross College Oxford one day seminar</title>
+			<link>http://partiallyattended.com/2015/02/19/wittgenstein-and-physics/</link>
+			<pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/02/19/wittgenstein-and-physics/</guid>
+			<description>
+				
+				(image via peternijenhuis)Last year I attended a one day seminar on Wittgenstein and Physics. It was held at Cross Colle...
+				
+			</description>
+		</item>
+		<item>
+			<title>ArXiV at 20, a brief review.</title>
+			<link>http://partiallyattended.com/2011/08/30/arxiv-20-years-on-review/</link>
+			<pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2011/08/30/arxiv-20-years-on-review/</guid>
+			<description>
+				
+				I just read the brief article by Paul Ginsparg about 20 years of the ArXiV. I think the article is a must read for anyon...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

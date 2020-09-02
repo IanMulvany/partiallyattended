@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>unpaywall on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/unpaywall/</link>
-    <description>Recent content in unpaywall on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/unpaywall/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Unpaywall Journals - possibly the most interesting thing to happen this year in library subscription land.</title>
-      <link>http://partiallyattended.com/2019/11/06/unpaywall_journals_-_possibly_the_most_interesting_thing_to_happen_this_year_in_library_subscription_land._/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/11/06/unpaywall_journals_-_possibly_the_most_interesting_thing_to_happen_this_year_in_library_subscription_land._/</guid>
-      <description>Heather and Jason from https://ourresearch.org/ have just released a preview of their new tool - unpaywall journals. You can have a look at the preview of this tool now - Unpaywall Journals.
-They previewed this two weeks ago at FORCE2019 and have clearly gone through a ton of work to get the tool the state it is in todday, so big congraatulations to them on the product release.
-For those of you not in the know they have a long track record of building useful open infrastructure in the scholarly communications spaace.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>unpaywall on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/unpaywall/</link>
+		<description>Recent content in unpaywall on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/unpaywall/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Unpaywall Journals - possibly the most interesting thing to happen this year in library subscription land.</title>
+			<link>http://partiallyattended.com/2019/11/06/unpaywall_journals_-_possibly_the_most_interesting_thing_to_happen_this_year_in_library_subscription_land._/</link>
+			<pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/11/06/unpaywall_journals_-_possibly_the_most_interesting_thing_to_happen_this_year_in_library_subscription_land._/</guid>
+			<description>
+				
+				Heather and Jason from https://ourresearch.org/ have just released a preview of their new tool - unpaywall journals. You...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

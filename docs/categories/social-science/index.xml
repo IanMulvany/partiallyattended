@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>social science on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/social-science/</link>
-    <description>Recent content in social science on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/social-science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Open Knowledge Maps - social science map</title>
-      <link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
-      <description>Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for some time now (originally built on top of Mendeley data). I ran into them again this week as we start to think about how to visualise the relationship between different aspects of research. The one linked to here is for social science and here is one for &amp;ldquo;computational social science&amp;rdquo;: https://openknowledgemaps.org/map/70627a849484345cdfd04c914de0a2e2. Their news pages shows that the project and team are still active, which is great.</description>
-    </item>
-    
-    <item>
-      <title>What do we mean when we talk about Big Data?</title>
-      <link>http://partiallyattended.com/2016/12/15/what-is-big-data/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
-      <description>What do we mean when we talk about Big Data?
-The following blog post about this article provides the following definition of big data:
- “High volume data that frequently combines highly structured administrative data actively collected by public sector organisations with continuously and automatically collected structured and unstructured real-time data that are often passively created by public and private entities through their internet.”
- The article is behind a paywall, but the blog is pretty clearly laid out.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>social science on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/social-science/</link>
+		<description>Recent content in social science on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/social-science/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Open Knowledge Maps - social science map</title>
+			<link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
+			<description>
+				
+				Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for s...
+				
+			</description>
+		</item>
+		<item>
+			<title>What do we mean when we talk about Big Data?</title>
+			<link>http://partiallyattended.com/2016/12/15/what-is-big-data/</link>
+			<pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2016/12/15/what-is-big-data/</guid>
+			<description>
+				
+				What do we mean when we talk about Big Data?
+The following blog post about this article provides the following definitio...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

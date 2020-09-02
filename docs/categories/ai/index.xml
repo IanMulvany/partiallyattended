@@ -1,122 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AI on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/ai/</link>
-    <description>Recent content in AI on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/ai/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Some brief thoughts on scholarly publishing and climate change.</title>
-      <link>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</guid>
-      <description>Who’s job is it to address the crisis of climate change? This question came up at an STM Tech Leaders workshop that I attended earlier this week? The answer is that we all are, and in that context we had a very interesting conversation on the topic.
-This is the first time that I’ve seen this topic come up in a forum like this, so a bit thank you to Dave Smith from the IET for pushing the topic forward.</description>
-    </item>
-    
-    <item>
-      <title>key questions about AI in the publishing knowledge industry</title>
-      <link>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</guid>
-      <description>At the moment one thing that is front and centre in my thinking about AI and machine learning in publishing and the scholarly ecosystem is how to make the case for ROI for investment in the technology, and more specifically investing in making data actionable.
-Overall I think there is great promise for challenges like knowledge discovery and machine generated hypotheses, but there is massive potential for these technologies to also just make the quality of our work better, and to increase the value of our work by reducing and removing toil in the workplace.</description>
-    </item>
-    
-    <item>
-      <title>Distill is dedicated to making machine learning clear and dynamic</title>
-      <link>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</guid>
-      <description>Distill is an experiment in bringing interactive documents and scholarly documents together. I&amp;rsquo;m often asked what the future of publishing might look like, and were we to embrace what the web offers it might look like distill.
-Two things though, make it look like a nice product. Right now paper flow into this journal is very low, and secondly they have advertised a large prize to attract work in this format.</description>
-    </item>
-    
-    <item>
-      <title>Narrative Science | Natural Language Generation Technology</title>
-      <link>http://partiallyattended.com/2018/06/29/narrative_science__natural_language_generation_technology/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/narrative_science__natural_language_generation_technology/</guid>
-      <description>I think what these people are doing is creating human readable summaries of large corpora of documents or signals based on AI. At some point this kind of approach is going to mature to the point of being able to replace many traditional editorial functions, but its going to happen in finance first.</description>
-    </item>
-    
-    <item>
-      <title>Model Zoo - Pretrained deep learning models for transfer learning, educational purposes, and more</title>
-      <link>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
-      <description>This looks like an interesting corpus of machine learning models. One thing I&amp;rsquo;d not really thought about before is that we will now need to start thinking about how to publish the actual models that are used in scholarly research. Some of the models on this site provide ways to reference the work (e.g. https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks).</description>
-    </item>
-    
-    <item>
-      <title>Alexa is becoming less popular as a baby name since the Amazon service launched.</title>
-      <link>http://partiallyattended.com/2018/05/16/alexa_is_becoming_less_popular_as_a_baby_name_since_the_amazon_service_launched._/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/alexa_is_becoming_less_popular_as_a_baby_name_since_the_amazon_service_launched._/</guid>
-      <description>Mark this one down as totally not surprising.
-https://www.recode.net/2018/5/13/17345722/alexa-amazon-echo-baby-name-girls-apple-siri</description>
-    </item>
-    
-    <item>
-      <title>Computer replaces workers, workers ty to turn into data scientists.</title>
-      <link>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</guid>
-      <description>http://www.latimes.com/business/technology/la-fi-tn-automation-training-20180504-story.html
-The headline is a bit click-baitey. I think the big takeaway from this article is that there is a significant shift in how companies are doing training with the advent of online learning. Unsurprising, but hopefully good news for efforts like sage campus.</description>
-    </item>
-    
-    <item>
-      <title>Some initial thoughts on the Google Duplex demo</title>
-      <link>http://partiallyattended.com/2018/05/09/some_initial_thoughts_on_the_google_duplex_demo/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/09/some_initial_thoughts_on_the_google_duplex_demo/</guid>
-      <description>The Verge also covered this well: www.theverge.com/2018/5/9/17334658/google-ai-phone-call-assistant-duplex-ethical-social-implications and they have a quote from Joanna Bryson, who talked at SAGE just before Christmas. Her quote is finished out with the following.
- There are no obvious answers to these questions, but as Bryson points out, Google is at least doing the world a service by bringing attention to this technology. It’s not the only company developing these services, and it certainly won’t be the only one to use them.</description>
-    </item>
-    
-    <item>
-      <title>AI and discovery tools</title>
-      <link>http://partiallyattended.com/2018/04/27/ai_and_discovery_tools/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/27/ai_and_discovery_tools/</guid>
-      <description>I got asked to contribute an answer to an upcoming feature looking at trends in scholarly discovery.
-There are four questions and I’ve been asked to think about an answer to the last of these four.
- In a sentence or two, please tell us what you understand is meant by &amp;lsquo;discovery&amp;rsquo;?
-  For a researcher, how has the discovery experience developed in recent years?
-  How can researchers decide which tools are going to do the right job for them?</description>
-    </item>
-    
-    <item>
-      <title>The robots are coming, the promise and perils of AI - questions</title>
-      <link>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</link>
-      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</guid>
-      <description>I&amp;rsquo;m at the Charleston conference, my first time, and we had a panel discussion this morning talking about AI.
-On the panel were:
-Heather Staines Director of Partnerships, Hypothes.is
-Peter Brantley Director of Online Strategy, UC Davis
-Elizabeth Caley Chief of Staff, Meta, Chan Zuckerberg Initiative
-Ruth Pickering Co-founder and Chief Strategy Officer, Yewno
-and myself. It was a pleasure to be on a panel with these amazing people.
-There was a lot of interest from the audience, and we didn&amp;rsquo;t get anywhere close to talking through all of the questions that we had discussed as a panel ahead of the session, so I&amp;rsquo;m going to blog the questions that we had prepared.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>AI on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/ai/</link>
+		<description>Recent content in AI on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Some brief thoughts on scholarly publishing and climate change.</title>
+			<link>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</link>
+			<pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</guid>
+			<description>
+				
+				Who’s job is it to address the crisis of climate change? This question came up at an STM Tech Leaders workshop that I at...
+				
+			</description>
+		</item>
+		<item>
+			<title>key questions about AI in the publishing knowledge industry</title>
+			<link>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</link>
+			<pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</guid>
+			<description>
+				
+				At the moment one thing that is front and centre in my thinking about AI and machine learning in publishing and the scho...
+				
+			</description>
+		</item>
+		<item>
+			<title>Distill is dedicated to making machine learning clear and dynamic</title>
+			<link>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</guid>
+			<description>
+				
+				Distill is an experiment in bringing interactive documents and scholarly documents together. I’m often asked what ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Narrative Science | Natural Language Generation Technology</title>
+			<link>http://partiallyattended.com/2018/06/29/narrative_science__natural_language_generation_technology/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/narrative_science__natural_language_generation_technology/</guid>
+			<description>
+				
+				I think what these people are doing is creating human readable summaries of large corpora of documents or signals based ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Model Zoo - Pretrained deep learning models for transfer learning, educational purposes, and more</title>
+			<link>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
+			<description>
+				
+				This looks like an interesting corpus of machine learning models. One thing I’d not really thought about before is...
+				
+			</description>
+		</item>
+		<item>
+			<title>Alexa is becoming less popular as a baby name since the Amazon service launched.</title>
+			<link>http://partiallyattended.com/2018/05/16/alexa_is_becoming_less_popular_as_a_baby_name_since_the_amazon_service_launched._/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/alexa_is_becoming_less_popular_as_a_baby_name_since_the_amazon_service_launched._/</guid>
+			<description>
+				
+				Mark this one down as totally not surprising.
+https://www.recode.net/2018/5/13/17345722/alexa-amazon-echo-baby-name-girl...
+				
+			</description>
+		</item>
+		<item>
+			<title>Computer replaces workers, workers ty to turn into data scientists.</title>
+			<link>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</guid>
+			<description>
+				
+				http://www.latimes.com/business/technology/la-fi-tn-automation-training-20180504-story.html
+The headline is a bit click-...
+				
+			</description>
+		</item>
+		<item>
+			<title>Some initial thoughts on the Google Duplex demo</title>
+			<link>http://partiallyattended.com/2018/05/09/some_initial_thoughts_on_the_google_duplex_demo/</link>
+			<pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/09/some_initial_thoughts_on_the_google_duplex_demo/</guid>
+			<description>
+				
+				The Verge also covered this well: www.theverge.com/2018/5/9/17334658/google-ai-phone-call-assistant-duplex-ethical-socia...
+				
+			</description>
+		</item>
+		<item>
+			<title>AI and discovery tools</title>
+			<link>http://partiallyattended.com/2018/04/27/ai_and_discovery_tools/</link>
+			<pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/27/ai_and_discovery_tools/</guid>
+			<description>
+				
+				I got asked to contribute an answer to an upcoming feature looking at trends in scholarly discovery.
+There are four ques...
+				
+			</description>
+		</item>
+		<item>
+			<title>The robots are coming, the promise and perils of AI - questions</title>
+			<link>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</link>
+			<pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</guid>
+			<description>
+				
+				I’m at the Charleston conference, my first time, and we had a panel discussion this morning talking about AI.
+On t...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

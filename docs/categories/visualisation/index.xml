@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>visualisation on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/visualisation/</link>
-    <description>Recent content in visualisation on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/visualisation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Digital Radar - STM landscape</title>
-      <link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
-      <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
-&amp;lt;a href=https://radar.</description>
-    </item>
-    
-    <item>
-      <title>Open Knowledge Maps - social science map</title>
-      <link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
-      <description>Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for some time now (originally built on top of Mendeley data). I ran into them again this week as we start to think about how to visualise the relationship between different aspects of research. The one linked to here is for social science and here is one for &amp;ldquo;computational social science&amp;rdquo;: https://openknowledgemaps.org/map/70627a849484345cdfd04c914de0a2e2. Their news pages shows that the project and team are still active, which is great.</description>
-    </item>
-    
-    <item>
-      <title>VIPER - The Visual Project Explorer</title>
-      <link>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
-      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>visualisation on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/visualisation/</link>
+		<description>Recent content in visualisation on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/visualisation/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Digital Radar - STM landscape</title>
+			<link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
+			<description>
+				
+				Thoughtworks have created a tool to allow you to build your own “Digital Radar”. The one linked to here was ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Open Knowledge Maps - social science map</title>
+			<link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
+			<description>
+				
+				Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for s...
+				
+			</description>
+		</item>
+		<item>
+			<title>VIPER - The Visual Project Explorer</title>
+			<link>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
+			<description>
+				
+				This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. Fo...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>microsoft on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/microsoft/</link>
-    <description>Recent content in microsoft on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/microsoft/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>The Cost of Developers – by Ben Thompson</title>
-      <link>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</guid>
-      <description>This is a fascinating post on what dynamics are in place between large companies and developers. The bottom line is that Microsoft has had to pay a large sum (&amp;gt;$7B) to acquire a developer friendly platform because they currently don&amp;rsquo;t really have one. In contrast Apple has a lot of leverage over developers on iOS, but not on other platforms.
-I&amp;rsquo;m not sure if there is a connection to researchers in the STM space, but some journals certainly have a lot of leverage over researchers.</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Surface Hub - very first impressions</title>
-      <link>http://partiallyattended.com/2018/04/19/microsoft_surface_hub_-_very_first_impressions/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/19/microsoft_surface_hub_-_very_first_impressions/</guid>
-      <description>I just had my first hands on experience with the Microsoft surface hub. I tried out sketching a lean canvas on the surface to see how it would work.
-Things I liked  writing was responsive pressure sensitivity worked well two people can write at the same time there is sketch to shape recognition, and it’s OK its just about big enough to work on, but bigger would be better  Things I liked in principle, but was not able to check whether they work in practice  being able to capture the output of the session digitally being able to remotely work on the surface with another team at the same time  Things I didn’t like  selecting and moving items really just was too hard to figure out under / erase was fiddly sometimes the built in grid would get in the way when I had object recognition on, it would sometimes turn my “D”s into triangles not as flexible as working with post it notes, in terms of being able to move and cluster ideas  Conclusion Overall this is getting there, but for me its not quite there yet.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>microsoft on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/microsoft/</link>
+		<description>Recent content in microsoft on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/microsoft/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>The Cost of Developers – by Ben Thompson</title>
+			<link>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/the_cost_of_developers__by_ben_thompson/</guid>
+			<description>
+				
+				This is a fascinating post on what dynamics are in place between large companies and developers. The bottom line is that...
+				
+			</description>
+		</item>
+		<item>
+			<title>Microsoft Surface Hub - very first impressions</title>
+			<link>http://partiallyattended.com/2018/04/19/microsoft_surface_hub_-_very_first_impressions/</link>
+			<pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/19/microsoft_surface_hub_-_very_first_impressions/</guid>
+			<description>
+				
+				I just had my first hands on experience with the Microsoft surface hub. I tried out sketching a lean canvas on the surfa...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

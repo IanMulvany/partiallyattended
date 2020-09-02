@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>economy on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/economy/</link>
-    <description>Recent content in economy on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/economy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Computer replaces workers, workers ty to turn into data scientists.</title>
-      <link>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</guid>
-      <description>http://www.latimes.com/business/technology/la-fi-tn-automation-training-20180504-story.html
-The headline is a bit click-baitey. I think the big takeaway from this article is that there is a significant shift in how companies are doing training with the advent of online learning. Unsurprising, but hopefully good news for efforts like sage campus.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>economy on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/economy/</link>
+		<description>Recent content in economy on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/economy/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Computer replaces workers, workers ty to turn into data scientists.</title>
+			<link>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/computer_replaces_workers_workers_ty_to_turn_into_data_scientists._/</guid>
+			<description>
+				
+				http://www.latimes.com/business/technology/la-fi-tn-automation-training-20180504-story.html
+The headline is a bit click-...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

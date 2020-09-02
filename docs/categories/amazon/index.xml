@@ -1,37 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>amazon on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/amazon/</link>
-    <description>Recent content in amazon on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/amazon/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Alexa is becoming less popular as a baby name since the Amazon service launched.</title>
-      <link>http://partiallyattended.com/2018/05/16/alexa_is_becoming_less_popular_as_a_baby_name_since_the_amazon_service_launched._/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/alexa_is_becoming_less_popular_as_a_baby_name_since_the_amazon_service_launched._/</guid>
-      <description>Mark this one down as totally not surprising.
-https://www.recode.net/2018/5/13/17345722/alexa-amazon-echo-baby-name-girls-apple-siri</description>
-    </item>
-    
-    <item>
-      <title>aws london summit notes</title>
-      <link>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</link>
-      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</guid>
-      <description>Amazon Web Summit London 2015 ## Keynote
-There were about three thousand people at the summit. I chatted to a few people throughout the day. Their experience with AWS ranged from moderate use through to just being at the evaluation stage.
-The keynote highlighted AWS&amp;rsquo;s approach of wanting to put the customer in control, and to remove all unnecessary work from the customer in terms of managing IT.
-AWS has grown enormously, they are estimated to have five times the compute power on hand than all other cloud providers combined.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>amazon on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/amazon/</link>
+		<description>Recent content in amazon on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/amazon/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Alexa is becoming less popular as a baby name since the Amazon service launched.</title>
+			<link>http://partiallyattended.com/2018/05/16/alexa_is_becoming_less_popular_as_a_baby_name_since_the_amazon_service_launched._/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/alexa_is_becoming_less_popular_as_a_baby_name_since_the_amazon_service_launched._/</guid>
+			<description>
+				
+				Mark this one down as totally not surprising.
+https://www.recode.net/2018/5/13/17345722/alexa-amazon-echo-baby-name-girl...
+				
+			</description>
+		</item>
+		<item>
+			<title>aws london summit notes</title>
+			<link>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</link>
+			<pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/04/16/aws-london-summit-notes/</guid>
+			<description>
+				
+				Amazon Web Summit London 2015 ## Keynote
+There were about three thousand people at the summit. I chatted to a few people...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

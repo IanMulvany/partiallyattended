@@ -1,58 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>crossref on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/crossref/</link>
-    <description>Recent content in crossref on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/crossref/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Using Datasette to publish data</title>
-      <link>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</guid>
-      <description>In my department we have started to make a bit of space to allow for self learning to happen. I took the time to look at https://datasette.readthedocs.io/en/stable/, an ecosystem of tools that support data publishing. These tools are from Simon Willison, and they are fantastic.
-I&amp;rsquo;d been meaning to look at the them for some time now. I used a jupyter notebook to work my way around getting some data together, and working with the tool.</description>
-    </item>
-    
-    <item>
-      <title>Preprints growth rate ten times higher than journal articles - Crossref</title>
-      <link>http://partiallyattended.com/2018/06/21/preprints_growth_rate_ten_times_higher_than_journal_articles_-_crossref/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/preprints_growth_rate_ten_times_higher_than_journal_articles_-_crossref/</guid>
-      <description>Great post looking into stats on preprints in crossref. Headline takeaways, preprint registration into crossref is 10x that of article growth, but it&amp;rsquo;s hard to read a lot into that as the absolute numbers are so different at the moment 2.4M per month (published articles) vs 10k per month (preprints). There is also some interesting data on preprint citations, preprint citations come in at best at a level of about 10% of the citations to the subsequently published article.</description>
-    </item>
-    
-    <item>
-      <title>Reverse DOI lookups with Crossref</title>
-      <link>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</link>
-      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</guid>
-      <description>Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.
-@CrossrefOrg helped out and pointed me to the reverse api endpoint. It workes like this:
-http://api.crossref.org/reverse
-Created a json payload file “citation.json” formatted as follows:
-[ &amp;#34;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
-    </item>
-    
-    <item>
-      <title>How to create threads between publications and clinical trial registraion numbers</title>
-      <link>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</link>
-      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</guid>
-      <description>Yesterday I attended an interesting meeting to discuss how to improve the connection between clinical trial registration ids and publications. My raw notes from the meeting follow. This is being discussed as publication threads, but the idea discussed here stands apart from the kind of publication threads that the endcode project worked on.
-attendees ATTENDEES - organisations: eLife f1000 PLOS BMC Springer lancet BMJ crossref
-attendees - people Geoffrey Bilder, CrossRef, Director of Strategic Initiatives Rachael Lammey, CrossRef, Product Manager CrossMark Daniel Shanahan, BioMed Central, Associate Publisher Tim Stevenson, BioMed Central, Product Manager Deborah Kahn, BioMed Central, EVP Publishing Caroline Black, BioMed Central, Senior Publisher Katherine Barton, BMJ, Operations Manager Josie Breen, BMJ, Head of Editorial Production Isaac Jones, BMJ, Production Manager Ian Mulvany, eLife, Head of Technology Iain Hrynaszkiewicz, F1000, Outreach Director Karen Rowlett, F1000Research, Managing Editor Helene Faure, ISRCTN Database Manager Hannah Jones, The Lancet, Managing Editor Dan Lewsley, The Lancet, Head of Production Joseph Brown, PLoS, Senior Editorial Manager Volker Boeing, Springer, Director, Process and Content Management Mirjam Kessler, Springer, Bibliographic Metadata Manager</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>crossref on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/crossref/</link>
+		<description>Recent content in crossref on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/crossref/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Using Datasette to publish data</title>
+			<link>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</link>
+			<pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/07/02/using_datasette_to_publish_data/</guid>
+			<description>
+				
+				In my department we have started to make a bit of space to allow for self learning to happen. I took the time to look at...
+				
+			</description>
+		</item>
+		<item>
+			<title>Preprints growth rate ten times higher than journal articles - Crossref</title>
+			<link>http://partiallyattended.com/2018/06/21/preprints_growth_rate_ten_times_higher_than_journal_articles_-_crossref/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/preprints_growth_rate_ten_times_higher_than_journal_articles_-_crossref/</guid>
+			<description>
+				
+				Great post looking into stats on preprints in crossref. Headline takeaways, preprint registration into crossref is 10x t...
+				
+			</description>
+		</item>
+		<item>
+			<title>Reverse DOI lookups with Crossref</title>
+			<link>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</link>
+			<pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/01/10/crossref-reverse-lookups/</guid>
+			<description>
+				
+				Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.
+@CrossrefOrg helped ...
+				
+			</description>
+		</item>
+		<item>
+			<title>How to create threads between publications and clinical trial registraion numbers</title>
+			<link>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</link>
+			<pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2014/01/31/threaded-publications-discussion/</guid>
+			<description>
+				
+				Yesterday I attended an interesting meeting to discuss how to improve the connection between clinical trial registration...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

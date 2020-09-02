@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>kubernetes on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/kubernetes/</link>
-    <description>Recent content in kubernetes on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Where should you host your Kubernetes solution?</title>
-      <link>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</link>
-      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</guid>
-      <description>I previously Kicked the tyres on kubernetes, with an example of how to deploy it onto Google’s infrastructure, but if you want to scale out and start dong some real work with this piece of infrastructure where should you go to have a hosted Kubernetes solution?
-I honestly don’t have an answer to that. The Kubernetes site provides a large list of providers.
-A friend of mine has been considering between https://stackpoint.</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes - As I Learn</title>
-      <link>http://partiallyattended.com/2017/09/14/kubernetes_-_as_i_learn/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/09/14/kubernetes_-_as_i_learn/</guid>
-      <description>I&amp;rsquo;m currently working on supporting a JupyterHub installation for a series of online courses that we are launching at SAGE. Along the way I&amp;rsquo;ve had to get my head around deploying the software using kubernetes. This is a stack that I&amp;rsquo;ve been aware of for quite a while, but I&amp;rsquo;ve not worked with it before. In order to help with debugging my installation I&amp;rsquo;m writing up a guide on some of the kubernetes commands that I found useful when deploying a service onto google cloud.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>kubernetes on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/kubernetes/</link>
+		<description>Recent content in kubernetes on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 19 Apr 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Where should you host your Kubernetes solution?</title>
+			<link>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</link>
+			<pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/04/19/where_should_you_host_your_kubernetes_solution/</guid>
+			<description>
+				
+				I previously Kicked the tyres on kubernetes, with an example of how to deploy it onto Google’s infrastructure, but if yo...
+				
+			</description>
+		</item>
+		<item>
+			<title>Kubernetes - As I Learn</title>
+			<link>http://partiallyattended.com/2017/09/14/kubernetes_-_as_i_learn/</link>
+			<pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/09/14/kubernetes_-_as_i_learn/</guid>
+			<description>
+				
+				I’m currently working on supporting a JupyterHub installation for a series of online courses that we are launching...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

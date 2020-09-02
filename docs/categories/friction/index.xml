@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>friction on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/friction/</link>
-    <description>Recent content in friction on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/friction/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Something broke in a Jekyll upgrade (a.k.a, sometimes I hate software)</title>
-      <link>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</link>
-      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</guid>
-      <description>This is a short story about software, some of the things I hate about it, my lack of knowledge of ruby, and a desire to own my own words.
-For various reasons I&amp;rsquo;m working on a brand new machine, I decided that I want to start posting to my own blog again (as well as cross posting to Medium, because fuck it, why not).
-That involved dusting down my Jekyll site and seeing if I could get it to work again.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>friction on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/friction/</link>
+		<description>Recent content in friction on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 08 Dec 2016 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/friction/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Something broke in a Jekyll upgrade (a.k.a, sometimes I hate software)</title>
+			<link>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</link>
+			<pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2016/12/08/sometimes-i-hate-software/</guid>
+			<description>
+				
+				This is a short story about software, some of the things I hate about it, my lack of knowledge of ruby, and a desire to ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

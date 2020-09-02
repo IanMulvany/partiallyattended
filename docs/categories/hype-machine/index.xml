@@ -1,48 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>hype-machine on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/hype-machine/</link>
-    <description>Recent content in hype-machine on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/hype-machine/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>blockchain in STEM - part 3</title>
-      <link>http://partiallyattended.com/2018/07/04/blockchain_in_stem_-_part_3__/</link>
-      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/07/04/blockchain_in_stem_-_part_3__/</guid>
-      <description>Over the last few weeks I’ve been writing up some thoughts on the uses of blockchain in STEM.
-The first post I gave a general overview of my understand of blockchain.
-In the second post I looked at potential use cases of blockchain in STEM, and came up somewhat short.
-That said, a lot, really, a lot of very smart people are talking about this, and doing things in this space, so in this post I wanted to look at a few of those efforts and see how their thinking lines up or diverges from mine.</description>
-    </item>
-    
-    <item>
-      <title>blockchain in STEM - part 2</title>
-      <link>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</link>
-      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</guid>
-      <description>In my last post I gave an overview of what blockchain is, while also confusing House of Pain and Cypress Hill. (These posts are probably best read whilst listening to either of those songs).
-In this post I’m going to look at potential use cases for blockchain in STEM and scholarly publishing.
-Scholarly communications use cases. When thinking about any use cases in STEM I think the questions we need to answer are:</description>
-    </item>
-    
-    <item>
-      <title>Blockchain in STEM - part 1</title>
-      <link>http://partiallyattended.com/2018/06/19/blockchain_in_stem_-_part_1/</link>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/19/blockchain_in_stem_-_part_1/</guid>
-      <description>A lot of people are taking about “blockchain for science” and “blockchain for publishing”, but I’m skeptical. Some of the people taking about this are really smart, so I could be wrong.
-If we think of scholarly publishing as being like the connective tissue of science, and we accept that this idea is gaining purchase within our community that we have to realise that we are looking at a case of</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>hype-machine on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/hype-machine/</link>
+		<description>Recent content in hype-machine on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/hype-machine/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>blockchain in STEM - part 3</title>
+			<link>http://partiallyattended.com/2018/07/04/blockchain_in_stem_-_part_3__/</link>
+			<pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/07/04/blockchain_in_stem_-_part_3__/</guid>
+			<description>
+				
+				Over the last few weeks I’ve been writing up some thoughts on the uses of blockchain in STEM.
+The first post I gave a ge...
+				
+			</description>
+		</item>
+		<item>
+			<title>blockchain in STEM - part 2</title>
+			<link>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</link>
+			<pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/26/blockchain_in_stem_-_part_2/</guid>
+			<description>
+				
+				In my last post I gave an overview of what blockchain is, while also confusing House of Pain and Cypress Hill. (These po...
+				
+			</description>
+		</item>
+		<item>
+			<title>Blockchain in STEM - part 1</title>
+			<link>http://partiallyattended.com/2018/06/19/blockchain_in_stem_-_part_1/</link>
+			<pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/19/blockchain_in_stem_-_part_1/</guid>
+			<description>
+				
+				A lot of people are taking about “blockchain for science” and “blockchain for publishing”, but I’m skeptical. Some of th...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>presentation on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/presentation/</link>
-    <description>Recent content in presentation on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Cool slide deck about the advantages of using the shell for data science.</title>
-      <link>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</guid>
-      <description>I love this short presentation on using the shell for data science. Many of the things hat are described in the presentation are just plain useful anyway, searching over csv files, finding things, renaming things.</description>
-    </item>
-    
-    <item>
-      <title>An idea for an interface for picture search</title>
-      <link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
-      <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>presentation on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/presentation/</link>
+		<description>Recent content in presentation on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Cool slide deck about the advantages of using the shell for data science.</title>
+			<link>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</link>
+			<pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/06/cool_slide_deck_about_the_advantages_of_using_the_shell_for_data_science./</guid>
+			<description>
+				
+				I love this short presentation on using the shell for data science. Many of the things hat are described in the presenta...
+				
+			</description>
+		</item>
+		<item>
+			<title>An idea for an interface for picture search</title>
+			<link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+			<description>
+				
+				  A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

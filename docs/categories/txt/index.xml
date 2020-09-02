@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>txt on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/txt/</link>
-    <description>Recent content in txt on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/txt/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>getting started</title>
-      <link>http://partiallyattended.com/2008/07/14/getting-started/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/getting-started/</guid>
-      <description>  Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive text thinks i&#39;m a clogger! An interesting, if somewhat disturbing begining. Tags: moblog, txt, travel
- </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>txt on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/txt/</link>
+		<description>Recent content in txt on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 14 Jul 2008 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/txt/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>getting started</title>
+			<link>http://partiallyattended.com/2008/07/14/getting-started/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/getting-started/</guid>
+			<description>
+				
+				  Well, i&#39;m starting out my mob-blogging life waiting in que for a flight to milan, and i discover that my predictive te...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

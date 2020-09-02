@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>models on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/models/</link>
-    <description>Recent content in models on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/models/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Model Zoo - Pretrained deep learning models for transfer learning, educational purposes, and more</title>
-      <link>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
-      <description>This looks like an interesting corpus of machine learning models. One thing I&amp;rsquo;d not really thought about before is that we will now need to start thinking about how to publish the actual models that are used in scholarly research. Some of the models on this site provide ways to reference the work (e.g. https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks).</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>models on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/models/</link>
+		<description>Recent content in models on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/models/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Model Zoo - Pretrained deep learning models for transfer learning, educational purposes, and more</title>
+			<link>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/model_zoo_-_pretrained_deep_learning_models_for_transfer_learning_educational_purposes_and_more/</guid>
+			<description>
+				
+				This looks like an interesting corpus of machine learning models. One thing I’d not really thought about before is...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

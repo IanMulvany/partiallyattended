@@ -1,170 +1,197 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>STM on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/stm/</link>
-    <description>Recent content in STM on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/stm/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>OA negotiation manifesto from university of California.</title>
-      <link>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
-      <description>This is a really interesting initiative from the university of California. If the scholarly landscape looked like this then publishers would have to generate revenue entirely from services and derivative open products, rather than from content licensing.
-Most of the points is the manifesto are fairly unsurprising but two points stood out as interesting to me.
-Point 10 asks for all metadata to be made available including usage metadata. Are Counter reports sufficient for this, or is anything else needed?</description>
-    </item>
-    
-    <item>
-      <title>Digital Radar - STM landscape</title>
-      <link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
-      <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
-&amp;lt;a href=https://radar.</description>
-    </item>
-    
-    <item>
-      <title>FuturePub Jan 2015 - Lens Next</title>
-      <link>http://partiallyattended.com/2015/01/28/futurepub4-lens-next/</link>
-      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2015/01/28/futurepub4-lens-next/</guid>
-      <description>On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick update on where the Lens viewer for research articles is heading. Lens is a great platform for experimentation, and we have been iterating on some ideas towards the end of 2014 that have now made it into the 2.0 release.
-The main update is that Lens can now be configured to accept information from a 3rd party source and display that information in the right hand resources pane.</description>
-    </item>
-    
-    <item>
-      <title>STM innovations seminar, London, 2013</title>
-      <link>http://partiallyattended.com/2013/12/04/stm-innovations-2013/</link>
-      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/12/04/stm-innovations-2013/</guid>
-      <description>Today I&amp;rsquo;m at the STM innovations seminar. The twitter tag for today is #ukinno. The program is online.
-I&amp;rsquo;m going to take a light approach to blogging today, I&amp;rsquo;ll probably hang out mostly on Twitter.
-## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University  Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
-    </item>
-    
-    <item>
-      <title>STM brainstorming session - 2013</title>
-      <link>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</link>
-      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</guid>
-      <description>Just attended the STM brainstroming session. I&amp;rsquo;ll update these notes in due course, and fix spelling issues, but I wanted to get the post live first.
-Notes I&amp;rsquo;ll just mention the things that I found interesting. ## Round1
-Science Gists get a mention, yay!!
-Google scholar library gets a mention.
-Visualising data as maps is mentioned, mentions that there are no standards
-Howard mentions much richer tagging in the article, and upfront semantic tagging.</description>
-    </item>
-    
-    <item>
-      <title>SpotOn day 2.</title>
-      <link>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</link>
-      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
-      <description>Yesterday was awesome, let&amp;rsquo;s see how today goes. I was watching from afar, as my wife attended, and now I&amp;rsquo;m here for the afternoon sessions.
-sessions:  Ben Goldacre publishing data, what&amp;rsquo;s in it for researchers?  now on to the sessions!
-[Incentivising Open Access][ioa].(top) Nice panel, you can see the list of the panel on the site homepage, I&amp;rsquo;ll again, mostly focus on the trend of the discussion.
-What do researchers get credit for?</description>
-    </item>
-    
-    <item>
-      <title>SpotOn day 1.</title>
-      <link>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</link>
-      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
-      <description>I&amp;rsquo;ll keep a partial, live-idsh blog going during the day. I&amp;rsquo;ve been going to these things, I think, since about 2008. I really like these meetings. I&amp;rsquo;m going to probably keep these notes pretty lightweight.
-sessions:  Ben Goldacre Kamila  Session on whether science journalism will be replaced Altmetric track  now on to the sessions!
-Ben Goldacre - opening keynote, on data. .(top) Ben is talking about the issues that arise when you place a lot of data in one place.</description>
-    </item>
-    
-    <item>
-      <title>Last minute changes to our solo12journals line up.</title>
-      <link>http://partiallyattended.com/2012/11/10/last-minute-changes/</link>
-      <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/11/10/last-minute-changes/</guid>
-      <description>* {margin:0; padding:0} body {font:11px/1.5 Verdana, Arial, Helvetica, sans-serif; background:#FFF} #text {margin:50px auto; width:500px} .hotspot {color:#900; padding-bottom:1px; border-bottom:1px dotted #900; cursor:pointer} #tt {position:absolute; display:block; background:url(images/tt_left.gif) top left no-repeat} #tttop {display:block; height:5px; margin-left:5px; background:url(images/tt_top.gif) top right no-repeat; overflow:hidden} #ttcont {display:block; padding:2px 12px 3px 7px; margin-left:5px; background:#666; color:#FFF} #ttbot {display:block; height:5px; margin-left:5px; background:url(images/tt_bottom.gif) top right no-repeat; overflow:hidden}  I&#39;m really excited about the session that we will be running at SpotOn London in just two days time!</description>
-    </item>
-    
-    <item>
-      <title>The journal is dead, long live the journal - abstract.</title>
-      <link>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</link>
-      <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</guid>
-      <description>With Anna Sharman and Bob O&amp;rsquo;Hara, I&amp;rsquo;ll be hosting a session on the future of academic journals at SpotOnLondon (formerly ScienceOnline London). You can check out the session details here. They have posted the short version of the abstract on the site, I&amp;rsquo;m posting the longer version here, and you can also see our google planning document. We will update with details on the panel very soon.
-Abstract Today&amp;rsquo;s online articles and journals remain mostly an online mirror of print products.</description>
-    </item>
-    
-    <item>
-      <title>Data literature integration workshop.</title>
-      <link>http://partiallyattended.com/2012/10/11/literature-data-integration/</link>
-      <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/10/11/literature-data-integration/</guid>
-      <description>Literature Data integration workshop 2012-10-10 There are many people attending today. I&amp;rsquo;m not sure whether the attendee list will be released. I&amp;rsquo;ve taken notes, but rather rapidly. I may have ended up mis appropriating comments, missed comments, or inserted comments that didn&amp;rsquo;t happen, so take the below with the appropriate health warnings. I still need to check on the links, and pull together a link list at the bottom, but I wanted to get the write up out while it was still in front of me.</description>
-    </item>
-    
-    <item>
-      <title>Going for gold, open access debate.</title>
-      <link>http://partiallyattended.com/2012/10/02/icoa-going-for-gold/</link>
-      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/10/02/icoa-going-for-gold/</guid>
-      <description>Update, audio of the meeting is now available on figshare
-Last Thursday I attended the SciCommForum debate &amp;ldquo;Open access: going for gold?&amp;rdquo; held at Imperial College. Below are my notes from the event. The notes are fairly raw, and not comprehensive.
-The debate is going to be looking at open access in the context of the RCUK policy, it is being hosted by Richard Van Noorden (RVN), Mark Thorley (MT) from RCUK, and Stephen Curry (SC).</description>
-    </item>
-    
-    <item>
-      <title>The slow web, more thoughtful experiences.</title>
-      <link>http://partiallyattended.com/2012/08/22/the-slow-web/</link>
-      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/08/22/the-slow-web/</guid>
-      <description>I&amp;rsquo;ve been concerned for a few years about the flow of data that we are producing, and how to handle the angst of not being able to keep up with everything, ever. I think it started when I became a very heavy user of google reader back in 2006 or so.
-There is little doubt that the web is moving more in this direction, Anil Dash recently called for people to stop creating web pages, and to start creating only streams.</description>
-    </item>
-    
-    <item>
-      <title>The cost of production</title>
-      <link>http://partiallyattended.com/2012/07/12/the-cost-of-production/</link>
-      <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/07/12/the-cost-of-production/</guid>
-      <description>Last week an interesting discussion on the cost of copy editing popped up over on Stephen Curry&amp;rsquo;s blog. In addition the comment thread at the recent Science editorial seems to make this post somewhat timely. I used to manage the copy editing of a good portion of physical science related content from Springer from 2002 &amp;ndash; 2005. I&amp;rsquo;m also currently in the process of setting up a new online-only journal.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>STM on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/stm/</link>
+		<description>Recent content in STM on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/stm/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
+			<pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
+			<pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>OA negotiation manifesto from university of California.</title>
+			<link>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
+			<description>
+				
+				This is a really interesting initiative from the university of California. If the scholarly landscape looked like this t...
+				
+			</description>
+		</item>
+		<item>
+			<title>Digital Radar - STM landscape</title>
+			<link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
+			<description>
+				
+				Thoughtworks have created a tool to allow you to build your own “Digital Radar”. The one linked to here was ...
+				
+			</description>
+		</item>
+		<item>
+			<title>FuturePub Jan 2015 - Lens Next</title>
+			<link>http://partiallyattended.com/2015/01/28/futurepub4-lens-next/</link>
+			<pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2015/01/28/futurepub4-lens-next/</guid>
+			<description>
+				
+				On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick updat...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM innovations seminar, London, 2013</title>
+			<link>http://partiallyattended.com/2013/12/04/stm-innovations-2013/</link>
+			<pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/12/04/stm-innovations-2013/</guid>
+			<description>
+				
+				Today I’m at the STM innovations seminar. The twitter tag for today is #ukinno. The program is online.
+I’m g...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM brainstorming session - 2013</title>
+			<link>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</link>
+			<pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/12/03/stm-brainstorming-meeting/</guid>
+			<description>
+				
+				Just attended the STM brainstroming session. I’ll update these notes in due course, and fix spelling issues, but I...
+				
+			</description>
+		</item>
+		<item>
+			<title>SpotOn day 2.</title>
+			<link>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</link>
+			<pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/11/12/spoton-solo12-day2/</guid>
+			<description>
+				
+				Yesterday was awesome, let’s see how today goes. I was watching from afar, as my wife attended, and now I’m ...
+				
+			</description>
+		</item>
+		<item>
+			<title>SpotOn day 1.</title>
+			<link>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</link>
+			<pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/11/11/spoton-solo12-day1/</guid>
+			<description>
+				
+				I’ll keep a partial, live-idsh blog going during the day. I’ve been going to these things, I think, since ab...
+				
+			</description>
+		</item>
+		<item>
+			<title>Last minute changes to our solo12journals line up.</title>
+			<link>http://partiallyattended.com/2012/11/10/last-minute-changes/</link>
+			<pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/11/10/last-minute-changes/</guid>
+			<description>
+				
+				  * {margin:0; padding:0} body {font:11px/1.5 Verdana, Arial, Helvetica, sans-serif; background:#FFF} #text {margin:50px...
+				
+			</description>
+		</item>
+		<item>
+			<title>The journal is dead, long live the journal - abstract.</title>
+			<link>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</link>
+			<pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/10/28/jidlltj-abstract/</guid>
+			<description>
+				
+				With Anna Sharman and Bob O’Hara, I’ll be hosting a session on the future of academic journals at SpotOnLond...
+				
+			</description>
+		</item>
+		<item>
+			<title>Data literature integration workshop.</title>
+			<link>http://partiallyattended.com/2012/10/11/literature-data-integration/</link>
+			<pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/10/11/literature-data-integration/</guid>
+			<description>
+				
+				Literature Data integration workshop 2012-10-10 There are many people attending today. I’m not sure whether the at...
+				
+			</description>
+		</item>
+		<item>
+			<title>Going for gold, open access debate.</title>
+			<link>http://partiallyattended.com/2012/10/02/icoa-going-for-gold/</link>
+			<pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/10/02/icoa-going-for-gold/</guid>
+			<description>
+				
+				Update, audio of the meeting is now available on figshare
+Last Thursday I attended the SciCommForum debate “Open a...
+				
+			</description>
+		</item>
+		<item>
+			<title>The slow web, more thoughtful experiences.</title>
+			<link>http://partiallyattended.com/2012/08/22/the-slow-web/</link>
+			<pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/08/22/the-slow-web/</guid>
+			<description>
+				
+				I’ve been concerned for a few years about the flow of data that we are producing, and how to handle the angst of n...
+				
+			</description>
+		</item>
+		<item>
+			<title>The cost of production</title>
+			<link>http://partiallyattended.com/2012/07/12/the-cost-of-production/</link>
+			<pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/07/12/the-cost-of-production/</guid>
+			<description>
+				
+				Last week an interesting discussion on the cost of copy editing popped up over on Stephen Curry’s blog. In additio...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

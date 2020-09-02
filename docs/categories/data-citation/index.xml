@@ -1,42 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>data-citation on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/data-citation/</link>
-    <description>Recent content in data-citation on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/data-citation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>STM Research data workshop.</title>
-      <link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
-      <title>A new new way to make biological data more easily citable</title>
-      <link>http://partiallyattended.com/2018/05/16/a_new_new_way_to_make_biological_data_more_easily_citable_/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/a_new_new_way_to_make_biological_data_more_easily_citable_/</guid>
-      <description>Working under Force11 the California digital library and the EBI have made progress on making identifiers to data held in biological data repositories more easily resolvable. The have done this by setting up infrastructure and standards to support creating globally unique prefixes for the data repositories involved. You can see some examples in this table: Table 2: Examples of persistent, citable URLs for a single accession (NCBI Taxon 9606), with default and specified providers.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>data-citation on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/data-citation/</link>
+		<description>Recent content in data-citation on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/data-citation/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</link>
+			<pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/06/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>STM Research data workshop.</title>
+			<link>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</link>
+			<pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/12/05/stm_research_data_workshop._/</guid>
+			<description>
+				
+				The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in Lond...
+				
+			</description>
+		</item>
+		<item>
+			<title>A new new way to make biological data more easily citable</title>
+			<link>http://partiallyattended.com/2018/05/16/a_new_new_way_to_make_biological_data_more_easily_citable_/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/a_new_new_way_to_make_biological_data_more_easily_citable_/</guid>
+			<description>
+				
+				Working under Force11 the California digital library and the EBI have made progress on making identifiers to data held i...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

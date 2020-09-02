@@ -1,44 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>alm on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/alm/</link>
-    <description>Recent content in alm on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/alm/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>PLOS ALM 13 day 2</title>
-      <link>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</link>
-      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</guid>
-      <description>Connecting ALM and Literature As I took part in the first session I don&amp;rsquo;t have many notes from it. I&amp;rsquo;ve posted the slides from my talk, and I&amp;rsquo;ll write up some more on those in due course. For me the standout talk of the session, if not the entire meeting, was from Jevin West who talked about using networked ranked data to provide recommendations. The algorithms his group are working on are being tested on [SSRN][ssrn], and will be rolled out to PLOS.</description>
-    </item>
-    
-    <item>
-      <title>NISO ALM standardization workshop</title>
-      <link>http://partiallyattended.com/2013/10/16/niso-alm-standardisation/</link>
-      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/10/16/niso-alm-standardisation/</guid>
-      <description>This was a one day workshop discuss the creation of standards around Article Level Metrics. NISO has a grant from the Sloan foundation to look into this, and this event was the first of three planned information gathering events. My own opinion on this topic has changed over the past year, evolving from being strongly opposed, to broadly supporting the idea of building some kind of standard or best practice for the field.</description>
-    </item>
-    
-    <item>
-      <title>PLOS ALM 13, day1</title>
-      <link>http://partiallyattended.com/2013/10/16/plos-aml-13-day1/</link>
-      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2013/10/16/plos-aml-13-day1/</guid>
-      <description>## Cameron Neylon - Introduction &amp;amp; Welcome
-Interesting - this is the first PLOS ALM meeting that is a &amp;ldquo;normal&amp;rdquo; scheduled presentation. Time is going to be tight.
-Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch. Web of science didn&amp;rsquo;t tell PLOS until 2010 that PLOS one was being tracked for an impact factor.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>alm on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/alm/</link>
+		<description>Recent content in alm on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 17 Oct 2013 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/alm/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>PLOS ALM 13 day 2</title>
+			<link>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</link>
+			<pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/10/17/plos-alm-13-day2/</guid>
+			<description>
+				
+				Connecting ALM and Literature As I took part in the first session I don’t have many notes from it. I’ve post...
+				
+			</description>
+		</item>
+		<item>
+			<title>NISO ALM standardization workshop</title>
+			<link>http://partiallyattended.com/2013/10/16/niso-alm-standardisation/</link>
+			<pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/10/16/niso-alm-standardisation/</guid>
+			<description>
+				
+				This was a one day workshop discuss the creation of standards around Article Level Metrics. NISO has a grant from the Sl...
+				
+			</description>
+		</item>
+		<item>
+			<title>PLOS ALM 13, day1</title>
+			<link>http://partiallyattended.com/2013/10/16/plos-aml-13-day1/</link>
+			<pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2013/10/16/plos-aml-13-day1/</guid>
+			<description>
+				
+				## Cameron Neylon - Introduction &amp; Welcome
+Interesting - this is the first PLOS ALM meeting that is a “normal&amp;...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

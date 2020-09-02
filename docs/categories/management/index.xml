@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>management on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/management/</link>
-    <description>Recent content in management on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/management/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>PLOS are looking for a new CEO</title>
-      <link>http://partiallyattended.com/2017/01/10/plos-ceo/</link>
-      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2017/01/10/plos-ceo/</guid>
-      <description>So I hear that PLOS are looking for a new CEO. They are making the process fairly open, so if you are interested you can read more here.
-I got to thinking about some of the challenges and opportunities facing PLOS over the weekend. Over the years I&amp;rsquo;ve gotten to know a lot of PLOS folk, and I think it&amp;rsquo;s an amazing organisation. It has proved the viability of open access, and their business model is being copied by a lot of other publishers.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>management on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/management/</link>
+		<description>Recent content in management on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/management/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>PLOS are looking for a new CEO</title>
+			<link>http://partiallyattended.com/2017/01/10/plos-ceo/</link>
+			<pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2017/01/10/plos-ceo/</guid>
+			<description>
+				
+				So I hear that PLOS are looking for a new CEO. They are making the process fairly open, so if you are interested you can...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

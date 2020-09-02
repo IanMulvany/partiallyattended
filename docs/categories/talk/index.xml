@@ -1,161 +1,171 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>talk on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/talk/</link>
-    <description>Recent content in talk on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 13 Sep 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/talk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Slides from APS Talk, August, 2010</title>
-      <link>http://partiallyattended.com/2010/09/13/slides-from-aps-talk/</link>
-      <pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/09/13/slides-from-aps-talk/</guid>
-      <description>Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to talk to some really interesting scientists. My talk slides are below.</description>
-    </item>
-    
-    <item>
-      <title>An idea for an interface for picture search</title>
-      <link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
-      <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
-      <description>Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
-the idea was to have an open source human genome
-companies would have to do some work before they could make money off ofsequences.
-the ensemble projects takes the raw data from the genes and adds other datato this, such as reference data from other experiments
-there is enemble codeand there is the data</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge - James talking about HTML5</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</guid>
-      <description>James is just an interested bysander on the HTML 5 mailing list, hey, it&#39;s abarcamp
+	<channel>
+		<title>talk on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/talk/</link>
+		<description>Recent content in talk on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 13 Sep 2010 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Slides from APS Talk, August, 2010</title>
+			<link>http://partiallyattended.com/2010/09/13/slides-from-aps-talk/</link>
+			<pubDate>Mon, 13 Sep 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/09/13/slides-from-aps-talk/</guid>
+			<description>
+				
+				Back at the beginning of August I gave a talk at the American Phytopathological Society. It was a great opportunity to t...
+				
+			</description>
+		</item>
+		<item>
+			<title>An idea for an interface for picture search</title>
+			<link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+			<description>
+				
+				  A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was ...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge - James Smith talking about Ensemble, head of the internet team for Ensemble</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-smith-talking-about-ensemble/</guid>
+			<description>
+				
+				  Ensemble came out of the human genome project about 8 years ago to preventcommercialization of genomic data.
+the idea ...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge - James talking about HTML5</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-james-talking-about-html5/</guid>
+			<description>
+				
+				  James is just an interested bysander on the HTML 5 mailing list, hey, it&#39;s abarcamp
 html5 is th enew verison of html
-applemozillaoperaanyone who joins the mailing list
-and
-w3c (which means MS, which means this is going to work in IE)
-if you have ideas, then you can joing hte mailing list and put ideasforwards for the specification
-why should we?
-lots of information is locked up in HTML, not XML, not SVGL</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge, ARM microcontroler</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
-      <description>ARM microcontroler dev guy.
-hard to use these processors, whanted to make something like this availableto normal peoplewant internet bluetooth connected devices
-so they built something
-he just plugged in a microcontoler with a wireless sensorhis machine things that it&#39;s a flash drive
-he dregged over a binarythe device started blinking, this is the hello world of hardware hacking,cool
-what can you do now? well cool stuff obviously!</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
-      <description>what&#39;s cool about microformats web?
+a...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge, ARM microcontroler</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
+			<description>
+				
+				  ARM microcontroler dev guy.
+hard to use these processors, whanted to make something like this availableto normal peopl...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+			<description>
+				
+				  what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
-personal information disastertravel airlines don&#39;t talk to railroads
- microformats say, what problem does it solve?
- perhaps there is no problem at all
-what problem does blogging solve?Twitter for christ&#39;s sake?
-no one knows what they do until they are popular
-e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doesn&#39;t have a clear defined purpose</description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge,</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
-      <description>  I am at Bar Camp Cambridge,
-We have had the three word introductions and are just running through themorning talks now. It&#39;s pretty cool.
-The coffee is good, and cookies are great.
-Let&#39;s see how the day goes.
- </description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge, Laura James</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
-      <description>Laura JamesAlert Me.Com
+personal informati...
+				
+			</description>
+		</item>
+		<item>
+			<title>live blogging from BarCamp Cambridge,</title>
+			<link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
+			<description>
+				
+				  I am at Bar Camp Cambridge,
+We have had the three word introductions and are just running through themorning talks now...
+				
+			</description>
+		</item>
+		<item>
+			<title>live blogging from BarCamp Cambridge, Laura James</title>
+			<link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
+			<description>
+				
+				  Laura JamesAlert Me.Com
 might get too corporate.
-trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
-they are going to ship a home security system, but they are actuallybuilding a platofrmthat can connect anything that does not require full audio and video
-using a mesh network that connect to a hub using a &#39;zigby&#39;output can be things like a lamp that has a color dependant state</description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
-      <description>Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued about but it;s just XML
-we are supposed to be able to publish semantis data easily,at the moment it&#39;s not just an extension but a whole other world,people won&#39;t learn sapqrl
-Matt believes that we can get the benifits of semantic now, but withoutin any case, it&#39;s hard to get funding</description>
-    </item>
-    
-    <item>
-      <title>open science</title>
-      <link>http://partiallyattended.com/2008/07/14/open-science/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/open-science/</guid>
-      <description>I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
-What is open science and what is the system? Well I am sure that there aremany viewpoints on this, so I am going to just put forward one here.
-At a fundamental level &#39;the system&#39; is how we ascribe credit toparticipation in science. The credit is converted to grant money, thedollars keep the food on the plate.</description>
-    </item>
-    
-    <item>
-      <title>The fruitcakes have a talking form</title>
-      <link>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</guid>
-      <description>  A new creationisim journal ARJ.GRRRRRRRR
- </description>
-    </item>
-    
-    <item>
-      <title>Today at lunch duplicators and instantiators</title>
-      <link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
-      <description>I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last time I can recall having somany interesting discussions over lunch and breaks was way back when I wasin my first undergraduate degree, but the topics of conversation that tendto come up at my current place of employment are really worth trying torecord.
-Today we started off having a couple of split conversation, Euan describingchatting to Martha at Sci-Foo and Euan and I talking about Euler, as you do.</description>
-    </item>
-    
-  </channel>
+trying to do the internet of things, internet access to small devices...
+				
+			</description>
+		</item>
+		<item>
+			<title>live blogging from BarCamp Cambridge, Matt&#39;s talk</title>
+			<link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-matts-talk/</guid>
+			<description>
+				
+				   Matt talking about semanitic web for science, an introductionXML, URI, namespaces, RDL OWL,standards are often argued...
+				
+			</description>
+		</item>
+		<item>
+			<title>open science</title>
+			<link>http://partiallyattended.com/2008/07/14/open-science/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/open-science/</guid>
+			<description>
+				
+				  I just posted the below as a comment on a blog, but it was good so I thoughtI&#39;d repost here
+What is open science and w...
+				
+			</description>
+		</item>
+		<item>
+			<title>The fruitcakes have a talking form</title>
+			<link>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/the-fruitcakes-have-a-talking-form/</guid>
+			<description>
+				
+				  A new creationisim journal ARJ.GRRRRRRRR
+ 
+				
+			</description>
+		</item>
+		<item>
+			<title>Today at lunch duplicators and instantiators</title>
+			<link>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/today-at-lunch-duplicators-and-instantiators/</guid>
+			<description>
+				
+				  I work at a pretty innovative place and the discussions that we have atlunch time are pretty mind bending. The last ti...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

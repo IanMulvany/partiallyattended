@@ -1,222 +1,264 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>cool on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/cool/</link>
-    <description>Recent content in cool on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/cool/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>JavaScript End to End Testing Framework | Cypress.io</title>
-      <link>http://partiallyattended.com/2018/06/29/javascript_end_to_end_testing_framework__cypress.io/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/javascript_end_to_end_testing_framework__cypress.io/</guid>
-      <description>https://www.cypress.io/</description>
-    </item>
-    
-    <item>
-      <title>Sentry | Error Tracking Software — JavaScript, Python, PHP, Ruby, more</title>
-      <link>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</guid>
-      <description>https://sentry.io/welcome/</description>
-    </item>
-    
-    <item>
-      <title>Scholia</title>
-      <link>http://partiallyattended.com/2018/06/21/scholia/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/21/scholia/</guid>
-      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)</description>
-    </item>
-    
-    <item>
-      <title>Advanced computing with IPython</title>
-      <link>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
-      <description>This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull in FORTRAN or C++ code to get speed on computationally heavy lines of code.</description>
-    </item>
-    
-    <item>
-      <title>Digital Radar - STM landscape</title>
-      <link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
-      <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
-&amp;lt;a href=https://radar.</description>
-    </item>
-    
-    <item>
-      <title>Internet Archive, Code for Science and Society, and California Digital Library to Partner on a Data Sharing and Preservation Pilot Project</title>
-      <link>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</guid>
-      <description>Some major players are getting together to trial decentralised data sharing using the Dat protocol - https://datproject.org. Dat for me is one of the dark horses of the infrastructure landscape. It has great power, some amazing developers, has already created some great value, and is still not known by many people yet.
-Also, this is not blockchain based, and yet manages to be decentralised. Those of you who know me will know why that pleases me.</description>
-    </item>
-    
-    <item>
-      <title>Open Knowledge Maps - social science map</title>
-      <link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
-      <description>Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for some time now (originally built on top of Mendeley data). I ran into them again this week as we start to think about how to visualise the relationship between different aspects of research. The one linked to here is for social science and here is one for &amp;ldquo;computational social science&amp;rdquo;: https://openknowledgemaps.org/map/70627a849484345cdfd04c914de0a2e2. Their news pages shows that the project and team are still active, which is great.</description>
-    </item>
-    
-    <item>
-      <title>VIPER - The Visual Project Explorer</title>
-      <link>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
-      <description>This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. For digging into projects that you know, I think this has some value, but I&amp;rsquo;d like to see some global overview of where funding is flowing.</description>
-    </item>
-    
-    <item>
-      <title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
-      <link>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
-      <description>paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.</description>
-    </item>
-    
-    <item>
-      <title>The Guardian view on digitising culture make manuscripts more illuminating | Editorial | Opinion | The Guardian</title>
-      <link>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</guid>
-      <description>a nice description of IIF from the guardian.</description>
-    </item>
-    
-    <item>
-      <title>eLife Innovation Sprint - appstract.pub</title>
-      <link>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</guid>
-      <description>Last week the eLife innovation sprint happened in Cambridge. It was done in collaboration with the Mozilla global sprint. I was able to participate for some of the event, and I’ll write up a bit more about the project I worked on later. There is a slide deck that summarises all of the projects from the two days: Slides of outputs from the sprint: eLifeSprint2018_introductions_people&amp;amp;projects - Google Slides.
-Briefly, this was hands down one of the most productive two-day sprints that I’ve ever been involved in.</description>
-    </item>
-    
-    <item>
-      <title>science scraping with YQL</title>
-      <link>http://partiallyattended.com/2010/09/06/science-scraping-with-yql/</link>
-      <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/09/06/science-scraping-with-yql/</guid>
-      <description>Last Saturday at Science Online London I gave a quick tutorial on YQL, and how it might be used to mash up scientific data sets. Below I list some of the sample queries that I was playing with. Before you get started with the console have a look through the documentation. I got a lot of milage out of the part about filters and joins. The blog post by Paul Hogan on using YQL for library maships was also very helpful.</description>
-    </item>
-    
-    <item>
-      <title>An idea for an interface for picture search</title>
-      <link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
-      <description>A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was a beer festival, but then Ihad an idea about the type of interface that might be really useful fordoing search. We now search for images using text, so somewhere someone hasto build the text to image representation of the images in their database.Arguably this is one area where tagging has made an enormous improvement,ala flickr, but it seems to me that if you could make an interface thatwould allow a user to either draw or assemble a rough draft of the imagethey were searching for then this might offer a powerful and complimentaryapproach.</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge, ARM microcontroler</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
-      <description>ARM microcontroler dev guy.
-hard to use these processors, whanted to make something like this availableto normal peoplewant internet bluetooth connected devices
-so they built something
-he just plugged in a microcontoler with a wireless sensorhis machine things that it&#39;s a flash drive
-he dregged over a binarythe device started blinking, this is the hello world of hardware hacking,cool
-what can you do now? well cool stuff obviously!</description>
-    </item>
-    
-    <item>
-      <title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
-      <link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
-      <description>what&#39;s cool about microformats web?
+	<channel>
+		<title>cool on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/cool/</link>
+		<description>Recent content in cool on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/cool/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>JavaScript End to End Testing Framework | Cypress.io</title>
+			<link>http://partiallyattended.com/2018/06/29/javascript_end_to_end_testing_framework__cypress.io/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/javascript_end_to_end_testing_framework__cypress.io/</guid>
+			<description>
+				
+				https://www.cypress.io/
+				
+			</description>
+		</item>
+		<item>
+			<title>Sentry | Error Tracking Software — JavaScript, Python, PHP, Ruby, more</title>
+			<link>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</link>
+			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/29/sentry__error_tracking_software__javascript_python_php_ruby_more/</guid>
+			<description>
+				
+				https://sentry.io/welcome/
+				
+			</description>
+		</item>
+		<item>
+			<title>Scholia</title>
+			<link>http://partiallyattended.com/2018/06/21/scholia/</link>
+			<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/21/scholia/</guid>
+			<description>
+				
+				Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about author...
+				
+			</description>
+		</item>
+		<item>
+			<title>Advanced computing with IPython</title>
+			<link>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/advanced_computing_with_ipython/</guid>
+			<description>
+				
+				This post shows how to execute compiled commands in your IPython environments. That can allow you to, for example, pull ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Digital Radar - STM landscape</title>
+			<link>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
+			<description>
+				
+				Thoughtworks have created a tool to allow you to build your own “Digital Radar”. The one linked to here was ...
+				
+			</description>
+		</item>
+		<item>
+			<title>Internet Archive, Code for Science and Society, and California Digital Library to Partner on a Data Sharing and Preservation Pilot Project</title>
+			<link>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/internet_archive_code_for_science_and_society_and_california_digital_library_to_partner_on_a_data_sharing_and_preservation_pilot_project/</guid>
+			<description>
+				
+				Some major players are getting together to trial decentralised data sharing using the Dat protocol - https://datproject....
+				
+			</description>
+		</item>
+		<item>
+			<title>Open Knowledge Maps - social science map</title>
+			<link>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/open_knowledge_maps_-_social_science_map/</guid>
+			<description>
+				
+				Open knowledge maps show the relationship between different papers, based on a keyword search. They have been gong for s...
+				
+			</description>
+		</item>
+		<item>
+			<title>VIPER - The Visual Project Explorer</title>
+			<link>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</link>
+			<pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/07/viper_-_the_visual_project_explorer/</guid>
+			<description>
+				
+				This is a tool for visualising EC funded projects listed in OpenAire using the infrastructure of Open Knowledge maps. Fo...
+				
+			</description>
+		</item>
+		<item>
+			<title>Mindcontrol A web application for brain segmentation quality control - ScienceDirect</title>
+			<link>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</link>
+			<pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/06/mindcontrol_a_web_application_for_brain_segmentation_quality_control_-_sciencedirect/</guid>
+			<description>
+				
+				paper about an open source tool for studying neuroscience images developed by Anisha Keshavan, and others.
+https://www.s...
+				
+			</description>
+		</item>
+		<item>
+			<title>The Guardian view on digitising culture make manuscripts more illuminating | Editorial | Opinion | The Guardian</title>
+			<link>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</link>
+			<pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/06/06/the_guardian_view_on_digitising_culture_make_manuscripts_more_illuminating__editorial__opinion__the_guardian/</guid>
+			<description>
+				
+				a nice description of IIF from the guardian.
+https://www.theguardian.com/commentisfree/2018/may/28/the-guardian-view-on-...
+				
+			</description>
+		</item>
+		<item>
+			<title>eLife Innovation Sprint - appstract.pub</title>
+			<link>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</link>
+			<pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</guid>
+			<description>
+				
+				Last week the eLife innovation sprint happened in Cambridge. It was done in collaboration with the Mozilla global sprint...
+				
+			</description>
+		</item>
+		<item>
+			<title>science scraping with YQL</title>
+			<link>http://partiallyattended.com/2010/09/06/science-scraping-with-yql/</link>
+			<pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/09/06/science-scraping-with-yql/</guid>
+			<description>
+				
+				Last Saturday at Science Online London I gave a quick tutorial on YQL, and how it might be used to mash up scientific da...
+				
+			</description>
+		</item>
+		<item>
+			<title>An idea for an interface for picture search</title>
+			<link>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/an-idea-for-an-interface-for-picture-search/</guid>
+			<description>
+				
+				  A few weeks ago I was a beer festival in Munich, and I was talking tosomeone who was working on something, hey it was ...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge, ARM microcontroler</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-arm-microcontroler/</guid>
+			<description>
+				
+				  ARM microcontroler dev guy.
+hard to use these processors, whanted to make something like this availableto normal peopl...
+				
+			</description>
+		</item>
+		<item>
+			<title>BarCamp Cambridge, Tom Morris, Semantic Web for hackers</title>
+			<link>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/barcamp-cambridge-tom-morris-semantic-web-for-hackers/</guid>
+			<description>
+				
+				  what&#39;s cool about microformats web?
 is it the stickers?the t-shirtsthe community process
 urlb.at/2f
-personal information disastertravel airlines don&#39;t talk to railroads
- microformats say, what problem does it solve?
- perhaps there is no problem at all
-what problem does blogging solve?Twitter for christ&#39;s sake?
-no one knows what they do until they are popular
-e.g. yahoo pipes is not practical yetit is a user experience nightmareand it doesn&#39;t have a clear defined purpose</description>
-    </item>
-    
-    <item>
-      <title>comment on climbing goals</title>
-      <link>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</guid>
-      <description>I find that having a cool trip planned every now and again is key forkeeping me motivated. I&#39;ve been doing a lot of job and country hopping overthe past 10 years, and this has had a signifigant detrimental impact on theamount of climbing that I could do, but hey, I&#39;m doing a job that I love,and those are the rolls we choose to take.
-One thing that has kept me motivated to get of my arse and actually try abit harder when I am down in the gym is having a few cool trips planned inthe year.</description>
-    </item>
-    
-    <item>
-      <title>friends of mine of TV</title>
-      <link>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
-      <description>A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ais for the first couple of years,but it is looking like things are really working out for her now. She wasrecently featured on TV in Ireland, and she has posted a link to the clipfrom her blog. For a really inspirational view on managing business withchildcare have a loot at the vid:</description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge,</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
-      <description>  I am at Bar Camp Cambridge,
-We have had the three word introductions and are just running through themorning talks now. It&#39;s pretty cool.
-The coffee is good, and cookies are great.
-Let&#39;s see how the day goes.
- </description>
-    </item>
-    
-    <item>
-      <title>live blogging from BarCamp Cambridge, Laura James</title>
-      <link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
-      <description>Laura JamesAlert Me.Com
+personal informati...
+				
+			</description>
+		</item>
+		<item>
+			<title>comment on climbing goals</title>
+			<link>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/comment-on-climbing-goals/</guid>
+			<description>
+				
+				  I find that having a cool trip planned every now and again is key forkeeping me motivated. I&#39;ve been doing a lot of jo...
+				
+			</description>
+		</item>
+		<item>
+			<title>friends of mine of TV</title>
+			<link>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/friends-of-mine-of-tv/</guid>
+			<description>
+				
+				  A friend of mine set up her own business a few years ago, at the same timeas having a baby. It was really tough for Ai...
+				
+			</description>
+		</item>
+		<item>
+			<title>live blogging from BarCamp Cambridge,</title>
+			<link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge/</guid>
+			<description>
+				
+				  I am at Bar Camp Cambridge,
+We have had the three word introductions and are just running through themorning talks now...
+				
+			</description>
+		</item>
+		<item>
+			<title>live blogging from BarCamp Cambridge, Laura James</title>
+			<link>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/live-blogging-from-barcamp-cambridge-laura-james/</guid>
+			<description>
+				
+				  Laura JamesAlert Me.Com
 might get too corporate.
-trying to do the internet of things, internet access to small devicesthey are implimetning today, and will be shipping later this year.comes from R&amp;amp;D, but working in a shipping
-they are going to ship a home security system, but they are actuallybuilding a platofrmthat can connect anything that does not require full audio and video
-using a mesh network that connect to a hub using a &#39;zigby&#39;output can be things like a lamp that has a color dependant state</description>
-    </item>
-    
-    <item>
-      <title>Tips for switching from Windows to Mac</title>
-      <link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
-      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
-      <description>I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read through this and if you followthe suggestions you should have the hang to the system pretty quickly. If it turns out you don&#39;t like it, then at least you will have made an informeddecision!
--- Where is the right mouse button?
-This is the biggest obvious first difference.</description>
-    </item>
-    
-  </channel>
+trying to do the internet of things, internet access to small devices...
+				
+			</description>
+		</item>
+		<item>
+			<title>Tips for switching from Windows to Mac</title>
+			<link>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</link>
+			<pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2008/07/14/tips-for-switching-from-windows-to-mac/</guid>
+			<description>
+				
+				  I&#39;ve written up the short answers to some questions that you might have if this is the first time to use a mac, read t...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

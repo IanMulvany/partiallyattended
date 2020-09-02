@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>fuckers on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/fuckers/</link>
-    <description>Recent content in fuckers on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/fuckers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>hackney are fuckers.</title>
-      <link>http://partiallyattended.com/2010/05/12/hackney-are-fuckers/</link>
-      <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2010/05/12/hackney-are-fuckers/</guid>
-      <description> http://www.whatdotheyknow.com/request/31711/response/79454/attach/html/3/1%202181984%2020100407%204th%20Tier%20List.xls.html
-fast food in hackney
-http://www.whatdotheyknow.com/request/27794/response/68154/attach/html/3/1%201952373%20Information%20Sheet.xls.html </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>fuckers on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/fuckers/</link>
+		<description>Recent content in fuckers on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 12 May 2010 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/fuckers/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>hackney are fuckers.</title>
+			<link>http://partiallyattended.com/2010/05/12/hackney-are-fuckers/</link>
+			<pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2010/05/12/hackney-are-fuckers/</guid>
+			<description>
+				
+				 http://www.whatdotheyknow.com/request/31711/response/79454/attach/html/3/1%202181984%2020100407%204th%20Tier%20List.xls...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

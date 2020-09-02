@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>career on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/career/</link>
-    <description>Recent content in career on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/career/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Goodbye SAGE, hello BMJ!</title>
-      <link>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</guid>
-      <description>I’m excited to share the news that from mid-April I will be joining the BMJ as their new CTO. I’ll be leaving SAGE on great terms with the teams here, and for sure there will be a little sadness and I’ll definitely miss my colleagues, but equally I’m super excited about the new challenges ahead.
-Crucially, at SAGE we are hiring for my replacement, so if you are interested in applying for one of the most fun roles in the Scholarly Publishing industry at the moment then reach out, I’m happy to chat about what we have been up to!</description>
-    </item>
-    
-    <item>
-      <title>Leaving Mendeley</title>
-      <link>http://partiallyattended.com/2012/05/05/leaving-mendeley/</link>
-      <pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2012/05/05/leaving-mendeley/</guid>
-      <description>I&amp;rsquo;m starting to draft this post on the train on the commute to my new job at eLife. After almost two years I&amp;rsquo;ve taken the decision to move on from Mendeley. They were without doubt the two best and most challenging years of my career to date. Working in a start up is an amazing, frustrating, enlightening, energising and rewarding experience.
-No single post can do justice to that time, and each time in the past weeks that I have drafted this post in my head it has had a slightly different timbre, so take this for what it is, a reflection in a moment.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>career on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/career/</link>
+		<description>Recent content in career on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/career/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Goodbye SAGE, hello BMJ!</title>
+			<link>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</link>
+			<pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/02/13/goodbye_sage_hello_bmj_/</guid>
+			<description>
+				
+				I’m excited to share the news that from mid-April I will be joining the BMJ as their new CTO. I’ll be leaving SAGE on gr...
+				
+			</description>
+		</item>
+		<item>
+			<title>Leaving Mendeley</title>
+			<link>http://partiallyattended.com/2012/05/05/leaving-mendeley/</link>
+			<pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2012/05/05/leaving-mendeley/</guid>
+			<description>
+				
+				I’m starting to draft this post on the train on the commute to my new job at eLife. After almost two years I&amp;rsquo...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

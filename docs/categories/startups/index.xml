@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>startups on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/startups/</link>
-    <description>Recent content in startups on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/startups/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>rescognito - a route towards a weighted scholarly graph.</title>
-      <link>http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</guid>
-      <description>I sat down with Richard Wynne. Richard has a long career in the publishing space, having been one of the senior team at Aries for a long time.
-Over the last year Richard has founded Rescognito. Rescognito is a service to allow institutions or individuals to award credits (or rescogs ) to anyone for anything within the scholarly ecosystem. You can reward article contributions, reviews, presentations, knowledge, providing open data. The schema is extendible, so if you have a particular use-case in mind it could be accommodated.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>startups on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/startups/</link>
+		<description>Recent content in startups on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/startups/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>rescognito - a route towards a weighted scholarly graph.</title>
+			<link>http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</link>
+			<pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</guid>
+			<description>
+				
+				I sat down with Richard Wynne. Richard has a long career in the publishing space, having been one of the senior team at ...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

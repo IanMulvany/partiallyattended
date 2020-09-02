@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>mozilla on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/mozilla/</link>
-    <description>Recent content in mozilla on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/mozilla/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>eLife Innovation Sprint - appstract.pub</title>
-      <link>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</guid>
-      <description>Last week the eLife innovation sprint happened in Cambridge. It was done in collaboration with the Mozilla global sprint. I was able to participate for some of the event, and I’ll write up a bit more about the project I worked on later. There is a slide deck that summarises all of the projects from the two days: Slides of outputs from the sprint: eLifeSprint2018_introductions_people&amp;amp;projects - Google Slides.
-Briefly, this was hands down one of the most productive two-day sprints that I’ve ever been involved in.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>mozilla on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/mozilla/</link>
+		<description>Recent content in mozilla on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/mozilla/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>eLife Innovation Sprint - appstract.pub</title>
+			<link>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</link>
+			<pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/18/elife_innovation_sprint_-_appstract.pub_/</guid>
+			<description>
+				
+				Last week the eLife innovation sprint happened in Cambridge. It was done in collaboration with the Mozilla global sprint...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>

@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>architecture on Partially Attended</title>
-    <link>http://partiallyattended.com/categories/architecture/</link>
-    <description>Recent content in architecture on Partially Attended</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://partiallyattended.com/categories/architecture/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Some ruminations on software architecture and diagramming</title>
-      <link>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</link>
-      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</guid>
-      <description>So Pat Kua recently tweeted:
-and this got me thinking about the worries I&amp;rsquo;ve had about not doing &amp;ldquo;diagramming&amp;rdquo; right, but the above tweet led me to read a ton of really interesting posts on software architecting.
-Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience.
-UML - the unified modelling language (https://en.wikipedia.org/wiki/Unified_Modeling_Language) is the de-facto standard for creating entity-relationship diagrams. The following thread talks about why it looks like this approach has &amp;ldquo;failed&amp;quot;https://dzone.</description>
-    </item>
-    
-    <item>
-      <title>Is caution justified when thinking about docker?</title>
-      <link>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</guid>
-      <description>I’ve been fascinated by docker for the past few years, and there is clearly a “rush to dockerise” I’ve been Neville’s by how easy it is to get complex systems up and running locally, so perhaps it’s time to read with some caution some of the potential downsides.
-http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret Argues about those.
-He article highlights exactly why I like docker:
- Me: “I can write a bash script. Or “make”. Or any other kind of installer, of which there are dozens.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>architecture on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/architecture/</link>
+		<description>Recent content in architecture on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/architecture/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Some ruminations on software architecture and diagramming</title>
+			<link>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</link>
+			<pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</guid>
+			<description>
+				
+				So Pat Kua recently tweeted:
+and this got me thinking about the worries I’ve had about not doing “diagrammin...
+				
+			</description>
+		</item>
+		<item>
+			<title>Is caution justified when thinking about docker?</title>
+			<link>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</link>
+			<pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2018/05/16/is_caution_justified_when_thinking_about_docker_/</guid>
+			<description>
+				
+				I’ve been fascinated by docker for the past few years, and there is clearly a “rush to dockerise” I’ve been Neville’s by...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>
