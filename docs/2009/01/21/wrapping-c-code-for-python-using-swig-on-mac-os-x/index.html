@@ -1,14 +1,51 @@
-<header>
+<head>
 	
-	<div id="titletext"><h2 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h2></div>
-	<div id="title-description"><div id="social">
-			<nav>
-				<ul></ul>
-			</nav>
-		</div>
-	</div>
-	
-</header>
+	<meta name="generator" content="Hugo 0.73.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta property="og:title" content="wrapping c code for python using swig on Mac OS X" />
+<meta property="og:description" content="from john d cook
+http://www.johndcook.com/blog/2009/01/20/using-swig-to-expose-c-code-to-python/
+from http://www.penzilla.net/tutorials/python/swig/
+and combining the two I came up with a way to get this to work on Mac OS X
+bash$ cat erf.i
+%module erf
+#include
+double erf(double);
+bash$ swig -o erf_wrap.c -python erf.i
+bash$ gcc -o erf_wrap.os -c -fPIC -I/usr/include/python2.4 erf_wrap.c
+bash$ gcc -o _erf.so -shared erf_wrap.os
+bash$ python
+ from erf import erf
+ erf(1)
+0.84270079294971489" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://partiallyattended.com/2009/01/21/wrapping-c-code-for-python-using-swig-on-mac-os-x/" />
+<meta property="article:published_time" content="2009-01-21T00:00:00+00:00" />
+<meta property="article:modified_time" content="2009-01-21T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="wrapping c code for python using swig on Mac OS X"/>
+<meta name="twitter:description" content="from john d cook
+http://www.johndcook.com/blog/2009/01/20/using-swig-to-expose-c-code-to-python/
+from http://www.penzilla.net/tutorials/python/swig/
+and combining the two I came up with a way to get this to work on Mac OS X
+bash$ cat erf.i
+%module erf
+#include
+double erf(double);
+bash$ swig -o erf_wrap.c -python erf.i
+bash$ gcc -o erf_wrap.os -c -fPIC -I/usr/include/python2.4 erf_wrap.c
+bash$ gcc -o _erf.so -shared erf_wrap.os
+bash$ python
+ from erf import erf
+ erf(1)
+0.84270079294971489"/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<title>wrapping c code for python using swig on Mac OS X | Partially Attended</title></head>
 
 
 <article id="content">

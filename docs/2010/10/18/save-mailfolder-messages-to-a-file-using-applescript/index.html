@@ -1,14 +1,27 @@
-<header>
+<head>
 	
-	<div id="titletext"><h2 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h2></div>
-	<div id="title-description"><div id="social">
-			<nav>
-				<ul></ul>
-			</nav>
-		</div>
-	</div>
-	
-</header>
+	<meta name="generator" content="Hugo 0.73.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta property="og:title" content="save mailfolder messages to a file using applescript" />
+<meta property="og:description" content="I&rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.
+This is what I came up with.
+set fileRoot to &#34;Macintosh HD:Users:path:&#34; set messageList to {} tell application &#34;Mail&#34; set messageList to messageList &amp; (messages of mailbox &#34;mailbox name&#34; of account &#34;account&#34; of application &#34;Mail&#34;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp; &#34;mailcontent&#34; &amp; fileNum &amp; &#34;." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://partiallyattended.com/2010/10/18/save-mailfolder-messages-to-a-file-using-applescript/" />
+<meta property="article:published_time" content="2010-10-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2010-10-18T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="save mailfolder messages to a file using applescript"/>
+<meta name="twitter:description" content="I&rsquo;ll just start by explaining that I hate applescript. I wanted to create a script that would take a specific folder withing the script and save each message from that folder to a text file on my machine for post-processing.
+This is what I came up with.
+set fileRoot to &#34;Macintosh HD:Users:path:&#34; set messageList to {} tell application &#34;Mail&#34; set messageList to messageList &amp; (messages of mailbox &#34;mailbox name&#34; of account &#34;account&#34; of application &#34;Mail&#34;) set counter to 1 repeat with theMessage in messageList set fileNum to counter as string set theFilePath to fileRoot &amp; &#34;mailcontent&#34; &amp; fileNum &amp; &#34;."/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<title>save mailfolder messages to a file using applescript | Partially Attended</title></head>
 
 
 <article id="content">

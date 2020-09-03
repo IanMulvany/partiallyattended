@@ -1,14 +1,75 @@
-<header>
+<head>
 	
-	<div id="titletext"><h2 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h2></div>
-	<div id="title-description"><div id="social">
-			<nav>
-				<ul></ul>
-			</nav>
-		</div>
-	</div>
-	
-</header>
+	<meta name="generator" content="Hugo 0.73.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta property="og:title" content="testing latex and syntax hilighting on blogger" />
+<meta property="og:description" content="Some python code some links http://www.ramymostafa.com/?p=99
+http://alexgorbatchev.com/wiki/SyntaxHighlighter
+http://www.botcyb.org/2008/10/rendering-latex-in-blogger.html
+http://blog.yourequations.com/
+Syntaxhiligher2 (unreliable)
+def AuthenticateSession(username,password):
+blogger_service = service.GDataService(username,password)
+blogger_service.source = &#39;mulvanynet-BloggerTagger-1.0&#39;
+blogger_service.service = &#39;blogger&#39;
+blogger_service.server = &#39;www.blogger.com&#39;
+blogger_service.ProgrammaticLogin()
+return blogger_service
+def PrintUserBlogInfo(blogger_service):
+query = service.Query()
+query.feed = &#39;/feeds/default/blogs&#39;
+feed = blogger_service.Get(query.ToUri())
+blog_id = feed.entry[0].GetSelfLink().href.split(&#34;/&#34;)[-1]
+print feed.title.text
+print blog_id
+for entry in feed.entry:
+print &#34;\t&#34; &#43; entry.title.text,
+print entry.GetSelfLink().href.split(&#34;/&#34;)[-1]
+def GetBlogFeed(blogger_service):
+query = service.Query()
+query.feed = &#34;/feeds/default/blogs&#34;
+feed = blogger_service.Get(query.ToUri())
+return feed" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://partiallyattended.com/2009/04/12/testing-latex-and-syntax-hilighting-on-blogger/" />
+<meta property="article:published_time" content="2009-04-12T00:00:00+00:00" />
+<meta property="article:modified_time" content="2009-04-12T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="testing latex and syntax hilighting on blogger"/>
+<meta name="twitter:description" content="Some python code some links http://www.ramymostafa.com/?p=99
+http://alexgorbatchev.com/wiki/SyntaxHighlighter
+http://www.botcyb.org/2008/10/rendering-latex-in-blogger.html
+http://blog.yourequations.com/
+Syntaxhiligher2 (unreliable)
+def AuthenticateSession(username,password):
+blogger_service = service.GDataService(username,password)
+blogger_service.source = &#39;mulvanynet-BloggerTagger-1.0&#39;
+blogger_service.service = &#39;blogger&#39;
+blogger_service.server = &#39;www.blogger.com&#39;
+blogger_service.ProgrammaticLogin()
+return blogger_service
+def PrintUserBlogInfo(blogger_service):
+query = service.Query()
+query.feed = &#39;/feeds/default/blogs&#39;
+feed = blogger_service.Get(query.ToUri())
+blog_id = feed.entry[0].GetSelfLink().href.split(&#34;/&#34;)[-1]
+print feed.title.text
+print blog_id
+for entry in feed.entry:
+print &#34;\t&#34; &#43; entry.title.text,
+print entry.GetSelfLink().href.split(&#34;/&#34;)[-1]
+def GetBlogFeed(blogger_service):
+query = service.Query()
+query.feed = &#34;/feeds/default/blogs&#34;
+feed = blogger_service.Get(query.ToUri())
+return feed"/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<title>testing latex and syntax hilighting on blogger | Partially Attended</title></head>
 
 
 <article id="content">

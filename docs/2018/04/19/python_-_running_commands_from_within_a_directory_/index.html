@@ -1,14 +1,25 @@
-<header>
+<head>
 	
-	<div id="titletext"><h2 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h2></div>
-	<div id="title-description"><div id="social">
-			<nav>
-				<ul></ul>
-			</nav>
-		</div>
-	</div>
-	
-</header>
+	<meta name="generator" content="Hugo 0.73.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta property="og:title" content="python - running commands from within a directory" />
+<meta property="og:description" content="A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
+from subprocess import Popen, PIPE import os import sys class cd: &#34;&#34;&#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &#34;&#34;&#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&#34;~/blog/partiallyattended&#34;): title = new_post.title process = subprocess." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/" />
+<meta property="article:published_time" content="2018-04-19T00:00:00+00:00" />
+<meta property="article:modified_time" content="2018-04-19T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="python - running commands from within a directory"/>
+<meta name="twitter:description" content="A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
+from subprocess import Popen, PIPE import os import sys class cd: &#34;&#34;&#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &#34;&#34;&#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&#34;~/blog/partiallyattended&#34;): title = new_post.title process = subprocess."/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<title>python - running commands from within a directory | Partially Attended</title></head>
 
 
 <article id="content">
