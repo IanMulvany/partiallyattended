@@ -1,6 +1,17 @@
 # About
 
+
+
 This is my blog
+
+## 2020-09-02 
+
+Updated the theme to hugo-vitae with some font cusomisaion. CSS on individual posts are broken. Need to check:
+
+- is templates/ian/_partials/post/single.html overwriting the other default single.html 
+- does the vitae base template have some stuff that could be useful for me? 
+- I've carried over soemthign with an includes.html that is poiting to a css file, what happens when I get rid of this, how is it refered to? 
+
 
 # TODO
 - fix formatting for code examples,see https://github.com/IanMulvany/Hugo-blog-tools/issues/1 
