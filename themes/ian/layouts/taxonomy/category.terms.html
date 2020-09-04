@@ -1,7 +1,8 @@
-{{ partial "head.html" . }}
+{{ define "main" -}}
+<!-- {{ partial "head.html" . }} -->
 <section id="main">
   <div>
-    <h1 id="title">{{ .Title }}</h1>
+    <h1 id="title">Posts by Tag</h1>
 
     {{ $data := .Data }}
     {{ range $key,$value := .Data.Terms.ByCount }}
@@ -14,4 +15,5 @@
     {{ end }}
   </div>
 
-{{ partial "footer.html" . }}
+<!-- {{ partial "footer.html" . }} -->
+{{ end }}

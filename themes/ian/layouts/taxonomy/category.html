@@ -1,11 +1,13 @@
-{{ partial "head.html" . }}
+{{ define "main" -}}
+<!-- {{ partial "head.html" . }} -->
 
 <div>
- <h1>{{ .Title }}</h1>
+ <h1>blog posts about {{ .Title }}</h1>
  <!-- ranges through each of the content files associated with a particular taxonomy term and renders the summary.html content view -->
   {{ range .Pages }}
     {{ partial "summary_item.html" . }}
   {{ end }}
 </div>
 
-{{ partial "footer.html" . }}
+<!-- {{ partial "footer.html" . }} -->
+{{ end }}

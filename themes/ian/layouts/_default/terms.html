@@ -1,9 +1,8 @@
 {{ define "main" -}}
 <h2 class="page-title">{{ .Name }}</h2>
-<div class="tag-cloud">
-	{{ $data := .Data }}
-	{{ range $key, $value := .Data.Terms.ByCount }}
-	<a href="{{ $.Site.LanguagePrefix | absURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name }}<sup>{{ $value.Count }}</sup></a>
-	{{ end }}
-</div>
+
+{{ range $key, $value := .Site.Taxonomies.categories.ByCount }}
+	<a href="/categories/{{ $key | urlize  }}">{{ $value.Name | humanize }}<sup>{{ $value.Count }}</sup></a>
+{{ end }}
+
 {{ end }}
