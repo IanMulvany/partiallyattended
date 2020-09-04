@@ -1,10 +1,11 @@
-<head>
+<!DOCTYPE html>
+<html lang="en"><head>
 	
 	<meta name="generator" content="Hugo 0.73.0" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta property="og:title" content="python - running commands from within a directory" />
+	<meta name="keywords" content="hugo,vitae,theme,static"><meta name="description" content=""><meta property="og:title" content="python - running commands from within a directory" />
 <meta property="og:description" content="A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
 from subprocess import Popen, PIPE import os import sys class cd: &#34;&#34;&#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &#34;&#34;&#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&#34;~/blog/partiallyattended&#34;): title = new_post.title process = subprocess." />
 <meta property="og:type" content="article" />
@@ -19,8 +20,41 @@ from subprocess import Popen, PIPE import os import sys class cd: &#34;&#34;&#34
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
-	<title>python - running commands from within a directory | Partially Attended</title></head>
-
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>python - running commands from within a directory | Partially Attended</title></head>
+<body><header>
+	
+	<div id="titletext"><h2 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h2></div>
+	<div id="title-description"><p id="subtitle">an irregularly updated blog by Ian Mulvany</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/dataCobra/hugo-vitae"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="/index.xml"><i title="RSS" class="icons fas fa-rss"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/about">About</a></li>
+				
+				<li><a href="/categories">Posts by Tag</a></li>
+				
+				<li><a href="/tags">Tags</a></li>
+				
+				<li><a href="/post">All Posts</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main>
 
 <article id="content">
 
@@ -38,28 +72,28 @@ from subprocess import Popen, PIPE import os import sys class cd: &#34;&#34;&#34
 
 <div>
           <p>A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by <a href="https://stackoverflow.com/users/19212/brian-m-hunt">Brian Hunt.</a></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> subprocess <span style="color:#f92672">import</span> Popen, PIPE
-<span style="color:#f92672">import</span> os
-<span style="color:#f92672">import</span> sys
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#080;font-weight:bold">from</span> <span style="color:#0e84b5;font-weight:bold">subprocess</span> <span style="color:#080;font-weight:bold">import</span> Popen, PIPE
+<span style="color:#080;font-weight:bold">import</span> <span style="color:#0e84b5;font-weight:bold">os</span>
+<span style="color:#080;font-weight:bold">import</span> <span style="color:#0e84b5;font-weight:bold">sys</span>
 
-<span style="color:#66d9ef">class</span> <span style="color:#a6e22e">cd</span>:
-  <span style="color:#e6db74">&#34;&#34;&#34;Context manager for changing the current working directory
-</span><span style="color:#e6db74">  see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python
-</span><span style="color:#e6db74">  &#34;&#34;&#34;</span>
-  <span style="color:#66d9ef">def</span> __init__(self, newPath):
-    self<span style="color:#f92672">.</span>newPath <span style="color:#f92672">=</span> os<span style="color:#f92672">.</span>path<span style="color:#f92672">.</span>expanduser(newPath)
+<span style="color:#080;font-weight:bold">class</span> <span style="color:#b06;font-weight:bold">cd</span>:
+  <span style="background-color:#fff0f0">&#34;&#34;&#34;Context manager for changing the current working directory
+</span><span style="background-color:#fff0f0">  see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python
+</span><span style="background-color:#fff0f0">  &#34;&#34;&#34;</span>
+  <span style="color:#080;font-weight:bold">def</span> __init__(self, newPath):
+    self<span style="color:#333">.</span>newPath <span style="color:#333">=</span> os<span style="color:#333">.</span>path<span style="color:#333">.</span>expanduser(newPath)
 
-  <span style="color:#66d9ef">def</span> __enter__(self):
-  self<span style="color:#f92672">.</span>savedPath <span style="color:#f92672">=</span> os<span style="color:#f92672">.</span>getcwd()
-    os<span style="color:#f92672">.</span>chdir(self<span style="color:#f92672">.</span>newPath)
+  <span style="color:#080;font-weight:bold">def</span> __enter__(self):
+  self<span style="color:#333">.</span>savedPath <span style="color:#333">=</span> os<span style="color:#333">.</span>getcwd()
+    os<span style="color:#333">.</span>chdir(self<span style="color:#333">.</span>newPath)
 
-  <span style="color:#66d9ef">def</span> __exit__(self, etype, value, traceback):
-    os<span style="color:#f92672">.</span>chdir(self<span style="color:#f92672">.</span>savedPath)
+  <span style="color:#080;font-weight:bold">def</span> __exit__(self, etype, value, traceback):
+    os<span style="color:#333">.</span>chdir(self<span style="color:#333">.</span>savedPath)
 
-<span style="color:#66d9ef">with</span> cd(<span style="color:#e6db74">&#34;~/blog/partiallyattended&#34;</span>):
-  title <span style="color:#f92672">=</span> new_post<span style="color:#f92672">.</span>title
-  process <span style="color:#f92672">=</span> subprocess<span style="color:#f92672">.</span>call([<span style="color:#e6db74">&#34;git&#34;</span>, <span style="color:#e6db74">&#34;commit&#34;</span>, <span style="color:#e6db74">&#34;-m&#34;</span>,<span style="color:#e6db74">&#34;`new post: `&#34;</span><span style="color:#f92672">+</span>title], \
-  stdout<span style="color:#f92672">=</span>subprocess<span style="color:#f92672">.</span>PIPE)
+<span style="color:#080;font-weight:bold">with</span> cd(<span style="background-color:#fff0f0">&#34;~/blog/partiallyattended&#34;</span>):
+  title <span style="color:#333">=</span> new_post<span style="color:#333">.</span>title
+  process <span style="color:#333">=</span> subprocess<span style="color:#333">.</span>call([<span style="background-color:#fff0f0">&#34;git&#34;</span>, <span style="background-color:#fff0f0">&#34;commit&#34;</span>, <span style="background-color:#fff0f0">&#34;-m&#34;</span>,<span style="background-color:#fff0f0">&#34;`new post: `&#34;</span><span style="color:#333">+</span>title], \
+  stdout<span style="color:#333">=</span>subprocess<span style="color:#333">.</span>PIPE)
 </code></pre></div>
  </div>
 
@@ -69,8 +103,11 @@ from subprocess import Popen, PIPE import os import sys class cd: &#34;&#34;&#34
 
 
 
+  </main>
 
 
 
 
 
+</body>
+</html>

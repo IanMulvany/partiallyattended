@@ -1,10 +1,11 @@
-<head>
+<!DOCTYPE html>
+<html lang="en"><head>
 	
 	<meta name="generator" content="Hugo 0.73.0" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta property="og:title" content="Moving from Jekyll to Hugo - urls" />
+	<meta name="keywords" content="hugo,vitae,theme,static"><meta name="description" content=""><meta property="og:title" content="Moving from Jekyll to Hugo - urls" />
 <meta property="og:description" content="I&rsquo;ve been changing the static blog generator that I use and am slowly moving from Jekyll to Hugo. My main reason is the better support for tags and categories that Hugo supports, but I&rsquo;m not finding the templating as intuitive in Hugo as in Jekyll, so it&rsquo;s not a slam-dunk.
 There are a couple of small differences between the two systems that are making me reconfigure my blogging workflow a bit." />
 <meta property="og:type" content="article" />
@@ -19,8 +20,41 @@ There are a couple of small differences between the two systems that are making 
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
-	<title>Moving from Jekyll to Hugo - urls | Partially Attended</title></head>
-
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>Moving from Jekyll to Hugo - urls | Partially Attended</title></head>
+<body><header>
+	
+	<div id="titletext"><h2 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h2></div>
+	<div id="title-description"><p id="subtitle">an irregularly updated blog by Ian Mulvany</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/dataCobra/hugo-vitae"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="/index.xml"><i title="RSS" class="icons fas fa-rss"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/about">About</a></li>
+				
+				<li><a href="/categories">Posts by Tag</a></li>
+				
+				<li><a href="/tags">Tags</a></li>
+				
+				<li><a href="/post">All Posts</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main>
 
 <article id="content">
 
@@ -44,7 +78,7 @@ There are a couple of small differences between the two systems that are making 
 <p>In contrast Hugo expects posts to be in a folder inside a content folder, so it would expect to find our post in the following location <code>/content/post/2017-09-13-my-shiney-post.md</code>. It generates the url based on the location of the post in the folder structure, and it requires the publication date to be included in the <code>yaml</code> or <code>toml</code> header metadata of the individual post. The above post will appear at a url like the following one:
 <a href="post/2017-09-13-my-shiney-post/">post/2017-09-13-my-shiney-post/</a>.</p>
 <p>An example of post metadata that Hugo expects is like the following:</p>
-<pre><code>---
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">---
 date: 2017-09-12T14:47:22+01:00
 title: My Shiney Post
 categories:
@@ -52,8 +86,8 @@ categories:
 - two
 - three
 ---
-</code></pre><p>Hugo chooses which template to use for the post based on it&rsquo;s directory location. In contrast Jekyll puts that information into the metadata, so the equivalent <code>yaml</code> header info in a jekyl post would look like</p>
-<pre><code>---
+</code></pre></div><p>Hugo chooses which template to use for the post based on it&rsquo;s directory location. In contrast Jekyll puts that information into the metadata, so the equivalent <code>yaml</code> header info in a jekyl post would look like</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">---
 type: post
 title: My Shiney Post
 categories:
@@ -61,12 +95,12 @@ categories:
 - two
 - three
 ---
-</code></pre><p>So I like the url structure that Jekyll provides. It&rsquo;s a bit of a tossup, but pegging the post mostly against a date structure is closer to being a <a href="https://www.w3.org/Provider/Style/URI">cool url</a> than a post with the type in the url.</p>
+</code></pre></div><p>So I like the url structure that Jekyll provides. It&rsquo;s a bit of a tossup, but pegging the post mostly against a date structure is closer to being a <a href="https://www.w3.org/Provider/Style/URI">cool url</a> than a post with the type in the url.</p>
 <p>On the other hand, after some experience with over-loading metadata into file names for another project, I am now convinced that having that kind of data in a filename is less good than putting that information into a structured metadata field.</p>
 <p>I have to admit that one of the benefits of the Hugo system is you can easily partition the content on your site based on what kind of content it is by location on the file system, and having that reflect in the URL. That aside, given my posting archive already has the URL format <code>/YYYY/MM/DD/some-description/</code> then I want to try to preserve that for future content. I&rsquo;m also going to keep the filename structure the same as before, as it&rsquo;s just nice to <code>ls</code> within a content directory and get a chronological listing of the content in the directory.</p>
 <p>Hugo does allow you to set the publish url within the metadata, so I&rsquo;ve decided to use that for my future posts.</p>
 <p>The <code>yaml</code> will now look like:</p>
-<pre><code>---
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">---
 date: 2017-09-12T14:47:22+01:00
 title: My Shiney Post
 url: /2017/09/21/my-shiney-post/
@@ -75,7 +109,7 @@ categories:
 - two
 - three
 ---
-</code></pre><p>In order to support generating this metadata, whilst on the train from Schiphol this morning to Den Haag I knocked up the following python script:</p>
+</code></pre></div><p>In order to support generating this metadata, whilst on the train from Schiphol this morning to Den Haag I knocked up the following python script:</p>
 <script type="application/javascript" src="https://gist.github.com/IanMulvany/fe2a728166e471537058d222a545304c.js"></script>
 
 <p>This conveniently pushes the <code>yaml</code> data into the mac clipboard, so I can just paste it into the top of the document.</p>
@@ -88,8 +122,11 @@ categories:
 
 
 
+  </main>
 
 
 
 
 
+</body>
+</html>

@@ -5,27 +5,49 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta property="og:title" content="Partially Attended" />
-<meta property="og:description" content="" />
+	<meta name="keywords" content="hugo,vitae,theme,static"><meta name="description" content="an irregularly updated blog by Ian Mulvany"><meta property="og:title" content="Partially Attended" />
+<meta property="og:description" content="an irregularly updated blog by Ian Mulvany" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://partiallyattended.com/" />
 <meta property="og:updated_time" content="2020-07-12T00:00:00+00:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Partially Attended"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="an irregularly updated blog by Ian Mulvany"/>
 <link rel="alternate" type="application/rss+xml" href="http://partiallyattended.com/index.xml" title="Partially Attended">
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
-	<title>Partially Attended </title></head>
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>Partially Attended - Personal musings of Ian Mulvany </title></head>
 <body><header>
 	
 	<div id="titletext"><h1 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h1></div>
-	<div id="title-description"><div id="social">
+	<div id="title-description"><p id="subtitle">an irregularly updated blog by Ian Mulvany</p><div id="social">
 			<nav>
-				<ul></ul>
+				<ul>
+					<li><a href="https://github.com/dataCobra/hugo-vitae"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="/index.xml"><i title="RSS" class="icons fas fa-rss"></i></a></li></ul>
 			</nav>
 		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/about">About</a></li>
+				
+				<li><a href="/categories">Posts by Tag</a></li>
+				
+				<li><a href="/tags">Tags</a></li>
+				
+				<li><a href="/post">All Posts</a></li>
+				
+			</ul>
+		</nav>
 	</div>
 	
 </header>
@@ -46,11 +68,25 @@
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/iphone-prediction-market/">iPhone prediction market</a></h3>
 					<span class="description">
-					
-					 
-Well, a prediction about a new market that will spring up (perhaps it
-already has) around the iPhone. So it costs $99 ...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Well, a prediction about a new market that will spring up (perhaps it
+already has) around the iPhone. So it costs $99 dollars to get an app that
+you have built onto the phone through the App Store. If I design a vanity
+app I'm not going to want to pay that much, but I might pay 5, 10 or even 15
+dollars to see the child of my creativity bouncing around on the little
+        <a href="http://partiallyattended.com/2008/12/21/iphone-prediction-market/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -67,12 +103,27 @@ already has) around the iPhone. So it costs $99 ...
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/max-os-x-does-not-have-gethrtime-and-as-a-result-cannot-load-timehr/">Max OS X does not have gethrtime and as a result cannot load Time::HR</a></h3>
 					<span class="description">
-					
-					 
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+         
 I just discovered this after poking around for an inordinate amount of time.
 The trick is to use Time::HiRes instead.
-...
-					
+Now someone should write a bridge function that overloads the Time::HR
+functions with Time::HiRes functions which would make a code change as easy
+as loading the overload module.
+ Read and post comments | Send to a friend  
+        <a href="http://partiallyattended.com/2008/12/21/max-os-x-does-not-have-gethrtime-and-as-a-result-cannot-load-timehr/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -89,11 +140,27 @@ The trick is to use Time::HiRes instead.
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/mozy-backup-service/">mozy backup service</a></h3>
 					<span class="description">
-					
-					 
-I&#39;ve been trying the free account this week. I&#39;ve backed up 1.6 GB of data.
-It took, with given interruptions of a nor...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+         
+I've been trying the free account this week. I've backed up 1.6 GB of data.
+It took, with given interruptions of a normal work day, about 4 days to
+backup this amount of Data.
+I am beginning to think that the world of offline remote backups is still a
+little bit away!
+ Read and post comments | Send to a friend  
+        <a href="http://partiallyattended.com/2008/12/21/mozy-backup-service/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -110,11 +177,28 @@ It took, with given interruptions of a nor...
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/netsci08-blogging/">netsci08 blogging</a></h3>
 					<span class="description">
-					
-					 
-I&#39;m in Norwich all this week attending Netsci08
-http://www.ifr.ac.uk/netsci08/, the internatinal workshop and conferen...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        I'm in Norwich all this week attending Netsci08
+http://www.ifr.ac.uk/netsci08/, the internatinal workshop and conference
+on network science. It's a week long event, and broadly speaking it
+looks like there are three types themes that are being discussed here:
+biological networks, pure networks science and community detection in
+networks, principlaly emergent networks of the kind we see in the
+internet.
+I'm twittering about the meeting using the tag #netsci08, but it seems
+        <a href="http://partiallyattended.com/2008/12/21/netsci08-blogging/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -131,12 +215,27 @@ http://www.ifr.ac.uk/netsci08/, the internatinal workshop and conferen...
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/netsci08-opening-keynote/">netsci08 opening keynote</a></h3>
 					<span class="description">
-					
-					 
-Nicholas Christakis, Harvard, &#34;eat drink and be merry, the spread of
-health phenomena in social networks&#34;.
-T...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Nicholas Christakis, Harvard, &quot;eat drink and be merry, the spread of
+health phenomena in social networks&quot;.
+This talk is looking at the spread of desies throgh social interactions,
+rather than other types of interactins. The main study was looking at
+obesity using the Framingham Heart Study Social Network. This seems like
+a very famouse social network health related study, so I'm not going to
+go into detail about that, but the bottom line is that they were able to
+        <a href="http://partiallyattended.com/2008/12/21/netsci08-opening-keynote/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -153,11 +252,26 @@ T...
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/network-branching-netsci08/">network branching, netsci08</a></h3>
 					<span class="description">
-					
-					 
-I&#39;m really torn by the number of great talks on today. There are three
-parallel sessions, and for each time slot I wan...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        I'm really torn by the number of great talks on today. There are three
+parallel sessions, and for each time slot I want to be in at least two
+places at once. I'm going to try to pick out talks that have some
+relation to online social networks, community detection and scientific
+networks, but some of the talks on the theory of clustering are
+conflicting directly with some use cases of looking at some online
+        <a href="http://partiallyattended.com/2008/12/21/network-branching-netsci08/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -174,12 +288,28 @@ parallel sessions, and for each time slot I wan...
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/networks-in-space-mark-newman-netsci08/">Networks in Space, Mark Newman, netsci08</a></h3>
 					<span class="description">
-					
-					 
-Mark Newman, Networks in Space,
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Mark Newman, Networks in Space,
 This is about networks in geographic space.
-Mark is looking at properties of networks ...
-					
+Mark is looking at properties of networks that are tied to geography.
+Transport networks are a good example, and we are looking at the
+difference between road and air networks.
+The road and air networks are very different, even though you use both
+of them for getting from A to B.
+There is different bahviour, could I say 'driving' the use of these
+        <a href="http://partiallyattended.com/2008/12/21/networks-in-space-mark-newman-netsci08/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -196,11 +326,26 @@ Mark is looking at properties of networks ...
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/networks-head-to-head/">networks; head to head</a></h3>
 					<span class="description">
-					
-					 
-The second talk in the evening CREEN parallel session is from J. Holyst
-about phase transitions in coupled complex net...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        The second talk in the evening CREEN parallel session is from J. Holyst
+about phase transitions in coupled complex networks where the network
+properties are different in the two groups.
+In one group there are a smaller number of members, but they are tightly
+coupled. The second group is larger, but less tightly coupled. The model
+uses an Ising model. The less coupled group has higher fluctuation in
+        <a href="http://partiallyattended.com/2008/12/21/networks-head-to-head/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -217,10 +362,22 @@ about phase transitions in coupled complex net...
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/nice-idea-for-improving-the-six-nations-rugby-tournament/">nice idea for improving the six nations rugby tournament</a></h3>
 					<span class="description">
-					
-					 
-Shaun Edwards &lt;a href=&#34;http://blogs.guardian.co.uk/sport/2008/02/22/bonus_is_the_carrot_that_leads.html&#34;&amp;...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Shaun Edwards &lt;a href=&quot;http://blogs.guardian.co.uk/sport/2008/02/22/bonus_is_the_carrot_that_leads.html&quot;&gt;writes&lt;/a&gt; in The Guardian today
+that introducing the bonus points system to the Six Nations rugby tournament could help make it more entertaining (not that it needs much help in that regard, as it is a fantastic tournament as it is). I&#160;wholeheartedly&#160;agree. At the moment you get 2 points if you win a game, and 1 point if you draw. Under the bonus system you get an extra point if you score 4 tries and you get a bonus point if you are a losing team and you hold you opposition to a gap of 7 points or less.
+        <a href="http://partiallyattended.com/2008/12/21/nice-idea-for-improving-the-six-nations-rugby-tournament/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -237,11 +394,27 @@ Shaun Edwards &lt;a href=&#34;http://blogs.guardian.co.uk/sport/2008/02/22/bonus
 				<div class="matter">
 					<h3 class="title small"><a href="/2008/12/21/perl-and-again/">perl and again,</a></h3>
 					<span class="description">
-					
-					 
-Ever since Ian Clarke mentioned the potential delights of python to me
-whilst passing me in a corridor back in 1999 I&#39;...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Ever since Ian Clarke mentioned the potential delights of python to me
+whilst passing me in a corridor back in 1999 I've been tinkering around with
+that language.
+Christ, that's almost 10 years. I like python, it gave a great sense of
+freedom after spending a heavy five years working with various flavours of
+FORTRAN, from
+FORTRAN 90, through to High Performance Fortran. Well, now here I am
+        <a href="http://partiallyattended.com/2008/12/21/perl-and-again/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>

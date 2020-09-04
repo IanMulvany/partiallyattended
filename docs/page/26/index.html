@@ -5,27 +5,49 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta property="og:title" content="Partially Attended" />
-<meta property="og:description" content="" />
+	<meta name="keywords" content="hugo,vitae,theme,static"><meta name="description" content="an irregularly updated blog by Ian Mulvany"><meta property="og:title" content="Partially Attended" />
+<meta property="og:description" content="an irregularly updated blog by Ian Mulvany" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://partiallyattended.com/" />
 <meta property="og:updated_time" content="2020-07-12T00:00:00+00:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Partially Attended"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="an irregularly updated blog by Ian Mulvany"/>
 <link rel="alternate" type="application/rss+xml" href="http://partiallyattended.com/index.xml" title="Partially Attended">
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
-	<title>Partially Attended </title></head>
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>Partially Attended - Personal musings of Ian Mulvany </title></head>
 <body><header>
 	
 	<div id="titletext"><h1 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h1></div>
-	<div id="title-description"><div id="social">
+	<div id="title-description"><p id="subtitle">an irregularly updated blog by Ian Mulvany</p><div id="social">
 			<nav>
-				<ul></ul>
+				<ul>
+					<li><a href="https://github.com/dataCobra/hugo-vitae"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="/index.xml"><i title="RSS" class="icons fas fa-rss"></i></a></li></ul>
 			</nav>
 		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/about">About</a></li>
+				
+				<li><a href="/categories">Posts by Tag</a></li>
+				
+				<li><a href="/tags">Tags</a></li>
+				
+				<li><a href="/post">All Posts</a></li>
+				
+			</ul>
+		</nav>
 	</div>
 	
 </header>
@@ -46,9 +68,21 @@
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/">notes on &#34;Classes of complex networks deﬁned by role-to-role connectivity proﬁles&#34;</a></h3>
 					<span class="description">
-					
-					 Looking for algorithms to do community detection (there are a bunch from the famous Girvan-Newman algorithm doi:10.1073...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Looking for algorithms to do community detection (there are a bunch from the famous Girvan-Newman algorithm doi:10.1073/pnas.122653799 which seems to have gained popularity through being very simple, effiencet and usually pretty powerfull, through to a method doi:10.1103/PhysRevE.71.046117 by Ziv, Middendorf and Wiggins. I have to admit I don't understand that paper yet, but hope to come back to it.) I was pointed to a paper by Guimera, Sales-Pardo and Amaral.
+        <a href="http://partiallyattended.com/2009/04/14/notes-on-classes-of-complex-networks-de%EF%AC%81ned-by-role-to-role-connectivity-pro%EF%AC%81les/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+       <a href="/categories/graphs">graphs</a>, <a href="/categories/network-science">network science</a>, <a href="/categories/modules">modules</a>, <a href="/categories/algorithm">algorithm</a>
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -65,9 +99,21 @@
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/14/why-measure-scientists-and-their-work/">Why measure scientists and their work?</a></h3>
 					<span class="description">
-					
-					 I&#39;m interested in using graph theory to develop tools to improve science (whether I manage to do this is a moot point, ...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        I'm interested in using graph theory to develop tools to improve science (whether I manage to do this is a moot point, I believe that someone will, and that such tools will be useful). One of the questions raised by any effort to introduce new systems that may be used to compare and contrast the work of scientists is whether such systems can have any net benefit when weighed against the potential pressure that they may place on working scientists.
+        <a href="http://partiallyattended.com/2009/04/14/why-measure-scientists-and-their-work/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -84,9 +130,22 @@
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/13/directed-graph-blog-setup/">Directed Graph blog setup.</a></h3>
 					<span class="description">
-					
-					 I&#39;ve decided to use syntaxhiligher2 to do syntax hi-lighting and a call to Yourequations.com for rendering latex on the...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        I've decided to use syntaxhiligher2 to do syntax hi-lighting and a call to Yourequations.com for rendering latex on the blog. Bot Cyborg has a good description of how to get this to work on blogger.
+The main advantage of this approach is that the pseudo code is written in the blog posts in plain encased in a pre statement, and the equations are also just vanilla latex in a pre statement.
+        <a href="http://partiallyattended.com/2009/04/13/directed-graph-blog-setup/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+       <a href="/categories/latex">latex</a>, <a href="/categories/centrality">centrality</a>, <a href="/categories/blog">blog</a>, <a href="/categories/equation">equation</a>
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -103,10 +162,21 @@
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/13/grave-of-the-reverend-thomas-bayes/">Grave of the reverend Thomas Bayes</a></h3>
 					<span class="description">
-					
-					 
-I visited bunhill fields at the weekend. It&#39;s a non conformist graveyard just off of moorgate in London. Over the ...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        I visited bunhill fields at the weekend. It&#39;s a non conformist graveyard just off of moorgate in London. Over the course of it&#39;s active life over 120,000 people were buried there, in a space a little under four acres. Notable residents include Daniel Defoe and William Blake, but the occupant I was most intrigued to see was Thomas Bayes, the founder of Bayseian statistics. The large tomb contains thebesmains of many members of the Bayes family.
+        <a href="http://partiallyattended.com/2009/04/13/grave-of-the-reverend-thomas-bayes/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -123,10 +193,21 @@ I visited bunhill fields at the weekend. It&#39;s a non conformist graveyard jus
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/13/moving-over-to-the-googleverse/">Moving over to the googleverse</a></h3>
 					<span class="description">
-					
-					 
-Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Well, today I finally made a switch that I had been thinking about for a long time, I moved the hosting of my personal domain to google app engine with email being managed by google apps for my domain. http://www.mulvany.net is now a google app engine site. At the moment there is not much content there, but the google app engine tool allows me to run a perfect cop of my site off line, and to edit locally and then push live.
+        <a href="http://partiallyattended.com/2009/04/13/moving-over-to-the-googleverse/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+       <a href="/categories/blog">blog</a>, <a href="/categories/mulvany.net">mulvany.net</a>, <a href="/categories/google">google</a>, <a href="/categories/google-app-engine">google app engine</a>
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -143,9 +224,22 @@ Well, today I finally made a switch that I had been thinking about for a long ti
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/13/why-im-setting-up-this-blog/">Why I&#39;m setting up this blog</a></h3>
 					<span class="description">
-					
-					 Right, well, I&#39;m pretty interested in graph theory. I work in publishing for the journal Nature on new web products, an...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Right, well, I'm pretty interested in graph theory. I work in publishing for the journal Nature on new web products, and I need a focussed way of getting my thoughts together on a range of topics that touch on science. I wanted a space that was more focussed than my personal blog.
+I have a few specific aims for this blog. Get some of my thoughts on publishing, science and the philosophy of science out of my head and into an archived public space
+        <a href="http://partiallyattended.com/2009/04/13/why-im-setting-up-this-blog/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+       <a href="/categories/goals">goals</a>, <a href="/categories/disclaimer">disclaimer</a>
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -162,9 +256,21 @@ Well, today I finally made a switch that I had been thinking about for a long ti
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/12/adding-a-tag-cloud-to-blogger/">Adding a tag cloud to blogger</a></h3>
 					<span class="description">
-					
-					 I&#39;ve been thinking about neat ways to make blogs approach research articles; about how to make some of the core feature...
-					
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        I've been thinking about neat ways to make blogs approach research articles; about how to make some of the core features of a journal be more apparent in a blog, which has led me to think about blogger widgets. That led me to the Phydeaux3 blog where there is a kick ass implementation of a widget to display a tag cloud for blogger. Hopefully you can see that it works pretty well.
+        <a href="http://partiallyattended.com/2009/04/12/adding-a-tag-cloud-to-blogger/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+       <a href="/categories/tags">tags</a>, <a href="/categories/blogger">blogger</a>, <a href="/categories/tag-cloud">tag cloud</a>, <a href="/categories/widget">widget</a>
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -181,11 +287,21 @@ Well, today I finally made a switch that I had been thinking about for a long ti
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/12/getting-listed-on-nature-blogs/">Getting listed on nature blogs</a></h3>
 					<span class="description">
-					
-					
-I&#39;m gittin meself listed on nature blogs. I better whup this blog back into shape first though.
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        I'm gittin meself listed on nature blogs. I better whup this blog back into shape first though.
+        <a href="http://partiallyattended.com/2009/04/12/getting-listed-on-nature-blogs/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
 
-					
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -202,11 +318,47 @@ I&#39;m gittin meself listed on nature blogs. I better whup this blog back into 
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/04/12/testing-latex-and-syntax-hilighting-on-blogger/">testing latex and syntax hilighting on blogger</a></h3>
 					<span class="description">
-					
-					 Some python code some links http://www.ramymostafa.com/?p=99
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Some python code some links http://www.ramymostafa.com/?p=99
 http://alexgorbatchev.com/wiki/SyntaxHighlighter
-http://ww...
-					
+http://www.botcyb.org/2008/10/rendering-latex-in-blogger.html
+http://blog.yourequations.com/
+Syntaxhiligher2 (unreliable)
+def AuthenticateSession(username,password):
+blogger_service = service.GDataService(username,password)
+blogger_service.source = 'mulvanynet-BloggerTagger-1.0'
+blogger_service.service = 'blogger'
+blogger_service.server = 'www.blogger.com'
+blogger_service.ProgrammaticLogin()
+return blogger_service
+def PrintUserBlogInfo(blogger_service):
+query = service.Query()
+query.feed = '/feeds/default/blogs'
+feed = blogger_service.Get(query.ToUri())
+blog_id = feed.entry[0].GetSelfLink().href.split("/")[-1]
+print feed.title.text
+print blog_id
+for entry in feed.entry:
+print "\t" + entry.title.text,
+print entry.GetSelfLink().href.split("/")[-1]
+def GetBlogFeed(blogger_service):
+query = service.Query()
+query.feed = "/feeds/default/blogs"
+feed = blogger_service.Get(query.ToUri())
+return feed
+        <a href="http://partiallyattended.com/2009/04/12/testing-latex-and-syntax-hilighting-on-blogger/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>
@@ -223,11 +375,28 @@ http://ww...
 				<div class="matter">
 					<h3 class="title small"><a href="/2009/03/10/i-woke-up-today-and-git-svn-was-broken./">I woke up today and git-svn was broken.</a></h3>
 					<span class="description">
-					
-					 Odd, it was working last time I used it. Today I got the following error
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        Odd, it was working last time I used it. Today I got the following error
 git svn
-IO object version 1.22 does not match ...
-					
+IO object version 1.22 does not match bootstrap parameter 1.23 at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/XSLoader.pm line 94.
+Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Handle.pm line 263.
+BEGIN failed--compilation aborted at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Handle.pm line 263.
+Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Seekable.pm line 101.
+BEGIN failed--compilation aborted at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/Seekable.pm line 101.
+Compilation failed in require at /System/Library/Perl/5.8.8/darwin-thread-multi-2level/IO/File.pm line 133.
+        <a href="http://partiallyattended.com/2009/03/10/i-woke-up-today-and-git-svn-was-broken./" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+      
+  </div>
+
+</article>
+
 					</span>
 				</div>
 			</div>

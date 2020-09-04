@@ -4428,6 +4428,11 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/projects/2010-medeley/</loc>
   </url>
   
@@ -4436,7 +4441,15 @@
   </url>
   
   <url>
+    <loc>http://partiallyattended.com/tags/</loc>
+  </url>
+  
+  <url>
     <loc>http://partiallyattended.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://partiallyattended.com/series/</loc>
   </url>
   
   <url>

@@ -1,10 +1,11 @@
-<head>
+<!DOCTYPE html>
+<html lang="en"><head>
 	
 	<meta name="generator" content="Hugo 0.73.0" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta property="og:title" content="Kubernetes - As I Learn" />
+	<meta name="keywords" content="hugo,vitae,theme,static"><meta name="description" content=""><meta property="og:title" content="Kubernetes - As I Learn" />
 <meta property="og:description" content="I&rsquo;m currently working on supporting a JupyterHub installation for a series of online courses that we are launching at SAGE. Along the way I&rsquo;ve had to get my head around deploying the software using kubernetes. This is a stack that I&rsquo;ve been aware of for quite a while, but I&rsquo;ve not worked with it before. In order to help with debugging my installation I&rsquo;m writing up a guide on some of the kubernetes commands that I found useful when deploying a service onto google cloud." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://partiallyattended.com/2017/09/14/kubernetes_-_as_i_learn/" />
@@ -17,8 +18,41 @@
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
-	<title>Kubernetes - As I Learn | Partially Attended</title></head>
-
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>Kubernetes - As I Learn | Partially Attended</title></head>
+<body><header>
+	
+	<div id="titletext"><h2 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h2></div>
+	<div id="title-description"><p id="subtitle">an irregularly updated blog by Ian Mulvany</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/dataCobra/hugo-vitae"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="/index.xml"><i title="RSS" class="icons fas fa-rss"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/about">About</a></li>
+				
+				<li><a href="/categories">Posts by Tag</a></li>
+				
+				<li><a href="/tags">Tags</a></li>
+				
+				<li><a href="/post">All Posts</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main>
 
 <article id="content">
 
@@ -41,10 +75,10 @@
 <ol>
 <li>create a docker container, or docker file describing how to create a docker instance of the software</li>
 </ol>
-<pre><code>                  &quot;---------------&quot;
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">                  &#34;---------------&#34;
   JupyterHub --&gt;  | docker image  |
-                  &quot;---------------&quot;
-</code></pre><ol start="2">
+                  &#34;---------------&#34;
+</code></pre></div><ol start="2">
 <li>
 <p>Create a set of instructions for how to load this using Kubenrentes (this set of instructions is called a chart). The chart will contain a metadata description of the software we want to install as well as configuration options for the cluster.</p>
 </li>
@@ -52,22 +86,22 @@
 <p>tell helm where this chart is</p>
 </li>
 </ol>
-<pre><code>    &quot;---------------&quot;                             //-------//
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">    &#34;---------------&#34;                             //-------//
     | docker image |  &lt;--- (referenced by) ----  // chart //----&gt; (cluster config)
-    &quot;--------------&quot;                            //-------//
+    &#34;--------------&#34;                            //-------//
                                             /
                                            /
-    &quot;-------------------&quot;                 /
+    &#34;-------------------&#34;                 /
     | other containers  |  &lt;--- (referenced by)
-    &quot;-------------------&quot;
+    &#34;-------------------&#34;
 
-</code></pre><ol start="4">
+</code></pre></div><ol start="4">
 <li>helm uses the chart to instruct Kubernetes on how to configure the cluster</li>
 </ol>
-<pre><code>    //-------//
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">    //-------//
    // chart //  --(helm)--&gt; Kubernetes --&gt; { Cluster }
   //-------//
-</code></pre><h3 id="what-is-kuberneteshttpkubernetesio">What is <a href="http://kubernetes.io/">Kubernetes</a>?</h3>
+</code></pre></div><h3 id="what-is-kuberneteshttpkubernetesio">What is <a href="http://kubernetes.io/">Kubernetes</a>?</h3>
 <p>The Kubernetes homepage provides a great definition</p>
 <blockquote>
 </blockquote>
@@ -80,7 +114,7 @@
 </ul>
 <h3 id="creating-a-cluster">Creating a cluster</h3>
 <p>OK, let&rsquo;s have a look at what happens when we create a Kubernetes cluster on google cloud using their command line utilities.</p>
-<pre><code>$ gcloud container clusters create test-us \
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ gcloud container clusters create test-us \
     --num-nodes=2 \
     --machine-type=n1-standard-2 \
     --zone=us-central1-b
@@ -91,15 +125,15 @@ Created [url to your gloud cluster dashboard].
 kubeconfig entry generated for test-us.
 NAME     ZONE           MASTER_VERSION  MASTER_IP        MACHINE_TYPE   NODE_VERSION  NUM_NODES  STATUS
 test-us  us-central1-b  1.6.7           104.198.164.219  n1-standard-2  1.6.7         2          RUNNING
-</code></pre><p>This will have created your cluster on glcoud, but it also sets a local config file <code>~/kube/config</code>. This local config file will be used by helm to figure out where to send your software. It will contain a bunch of useful info about your cluster.</p>
-<pre><code>$ grep &quot;cluster&quot; .kube/config
+</code></pre></div><p>This will have created your cluster on glcoud, but it also sets a local config file <code>~/kube/config</code>. This local config file will be used by helm to figure out where to send your software. It will contain a bunch of useful info about your cluster.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ grep &#34;cluster&#34; .kube/config
 clusters:
 - cluster:
    cluster: gke_sage-campus-hub_us-central1-b_test-us
-</code></pre><p>Let&rsquo;s spin up another cluster in another zone. We can see the list of available zones with the following command</p>
+</code></pre></div><p>Let&rsquo;s spin up another cluster in another zone. We can see the list of available zones with the following command</p>
 <p><code>$ gcloud compute zones list</code></p>
 <p>Ok, let&rsquo;s spin one up in the EU</p>
-<pre><code>$ gcloud container clusters create test-eu \
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ gcloud container clusters create test-eu \
                              --num-nodes=2 \
                              --machine-type=n1-standard-2 \
                              --zone=europe-west2-a
@@ -109,14 +143,14 @@ kubeconfig entry generated for test-eu.
 NAME     ZONE            MASTER_VERSION  MASTER_IP       MACHINE_TYPE   NODE_VERSION  NUM_NODES  STATUS
 test-eu  europe-west2-a  1.6.7           35.197.192.188  n1-standard-2  1.6.7         2          RUNNING
 
-</code></pre><p>Now let&rsquo;s check that config kube file again.</p>
-<pre><code>$ grep &quot;cluster&quot; .kube/config
+</code></pre></div><p>Now let&rsquo;s check that config kube file again.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ grep &#34;cluster&#34; .kube/config
 clusters:
 - cluster:
 - cluster:
     cluster: gke_sage-campus-hub_us-central1-b_test-us
     cluster: gke_sage-campus-hub_europe-west2-a_test-eu
-</code></pre><p>and we see it now contains info about the two clusters that we have spun up.</p>
+</code></pre></div><p>and we see it now contains info about the two clusters that we have spun up.</p>
 <h3 id="checking-in-on-your-clusters">Checking in on your clusters</h3>
 <p>You can explore the status of a cluster in three ways:</p>
 <ul>
@@ -132,46 +166,46 @@ clusters:
 <p>We have deployed two kuberentes clusters, and the cluster level can be seen from this page: <a href="https://console.cloud.google.com/kubernetes/list">https://console.cloud.google.com/kubernetes/list</a>. You can drill down from here to look at details of a given cluster, or look at the workloads you have deployed across you cluster, amongst other aspects of the cluster, such as config and storage options.</p>
 <h5 id="using-the-command-line">Using the command line</h5>
 <p>The go to way of checking on your cluster is the <code>[kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/)</code> command line utility.</p>
-<pre><code>$ kubectl get nodes                                         10:15:18
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ kubectl get nodes                                         10:15:18
 NAME                                     STATUS    AGE       VERSION
 gke-test-eu-default-pool-a3ebba15-38l0   Ready     17h       v1.6.7
 gke-test-eu-default-pool-a3ebba15-mch6   Ready     17h       v1.6.7
-</code></pre><p>This pulled up the nodes from the last cluster that we configured. To see the nodes from the first cluster we need to switch the context that <code>kubectl</code> is working under. We saw the cluster names earlier, and we can use those to change the context.</p>
-<pre><code>$ kubectl config use-context gke_sage-campus-hub_us-central1-b_test-us
+</code></pre></div><p>This pulled up the nodes from the last cluster that we configured. To see the nodes from the first cluster we need to switch the context that <code>kubectl</code> is working under. We saw the cluster names earlier, and we can use those to change the context.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ kubectl config use-context gke_sage-campus-hub_us-central1-b_test-us
 $ kubectl  get nodes
 NAME                                     STATUS    AGE       VERSION
 gke-test-us-default-pool-1ee9e215-g8dm   Ready     18h       v1.6.7
 gke-test-us-default-pool-1ee9e215-xtx2   Ready     18h       v1.6.7
-</code></pre><p>Great!</p>
+</code></pre></div><p>Great!</p>
 <p>Now let&rsquo;s look at the pods that are running on this cluster.</p>
-<pre><code>$ kubectl --namespace=test-us get pods
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ kubectl --namespace=test-us get pods
 No resources found.
-</code></pre><p>So, we have no actually deployed any software yet to this cluster. Let&rsquo;s deploy some software. For this we will use <code>helm</code></p>
+</code></pre></div><p>So, we have no actually deployed any software yet to this cluster. Let&rsquo;s deploy some software. For this we will use <code>helm</code></p>
 <h1 id="what-is-helm">What is Helm?</h1>
 <p>As mentioned before helm is the package manager for kubernetes. It uses collections of instructions called charts to coordinate finding or configuring docker containers, along with all of the other cluster config options, such as load balancing and storage options.</p>
 <p>We need to init for each cluster, so we need to</p>
-<pre><code>helm init                                                                               10:41:22
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">helm init                                                                               10:41:22
 $HELM_HOME has been configured at /Users/ianm/.helm.
 
 Tiller (the helm server side component) has been installed into your Kubernetes Cluster.
 Happy Helming!
-</code></pre><p>Helm uses the kubeconfig context to decide where to install Tiller.</p>
+</code></pre></div><p>Helm uses the kubeconfig context to decide where to install Tiller.</p>
 <p>There are  a bunch of stable chart files for deploying a range of software available at <a href="https://github.com/kubernetes/charts/tree/master/stable">this repo</a>.</p>
 <p>Let&rsquo;s install redis!</p>
-<pre><code>$ helm install stable/redis
-</code></pre><p>And we can now have a look at our pods via</p>
-<pre><code>$ kubectl get pods
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ helm install stable/redis
+</code></pre></div><p>And we can now have a look at our pods via</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ kubectl get pods
 NAME                                         READY     STATUS    RESTARTS   AGE
 jumpy-shrimp-redis-2361047644-9f5xv          1/1       Running   0          1m
 jumpy-shrimp-redis-client-2779061195-xjww7   1/1       Running   0          41s
-</code></pre><p>There are some other <code>kubectl</code> commands that will come in handy at this point.</p>
+</code></pre></div><p>There are some other <code>kubectl</code> commands that will come in handy at this point.</p>
 <p><code>$ kubectl describe --all-namespaces=true pvc</code></p>
 <p><code>$ kubectl describe pod jumpy-shrimp-redis-client-2779061195-xjww7</code></p>
 <p>There are a lot of other commands for interrogating the status of the cluster, pods and services.</p>
 <h5 id="using-the-kubernetes-dashboard">Using the Kubernetes dashboard</h5>
 <p>Kuberetes probably comes with a dashboard installed, out of the box.</p>
 <p>So far we have been looking at the pods related to redis, but there are a bunch of other pods that get installed by default. You can have a look at them with:</p>
-<pre><code>$ kubectl get pods --all-namespaces
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ kubectl get pods --all-namespaces
 NAMESPACE     NAME                                                READY     STATUS    RESTARTS   AGE
 default       jumpy-shrimp-redis-2361047644-9f5xv                 1/1       Running   0          10m
 default       jumpy-shrimp-redis-client-2779061195-xjww7          1/1       Running   0          9m
@@ -186,18 +220,18 @@ kube-system   kube-proxy-gke-test-us-default-pool-1ee9e215-xtx2   1/1       Runn
 kube-system   kubernetes-dashboard-2917854236-q874c               1/1       Running   0          18h
 kube-system   l7-default-backend-1044750973-wt3xn                 1/1       Running   0          18h
 kube-system   tiller-deploy-3703072393-2f90d                      1/1       Running   0          13m
-</code></pre><p>We can access the dashboard via</p>
-<pre><code>$ kubectl proxy
+</code></pre></div><p>We can access the dashboard via</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ kubectl proxy
 Starting to serve on 127.0.0.1:8001
-</code></pre><p>Navigate to <a href="">http://127.0.0.1:8001/ui</a> and you will see a nice dashboard with info on the cluster.</p>
+</code></pre></div><p>Navigate to <a href="">http://127.0.0.1:8001/ui</a> and you will see a nice dashboard with info on the cluster.</p>
 <h3 id="tearing-down-what-we-have-built">Tearing down what we have built.</h3>
 <p>OK, let&rsquo;s get rid of the cluster that is running redis.</p>
-<pre><code>gcloud container clusters delete test-eu --zone=europe-west2-a                   11:08:35
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">gcloud container clusters delete test-eu --zone=europe-west2-a                   11:08:35
 The following clusters will be deleted.
  - [test-eu] in [europe-west2-a]
 
 Do you want to continue (Y/n)?  Y
-</code></pre><h3 id="how-do-we-deploy-our-own-local-software">How do we deploy our own local software?</h3>
+</code></pre></div><h3 id="how-do-we-deploy-our-own-local-software">How do we deploy our own local software?</h3>
 <p>So far in this guide we have looked at deploying a docker conatiner for redis that is alredy in the helm registry. How do you deploy your own software that you have built locally? You need to dockerise it. There is a tool called Draft that lets you get started with that, but I&rsquo;ve not tried it out. You can have a look at a guide here:</p>
 <p><a href="http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html">http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html</a></p>
 <p>### Cheatsheet</p>
@@ -205,21 +239,21 @@ Do you want to continue (Y/n)?  Y
 <a href="https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/">https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/</a></p>
 <h3 id="other-commands-i-have-found-useful">Other commands I have found useful</h3>
 <p>There are a bunch of other commands that I found useful, but didn&rsquo;t get the time to writeup here.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">kubectl config current-context  
-kubectl describe --namespace<span style="color:#f92672">=</span>hub-no-auth pod hub-deployment-3311999561-w53zz  
-kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-noauth get svc proxy-public  
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">kubectl config current-context  
+kubectl describe --namespace<span style="color:#333">=</span>hub-no-auth pod hub-deployment-3311999561-w53zz  
+kubectl --namespace<span style="color:#333">=</span>jupyterhub-noauth get svc proxy-public  
 kubectl get nodes --show-labels  
-kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-test edit deployment  
-kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-test describe all  
-kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-test describe  
-kubectl --namespace<span style="color:#f92672">=</span>jupyterhub-test get values  
-kubectl get pods -l purpose<span style="color:#f92672">=</span>demonstrate-envars  
+kubectl --namespace<span style="color:#333">=</span>jupyterhub-test edit deployment  
+kubectl --namespace<span style="color:#333">=</span>jupyterhub-test describe all  
+kubectl --namespace<span style="color:#333">=</span>jupyterhub-test describe  
+kubectl --namespace<span style="color:#333">=</span>jupyterhub-test get values  
+kubectl get pods -l <span style="color:#963">purpose</span><span style="color:#333">=</span>demonstrate-envars  
 kubectl get pods -l  
-kubectl --namespace<span style="color:#f92672">=</span>testhub exec -it hub-deployment-1369850868-c4bv6  /bin/bash  
-kubectl --namespace<span style="color:#f92672">=</span>testhub get pod -o yaml | grep <span style="color:#e6db74">&#34;image&#34;</span>  
-kubectl --namespace<span style="color:#f92672">=</span>testhub delete deployment hub-deployment
+kubectl --namespace<span style="color:#333">=</span>testhub <span style="color:#007020">exec</span> -it hub-deployment-1369850868-c4bv6  /bin/bash  
+kubectl --namespace<span style="color:#333">=</span>testhub get pod -o yaml | grep <span style="background-color:#fff0f0">&#34;image&#34;</span>  
+kubectl --namespace<span style="color:#333">=</span>testhub delete deployment hub-deployment
 helm list  
-kubectl --namespace<span style="color:#f92672">=</span>testhub get pod -o yaml | grep <span style="color:#e6db74">&#34;hub&#34;</span>
+kubectl --namespace<span style="color:#333">=</span>testhub get pod -o yaml | grep <span style="background-color:#fff0f0">&#34;hub&#34;</span>
 </code></pre></div>
  </div>
 
@@ -229,8 +263,11 @@ kubectl --namespace<span style="color:#f92672">=</span>testhub get pod -o yaml |
 
 
 
+  </main>
 
 
 
 
 
+</body>
+</html>

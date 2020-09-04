@@ -1,10 +1,11 @@
-<head>
+<!DOCTYPE html>
+<html lang="en"><head>
 	
 	<meta name="generator" content="Hugo 0.73.0" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta property="og:title" content="XMP wrangling on OS X" />
+	<meta name="keywords" content="hugo,vitae,theme,static"><meta name="description" content=""><meta property="og:title" content="XMP wrangling on OS X" />
 <meta property="og:description" content="XMP XMP is the extensible metadata platform from Adobe. It can be used to embed structured metadata into a file. I think it&rsquo;s most common usage is for storing image metadata in image files, but it also has a use in embedding metadata in PDF files.
 Adobe provide an SDK that you can use to start coding applications for working with XMP. They provide a guide for developers, and I&rsquo;ve posted a copy so you can have a quick look if you are interested, without downloading the full SDK." />
 <meta property="og:type" content="article" />
@@ -19,8 +20,41 @@ Adobe provide an SDK that you can use to start coding applications for working w
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
-	<title>XMP wrangling on OS X | Partially Attended</title></head>
-
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>XMP wrangling on OS X | Partially Attended</title></head>
+<body><header>
+	
+	<div id="titletext"><h2 id="title"><a href="http://partiallyattended.com">Partially Attended</a></h2></div>
+	<div id="title-description"><p id="subtitle">an irregularly updated blog by Ian Mulvany</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/dataCobra/hugo-vitae"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="/index.xml"><i title="RSS" class="icons fas fa-rss"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/about">About</a></li>
+				
+				<li><a href="/categories">Posts by Tag</a></li>
+				
+				<li><a href="/tags">Tags</a></li>
+				
+				<li><a href="/post">All Posts</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main>
 
 <article id="content">
 
@@ -96,7 +130,7 @@ samples/build/Xcode3/MyXMPReader
 <p>It&rsquo;s a command line application, and takes a path to a file as an argument. To run this, point it at a PDF like so:</p>
 <p><code>$ MyXMPReader test.pdf</code></p>
 <p>It produces some terminal output, and writes the XMP data into a local <code>XMPDump.txt</code> file. I verified the tool works by running it against a nature communications pdf, and you can see some of the output here:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml">$ head -40 XMPDump.txt 
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml">$ head -40 XMPDump.txt 
 Dumping XMPMeta object &#34;&#34;  (0x0)
 
    dc:  http://purl.org/dc/elements/1.1/  (0x80000000 : schema)
@@ -114,7 +148,7 @@ Dumping XMPMeta object &#34;&#34;  (0x0)
       dc:publisher  (0x200 : isArray)
          [1] = &#34;Nature Publishing Group&#34;
       dc:rights  (0x1E00 : isLangAlt isAlt isOrdered isArray)
-         [1] = &#34;<span style="color:#f92672">&lt;C2</span> <span style="color:#960050;background-color:#1e0010">A9</span><span style="color:#f92672">&gt;</span> 2012 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.&#34;  (0x50 : hasLang hasQual)
+         [1] = &#34;<span style="color:#070">&lt;C2</span> <span style="color:#f00;background-color:#faa">A9</span><span style="color:#070">&gt;</span> 2012 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.&#34;  (0x50 : hasLang hasQual)
                ? xml:lang = &#34;x-default&#34;  (0x20 : isQual)
       dc:title  (0x1E00 : isLangAlt isAlt isOrdered isArray)
          [1] = &#34;Graphene quilts for thermal management of high-power GaN transistors&#34;  (0x50 : hasLang hasQual)
@@ -125,7 +159,7 @@ Dumping XMPMeta object &#34;&#34;  (0x0)
 
    prism:  http://prismstandard.org/namespaces/basic/2.0/  (0x80000000 : schema)
       prism:copyright = &#34;
-            <span style="color:#f92672">&lt;C2</span> <span style="color:#960050;background-color:#1e0010">A9</span><span style="color:#f92672">&gt;</span> 2012 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.&#34;
+            <span style="color:#070">&lt;C2</span> <span style="color:#f00;background-color:#faa">A9</span><span style="color:#070">&gt;</span> 2012 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.&#34;
       prism:doi = &#34;10.1038/ncomms1828&#34;
       prism:eIssn = &#34;2041-1723&#34;
       prism:endingPage = &#34;8&#34;
@@ -146,8 +180,11 @@ Dumping XMPMeta object &#34;&#34;  (0x0)
 
 
 
+  </main>
 
 
 
 
 
+</body>
+</html>
