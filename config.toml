@@ -3,4 +3,82 @@ languageCode = "en-us"
 title = "Partially Attended"
 publishDir = "docs"
 theme = "ian"
-pygmentsCodeFences = "true"
+
+pygmentsstyle = "colorful"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+
+
+[params]
+	# Use homepage.md instead of a list of posts
+	homepage = false
+
+	# Add meta keywords in head part (Site Keywords or Tags of Page)
+	keywords = ["hugo","vitae","theme","static"]
+
+	# Add meta description in head part
+	description = "an irregularly updated blog by Ian Mulvany"
+
+	# Add pagetitle to homepage <title> tag
+	pagetitle = "Personal musings of Ian Mulvany"
+
+	# Add a subtitle to your website
+	subtitle = "an irregularly updated blog by Ian Mulvany"
+
+	# Activate to show authors on pages if available
+	#listAuthor = true
+
+	# Add math typesetting with KaTeX (Global with this Param)
+	math = true
+
+	# Optional 80x80 avatar image.
+	# avatar = "/img/vitae.jpg"
+
+	# Optional favicons for website
+	#favicon = true
+
+	# Add list of sections that should show up on the homepage
+  mainSections = ["post"]
+
+
+  # Navigation
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "All Posts"
+  url = "/post"
+  weight = 5
+
+  [[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 2
+
+  [[menu.main]]
+  name = "Posts by Tag"
+  url = "/categories"
+  weight = 3
+
+  [[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 4
+
+  # Social Menu
+  [[params.social]]
+  name = "Github"
+  icon = "fab fa-github"
+  url = "https://github.com/dataCobra/hugo-vitae"
+
+[[params.social]]
+  name = "RSS"
+  icon = "fas fa-rss"
+  url = "/index.xml"
