@@ -9,7 +9,7 @@
 <meta property="og:description" content="an irregularly updated blog by Ian Mulvany" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://partiallyattended.com/" />
-<meta property="og:updated_time" content="2020-07-12T00:00:00+00:00" />
+<meta property="og:updated_time" content="2020-09-25T00:00:00+00:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Partially Attended"/>
 <meta name="twitter:description" content="an irregularly updated blog by Ian Mulvany"/>
@@ -56,6 +56,38 @@
 	<div class="posts">
 	
 	
+	
+		<div class="post">
+			<div class="post-header">
+				<div class="meta">
+					<div class="date">
+						<span class="day">19</span>
+						<span class="rest">Apr 2018</span>
+					</div>
+				</div>
+				<div class="matter">
+					<h3 class="title small"><a href="/2018/04/19/python_-_running_commands_from_within_a_directory_/">python - running commands from within a directory</a></h3>
+					<span class="description">
+    				<article class="post-preview">
+  
+<div class="post-entry">
+    <p>
+        A neat python snippet for jumping into a directory, running a script, and jumping out again, found on Stackoverflow, provided by Brian Hunt.
+from subprocess import Popen, PIPE import os import sys class cd: &#34;&#34;&#34;Context manager for changing the current working directory see https://stackoverflow.com/questions/431684/how-do-i-cd-in-python &#34;&#34;&#34; def __init__(self, newPath): self.newPath = os.path.expanduser(newPath) def __enter__(self): self.savedPath = os.getcwd() os.chdir(self.newPath) def __exit__(self, etype, value, traceback): os.chdir(self.savedPath) with cd(&#34;~/blog/partiallyattended&#34;): title = new_post.title process = subprocess.
+        <a href="http://partiallyattended.com/2018/04/19/python_-_running_commands_from_within_a_directory_/" class="post-read-more">... (more)</a>
+    </p>
+</div>
+  <div class="post-entry-tags">
+      Tags:
+       <a href="/categories/asilearn">asilearn</a>, <a href="/categories/python">python</a>
+  </div>
+
+</article>
+
+					</span>
+				</div>
+			</div>
+		</div>
 	
 		<div class="post">
 			<div class="post-header">
@@ -342,39 +374,6 @@ One example that they looked at came from a hedge fund, the data included full I
   <div class="post-entry-tags">
       Tags:
        <a href="/categories/ic2s2">ic2s2</a>, <a href="/categories/conference">conference</a>, <a href="/categories/computational-social-science">computational social science</a>
-  </div>
-
-</article>
-
-					</span>
-				</div>
-			</div>
-		</div>
-	
-		<div class="post">
-			<div class="post-header">
-				<div class="meta">
-					<div class="date">
-						<span class="day">12</span>
-						<span class="rest">Jul 2017</span>
-					</div>
-				</div>
-				<div class="matter">
-					<h3 class="title small"><a href="/2017/07/12/ic2s2-wed-keynotes/">ic2s2 Wednesday morning keynotes</a></h3>
-					<span class="description">
-    				<article class="post-preview">
-  
-<div class="post-entry">
-    <p>
-        IC2s2 Wednesday Morning Keynotes Cecliia Mascolo - human behaviour studies through the lens of mobile sensing and complex networks She has been involved for many years in making and deploying sensors. The talk today will look at work they have been doing on foursquare data.
-In London they have data of about 0.5M check-ins over nine months over about 40k users.
-They also have social network data for these people, so they can connect their social network with the geo-spatial behaviour of these people.
-        <a href="http://partiallyattended.com/2017/07/12/ic2s2-wed-keynotes/" class="post-read-more">... (more)</a>
-    </p>
-</div>
-  <div class="post-entry-tags">
-      Tags:
-       <a href="/categories/ic2s2">ic2s2</a>, <a href="/categories/computational-social-science">computational social science</a>, <a href="/categories/conference">conference</a>
   </div>
 
 </article>

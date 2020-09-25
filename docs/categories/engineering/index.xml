@@ -6,10 +6,22 @@
 		<description>Recent content in engineering on partiallyattended.com</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="http://partiallyattended.com/categories/engineering/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Prakash lab - frugal science and the future of research</title>
+			<link>http://partiallyattended.com/2020/09/25/prakash_lab_-_frugal_science_and_the_future_of_research_/</link>
+			<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/09/25/prakash_lab_-_frugal_science_and_the_future_of_research_/</guid>
+			<description>
+				
+				I just wanted to share some work coming out of the Prakash lab in Stanford. Manu Prakash is a young engineer and researc...
+				
+			</description>
+		</item>
 		<item>
 			<title>Strategies to reduce cognitive load, and make systems more robust whilst doing so, and why that’s important for product development.</title>
 			<link>http://partiallyattended.com/2019/09/05/strategies_to_reduce_cognitive_load_and_make_systems_more_robust_whilst_doing_so_and_why_thats_important_for_product_development._/</link>

@@ -6,10 +6,70 @@
 		<description>Recent content in Categories on partiallyattended.com</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="http://partiallyattended.com/categories/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>cool</title>
+			<link>http://partiallyattended.com/categories/cool/</link>
+			<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/categories/cool/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>engineering</title>
+			<link>http://partiallyattended.com/categories/engineering/</link>
+			<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/categories/engineering/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>innovation</title>
+			<link>http://partiallyattended.com/categories/innovation/</link>
+			<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/categories/innovation/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>research</title>
+			<link>http://partiallyattended.com/categories/research/</link>
+			<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/categories/research/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>science</title>
+			<link>http://partiallyattended.com/categories/science/</link>
+			<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/categories/science/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
 		<item>
 			<title>design</title>
 			<link>http://partiallyattended.com/categories/design/</link>
@@ -52,18 +112,6 @@
 			<pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
 			
 			<guid>http://partiallyattended.com/categories/coding/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
-			<title>research</title>
-			<link>http://partiallyattended.com/categories/research/</link>
-			<pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-			
-			<guid>http://partiallyattended.com/categories/research/</guid>
 			<description>
 				
 				
@@ -695,18 +743,6 @@
 			</description>
 		</item>
 		<item>
-			<title>engineering</title>
-			<link>http://partiallyattended.com/categories/engineering/</link>
-			<pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-			
-			<guid>http://partiallyattended.com/categories/engineering/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
 			<title>microservices</title>
 			<link>http://partiallyattended.com/categories/microservices/</link>
 			<pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
@@ -1055,18 +1091,6 @@
 			</description>
 		</item>
 		<item>
-			<title>science</title>
-			<link>http://partiallyattended.com/categories/science/</link>
-			<pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
-			
-			<guid>http://partiallyattended.com/categories/science/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
 			<title>chasm</title>
 			<link>http://partiallyattended.com/categories/chasm/</link>
 			<pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
@@ -1108,18 +1132,6 @@
 			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
 			
 			<guid>http://partiallyattended.com/categories/business/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
-			<title>cool</title>
-			<link>http://partiallyattended.com/categories/cool/</link>
-			<pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-			
-			<guid>http://partiallyattended.com/categories/cool/</guid>
 			<description>
 				
 				
@@ -2428,18 +2440,6 @@
 			<pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
 			
 			<guid>http://partiallyattended.com/categories/futurepub10/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
-			<title>innovation</title>
-			<link>http://partiallyattended.com/categories/innovation/</link>
-			<pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-			
-			<guid>http://partiallyattended.com/categories/innovation/</guid>
 			<description>
 				
 				
