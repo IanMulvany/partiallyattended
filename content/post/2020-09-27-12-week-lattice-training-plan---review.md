@@ -32,8 +32,8 @@ My results from the assessment indicated that I needed to improve general condit
 In terms of equipment needed to do the training program, a beastmaker 1000, with some counter weights hanging off the bottom, worked for me. This is super low-fi in terms of setup, and the weights did hang a bit between my legs, but it was enough to get on with things, it was enough to make progress. 
 
 
-<!--  ![sample image](https://s3.amazonaws.com/partially-attended-media-bucket/old_fingerboard.JPG)
--->
+![sample image](https://s3.amazonaws.com/partially-attended-media-bucket/old_fingerboard.JPG)
+
 <img src="https://s3.amazonaws.com/partially-attended-media-bucket/old_fingerboard.JPG" alt="old fingerboard" width="400"/>
 
 
