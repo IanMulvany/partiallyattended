@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>fingerboard on Partially Attended</title>
+		<link>http://partiallyattended.com/categories/fingerboard/</link>
+		<description>Recent content in fingerboard on partiallyattended.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://partiallyattended.com/categories/fingerboard/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>12 week lattice training plan - review</title>
+			<link>http://partiallyattended.com/2020/09/27/12_week_lattice_training_plan_-_review_/</link>
+			<pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://partiallyattended.com/2020/09/27/12_week_lattice_training_plan_-_review_/</guid>
+			<description>
+				
+				A few weeks ago I finished up the 12-week lattice light training plan. What follows is an enthusiastic endorsement of th...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>
